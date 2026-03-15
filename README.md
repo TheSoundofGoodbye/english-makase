@@ -1,6 +1,9 @@
 <div align="center">
   <h1>🍣 잉글리시 오마카세 (English Makase)</h1>
   <p><strong>나의 관심사로 배우는, 매일매일 새로운 진짜 원어민 영어 표현</strong></p>
+  <a href="https://english-makase.pages.dev/">
+    <img src="https://img.shields.io/badge/🍣 Live Demo-english--makase.pages.dev-orange?style=for-the-badge" alt="Live Demo"/>
+  </a>
 </div>
 
 <br/>
