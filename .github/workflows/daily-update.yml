@@ -1,0 +1,56 @@
+name: Daily Idioms Auto-Updater
+
+on:
+  schedule:
+    # Run at 00:00 UTC (9:00 AM KST) every day
+    - cron: '0 0 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-database:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Ensure we check out the branch with full history so we can commit back
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # Recommended stable version
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Generate New Daily Idioms via AI
+        # Passed via Github Repository Secrets
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: npx tsx scripts/updateIdioms.ts
+
+      - name: Commit and Push Updated JSON
+        run: |
+          # Configure Git Identity
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check if there are any changes to idioms.json
+          if [[ -z $(git status -s src/data/idioms.json) ]]; then
+            echo "No changes in idioms database. Exiting."
+            exit 0
+          fi
+          
+          # Add and Commit Changes
+          git add src/data/idioms.json
+          git commit -m "🤖 auto-update: Added new daily idioms to database"
+          
+          # Push back to main branch
+          git push origin main
