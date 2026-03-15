@@ -23,7 +23,8 @@ export const Dashboard: React.FC = () => {
     if (todaysRecord) {
       setDailyData({
         sentences: todaysRecord.sentences,
-        sentenceTranslations: (todaysRecord as any).sentenceTranslations || [],
+        sentenceTranslations: todaysRecord.sentenceTranslations || [],
+        translationHighlights: todaysRecord.translationHighlights || [],
         newWords: todaysRecord.newVocabulary
       });
       setSavedLocally(true);
@@ -56,18 +57,16 @@ export const Dashboard: React.FC = () => {
     const record: DailySentence = {
       date: todayStr,
       sentences: dailyData.sentences,
+      sentenceTranslations: dailyData.sentenceTranslations,
+      translationHighlights: dailyData.translationHighlights,
       newVocabulary: dailyData.newWords
     };
 
     // Save to daily history log
     StorageService.addDailySentence(record);
 
-    // Save ALL words in the generated sentences as "seen" to prevent them from showing up again later
-    const allText = dailyData.sentences.join(" ");
-    const words = allText.split(/([a-zA-Z0-9']+)/g);
-    TextProcessor.markWordsAsSeen(words);
-    
-    // Also explicitly save the "newWords" idiom list just in case
+    // Only mark the highlighted idiom phrases as "seen"
+    // (NOT all words from the full sentence, which would cause over-counting)
     TextProcessor.markWordsAsSeen(dailyData.newWords.map(nw => nw.word));
 
     setSavedLocally(true);
@@ -85,7 +84,28 @@ export const Dashboard: React.FC = () => {
     const idiomsToHighlight = dailyData ? dailyData.newWords.map(nw => nw.word) : [];
     const tokens = TextProcessor.highlightPhrases(sentence, idiomsToHighlight);
     const translation = dailyData?.sentenceTranslations?.[index];
-    
+    const highlights = dailyData?.translationHighlights || [];
+
+    // Split the Korean translation into segments, highlighting matched phrases
+    const renderTranslation = (text: string) => {
+      if (!highlights.length) return <>{text}</>;
+      // Build a regex that matches any of the highlight phrases
+      const escapedPhrases = highlights.map(p => p.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+      const regex = new RegExp(`(${escapedPhrases.join('|')})`, 'g');
+      const parts = text.split(regex);
+      return (
+        <>
+          {parts.map((part, i) =>
+            highlights.includes(part) ? (
+              <strong key={i} style={{ color: '#f59e0b', fontWeight: 700, fontStyle: 'normal' }}>{part}</strong>
+            ) : (
+              <span key={i}>{part}</span>
+            )
+          )}
+        </>
+      );
+    };
+
     return (
       <div key={index} style={{ marginBottom: '1.2rem' }}>
         <p style={{ fontSize: '1.2rem', margin: 0, lineHeight: '1.8' }}>
@@ -106,7 +126,7 @@ export const Dashboard: React.FC = () => {
             borderLeft: '2px solid var(--glass-border)',
             paddingLeft: '0.75rem'
           }}>
-            {translation}
+            {renderTranslation(translation)}
           </p>
         )}
       </div>

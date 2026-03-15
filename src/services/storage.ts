@@ -1,6 +1,8 @@
 export interface DailySentence {
   date: string; // ISO date string portion 'YYYY-MM-DD'
   sentences: string[];
+  sentenceTranslations: string[];
+  translationHighlights: string[];
   newVocabulary: Array<{ word: string; meaning: string; context: string; }>;
 }
 

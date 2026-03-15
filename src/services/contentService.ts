@@ -3,6 +3,7 @@ import idiomsData from '../data/idioms.json';
 export interface GeneratedSentenceResponse {
   sentences: string[];
   sentenceTranslations: string[];
+  translationHighlights: string[];
   newWords: {
     word: string;
     meaning: string;
@@ -28,6 +29,7 @@ export const ContentService = {
     return {
       sentences: selection.sentences,
       sentenceTranslations: selection.sentenceTranslations || [],
+      translationHighlights: selection.translationHighlights || [],
       newWords: selection.newWords
     };
   }

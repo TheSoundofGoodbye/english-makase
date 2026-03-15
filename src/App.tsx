@@ -26,7 +26,7 @@ function App() {
             className="btn-primary" 
             style={{ background: currentView === 'dashboard' ? 'var(--primary-gradient)' : 'var(--bg-secondary)', opacity: currentView === 'dashboard' ? 1 : 0.7 }}
           >
-            대시보드
+            오늘의 표현
           </button>
           <button 
             onClick={() => setCurrentView('history')} 
@@ -44,7 +44,7 @@ function App() {
         ) : currentView === 'dashboard' ? (
           <Dashboard />
         ) : (
-          <History onBack={() => setCurrentView('dashboard')} />
+          <History />
         )}
       </main>
     </>
