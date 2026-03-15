@@ -1,14 +1,13 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import * as fs from 'fs';
 import * as path from 'path';
-import { fileURLToPath } from 'url';
 
 // Load environment variables if running locally (dotenv not needed in Github Actions if we pass secrets directly, but good for local dev)
 import 'dotenv/config';
 
-// Recreate __dirname for ES Modules
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+// The Github Actions workflow runs from the root of the repository.
+// We can safely use process.cwd() to construct the absolute path.
+const DB_PATH = path.join(process.cwd(), 'src', 'data', 'idioms.json');
 
 // Ensure the API key exists
 const apiKey = process.env.GEMINI_API_KEY;
@@ -20,9 +19,6 @@ if (!apiKey) {
 const genAI = new GoogleGenerativeAI(apiKey);
 // Using a fast, cheap model
 const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
-
-// Path to our local static database
-const DB_PATH = path.join(__dirname, '../src/data/idioms.json');
 
 interface IdiomEntry {
   sentences: string[];
