@@ -17,8 +17,8 @@ if (!apiKey) {
 }
 
 const genAI = new GoogleGenerativeAI(apiKey);
-// Using a fast, cheap model
-const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+// Using gemini-2.5-flash: fast, cheap, and currently GA
+const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
 
 interface IdiomEntry {
   sentences: string[];

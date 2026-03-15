@@ -2,60 +2,237 @@
   "categories": {
     "일상 (Daily Life)": [
       {
-        "sentences": ["I was feeling under the weather after pulling an all-nighter.", "I decided to call it a day and just rest."],
+        "sentences": [
+          "With deadlines looming, I've really had a lot on my plate this week, constantly burning the midnight oil to get everything done.",
+          "I'm hoping to get a handle on my schedule next week and finally catch some Z's over the weekend."
+        ],
         "newWords": [
-          { "word": "under the weather", "meaning": "몸 상태가 좋지 않은", "context": "I was feeling under the weather" },
-          { "word": "pulling an all-nighter", "meaning": "밤을 새우다", "context": "after pulling an all-nighter" },
-          { "word": "call it a day", "meaning": "오늘은 여기까지 하다, 일과를 마치다", "context": "I decided to call it a day" }
+          {
+            "word": "have a lot on one's plate",
+            "meaning": "할 일이 아주 많다, 바쁘다 (처리해야 할 업무나 책임이 많아 매우 바쁘다는 의미)",
+            "context": "I've really had a lot on my plate this week"
+          },
+          {
+            "word": "burn the midnight oil",
+            "meaning": "밤늦게까지 일하다/공부하다, 밤샘하다",
+            "context": "constantly burning the midnight oil to get everything done"
+          },
+          {
+            "word": "get a handle on",
+            "meaning": "~을 통제하다/관리하다/이해하다 (상황이나 문제 등을 파악하고 해결할 수 있게 되다)",
+            "context": "to get a handle on my schedule next week"
+          }
         ]
       },
       {
-        "sentences": ["Learning a new language is no piece of cake.", "But if you stick to your guns, you'll eventually get the hang of it."],
+        "sentences": [
+          "I was feeling under the weather after pulling an all-nighter.",
+          "I decided to call it a day and just rest."
+        ],
         "newWords": [
-          { "word": "piece of cake", "meaning": "식은 죽 먹기, 아주 쉬운 일", "context": "Language is no piece of cake" },
-          { "word": "stick to your guns", "meaning": "너의 뜻을(주장을) 굽히지 않다, 밀어붙이다", "context": "if you stick to your guns" },
-          { "word": "get the hang of it", "meaning": "감(요령)을 잡다", "context": "you'll eventually get the hang of it" }
+          {
+            "word": "under the weather",
+            "meaning": "몸 상태가 좋지 않은",
+            "context": "I was feeling under the weather"
+          },
+          {
+            "word": "pulling an all-nighter",
+            "meaning": "밤을 새우다",
+            "context": "after pulling an all-nighter"
+          },
+          {
+            "word": "call it a day",
+            "meaning": "오늘은 여기까지 하다, 일과를 마치다",
+            "context": "I decided to call it a day"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          "Learning a new language is no piece of cake.",
+          "But if you stick to your guns, you'll eventually get the hang of it."
+        ],
+        "newWords": [
+          {
+            "word": "piece of cake",
+            "meaning": "식은 죽 먹기, 아주 쉬운 일",
+            "context": "Language is no piece of cake"
+          },
+          {
+            "word": "stick to your guns",
+            "meaning": "너의 뜻을(주장을) 굽히지 않다, 밀어붙이다",
+            "context": "if you stick to your guns"
+          },
+          {
+            "word": "get the hang of it",
+            "meaning": "감(요령)을 잡다",
+            "context": "you'll eventually get the hang of it"
+          }
         ]
       }
     ],
     "비즈니스 (Business)": [
       {
-        "sentences": ["We need to think outside the box to beat our competitors.", "Let's touch base next week to review the new strategy."],
+        "sentences": [
+          "After months of incremental efforts, the CEO urged us to stop just **spinning our wheels** and instead focus on initiatives that truly **move the needle** on profitability.",
+          "This calls for some bold, **blue-sky thinking** from every department, rather than just settling for the usual quick wins."
+        ],
         "newWords": [
-          { "word": "think outside the box", "meaning": "고정관념에서 벗어나 창의적으로 생각하다", "context": "We need to think outside the box" },
-          { "word": "touch base", "meaning": "연락하다, 상황을 확인하다", "context": "Let's touch base next week" }
+          {
+            "word": "spinning our wheels",
+            "meaning": "공회전하다, 헛돌다 (많은 노력에도 불구하고 진전이 없음을 의미)",
+            "context": "stop just spinning our wheels"
+          },
+          {
+            "word": "move the needle",
+            "meaning": "(상황에) 큰 변화를 주다, 상당한 진전을 이루다",
+            "context": "truly move the needle on profitability"
+          },
+          {
+            "word": "blue-sky thinking",
+            "meaning": "제약 없는 자유로운 사고, (현실성이 떨어지더라도) 창의적인 발상",
+            "context": "some bold, blue-sky thinking"
+          }
         ]
       },
       {
-        "sentences": ["The manager gave us the green light to start the project.", "However, she warned us to keep our eyes peeled for any budget issues by the end of the month."],
+        "sentences": [
+          "We need to think outside the box to beat our competitors.",
+          "Let's touch base next week to review the new strategy."
+        ],
         "newWords": [
-          { "word": "the green light", "meaning": "승인, 허가", "context": "manager gave us the green light" },
-          { "word": "keep our eyes peeled", "meaning": "눈을 부릅뜨고 경계하다, 주의를 기울이다", "context": "warned us to keep our eyes peeled" }
+          {
+            "word": "think outside the box",
+            "meaning": "고정관념에서 벗어나 창의적으로 생각하다",
+            "context": "We need to think outside the box"
+          },
+          {
+            "word": "touch base",
+            "meaning": "연락하다, 상황을 확인하다",
+            "context": "Let's touch base next week"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          "The manager gave us the green light to start the project.",
+          "However, she warned us to keep our eyes peeled for any budget issues by the end of the month."
+        ],
+        "newWords": [
+          {
+            "word": "the green light",
+            "meaning": "승인, 허가",
+            "context": "manager gave us the green light"
+          },
+          {
+            "word": "keep our eyes peeled",
+            "meaning": "눈을 부릅뜨고 경계하다, 주의를 기울이다",
+            "context": "warned us to keep our eyes peeled"
+          }
         ]
       }
     ],
     "여행 (Travel)": [
       {
-        "sentences": ["We decided to hit the road bright and early to avoid traffic.", "We traveled light so we wouldn't have to wait for baggage claim."],
+        "sentences": [
+          "After months cooped up in the office, I've really started to get itchy feet, so I'm planning a backpacking trip soon.",
+          "This time, I'm determined to go somewhere completely off the beaten path and rough it a bit, rather than sticking to crowded tourist hubs."
+        ],
         "newWords": [
-          { "word": "hit the road", "meaning": "여행을 떠나다, 출발하다", "context": "decided to hit the road bright and early" },
-          { "word": "traveled light", "meaning": "짐을 가볍게 하여 여행하다", "context": "We traveled light" }
+          {
+            "word": "get itchy feet",
+            "meaning": "여행을 가고 싶어 몸이 근질거리다, 한곳에 오래 머물지 못하고 돌아다니고 싶어 하다",
+            "context": "started to get itchy feet"
+          },
+          {
+            "word": "off the beaten path",
+            "meaning": "잘 알려지지 않은 곳, 일반적인 경로를 벗어난 곳",
+            "context": "somewhere completely off the beaten path"
+          },
+          {
+            "word": "rough it",
+            "meaning": "불편한 환경에서 지내다, 야영하다, 검소하게 살다",
+            "context": "and rough it a bit"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          "We decided to hit the road bright and early to avoid traffic.",
+          "We traveled light so we wouldn't have to wait for baggage claim."
+        ],
+        "newWords": [
+          {
+            "word": "hit the road",
+            "meaning": "여행을 떠나다, 출발하다",
+            "context": "decided to hit the road bright and early"
+          },
+          {
+            "word": "traveled light",
+            "meaning": "짐을 가볍게 하여 여행하다",
+            "context": "We traveled light"
+          }
         ]
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
       {
-        "sentences": ["John was on the fence about joining the soccer league this year.", "He finally decided to bite the bullet and sign up."],
+        "sentences": [
+          "Despite the early setbacks, the amateur climbing team is determined to hit the ground running as they prepare for the national competition, willing to go the extra mile in every training session.",
+          "The final round of the esports tournament was an absolute thriller, keeping everyone on the edge of their seats as the match went right down to the wire."
+        ],
         "newWords": [
-          { "word": "on the fence", "meaning": "결정하지 못하고 망설이는 (미정인)", "context": "John was on the fence about joining" },
-          { "word": "bite the bullet", "meaning": "하기 싫거나 피하기 힘든 일을 이 꽉 물고 하다", "context": "He finally decided to bite the bullet" }
+          {
+            "word": "hit the ground running",
+            "meaning": "(새로운 일을) 즉시 성공적으로 시작하다, 순조롭게 출발하다",
+            "context": "determined to hit the ground running as they prepare"
+          },
+          {
+            "word": "go the extra mile",
+            "meaning": "특별한 노력을 기울이다, 한층 더 노력하다",
+            "context": "willing to go the extra mile in every training session"
+          },
+          {
+            "word": "down to the wire",
+            "meaning": "막판까지 가는 접전, 마지막 순간까지 승부가 결정되지 않는",
+            "context": "as the match went right down to the wire"
+          }
         ]
       },
       {
-        "sentences": ["The team was down by two goals and threw in the towel early.", "They really dropped the ball during the second half."],
+        "sentences": [
+          "John was on the fence about joining the soccer league this year.",
+          "He finally decided to bite the bullet and sign up."
+        ],
         "newWords": [
-          { "word": "threw in the towel", "meaning": "(수건을 던지다) 포기하다, 항복하다", "context": "threw in the towel early" },
-          { "word": "dropped the ball", "meaning": "실수하다, 책임을 다하지 못하다", "context": "They really dropped the ball" }
+          {
+            "word": "on the fence",
+            "meaning": "결정하지 못하고 망설이는 (미정인)",
+            "context": "John was on the fence about joining"
+          },
+          {
+            "word": "bite the bullet",
+            "meaning": "하기 싫거나 피하기 힘든 일을 이 꽉 물고 하다",
+            "context": "He finally decided to bite the bullet"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          "The team was down by two goals and threw in the towel early.",
+          "They really dropped the ball during the second half."
+        ],
+        "newWords": [
+          {
+            "word": "threw in the towel",
+            "meaning": "(수건을 던지다) 포기하다, 항복하다",
+            "context": "threw in the towel early"
+          },
+          {
+            "word": "dropped the ball",
+            "meaning": "실수하다, 책임을 다하지 못하다",
+            "context": "They really dropped the ball"
+          }
         ]
       }
     ]
