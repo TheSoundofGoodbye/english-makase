@@ -22,6 +22,7 @@ const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
 
 interface IdiomEntry {
   sentences: string[];
+  sentenceTranslations: string[];
   newWords: {
     word: string;
     meaning: string;
@@ -71,6 +72,10 @@ async function updateIdioms() {
         "First sentence establishing context and using an idiom.",
         "Second sentence following up, maybe using another idiom."
       ],
+      "sentenceTranslations": [
+        "첫 번째 문장의 자연스러운 한국어 번역.",
+        "두 번째 문장의 자연스러운 한국어 번역."
+      ],
       "newWords": [
         {
           "word": "the exact idiom/phrase used in the sentence",
@@ -82,6 +87,7 @@ async function updateIdioms() {
     
     Requirements:
     - 2 sentences total in the "sentences" array.
+    - 2 Korean translations in the "sentenceTranslations" array (one per sentence, natural Korean, not literal).
     - 2 to 3 idioms defined in the "newWords" array.
     - No markdown formatting like \`\`\`json. Just the raw JSON object.
     `;

@@ -23,6 +23,7 @@ export const Dashboard: React.FC = () => {
     if (todaysRecord) {
       setDailyData({
         sentences: todaysRecord.sentences,
+        sentenceTranslations: (todaysRecord as any).sentenceTranslations || [],
         newWords: todaysRecord.newVocabulary
       });
       setSavedLocally(true);
@@ -83,17 +84,32 @@ export const Dashboard: React.FC = () => {
   const renderSentence = (sentence: string, index: number) => {
     const idiomsToHighlight = dailyData ? dailyData.newWords.map(nw => nw.word) : [];
     const tokens = TextProcessor.highlightPhrases(sentence, idiomsToHighlight);
+    const translation = dailyData?.sentenceTranslations?.[index];
     
     return (
-      <p key={index} style={{ fontSize: '1.2rem', marginBottom: '1rem', lineHeight: '1.8' }}>
-        {tokens.map((token, tId) => 
-          token.isHighlighted ? (
-            <span key={tId} className="highlight-word" title="새로운 표현!">{token.text}</span>
-          ) : (
-            <span key={tId}>{token.text}</span>
-          )
+      <div key={index} style={{ marginBottom: '1.2rem' }}>
+        <p style={{ fontSize: '1.2rem', margin: 0, lineHeight: '1.8' }}>
+          {tokens.map((token, tId) => 
+            token.isHighlighted ? (
+              <span key={tId} className="highlight-word" title="새로운 표현!">{token.text}</span>
+            ) : (
+              <span key={tId}>{token.text}</span>
+            )
+          )}
+        </p>
+        {translation && (
+          <p style={{ 
+            margin: '0.3rem 0 0 0', 
+            fontSize: '0.9rem', 
+            color: 'var(--text-secondary)',
+            fontStyle: 'italic',
+            borderLeft: '2px solid var(--glass-border)',
+            paddingLeft: '0.75rem'
+          }}>
+            {translation}
+          </p>
         )}
-      </p>
+      </div>
     );
   };
 

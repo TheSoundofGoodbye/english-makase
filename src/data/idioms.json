@@ -6,6 +6,10 @@
           "I had to hit the ground running this morning, as I'm usually a creature of habit and don't like sudden changes to my routine.",
           "After an incredibly packed day, I was more than ready to call it a night and just unwind with a good book."
         ],
+        "sentenceTranslations": [
+          "오늘 아침은 평소처럼 루틴대로 할 여유도 없이 바로 일에 뛰어들어야 했어. 난 보통 습관대로 사는 편이라 갑작스러운 변화는 질색이거든.",
+          "믿을 수 없이 바빴던 하루를 보내고 나니, 얼른 하루를 마무리하고 좋은 책이라도 읽으며 쉬고 싶은 마음이 굴뚝같았어."
+        ],
         "newWords": [
           {
             "word": "hit the ground running",
@@ -28,6 +32,10 @@
         "sentences": [
           "With deadlines looming, I've really had a lot on my plate this week, constantly burning the midnight oil to get everything done.",
           "I'm hoping to get a handle on my schedule next week and finally catch some Z's over the weekend."
+        ],
+        "sentenceTranslations": [
+          "마감 기한이 코앞으로 다가오면서 이번 주는 정말 할 일이 산더미야. 밤새 불 꺼지지 않고 일하는 날들이 계속됐어.",
+          "다음 주에는 내 스케줄 좀 제대로 추스르고, 주말에는 드디어 실컷 자고 싶어."
         ],
         "newWords": [
           {
@@ -52,6 +60,10 @@
           "I was feeling under the weather after pulling an all-nighter.",
           "I decided to call it a day and just rest."
         ],
+        "sentenceTranslations": [
+          "밤을 꼬박 새우고 나니 몸이 영 좋지 않았어.",
+          "그냥 오늘은 여기까지 하고 쉬기로 했어."
+        ],
         "newWords": [
           {
             "word": "under the weather",
@@ -74,6 +86,10 @@
         "sentences": [
           "Learning a new language is no piece of cake.",
           "But if you stick to your guns, you'll eventually get the hang of it."
+        ],
+        "sentenceTranslations": [
+          "새 언어를 배우는 건 절대 쉬운 일이 아니야.",
+          "하지만 자기 방식을 고집하며 밀어붙이면, 결국엔 감을 잡게 될 거야."
         ],
         "newWords": [
           {
@@ -100,6 +116,10 @@
           "To truly move the needle on this project, we need to stop cutting corners and invest in proper resources.",
           "Otherwise, we'll find ourselves back to the drawing board next quarter, having wasted valuable time."
         ],
+        "sentenceTranslations": [
+          "이 프로젝트에서 진짜 성과를 내려면, 편법을 쓰는 것을 멈추고 제대로 된 자원에 투자해야 해.",
+          "그렇지 않으면 귀중한 시간을 낭비한 채 다음 분기에 원점으로 돌아가게 될 거야."
+        ],
         "newWords": [
           {
             "word": "move the needle",
@@ -120,8 +140,12 @@
       },
       {
         "sentences": [
-          "After months of incremental efforts, the CEO urged us to stop just **spinning our wheels** and instead focus on initiatives that truly **move the needle** on profitability.",
-          "This calls for some bold, **blue-sky thinking** from every department, rather than just settling for the usual quick wins."
+          "After months of incremental efforts, the CEO urged us to stop just spinning our wheels and instead focus on initiatives that truly move the needle on profitability.",
+          "This calls for some bold, blue-sky thinking from every department, rather than just settling for the usual quick wins."
+        ],
+        "sentenceTranslations": [
+          "몇 달간의 소소한 노력 끝에, CEO는 우리에게 제자리걸음을 멈추고 수익성에 실질적인 변화를 가져올 사업에 집중하라고 촉구했어.",
+          "이건 각 부서가 늘 하던 손쉬운 성과에 안주하는 게 아니라, 대담하고 자유로운 발상을 해야 한다는 뜻이야."
         ],
         "newWords": [
           {
@@ -146,6 +170,10 @@
           "We need to think outside the box to beat our competitors.",
           "Let's touch base next week to review the new strategy."
         ],
+        "sentenceTranslations": [
+          "경쟁사를 이기려면 고정관념에서 벗어난 창의적인 사고가 필요해.",
+          "다음 주에 연락해서 새 전략을 함께 검토해 보자."
+        ],
         "newWords": [
           {
             "word": "think outside the box",
@@ -163,6 +191,10 @@
         "sentences": [
           "The manager gave us the green light to start the project.",
           "However, she warned us to keep our eyes peeled for any budget issues by the end of the month."
+        ],
+        "sentenceTranslations": [
+          "매니저가 프로젝트를 시작해도 좋다는 허가를 내려줬어.",
+          "하지만 그녀는 이달 말까지 예산 문제가 생기지 않도록 단단히 눈을 부릅뜨고 있으라고 경고했어."
         ],
         "newWords": [
           {
@@ -183,6 +215,10 @@
         "sentences": [
           "Tired of the usual tourist traps, I'm planning my next trip to truly get off the beaten path and immerse myself in communities where I can really soak up the local flavour.",
           "I'm even prepared to rough it a bit by staying in hostels or camping, as long as it means a more authentic and enriching cultural experience."
+        ],
+        "sentenceTranslations": [
+          "뻔한 관광지에 질린 나는, 다음 여행은 남들이 안 가는 곳으로 가서 현지 분위기를 제대로 느낄 수 있는 커뮤니티에 파고들기로 계획하고 있어.",
+          "더 진정성 있고 풍요로운 문화 경험을 할 수 있다면, 호스텔이나 캠핑을 하며 조금 불편하게 지내는 것도 충분히 감수할 준비가 되어있어."
         ],
         "newWords": [
           {
@@ -207,6 +243,10 @@
           "After months cooped up in the office, I've really started to get itchy feet, so I'm planning a backpacking trip soon.",
           "This time, I'm determined to go somewhere completely off the beaten path and rough it a bit, rather than sticking to crowded tourist hubs."
         ],
+        "sentenceTranslations": [
+          "몇 달간 사무실에만 갇혀 있다 보니 이제 몸이 근질근질해서, 곧 배낭여행을 떠나기로 했어.",
+          "이번엔 북적이는 관광 명소 말고, 완전히 남들이 모르는 곳으로 가서 조금 고생도 해볼 생각이야."
+        ],
         "newWords": [
           {
             "word": "get itchy feet",
@@ -230,6 +270,10 @@
           "We decided to hit the road bright and early to avoid traffic.",
           "We traveled light so we wouldn't have to wait for baggage claim."
         ],
+        "sentenceTranslations": [
+          "우리는 교통 체증을 피하기 위해 아주 일찍 길을 나서기로 했어.",
+          "수하물 찾는 줄 서지 않아도 되도록 짐을 최소한으로 챙겼어."
+        ],
         "newWords": [
           {
             "word": "hit the road",
@@ -250,6 +294,10 @@
           "Having recently picked up golf, my friend Mark really took to it like a duck to water, surprising everyone with his natural swing and quick mastery of the game's nuances.",
           "He's already talking about entering local tournaments, and I wouldn't be surprised if this newfound passion turns out to be a real game changer for his future."
         ],
+        "sentenceTranslations": [
+          "최근에 골프를 시작한 내 친구 마크는 정말 물 만난 고기처럼 재능을 발휘해서, 천부적인 스윙 실력과 빠른 게임 이해력으로 모두를 놀라게 했어.",
+          "그는 벌써 지역 토너먼트 출전 얘기를 하고 있는데, 이 새로운 열정이 그의 앞날을 완전히 뒤바꿔 놓아도 전혀 놀랍지 않을 것 같아."
+        ],
         "newWords": [
           {
             "word": "take to something like a duck to water",
@@ -267,6 +315,10 @@
         "sentences": [
           "Despite the early setbacks, the amateur climbing team is determined to hit the ground running as they prepare for the national competition, willing to go the extra mile in every training session.",
           "The final round of the esports tournament was an absolute thriller, keeping everyone on the edge of their seats as the match went right down to the wire."
+        ],
+        "sentenceTranslations": [
+          "초반의 부진에도 불구하고, 아마추어 클라이밍 팀은 전국 대회를 준비하며 매 훈련에 온 힘을 쏟아부으며 바로 가동에 들어갈 준비가 되어있어.",
+          "그 e스포츠 토너먼트 결승전은 마지막 순간까지 승부를 알 수 없는 완전한 승부였고, 모두를 손에 땀을 쥐게 했어."
         ],
         "newWords": [
           {
@@ -291,6 +343,10 @@
           "John was on the fence about joining the soccer league this year.",
           "He finally decided to bite the bullet and sign up."
         ],
+        "sentenceTranslations": [
+          "존은 올해 축구 리그에 참가해야 할지 계속 망설이고 있었어.",
+          "결국 그는 이 꽉 물고 등록하기로 결심했어."
+        ],
         "newWords": [
           {
             "word": "on the fence",
@@ -308,6 +364,10 @@
         "sentences": [
           "The team was down by two goals and threw in the towel early.",
           "They really dropped the ball during the second half."
+        ],
+        "sentenceTranslations": [
+          "팀은 두 골을 뒤지고 있었고 일찍 포기 선언을 해버렸어.",
+          "그들은 정말 후반전에 큰 실수를 저질렀어."
         ],
         "newWords": [
           {
