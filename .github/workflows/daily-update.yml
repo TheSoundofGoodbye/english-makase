@@ -34,7 +34,8 @@ jobs:
         # Passed via Github Repository Secrets
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: npx tsx scripts/updateIdioms.ts
+        run: |
+          npx ts-node --compilerOptions '{"module":"CommonJS", "moduleResolution": "node"}' scripts/updateIdioms.ts
 
       - name: Commit and Push Updated JSON
         run: |
