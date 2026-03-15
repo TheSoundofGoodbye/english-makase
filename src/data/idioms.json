@@ -1,0 +1,63 @@
+{
+  "categories": {
+    "일상 (Daily Life)": [
+      {
+        "sentences": ["I was feeling under the weather after pulling an all-nighter.", "I decided to call it a day and just rest."],
+        "newWords": [
+          { "word": "under the weather", "meaning": "몸 상태가 좋지 않은", "context": "I was feeling under the weather" },
+          { "word": "pulling an all-nighter", "meaning": "밤을 새우다", "context": "after pulling an all-nighter" },
+          { "word": "call it a day", "meaning": "오늘은 여기까지 하다, 일과를 마치다", "context": "I decided to call it a day" }
+        ]
+      },
+      {
+        "sentences": ["Learning a new language is no piece of cake.", "But if you stick to your guns, you'll eventually get the hang of it."],
+        "newWords": [
+          { "word": "piece of cake", "meaning": "식은 죽 먹기, 아주 쉬운 일", "context": "Language is no piece of cake" },
+          { "word": "stick to your guns", "meaning": "너의 뜻을(주장을) 굽히지 않다, 밀어붙이다", "context": "if you stick to your guns" },
+          { "word": "get the hang of it", "meaning": "감(요령)을 잡다", "context": "you'll eventually get the hang of it" }
+        ]
+      }
+    ],
+    "비즈니스 (Business)": [
+      {
+        "sentences": ["We need to think outside the box to beat our competitors.", "Let's touch base next week to review the new strategy."],
+        "newWords": [
+          { "word": "think outside the box", "meaning": "고정관념에서 벗어나 창의적으로 생각하다", "context": "We need to think outside the box" },
+          { "word": "touch base", "meaning": "연락하다, 상황을 확인하다", "context": "Let's touch base next week" }
+        ]
+      },
+      {
+        "sentences": ["The manager gave us the green light to start the project.", "However, she warned us to keep our eyes peeled for any budget issues by the end of the month."],
+        "newWords": [
+          { "word": "the green light", "meaning": "승인, 허가", "context": "manager gave us the green light" },
+          { "word": "keep our eyes peeled", "meaning": "눈을 부릅뜨고 경계하다, 주의를 기울이다", "context": "warned us to keep our eyes peeled" }
+        ]
+      }
+    ],
+    "여행 (Travel)": [
+      {
+        "sentences": ["We decided to hit the road bright and early to avoid traffic.", "We traveled light so we wouldn't have to wait for baggage claim."],
+        "newWords": [
+          { "word": "hit the road", "meaning": "여행을 떠나다, 출발하다", "context": "decided to hit the road bright and early" },
+          { "word": "traveled light", "meaning": "짐을 가볍게 하여 여행하다", "context": "We traveled light" }
+        ]
+      }
+    ],
+    "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": ["John was on the fence about joining the soccer league this year.", "He finally decided to bite the bullet and sign up."],
+        "newWords": [
+          { "word": "on the fence", "meaning": "결정하지 못하고 망설이는 (미정인)", "context": "John was on the fence about joining" },
+          { "word": "bite the bullet", "meaning": "하기 싫거나 피하기 힘든 일을 이 꽉 물고 하다", "context": "He finally decided to bite the bullet" }
+        ]
+      },
+      {
+        "sentences": ["The team was down by two goals and threw in the towel early.", "They really dropped the ball during the second half."],
+        "newWords": [
+          { "word": "threw in the towel", "meaning": "(수건을 던지다) 포기하다, 항복하다", "context": "threw in the towel early" },
+          { "word": "dropped the ball", "meaning": "실수하다, 책임을 다하지 못하다", "context": "They really dropped the ball" }
+        ]
+      }
+    ]
+  }
+}
