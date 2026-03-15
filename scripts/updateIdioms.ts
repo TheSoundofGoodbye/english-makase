@@ -1,9 +1,14 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import * as fs from 'fs';
 import * as path from 'path';
+import { fileURLToPath } from 'url';
 
 // Load environment variables if running locally (dotenv not needed in Github Actions if we pass secrets directly, but good for local dev)
 import 'dotenv/config';
+
+// Recreate __dirname for ES Modules
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // Ensure the API key exists
 const apiKey = process.env.GEMINI_API_KEY;
@@ -45,7 +50,7 @@ async function updateIdioms() {
   console.log("Starting Daily Idiom Update Script...");
 
   // 1. Read existing database
-  let db: IdiomDatabase;
+  let db: IdiomDatabase = { categories: {} };
   try {
     const data = fs.readFileSync(DB_PATH, 'utf-8');
     db = JSON.parse(data);
