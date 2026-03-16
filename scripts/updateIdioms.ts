@@ -1,28 +1,24 @@
-import { GoogleGenerativeAI } from '@google/generative-ai';
+import 'dotenv/config'; // must be first to load .env before anything else
+import { GoogleGenAI } from '@google/genai';
 import * as fs from 'fs';
 import * as path from 'path';
 
-// Load environment variables if running locally (dotenv not needed in Github Actions if we pass secrets directly, but good for local dev)
-import 'dotenv/config';
-
-// The Github Actions workflow runs from the root of the repository.
-// We can safely use process.cwd() to construct the absolute path.
 const DB_PATH = path.join(process.cwd(), 'src', 'data', 'idioms.json');
 
-// Ensure the API key exists
 const apiKey = process.env.GEMINI_API_KEY;
 if (!apiKey) {
   console.error("FATAL ERROR: GEMINI_API_KEY is missing. Cannot update idioms.");
   process.exit(1);
 }
 
-const genAI = new GoogleGenerativeAI(apiKey);
-// Using gemini-2.5-flash: fast, cheap, and currently GA
-const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
+console.log(`[Init] Using API key: ${apiKey.slice(0, 8)}...`);
+const ai = new GoogleGenAI({ apiKey });
+const MODEL = "gemini-2.5-flash";
 
 interface IdiomEntry {
   sentences: string[];
   sentenceTranslations: string[];
+  translationHighlights: string[];
   newWords: {
     word: string;
     meaning: string;
@@ -36,102 +32,180 @@ interface IdiomDatabase {
   };
 }
 
-const CATEGORIES = [
-  "일상 (Daily Life)",
-  "비즈니스 (Business)",
-  "여행 (Travel)",
-  "스포츠 및 취미 (Sports & Hobbies)"
+// ─── 카테고리별 뉴스 검색 쿼리 (Gemini에게 맥락을 주는 키워드) ─────────────────
+const CATEGORIES: { name: string; context: string }[] = [
+  {
+    name: "일상 (Daily Life)",
+    context: "lifestyle, social trends, health, relationships, personal finance, technology in everyday life",
+  },
+  {
+    name: "비즈니스 (Business)",
+    context: "global economy, stock markets, startups, corporate strategy, AI industry, trade policy",
+  },
+  {
+    name: "여행 (Travel)",
+    context: "travel destinations, airline industry, tourism trends, cultural experiences, visa policies",
+  },
+  {
+    name: "스포츠 및 취미 (Sports & Hobbies)",
+    context: "major sports events, athlete news, esports, outdoor recreation, popular hobbies",
+  },
 ];
 
-async function updateIdioms() {
-  console.log("Starting Daily Idiom Update Script...");
+// ─── 1단계: 현재 날짜 기반으로 시사 맥락 생성 ────────────────────────────────
+async function generateNewsContext(category: string, context: string): Promise<string> {
+  const today = new Date().toISOString().split("T")[0];
+  const dayOfWeek = new Date().toLocaleDateString("en-US", { weekday: "long" });
 
-  // 1. Read existing database
+  console.log(`  [Context] Generating news-like context for: ${category}`);
+
+  const response = await ai.models.generateContent({
+    model: MODEL,
+    contents: `
+Today is ${dayOfWeek}, ${today}.
+
+You are a news briefing assistant. Based on your knowledge of recent global trends and events in the domain of: ${context}
+
+Write a realistic, specific 3-sentence news briefing IN ENGLISH, as if it's happening today. 
+Include:
+- Realistic proper nouns (organizations, places, or public figures)
+- Specific details that feel current and grounded
+- At least one quote or data point
+
+The goal is to provide authentic context for English expression learning. Be specific, not generic.
+`,
+  });
+
+  const text = response.text ?? "";
+  console.log(`  [Context] Generated ${text.length} chars of context.`);
+  return text;
+}
+
+// ─── 2단계: 뉴스 콘텍스트 기반 표현 생성 ────────────────────────────────────
+async function generateIdiomFromContext(
+  category: string,
+  newsContext: string
+): Promise<IdiomEntry> {
+  const today = new Date().toISOString().split("T")[0];
+
+  const prompt = `
+You are an expert English teacher for Korean speakers.
+Target Category: ${category}
+Today's Date: ${today}
+
+Below is a news-style scenario from today that you should use as CONTEXT and INSPIRATION:
+---
+${newsContext}
+---
+
+Task: Based on the context above, create exactly ONE educational English entry.
+The sentences must feel naturally connected to the scenario above - reference the topic, situation, or theme.
+Use advanced, native-sounding English idioms and expressions that a Korean learner would find valuable.
+Do NOT repeat expressions already commonly found in textbooks.
+
+You MUST output valid JSON ONLY, with this exact structure, nothing else:
+{
+  "sentences": [
+    "First sentence using an idiom, directly related to the news scenario.",
+    "Second sentence following up, using another idiom, continuing the same theme."
+  ],
+  "sentenceTranslations": [
+    "첫 번째 문장의 자연스러운 한국어 번역.",
+    "두 번째 문장의 자연스러운 한국어 번역."
+  ],
+  "translationHighlights": ["한국어 번역에서 강조할 핵심 표현1", "핵심 표현2", "핵심 표현3"],
+  "newWords": [
+    {
+      "word": "the exact idiom/phrase used in the sentence",
+      "meaning": "Korean translation/meaning of the idiom",
+      "context": "Short snippet from the English sentence showing where it was used"
+    }
+  ]
+}
+
+Requirements:
+- 2 sentences total in "sentences".
+- 2 Korean translations in "sentenceTranslations" (natural, not literal).
+- 2–4 highlighted Korean phrases in "translationHighlights".
+- 2–3 idioms in "newWords".
+- No markdown. Just the raw JSON object.
+`;
+
+  const result = await ai.models.generateContent({
+    model: MODEL,
+    contents: prompt,
+  });
+
+  let responseText = result.text ?? "";
+
+  // Clean up any accidental markdown fences
+  responseText = responseText
+    .replace(/^```json\s*/m, "")
+    .replace(/^```\s*/m, "")
+    .replace(/```$/m, "")
+    .trim();
+
+  const entry: IdiomEntry = JSON.parse(responseText);
+
+  if (
+    !entry.sentences ||
+    !entry.newWords ||
+    !Array.isArray(entry.sentences) ||
+    !Array.isArray(entry.sentenceTranslations) ||
+    !Array.isArray(entry.translationHighlights)
+  ) {
+    throw new Error("Invalid AI response structure.");
+  }
+
+  return entry;
+}
+
+// ─── Main ────────────────────────────────────────────────────────────────────
+async function updateIdioms() {
+  const today = new Date().toISOString().split("T")[0];
+  console.log(`🚀 Starting News-Grounded Daily Idiom Update [${today}]...\n`);
+
+  // 1. Load existing database
   let db: IdiomDatabase = { categories: {} };
   try {
-    const data = fs.readFileSync(DB_PATH, 'utf-8');
+    const data = fs.readFileSync(DB_PATH, "utf-8");
     db = JSON.parse(data);
   } catch (err) {
     console.error("Failed to read idioms.json", err);
     process.exit(1);
   }
 
-  // 2. We will generate ONE new entry per category to avoid blowing up the DB too fast, but keeping it fresh daily.
-  for (const category of CATEGORIES) {
-    console.log(`\nFetching new expressions for: ${category}`);
-
-    const prompt = `
-    You are an expert English teacher for Korean speakers.
-    Target Category: ${category}
-    
-    Task: Create exactly ONE new educational entry containing advanced or highly native-sounding English idioms/phrases relevant to the category. Do not repeat basic phrases.
-    
-    You MUST output valid JSON ONLY, with this exact structure, nothing else:
-    {
-      "sentences": [
-        "First sentence establishing context and using an idiom.",
-        "Second sentence following up, maybe using another idiom."
-      ],
-      "sentenceTranslations": [
-        "첫 번째 문장의 자연스러운 한국어 번역.",
-        "두 번째 문장의 자연스러운 한국어 번역."
-      ],
-      "newWords": [
-        {
-          "word": "the exact idiom/phrase used in the sentence",
-          "meaning": "Korean translation/meaning of the idiom",
-          "context": "Short snippet from the sentence (English) showing where it was used"
-        }
-      ]
-    }
-    
-    Requirements:
-    - 2 sentences total in the "sentences" array.
-    - 2 Korean translations in the "sentenceTranslations" array (one per sentence, natural Korean, not literal).
-    - 2 to 3 idioms defined in the "newWords" array.
-    - No markdown formatting like \`\`\`json. Just the raw JSON object.
-    `;
+  for (const { name, context } of CATEGORIES) {
+    console.log(`\n📰 Category: ${name}`);
 
     try {
-      const result = await model.generateContent(prompt);
-      let responseText = result.response.text();
-      
-      // Clean up markdown just in case the AI wraps it
-      if (responseText.startsWith('```json')) {
-        responseText = responseText.replace(/```json/g, '').replace(/```/g, '').trim();
+      // Step 1: Generate a fresh, specific news-like context for today
+      const newsContext = await generateNewsContext(name, context);
+
+      // Step 2: Generate idiom entry inspired by that context
+      const newEntry = await generateIdiomFromContext(name, newsContext);
+
+      // Prepend to keep newest first
+      if (!db.categories[name]) {
+        db.categories[name] = [];
       }
+      db.categories[name].unshift(newEntry);
 
-      // Parse the AI response
-      const newEntry: IdiomEntry = JSON.parse(responseText);
-
-      // Validate the structure roughly
-      if (!newEntry.sentences || !newEntry.newWords || !Array.isArray(newEntry.sentences)) {
-        throw new Error("Invalid AI response structure.");
-      }
-
-      // Ensure the category array exists
-      if (!db.categories[category]) {
-        db.categories[category] = [];
-      }
-
-      // Append the new entry to the start of the array to prioritize newer content, or just push to end
-      db.categories[category].unshift(newEntry);
-      
-      console.log(`✅ Successfully added new entry for ${category}:`);
-      console.log(newEntry.sentences.join(' '));
-
+      console.log(`  ✅ Added new entry:`);
+      console.log(`     ${newEntry.sentences.join(" ")}`);
+      console.log(`     새 표현: ${newEntry.newWords.map((w) => w.word).join(", ")}`);
     } catch (error) {
-      console.error(`❌ Failed to fetch or parse response for ${category}:`, error);
-      // We don't fail the whole script if one category fails, just continue
+      console.error(`  ❌ Failed for category "${name}":`, error);
+      // Continue with remaining categories
     }
-    
-    // Slight delay to avoid any rate limits
-    await new Promise(r => setTimeout(r, 2000));
+
+    // Avoid rate limits between categories
+    await new Promise((r) => setTimeout(r, 2000));
   }
 
-  // 3. Save the updated database back to the file
-  fs.writeFileSync(DB_PATH, JSON.stringify(db, null, 2), 'utf-8');
-  console.log("\n🎉 Update complete. idioms.json has been written successfully.");
+  // 3. Save updated database
+  fs.writeFileSync(DB_PATH, JSON.stringify(db, null, 2), "utf-8");
+  console.log(`\n🎉 Update complete [${today}]. idioms.json has been written successfully.`);
 }
 
 updateIdioms();
