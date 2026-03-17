@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "As major banks and employers jump on the bandwagon of AI integration, it's evident that the writing's on the wall for the future of work, emphasizing AI literacy.",
+          "Still, with sensitive personal financial data involved, consumers must tread a fine line, balancing the convenience of these tools with constant vigilance against potential breaches."
+        ],
+        "sentenceTranslations": [
+          "주요 은행들과 고용주들이 AI 통합에 편승하고 있는 만큼, AI 활용 능력의 중요성을 강조하며 미래 업무 환경에 대한 징조가 이미 나타나고 있습니다.",
+          "하지만 민감한 개인 금융 데이터가 관련되어 있기 때문에, 소비자들은 이러한 도구의 편리함과 잠재적인 침해에 대한 끊임없는 경계를 오가며 신중해야 합니다."
+        ],
+        "translationHighlights": [
+          "AI 통합에 편승하고",
+          "미래 업무 환경에 대한 징조가 이미 나타나고",
+          "민감한 개인 금융 데이터",
+          "오가며 신중해야 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "jump on the bandwagon",
+            "meaning": "유행을 따르다, 편승하다",
+            "context": "jump on the bandwagon of AI integration"
+          },
+          {
+            "word": "the writing's on the wall",
+            "meaning": "미래가 확실히 예견되다, 징조가 나타나다",
+            "context": "the writing's on the wall for the future of work"
+          },
+          {
+            "word": "tread a fine line",
+            "meaning": "아슬아슬한 줄타기를 하다, 양쪽 사이에서 신중하게 균형을 맞추다",
+            "context": "consumers must tread a fine line"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The very technologies that keep us on the cutting edge of connectivity are simultaneously taking a toll on our digital well-being, according to the WHO.",
           "This alarming trend has led many to consider going cold turkey on screens, flocking to digital detox retreats to find a much-needed mental break."
         ],
@@ -37,6 +70,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Google's latest Gemini Pro Max unveiling has effectively thrown down the gauntlet in the AI enterprise race, putting immense pressure on competitors to innovate further.",
+          "Despite global markets generally walking a tightrope amidst economic headwinds, discerning venture capitalists are still doubling down on foundational generative AI infrastructure."
+        ],
+        "sentenceTranslations": [
+          "구글의 최신 Gemini Pro Max 공개는 AI 기업 시장 경쟁에서 사실상 도전장을 내밀었으며, 경쟁사들에게 더 많은 혁신을 요구하며 엄청난 압박을 가하고 있습니다.",
+          "세계 시장이 전반적으로 경제적 역풍 속에서 살얼음판을 걷고 있음에도 불구하고, 안목 있는 벤처 투자가들은 여전히 근본적인 생성형 AI 인프라에 집중 투자하고 있습니다."
+        ],
+        "translationHighlights": [
+          "도전장을 내밀었으며",
+          "살얼음판을 걷고 있음에도 불구하고",
+          "근본적인 생성형 AI 인프라에 집중 투자하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw down the gauntlet",
+            "meaning": "도전장을 내밀다, 싸움을 걸다 (비유적 표현)",
+            "context": "Google's latest Gemini Pro Max unveiling has effectively thrown down the gauntlet in the AI enterprise race"
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "위태로운 상황을 겪다, 살얼음판을 걷다",
+            "context": "global markets generally walking a tightrope amidst economic headwinds"
+          },
+          {
+            "word": "double down",
+            "meaning": "집중 투자하다, 더욱 노력하다 (특히 위험을 무릅쓰고 중요한 것에)",
+            "context": "discerning venture capitalists are still doubling down on foundational generative AI infrastructure"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With Google DeepMind launching Gemini Enterprise, the tech world is abuzz, realizing it's time to make hay while the sun shines in enterprise AI.",
           "However, as the IMF cautioned, geopolitical fragmentation could still prove to be the fly in the ointment, threatening an otherwise promising global recovery driven by AI."
         ],
@@ -65,6 +130,75 @@
             "word": "the fly in the ointment",
             "meaning": "옥에 티, 흥을 깨는 요소",
             "context": "geopolitical fragmentation could still prove to be the fly in the ointment"
+          }
+        ]
+      }
+    ],
+    "여행 (Travel)": [
+      {
+        "sentences": [
+          "Despite the EU's ETIAS system being fully operational, some U.S. and Canadian travelers are still finding they need to jump through hoops to comply with its pre-departure requirements.",
+          "Meanwhile, major airlines, having been thrown a curveball by aircraft delivery delays, are struggling to meet the incredibly robust demand for transatlantic flights, which appears to be holding steady come hell or high water."
+        ],
+        "sentenceTranslations": [
+          "EU의 ETIAS 시스템이 완전히 가동되고 있음에도 불구하고, 일부 미국 및 캐나다 여행객들은 여전히 출발 전 요구 사항을 충족하기 위해 온갖 수고를 해야 한다고 느끼고 있습니다.",
+          "한편, 항공기 인도 지연으로 예상치 못한 난관에 부딪힌 주요 항공사들은 대서양 횡단 항공편에 대한 엄청나게 견고한 수요를 충족시키기 위해 고군분투하고 있는데, 이 수요는 무슨 일이 있어도 꺾이지 않고 꾸준히 유지되는 것으로 보입니다."
+        ],
+        "translationHighlights": [
+          "온갖 수고를 해야",
+          "예상치 못한 난관에 부딪힌",
+          "엄청나게 견고한 수요",
+          "무슨 일이 있어도 꺾이지 않고"
+        ],
+        "newWords": [
+          {
+            "word": "jump through hoops",
+            "meaning": "힘든 절차를 밟다, 온갖 수고를 하다",
+            "context": "need to jump through hoops to comply"
+          },
+          {
+            "word": "thrown a curveball",
+            "meaning": "예상치 못한 문제에 직면하다, 갑작스러운 난관에 부딪히다",
+            "context": "having been thrown a curveball by aircraft delivery delays"
+          },
+          {
+            "word": "come hell or high water",
+            "meaning": "무슨 일이 있어도, 어떤 어려움이 닥쳐도",
+            "context": "holding steady come hell or high water"
+          }
+        ]
+      }
+    ],
+    "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "NC State's improbable run, culminating in their victory over Duke, has certainly thrown a wrench in the works for nearly every March Madness bracket.",
+          "With so many top seeds eliminated, the tournament has become a true free-for-all, with the championship now anyone's for the taking."
+        ],
+        "sentenceTranslations": [
+          "NC State가 듀크를 꺾고 절정에 달한 예상 밖의 선전은 거의 모든 March Madness 브래킷에 확실히 제동을 걸었습니다.",
+          "수많은 상위 시드 팀들이 탈락하면서, 토너먼트는 진정한 무법천지가 되었고, 이제 우승 트로피는 누구든 차지할 수 있게 되었습니다."
+        ],
+        "translationHighlights": [
+          "제동을 걸었습니다",
+          "무법천지가 되었고",
+          "누구든 차지할 수 있게 되었습니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다, 훼방 놓다, 예상치 못한 방해를 하다",
+            "context": "has certainly thrown a wrench in the works for nearly every March Madness bracket"
+          },
+          {
+            "word": "free-for-all",
+            "meaning": "무법천지, 자유 경쟁, 난투전",
+            "context": "the tournament has become a true free-for-all"
+          },
+          {
+            "word": "anyone's for the taking",
+            "meaning": "누구든지 얻을 수 있는, 차지할 수 있는, 만인의 것",
+            "context": "the championship now anyone's for the taking"
           }
         ]
       }
