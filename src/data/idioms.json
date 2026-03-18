@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The new study confirms that AI-powered financial platforms are taking off like a rocket with younger investors, yet Dr. Sharma's warning means many are effectively walking a tightrope regarding data privacy and hidden biases.",
+          "This has prompted regulatory bodies to put the brakes on the rapid expansion, pushing for transparency before things spiral out of control."
+        ],
+        "sentenceTranslations": [
+          "새로운 연구에 따르면 AI 기반 금융 플랫폼이 젊은 투자자들 사이에서 로켓처럼 빠르게 확산되고 있지만, 샤르마 박사의 경고는 많은 사용자들이 데이터 프라이버시와 숨겨진 편향에 대해 사실상 위태로운 줄타기를 하고 있음을 의미합니다.",
+          "이로 인해 규제 기관들은 무분별한 확장에 제동을 걸고 있으며, 상황이 통제 불능으로 치닫기 전에 투명성을 확보하기 위해 노력하고 있습니다."
+        ],
+        "translationHighlights": [
+          "로켓처럼 빠르게 확산되고 있지만",
+          "위태로운 줄타기를 하고 있음을",
+          "제동을 걸고 있으며"
+        ],
+        "newWords": [
+          {
+            "word": "taking off like a rocket",
+            "meaning": "로켓처럼 빠르게 성공하거나 확산되다",
+            "context": "platforms are taking off like a rocket with younger investors"
+          },
+          {
+            "word": "walking a tightrope",
+            "meaning": "아슬아슬한 상황에 처해있다, 위태로운 줄타기를 하다",
+            "context": "many are effectively walking a tightrope regarding data privacy"
+          },
+          {
+            "word": "put the brakes on",
+            "meaning": "속도를 늦추거나 중단시키다, 제동을 걸다",
+            "context": "prompted regulatory bodies to put the brakes on the rapid expansion"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As major banks and employers jump on the bandwagon of AI integration, it's evident that the writing's on the wall for the future of work, emphasizing AI literacy.",
           "Still, with sensitive personal financial data involved, consumers must tread a fine line, balancing the convenience of these tools with constant vigilance against potential breaches."
         ],
@@ -68,6 +100,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "The Federal Reserve is anticipated to walk a tightrope with interest rates, reflecting the delicate balance needed to curb inflation without stifling economic growth.",
+          "This cautious approach contrasts sharply with the tech sector, where Microsoft's latest investment in Anthropic clearly raises the stakes, while the EU AI Act prepares to draw a line in the sand for future innovation."
+        ],
+        "sentenceTranslations": [
+          "연준이 금리 문제로 아슬아슬한 줄타기를 할 것으로 예상되는데, 이는 경제 성장을 억누르지 않으면서 인플레이션을 억제해야 하는 미묘한 균형을 보여줍니다.",
+          "이러한 신중한 접근법은 기술 부문과 뚜렷한 대조를 이루는데, 마이크로소프트의 앤스로픽에 대한 최근 투자는 경쟁의 판돈을 확실히 올리고 있으며, 동시에 EU의 AI 법안은 미래 혁신에 대한 분명한 기준선을 제시할 준비를 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "아슬아슬한 줄타기",
+          "판돈을 확실히 올리고",
+          "분명한 기준선을 제시"
+        ],
+        "newWords": [
+          {
+            "word": "walk a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다, 매우 위험하거나 신중한 상황에 처하다",
+            "context": "The Federal Reserve is anticipated to walk a tightrope with interest rates"
+          },
+          {
+            "word": "raise the stakes",
+            "meaning": "판돈을 올리다, (경쟁이나 논쟁의) 위험이나 중요성을 높이다",
+            "context": "Microsoft's latest investment in Anthropic clearly raises the stakes"
+          },
+          {
+            "word": "draw a line in the sand",
+            "meaning": "분명한 기준선/한계를 정하다, 더 이상 물러서지 않을 선을 긋다",
+            "context": "the EU AI Act prepares to draw a line in the sand for future innovation"
+          }
+        ]
+      },
       {
         "sentences": [
           "Google's latest Gemini Pro Max unveiling has effectively thrown down the gauntlet in the AI enterprise race, putting immense pressure on competitors to innovate further.",
@@ -137,6 +201,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With Southeast Asia's tourism sector **on the upswing**, bolstered by initiatives like Vietnam's expanded e-visa program, the region is proving to be **a golden goose** for many local economies.",
+          "However, this prosperity means we can't **bury our heads in the sand** regarding the urgent need for sustainable aviation fuel, a sentiment echoed by IATA."
+        ],
+        "sentenceTranslations": [
+          "베트남의 확대된 전자 비자 프로그램과 같은 계획에 힘입어 동남아시아 관광 부문이 **상승세에 접어들면서**, 이 지역은 많은 지역 경제에 **황금 알을 낳는 거위**가 되고 있습니다.",
+          "하지만 이러한 번영은 지속 가능한 항공 연료의 시급한 필요성을 외면할 수 없다는 것을 의미하며, 이는 IATA의 의견에서도 잘 드러납니다."
+        ],
+        "translationHighlights": [
+          "상승세에 접어들면서",
+          "황금 알을 낳는 거위",
+          "외면할 수 없다"
+        ],
+        "newWords": [
+          {
+            "word": "on the upswing",
+            "meaning": "상승세에 있는; 개선되고 있는",
+            "context": "Southeast Asia's tourism sector **on the upswing**"
+          },
+          {
+            "word": "a golden goose",
+            "meaning": "황금 알을 낳는 거위 (돈을 많이 벌게 해주는 귀중한 자산)",
+            "context": "the region is proving to be **a golden goose**"
+          },
+          {
+            "word": "bury our heads in the sand",
+            "meaning": "현실을 외면하다; 문제를 회피하다",
+            "context": "we can't **bury our heads in the sand**"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Despite the EU's ETIAS system being fully operational, some U.S. and Canadian travelers are still finding they need to jump through hoops to comply with its pre-departure requirements.",
           "Meanwhile, major airlines, having been thrown a curveball by aircraft delivery delays, are struggling to meet the incredibly robust demand for transatlantic flights, which appears to be holding steady come hell or high water."
         ],
@@ -170,6 +266,33 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Florida Atlantic, a No. 10 seed, proved they were no flash in the pan by stunning their opponents and advancing to the Sweet Sixteen.",
+          "To continue their improbable run against formidable Duke, this determined squad will truly have to punch above their weight for a shot at the Elite Eight."
+        ],
+        "sentenceTranslations": [
+          "10번 시드인 플로리다 애틀랜틱은 상대팀을 제압하고 스위트 식스틴에 진출하며 결코 한때의 반짝 스타가 아님을 증명했습니다.",
+          "막강한 듀크를 상대로 기적 같은 행진을 이어가기 위해, 이 결연한 팀은 엘리트 에이트 진출을 위해 진정으로 자신들보다 강한 상대를 이겨내야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "한때의 반짝 스타가 아님을 증명했습니다",
+          "기적 같은 행진을 이어가기 위해",
+          "자신들보다 강한 상대를 이겨내야 할 것입니다"
+        ],
+        "newWords": [
+          {
+            "word": "no flash in the pan",
+            "meaning": "한때의 반짝 성공이 아닌, 지속적인 성공을 거두는",
+            "context": "proved they were no flash in the pan"
+          },
+          {
+            "word": "punch above their weight",
+            "meaning": "자신보다 강한 상대나 더 큰 조직을 상대로 성공적으로 겨루다",
+            "context": "have to punch above their weight"
+          }
+        ]
+      },
       {
         "sentences": [
           "NC State's improbable run, culminating in their victory over Duke, has certainly thrown a wrench in the works for nearly every March Madness bracket.",
