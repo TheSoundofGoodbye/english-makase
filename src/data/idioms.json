@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The news of Kaiser Permanente piloting MindSync AI suggests we are **breaking new ground** in mental health support, though the ethical implications certainly **give many pause**.",
+          "Indeed, while such innovation promises to be a **game-changer**, critics rightly point out that AI in therapy could become a **double-edged sword** if user privacy isn't given top priority."
+        ],
+        "sentenceTranslations": [
+          "카이저 퍼머넌트가 MindSync AI를 시범 운영한다는 소식은 우리가 정신 건강 지원 분야에서 **새로운 지평을 열고 있다**는 것을 시사하지만, 윤리적 함의는 분명 많은 이들에게 **다시 생각할 여지**를 줍니다.",
+          "실제로, 이러한 혁신이 **판도를 바꿀 것**으로 기대되지만, 비평가들은 사용자 프라이버시가 최우선으로 고려되지 않으면 AI 치료가 **양날의 검**이 될 수 있다고 정당하게 지적합니다."
+        ],
+        "translationHighlights": [
+          "새로운 지평을 열고 있다",
+          "다시 생각할 여지",
+          "판도를 바꿀 것",
+          "양날의 검"
+        ],
+        "newWords": [
+          {
+            "word": "break new ground",
+            "meaning": "새로운 분야를 개척하다, 새로운 지평을 열다",
+            "context": "we are breaking new ground in mental health support"
+          },
+          {
+            "word": "give someone pause",
+            "meaning": "~를 멈칫하게 만들다, ~에게 다시 생각할 여지를 주다",
+            "context": "the ethical implications certainly give many pause"
+          },
+          {
+            "word": "double-edged sword",
+            "meaning": "양날의 검 (이점과 위험을 동시에 가진 것)",
+            "context": "AI in therapy could become a double-edged sword"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "By embracing AI-powered financial tools, Gen Z adults are clearly ahead of the curve in optimizing their daily spending and investment strategies.",
           "This proactive approach allows them to get their ducks in a row financially, ensuring they're well-prepared for long-term wealth building."
         ],
@@ -128,6 +161,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "The U.S. export restrictions could certainly throw a wrench in the works for some tech firms looking to expand globally, creating a palpable sense of uncertainty.",
+          "However, Nvidia's stellar earnings report suggests that for companies at the forefront of the AI compute arms race, it's still full steam ahead, largely bucking the trend of geopolitical friction."
+        ],
+        "sentenceTranslations": [
+          "미국의 수출 규제는 글로벌 확장을 모색하는 일부 기술 기업들에게 분명 계획에 차질을 줄 수 있으며, 상당한 불확실성을 조성하고 있습니다.",
+          "하지만, 엔비디아의 눈부신 실적 발표는 AI 컴퓨팅 경쟁의 선두에 있는 기업들에게는 여전히 전속력으로 나아가고 있음을 시사하며, 지정학적 마찰이라는 추세에 크게 역행하고 있습니다."
+        ],
+        "translationHighlights": [
+          "계획에 차질을 줄",
+          "전속력으로 나아가고 있음",
+          "추세에 크게 역행하고"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다, 진행을 방해하다",
+            "context": "throw a wrench in the works for some tech firms"
+          },
+          {
+            "word": "full steam ahead",
+            "meaning": "전속력으로 나아가다, 활기차게 진행되다",
+            "context": "it's still full steam ahead"
+          },
+          {
+            "word": "bucking the trend",
+            "meaning": "추세에 역행하다, 대세를 거스르다",
+            "context": "largely bucking the trend of geopolitical friction"
+          }
+        ]
+      },
       {
         "sentences": [
           "Given the sticky wicket of persistent inflation, the ECB chose to keep its powder dry, resisting calls for an immediate rate cut.",
@@ -262,6 +327,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The launch of Japan's digital nomad visa is truly a game changer, set to breathe new life into local economies and diversify its visitor demographic.",
+          "This initiative encourages remote workers to really get under the skin of Japanese culture, moving beyond superficial visits to foster a deeper, more sustainable exchange."
+        ],
+        "sentenceTranslations": [
+          "일본의 디지털 노마드 비자 출시는 진정 획기적인 변화를 가져올 것이며, 지역 경제에 활력을 불어넣고 방문객 인구 구성을 다양화할 것입니다.",
+          "이러한 정책은 원격 근무자들이 일본 문화를 정말 깊이 체험하도록 장려하여, 피상적인 방문을 넘어 더 깊고 지속 가능한 교류를 촉진할 것입니다."
+        ],
+        "translationHighlights": [
+          "획기적인 변화를 가져올 것",
+          "활력을 불어넣고",
+          "깊이 체험하도록 장려하여",
+          "지속 가능한 교류"
+        ],
+        "newWords": [
+          {
+            "word": "a game changer",
+            "meaning": "상황의 판도를 바꾸는 것; 획기적인 변화를 가져오는 것",
+            "context": "truly a game changer"
+          },
+          {
+            "word": "breathe new life into",
+            "meaning": "~에 새로운 활력을 불어넣다, 다시 살아나게 하다",
+            "context": "breathe new life into local economies"
+          },
+          {
+            "word": "get under the skin of",
+            "meaning": "~의 본질을 깊이 이해하다/경험하다; 내면까지 파고들다",
+            "context": "get under the skin of Japanese culture"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Despite the ETIAS system experiencing some growing pains on its launch day, the overall sentiment for a bustling summer travel season remains high.",
           "Indeed, with airlines seeing cultural heritage tours become a hot ticket, it seems the travel industry is truly hitting its stride."
         ],
@@ -360,6 +458,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "As early season hikers brave the unpredictable spring weather, those heading into the Colorado Rockies would be wise to batten down the hatches before hitting the trails.",
+          "Without proper preparation, adventurers could easily find themselves caught off guard by sudden late-season snowfalls or isolated thunderstorms, putting their safety on the line."
+        ],
+        "sentenceTranslations": [
+          "초봄 등산객들이 예측 불가능한 봄 날씨와 씨름하는 가운데, 콜로라도 로키산맥으로 향하는 사람들은 등산로에 나서기 전에 만반의 준비를 하는 것이 현명할 것입니다.",
+          "적절한 준비 없이는 모험가들이 갑작스러운 늦봄의 눈이나 고립된 뇌우에 쉽게 불시의 습격을 당해 안전을 위태롭게 할 수 있습니다."
+        ],
+        "translationHighlights": [
+          "만반의 준비를 하는 것이 현명할 것입니다",
+          "불시의 습격을 당해",
+          "안전을 위태롭게 할 수 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "batten down the hatches",
+            "meaning": "만반의 준비를 하다; 만일의 사태에 대비하다",
+            "context": "would be wise to batten down the hatches before hitting the trails"
+          },
+          {
+            "word": "caught off guard",
+            "meaning": "불시의 습격을 당하다; 방심한 틈을 타 공격받다",
+            "context": "could easily find themselves caught off guard by sudden late-season snowfalls"
+          },
+          {
+            "word": "on the line",
+            "meaning": "~이 위태로운, ~이 걸려있는",
+            "context": "putting their safety on the line"
+          }
+        ]
+      },
       {
         "sentences": [
           "France's thrilling Six Nations victory truly **came down to the wire**, keeping fans **on the edge of their seats** until the final whistle.",
