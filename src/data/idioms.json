@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The alarming 15% surge in 'screen fatigue burnout' suggests many young adults are feeling **run ragged** by the relentless digital demands of modern life.",
+          "While new tech like Apple's Watch Series 10 aims to ease this stress, platforms like Hinge are also trying to **cut through the noise** of digital interactions to foster authentic real-world connections."
+        ],
+        "sentenceTranslations": [
+          "‘스크린 피로 번아웃’이 15%나 급증했다는 충격적인 소식은 많은 젊은이들이 현대 생활의 끊임없는 디지털 요구에 **극도로 지쳐있다**는 것을 시사합니다.",
+          "애플 워치 시리즈 10 같은 새로운 기술이 이러한 스트레스를 완화하려 노력하는 한편, 힌지와 같은 플랫폼들도 디지털 교류의 **혼란 속에서 핵심을 꿰뚫어** 진정한 현실 세계의 관계를 육성하려고 애쓰고 있습니다."
+        ],
+        "translationHighlights": [
+          "극도로 지쳐있다",
+          "끊임없는 디지털 요구",
+          "혼란 속에서 핵심을 꿰뚫어",
+          "진정한 현실 세계의 관계"
+        ],
+        "newWords": [
+          {
+            "word": "run ragged",
+            "meaning": "극도로 지친, 녹초가 된",
+            "context": "are feeling run ragged by the relentless digital demands"
+          },
+          {
+            "word": "cut through the noise",
+            "meaning": "혼란 속에서 핵심을 꿰뚫다, 불필요한 것을 걸러내다",
+            "context": "trying to cut through the noise of digital interactions"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The news of Kaiser Permanente piloting MindSync AI suggests we are **breaking new ground** in mental health support, though the ethical implications certainly **give many pause**.",
           "Indeed, while such innovation promises to be a **game-changer**, critics rightly point out that AI in therapy could become a **double-edged sword** if user privacy isn't given top priority."
         ],
@@ -161,6 +189,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Global equity markets are currently navigating choppy waters, grappling with the ECB's hawkish stance and the added uncertainty from new WTO discussions on US steel tariffs.",
+          "This cautious global sentiment is also reflected in the AI sector, where venture capitalists are now putting their money where their mouth is, insisting on clear ROI and scalable commercialization, effectively separating the wheat from the chaff among startups."
+        ],
+        "sentenceTranslations": [
+          "전 세계 주식 시장은 유럽중앙은행의 매파적 태도와 미국 철강 관세에 대한 새로운 WTO 논의로 인한 불확실성까지 겹쳐 현재 험난한 시기를 헤쳐나가고 있습니다.",
+          "이러한 전 세계적인 신중한 분위기는 AI 부문에서도 나타나는데, 벤처 투자가들은 이제 말로만 하지 않고 실제로 투자하며 명확한 ROI와 확장 가능한 상업화를 요구하며, 스타트업들 사이에서 효과적으로 알짜와 쭉정이를 가려내고 있습니다."
+        ],
+        "translationHighlights": [
+          "험난한 시기를 헤쳐나가고 있습니다",
+          "말로만 하지 않고 실제로 투자하며",
+          "알짜와 쭉정이를 가려내고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "navigating choppy waters",
+            "meaning": "불확실하거나 어려운 상황을 헤쳐나가다, 험난한 시기를 보내다",
+            "context": "Global equity markets are currently navigating choppy waters"
+          },
+          {
+            "word": "putting their money where their mouth is",
+            "meaning": "말뿐만 아니라 실제 행동으로, 특히 돈을 써서 약속이나 신념을 증명하다",
+            "context": "venture capitalists are now putting their money where their mouth is"
+          },
+          {
+            "word": "separating the wheat from the chaff",
+            "meaning": "가치 있는 것과 가치 없는 것을 구분하다, 옥석을 가리다",
+            "context": "effectively separating the wheat from the chaff among startups"
+          }
+        ]
+      },
       {
         "sentences": [
           "The U.S. export restrictions could certainly throw a wrench in the works for some tech firms looking to expand globally, creating a palpable sense of uncertainty.",
@@ -327,6 +387,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With major carriers like Cathay Pacific still finding themselves up against the ropes due to persistent aircraft delivery delays, the sudden uptick in Southeast Asian travel demand is really making them feel the pinch.",
+          "However, this unforeseen challenge is proving to be a blessing in disguise for destinations actively encouraging travelers to go off the beaten path and seek out authentic, community-driven experiences."
+        ],
+        "sentenceTranslations": [
+          "Cathay Pacific과 같은 주요 항공사들이 지속적인 항공기 인도 지연으로 여전히 궁지에 몰려 있는 상황에서, 동남아시아 여행 수요의 갑작스러운 증가는 그들에게 상당한 재정적 압박을 가하고 있습니다.",
+          "하지만 이러한 예상치 못한 난관은 덜 알려진 곳을 찾아 진정성 있고 지역 사회 중심의 경험을 추구하도록 여행객들을 장려하는 목적지들에게는 오히려 전화위복이 되고 있습니다."
+        ],
+        "translationHighlights": [
+          "여전히 궁지에 몰려 있는 상황에서",
+          "상당한 재정적 압박을 가하고 있습니다",
+          "전화위복이 되고 있습니다",
+          "덜 알려진 곳을 찾아"
+        ],
+        "newWords": [
+          {
+            "word": "up against the ropes",
+            "meaning": "궁지에 몰린, 어려운 상황에 처한",
+            "context": "still finding themselves up against the ropes"
+          },
+          {
+            "word": "a blessing in disguise",
+            "meaning": "전화위복 (처음에는 불운처럼 보이나 결국에는 좋은 결과를 가져오는 것)",
+            "context": "proving to be a blessing in disguise"
+          },
+          {
+            "word": "go off the beaten path",
+            "meaning": "덜 알려진 곳으로 가다, 일반적인 길을 벗어나다",
+            "context": "encourage travelers to go off the beaten path"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The launch of Japan's digital nomad visa is truly a game changer, set to breathe new life into local economies and diversify its visitor demographic.",
           "This initiative encourages remote workers to really get under the skin of Japanese culture, moving beyond superficial visits to foster a deeper, more sustainable exchange."
         ],
@@ -458,6 +551,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The stunning upset at the Miami Open, with Sebastián Báez unexpectedly pulling the rug out from under world number two Jannik Sinner, definitely gave the tournament a jolt.",
+          "This kind of drama keeps things interesting, much like how esports, with the LCS continuing to go from strength to strength, is really hitting its stride in mainstream appeal."
+        ],
+        "sentenceTranslations": [
+          "마이애미 오픈에서 세바스티안 바에즈가 세계 랭킹 2위 야닉 시너를 예상치 못하게 꺾으며 그에게 큰 타격을 주었고, 이는 대회에 확실히 활력을 불어넣었습니다.",
+          "이러한 극적인 전개는 흥미를 더하며, LCS가 지속적으로 승승장구하면서 주류 인기를 얻는 데 탄력을 받고 있는 e스포츠의 상황과도 비슷합니다."
+        ],
+        "translationHighlights": [
+          "큰 타격을 주었고",
+          "활력을 불어넣었습니다",
+          "승승장구하면서",
+          "탄력을 받고 있는"
+        ],
+        "newWords": [
+          {
+            "word": "pull the rug out from under someone",
+            "meaning": "누군가에게 예상치 못한 큰 타격을 주다, 갑자기 지지기반을 흔들다",
+            "context": "pulling the rug out from under world number two Jannik Sinner"
+          },
+          {
+            "word": "go from strength to strength",
+            "meaning": "나날이 발전하다, 승승장구하다",
+            "context": "continuing to go from strength to strength"
+          },
+          {
+            "word": "hit its stride",
+            "meaning": "제 궤도에 오르다, 순조롭게 진행되다, 탄력을 받다",
+            "context": "is really hitting its stride in mainstream appeal"
+          }
+        ]
+      },
       {
         "sentences": [
           "As early season hikers brave the unpredictable spring weather, those heading into the Colorado Rockies would be wise to batten down the hatches before hitting the trails.",
