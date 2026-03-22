@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The continuous monitoring enabled by smart rings and watches is proving to be a real game changer in preventative health, empowering individuals to take a proactive stance.",
+          "This integration of real-time biometric data into virtual consultations truly helps people stay on top of their health, allowing them to nip potential issues in the bud before they escalate."
+        ],
+        "sentenceTranslations": [
+          "스마트 링과 워치를 통한 지속적인 모니터링은 예방 건강 분야에서 진정한 판도를 바꾸는 역할을 하고 있으며, 개인들이 주도적인 태도를 취할 수 있도록 힘을 실어주고 있습니다.",
+          "실시간 생체 데이터를 가상 상담에 통합하는 것은 사람들이 자신의 건강을 잘 관리하고, 잠재적인 문제가 커지기 전에 싹을 자를 수 있도록 진정으로 돕습니다."
+        ],
+        "translationHighlights": [
+          "판도를 바꾸는 역할을 하고 있으며",
+          "주도적인 태도를 취할 수 있도록 힘을 실어주고 있습니다",
+          "건강을 잘 관리하고",
+          "싹을 자를 수 있도록"
+        ],
+        "newWords": [
+          {
+            "word": "game changer",
+            "meaning": "판도를 바꾸는 것, 혁신적인 변화를 가져오는 것",
+            "context": "a real game changer in preventative health"
+          },
+          {
+            "word": "stay on top of",
+            "meaning": "잘 관리하다, 뒤처지지 않다",
+            "context": "helps people stay on top of their health"
+          },
+          {
+            "word": "nip something in the bud",
+            "meaning": "~의 싹을 자르다, 문제가 커지기 전에 막다",
+            "context": "nip potential issues in the bud"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The alarming 15% surge in 'screen fatigue burnout' suggests many young adults are feeling **run ragged** by the relentless digital demands of modern life.",
           "While new tech like Apple's Watch Series 10 aims to ease this stress, platforms like Hinge are also trying to **cut through the noise** of digital interactions to foster authentic real-world connections."
         ],
@@ -189,6 +222,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Google DeepMind, by throwing down the gauntlet with its Gemini Ultra update, has certainly intensified competition in the generative AI space, putting pressure on rivals to innovate quickly.",
+          "This relentless pace of innovation now forces G7 nations to walk a tightrope, balancing the need to foster technological advancement with the critical imperative of harmonizing robust data privacy and intellectual property regulations."
+        ],
+        "sentenceTranslations": [
+          "구글 딥마인드가 제미니 울트라 업데이트로 도전장을 던지면서, 생성형 AI 분야의 경쟁이 확실히 심화되었고, 경쟁사들은 빠르게 혁신해야 하는 압박을 받게 되었습니다.",
+          "이러한 끊임없는 혁신의 속도는 이제 G7 국가들로 하여금 기술 발전을 장려하는 필요성과 강력한 데이터 프라이버시 및 지적 재산권 규제를 조화롭게 만드는 중대한 책무 사이에서 아슬아슬한 줄타기를 하도록 만듭니다."
+        ],
+        "translationHighlights": [
+          "도전장을 던지면서",
+          "경쟁이 확실히 심화되었고",
+          "아슬아슬한 줄타기를 하도록",
+          "중대한 책무"
+        ],
+        "newWords": [
+          {
+            "word": "throw down the gauntlet",
+            "meaning": "도전장을 던지다, (경쟁)을 시작하다",
+            "context": "by throwing down the gauntlet with its Gemini Ultra update"
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다, 매우 신중하게 균형을 잡다",
+            "context": "forces G7 nations to walk a tightrope"
+          }
+        ]
+      },
       {
         "sentences": [
           "Global equity markets are currently navigating choppy waters, grappling with the ECB's hawkish stance and the added uncertainty from new WTO discussions on US steel tariffs.",
@@ -385,6 +446,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The record surge in tourist numbers across Southeast Asia suggests these destinations are truly riding high, especially with expanded flight capacities making them more accessible than ever.",
+          "Travelers eager to get a taste of authentic cultural experiences are seizing the moment, with Thailand's extended visa-free stay being a shot in the arm for those eyeing long visits around the Songkran festival."
+        ],
+        "sentenceTranslations": [
+          "동남아시아 전역의 기록적인 관광객 증가는 이 목적지들이 정말로 절정에 달해 있음을 보여줍니다. 특히 항공편 증설로 인해 접근성이 그 어느 때보다 좋아졌습니다.",
+          "진정한 문화 체험을 맛보고 싶어 하는 여행객들은 이 기회를 놓치지 않고 있습니다. 태국의 비자 면제 기간 연장은 송크란 축제 기간 동안 장기 체류를 계획하는 이들에게 큰 활력소가 되고 있습니다."
+        ],
+        "translationHighlights": [
+          "절정에 달해 있음을",
+          "이 기회를 놓치지 않고 있습니다",
+          "큰 활력소가 되고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "riding high",
+            "meaning": "승승장구하다, 절정에 달하다, 크게 성공하다",
+            "context": "destinations are truly riding high"
+          },
+          {
+            "word": "get a taste of",
+            "meaning": "~을 맛보다, ~을 경험하다",
+            "context": "eager to get a taste of authentic cultural experiences"
+          },
+          {
+            "word": "a shot in the arm",
+            "meaning": "큰 활력소, 원기 회복제",
+            "context": "being a shot in the arm"
+          }
+        ]
+      },
       {
         "sentences": [
           "With major carriers like Cathay Pacific still finding themselves up against the ropes due to persistent aircraft delivery delays, the sudden uptick in Southeast Asian travel demand is really making them feel the pinch.",
