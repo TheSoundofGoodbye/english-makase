@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Many U.S. workers, feeling the increased pressure from new AI tools, are starting to run ragged trying to keep up with the 'always on' culture.",
+          "To prevent widespread burnout, experts suggest companies like Deloitte need to help employees draw a line in the sand regarding their digital well-being before the issue truly comes to a head."
+        ],
+        "sentenceTranslations": [
+          "새로운 AI 도구로 인한 압박감에 시달리는 많은 미국 직장인들이 '항상 연결된' 문화에 발맞추려다 점차 지쳐 나가떨어지고 있습니다.",
+          "광범위한 번아웃을 방지하기 위해, 전문가들은 딜로이트와 같은 기업들이 문제가 정말 극에 달하기 전에, 직원들이 디지털 웰빙에 대한 명확한 경계를 설정하도록 도와야 한다고 제안합니다."
+        ],
+        "translationHighlights": [
+          "지쳐 나가떨어지고 있습니다",
+          "'항상 연결된' 문화",
+          "명확한 경계를 설정하도록",
+          "문제가 정말 극에 달하기 전에"
+        ],
+        "newWords": [
+          {
+            "word": "run ragged",
+            "meaning": "지쳐 나가떨어지다 (과도한 일이나 활동으로 인해 매우 지치다)",
+            "context": "are starting to run ragged trying to keep up"
+          },
+          {
+            "word": "draw a line in the sand",
+            "meaning": "명확한 한계를 정하다, 선을 긋다 (더 이상 용납할 수 없는 분명한 한계나 규칙을 정하다)",
+            "context": "need to help employees draw a line in the sand"
+          },
+          {
+            "word": "come to a head",
+            "meaning": "극에 달하다, 위기에 봉착하다 (문제나 상황이 절정에 달하거나 결정을 내려야 할 시점에 이르다)",
+            "context": "before the issue truly comes to a head"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The continuous monitoring enabled by smart rings and watches is proving to be a real game changer in preventative health, empowering individuals to take a proactive stance.",
           "This integration of real-time biometric data into virtual consultations truly helps people stay on top of their health, allowing them to nip potential issues in the bud before they escalate."
         ],
@@ -222,6 +255,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "The G7's impending restrictions on dual-use semiconductor technology are poised to throw a wrench in the works of Beijing's critical AI and defense advancements.",
+          "Consequently, Chinese tech giants may find themselves needing to reinvent the wheel for certain applications to circumvent these curbs and stay competitive."
+        ],
+        "sentenceTranslations": [
+          "G7의 이중 용도 반도체 기술 수출에 대한 임박한 제재는 베이징의 핵심 AI 및 방어 역량 발전에 제동을 걸 것으로 보입니다.",
+          "그 결과, 중국 기술 대기업들은 이러한 제재를 우회하고 경쟁력을 유지하기 위해 특정 애플리케이션에 대해 기존 방식을 완전히 새롭게 고안해야 할 수도 있습니다."
+        ],
+        "translationHighlights": [
+          "제동을 걸 것으로 보입니다",
+          "핵심 AI 및 방어 역량",
+          "기존 방식을 완전히 새롭게 고안해야 할 수도 있습니다",
+          "경쟁력을 유지하기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다, 방해하다, 제동을 걸다",
+            "context": "are poised to throw a wrench in the works of Beijing's critical AI and defense advancements"
+          },
+          {
+            "word": "reinvent the wheel",
+            "meaning": "이미 존재하는 것을 불필요하게 다시 만들다, 기존 방식을 완전히 새롭게 고안하다",
+            "context": "may find themselves needing to reinvent the wheel for certain applications"
+          }
+        ]
+      },
       {
         "sentences": [
           "Google DeepMind, by throwing down the gauntlet with its Gemini Ultra update, has certainly intensified competition in the generative AI space, putting pressure on rivals to innovate quickly.",
@@ -446,6 +507,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Palau is truly walking the talk with its innovative 'Pledge for the Future' visa, requiring tourists to actively participate in conservation and cultural exchange programs.",
+          "Elsewhere, Southeast Asian nations are greasing the wheels for regional tourism, hoping their unified digital visa platform will help them gain an edge over traditional European and North American destinations."
+        ],
+        "sentenceTranslations": [
+          "팔라우는 혁신적인 '미래를 위한 서약' 비자로 방문객들에게 보존 및 문화 교류 프로그램에 적극적으로 참여하도록 요구하며, 정말로 말뿐이 아니라 행동으로 보여주고 있습니다.",
+          "한편, 동남아시아 국가들은 통합 디지털 비자 플랫폼으로 지역 관광의 진행을 원활하게 하려 하고 있으며, 이를 통해 전통적인 유럽 및 북미 목적지에 비해 경쟁 우위를 확보하기를 기대하고 있습니다."
+        ],
+        "translationHighlights": [
+          "말뿐이 아니라 행동으로 보여주고 있습니다",
+          "진행을 원활하게 하려",
+          "경쟁 우위를 확보하기를"
+        ],
+        "newWords": [
+          {
+            "word": "walking the talk",
+            "meaning": "말한 대로 행동하다, 실천하다",
+            "context": "Palau is truly walking the talk with its innovative 'Pledge for the Future' visa"
+          },
+          {
+            "word": "greasing the wheels",
+            "meaning": "일이 순조롭게 진행되도록 돕다, 원활하게 하다",
+            "context": "Southeast Asian nations are greasing the wheels for regional tourism"
+          },
+          {
+            "word": "gain an edge",
+            "meaning": "경쟁 우위를 확보하다, 우위를 점하다",
+            "context": "help them gain an edge over traditional European and North American destinations"
+          }
+        ]
+      },
       {
         "sentences": [
           "The record surge in tourist numbers across Southeast Asia suggests these destinations are truly riding high, especially with expanded flight capacities making them more accessible than ever.",
