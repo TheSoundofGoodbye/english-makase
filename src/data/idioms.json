@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "As AI's rapid advancements signal a sea change in white-collar employment, many professionals find themselves needing to read the tea leaves to navigate their career paths.",
+          "Consequently, leveraging tools like WealthWise AI to get one's financial ducks in a row is becoming a vital strategy for staying ahead of the curve."
+        ],
+        "sentenceTranslations": [
+          "AI의 급속한 발전이 화이트칼라 직업 시장에 거대한 변화를 예고하면서, 많은 전문가들이 앞으로의 경력 경로를 예측하기 위해 상황을 면밀히 주시하고 있습니다.",
+          "결과적으로, WealthWise AI와 같은 도구를 활용하여 재정을 깔끔하게 정리하는 것이 시대의 흐름에 발맞춰 앞서나가기 위한 핵심 전략이 되고 있습니다."
+        ],
+        "translationHighlights": [
+          "거대한 변화",
+          "상황을 면밀히 주시하고 있습니다",
+          "재정을 깔끔하게 정리하는 것",
+          "시대의 흐름에 발맞춰 앞서나가기 위한"
+        ],
+        "newWords": [
+          {
+            "word": "a sea change",
+            "meaning": "거대한 변화, 대변혁",
+            "context": "signal a sea change in white-collar employment"
+          },
+          {
+            "word": "read the tea leaves",
+            "meaning": "상황을 예견하다, 미래를 예측하다",
+            "context": "needing to read the tea leaves to navigate their career paths"
+          },
+          {
+            "word": "get one's financial ducks in a row",
+            "meaning": "만반의 재정 준비를 하다, 재정을 깔끔하게 정리하다",
+            "context": "to get one's financial ducks in a row"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Many U.S. workers, feeling the increased pressure from new AI tools, are starting to run ragged trying to keep up with the 'always on' culture.",
           "To prevent widespread burnout, experts suggest companies like Deloitte need to help employees draw a line in the sand regarding their digital well-being before the issue truly comes to a head."
         ],
@@ -257,6 +290,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Global markets are trying to read the tea leaves from the Federal Reserve's ambiguous signals on interest rates, as investors grapple with persistent inflation concerns.",
+          "Despite this cautious sentiment, analysts anticipate that robust AI integration will undeniably move the needle for S&P 500 earnings growth, exceeding 12% in 2026."
+        ],
+        "sentenceTranslations": [
+          "투자자들이 지속적인 인플레이션 우려로 고심하는 가운데, 글로벌 시장은 연방준비제도(Fed)의 모호한 금리 신호에서 미래를 읽어내려 노력하고 있습니다.",
+          "이러한 조심스러운 분위기에도 불구하고, 애널리스트들은 강력한 AI 통합이 2026년 S&P 500 기업의 수익 성장에 확실히 큰 변화를 가져올 것으로 예상하며 12%를 초과할 것이라고 전망합니다."
+        ],
+        "translationHighlights": [
+          "미래를 읽어내려",
+          "모호한 금리 신호",
+          "강력한 AI 통합",
+          "큰 변화를 가져올"
+        ],
+        "newWords": [
+          {
+            "word": "read the tea leaves",
+            "meaning": "미래를 예측하다 (주로 애매한 징후를 통해)",
+            "context": "trying to read the tea leaves from the Federal Reserve's ambiguous signals"
+          },
+          {
+            "word": "move the needle",
+            "meaning": "큰 변화를 가져오다, 상황에 중대한 영향을 미치다",
+            "context": "will undeniably move the needle for S&P 500 earnings growth"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The G7's impending restrictions on dual-use semiconductor technology are poised to throw a wrench in the works of Beijing's critical AI and defense advancements.",
           "Consequently, Chinese tech giants may find themselves needing to reinvent the wheel for certain applications to circumvent these curbs and stay competitive."
         ],
@@ -509,6 +570,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Despite extensive pre-implementation advisories, the new ETIAS system seems to be throwing a wrench in the works for some non-EU travelers, creating initial snags at major European hubs.",
+          "This serves as a fresh reminder that even with careful planning, implementing such a broad system can still hit a few bumps in the road before it truly runs like clockwork."
+        ],
+        "sentenceTranslations": [
+          "광범위한 사전 공지에도 불구하고, 새로운 ETIAS 시스템이 일부 비EU 여행객들에게 예상치 못한 문제를 일으키며, 주요 유럽 허브 공항에서 초기 혼란을 야기하고 있는 것으로 보입니다.",
+          "이는 아무리 철저한 계획을 세운다 해도, 이처럼 광범위한 시스템을 도입하는 과정에서는 완벽하게 안착하기까지 몇 가지 난관에 부딪힐 수 있다는 점을 다시금 일깨워줍니다."
+        ],
+        "translationHighlights": [
+          "예상치 못한 문제를 일으키며",
+          "초기 혼란을 야기하고 있는 것으로 보입니다",
+          "몇 가지 난관에 부딪힐 수 있다",
+          "다시금 일깨워줍니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "예상치 못한 문제를 일으키다, 계획을 방해하다",
+            "context": "seems to be throwing a wrench in the works for some non-EU travelers"
+          },
+          {
+            "word": "hit a few bumps in the road",
+            "meaning": "몇 가지 난관에 부딪히다, 작은 어려움을 겪다",
+            "context": "can still hit a few bumps in the road before it truly runs smoothly"
+          },
+          {
+            "word": "run like clockwork",
+            "meaning": "정확하고 순조롭게 작동하다",
+            "context": "before it truly runs like clockwork"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Palau is truly walking the talk with its innovative 'Pledge for the Future' visa, requiring tourists to actively participate in conservation and cultural exchange programs.",
           "Elsewhere, Southeast Asian nations are greasing the wheels for regional tourism, hoping their unified digital visa platform will help them gain an edge over traditional European and North American destinations."
         ],
@@ -737,6 +831,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Having achieved his Olympic dreams, Nathan Chen is now ready to **turn over a new leaf**, exploring challenges beyond the competitive ice rink.",
+          "Meanwhile, T1 is proving to be **a cut above the rest** in the LCK Spring Split, and Patagonia continues to **push the envelope** with their groundbreaking eco-friendly gear."
+        ],
+        "sentenceTranslations": [
+          "올림픽이라는 꿈을 이룬 후, 네이선 첸은 이제 경쟁 아이스링크를 넘어선 도전을 탐색하며 **새로운 장을 열 준비를 하고 있습니다**.",
+          "한편, LCK 스프링 스플릿에서 T1은 **타의 추종을 불허하는 기량을 보여주고 있으며**, 파타고니아는 획기적인 친환경 장비로 계속해서 **혁신의 한계를 뛰어넘고 있습니다**."
+        ],
+        "translationHighlights": [
+          "새로운 장을 열 준비를 하고 있습니다",
+          "타의 추종을 불허하는 기량을 보여주고 있으며",
+          "혁신의 한계를 뛰어넘고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "turn over a new leaf",
+            "meaning": "새로운 장을 열다, 새롭게 시작하다",
+            "context": "Nathan Chen is now ready to turn over a new leaf"
+          },
+          {
+            "word": "a cut above the rest",
+            "meaning": "다른 사람들보다 한 수 위인, 월등한",
+            "context": "T1 is proving to be a cut above the rest"
+          },
+          {
+            "word": "push the envelope",
+            "meaning": "한계를 뛰어넘다, 새로운 가능성을 탐구하다",
+            "context": "Patagonia continues to push the envelope"
+          }
+        ]
+      },
       {
         "sentences": [
           "The stunning upset at the Miami Open, with Sebastián Báez unexpectedly pulling the rug out from under world number two Jannik Sinner, definitely gave the tournament a jolt.",
