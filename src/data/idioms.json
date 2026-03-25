@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The rapid adoption of AI investment tools by Gen Z is proving to be a double-edged sword, offering convenience but also veiled risks due to their opaque algorithms.",
+          "Financial regulators are now racing against time to get a handle on these intricate systems, acutely aware that the market could soon be skating on thin ice without robust transparency."
+        ],
+        "sentenceTranslations": [
+          "Z세대의 AI 투자 도구 급속한 채택은 편의성을 제공하지만 불투명한 알고리즘으로 인해 숨겨진 위험도 안고 있어 양날의 검이 되고 있습니다.",
+          "금융 규제 기관들은 이 복잡한 시스템들을 제대로 파악하기 위해 시간과 싸우고 있으며, 견고한 투명성 없이는 시장이 곧 위태로운 상황에 처할 수 있음을 절감하고 있습니다."
+        ],
+        "translationHighlights": [
+          "양날의 검",
+          "숨겨진 위험",
+          "제대로 파악하기 위해",
+          "위태로운 상황에 처할 수 있음"
+        ],
+        "newWords": [
+          {
+            "word": "double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가진 것)",
+            "context": "proving to be a double-edged sword"
+          },
+          {
+            "word": "get a handle on",
+            "meaning": "무엇을 이해하거나 통제하다, 다루는 법을 알게 되다",
+            "context": "to get a handle on these intricate systems"
+          },
+          {
+            "word": "skate on thin ice",
+            "meaning": "위태로운 상황에 처하다, 위험한 일을 하다",
+            "context": "could soon be skating on thin ice"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As AI's rapid advancements signal a sea change in white-collar employment, many professionals find themselves needing to read the tea leaves to navigate their career paths.",
           "Consequently, leveraging tools like WealthWise AI to get one's financial ducks in a row is becoming a vital strategy for staying ahead of the curve."
         ],
@@ -290,6 +323,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With Gemini Ultra 2, Google DeepMind has truly upped the ante in the AI arms race, signaling a new era for complex enterprise applications.",
+          "While many businesses are eager to hit the ground running with these advanced solutions, the EU's move to draw a line in the sand on data sovereignty suggests a cautious path ahead."
+        ],
+        "sentenceTranslations": [
+          "제미니 울트라 2의 출시로 구글 딥마인드는 AI 경쟁의 판돈을 확실히 올렸으며, 복잡한 기업용 애플리케이션의 새로운 시대를 알리고 있습니다.",
+          "많은 기업들이 이러한 첨단 솔루션을 당장이라도 시작하고 싶어 하지만, EU가 데이터 주권에 대해 분명한 선을 긋겠다는 움직임은 신중한 미래를 암시합니다."
+        ],
+        "translationHighlights": [
+          "AI 경쟁의 판돈을 확실히 올렸으며",
+          "새로운 시대를 알리고 있습니다",
+          "당장이라도 시작하고 싶어 하지만",
+          "분명한 선을 긋겠다는 움직임"
+        ],
+        "newWords": [
+          {
+            "word": "up the ante",
+            "meaning": "판돈을 올리다, (비유적으로) 경쟁이나 요구 수준을 높이다",
+            "context": "truly upped the ante in the AI arms race"
+          },
+          {
+            "word": "hit the ground running",
+            "meaning": "바로 일을 시작하다, 즉시 효과를 내다, 빠르게 적응하다",
+            "context": "eager to hit the ground running with these advanced solutions"
+          },
+          {
+            "word": "draw a line in the sand",
+            "meaning": "분명한 한계나 기준을 정하다, 더 이상 물러서지 않을 선을 긋다",
+            "context": "move to draw a line in the sand on data sovereignty"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Global markets are trying to read the tea leaves from the Federal Reserve's ambiguous signals on interest rates, as investors grapple with persistent inflation concerns.",
           "Despite this cautious sentiment, analysts anticipate that robust AI integration will undeniably move the needle for S&P 500 earnings growth, exceeding 12% in 2026."
         ],
@@ -568,6 +634,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Japan is certainly riding the crest of a wave with its weak yen attracting a surge of Golden Week tourists, showing the power of favorable conditions.",
+          "Meanwhile, the German Tourism Board is reading the tea leaves, wisely pivoting to immersive cultural experiences as travelers increasingly look beyond mainstream attractions."
+        ],
+        "sentenceTranslations": [
+          "일본은 약화된 엔화로 골든 위크 관광객이 급증하며 확실히 전성기를 누리고 있으며, 유리한 조건의 힘을 보여주고 있습니다.",
+          "한편, 독일 관광청은 여행객들이 주류 명소를 넘어 새로운 것을 찾아 나서면서 현명하게 판세를 읽고 문화 체험으로 방향을 전환하고 있습니다."
+        ],
+        "translationHighlights": [
+          "전성기를 누리고 있으며",
+          "약화된 엔화로",
+          "판세를 읽고",
+          "문화 체험으로 방향을 전환하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "전성기를 누리다, 큰 성공을 거두다",
+            "context": "Japan is certainly **riding the crest of a wave** with its weak yen"
+          },
+          {
+            "word": "reading the tea leaves",
+            "meaning": "판세를 읽다, 미래를 예측하다",
+            "context": "the German Tourism Board is **reading the tea leaves**, wisely pivoting"
+          }
+        ]
+      },
       {
         "sentences": [
           "Despite extensive pre-implementation advisories, the new ETIAS system seems to be throwing a wrench in the works for some non-EU travelers, creating initial snags at major European hubs.",
