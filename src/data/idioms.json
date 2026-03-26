@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The European Centre for Data Protection is pushing for tech giants to pull back the curtain on how their AI wellness apps handle deeply personal health data.",
+          "While the convenience is tempting, the privacy concerns mean this whole AI wellness trend could easily open a Pandora's box if not handled with utmost care."
+        ],
+        "sentenceTranslations": [
+          "유럽 데이터 보호 센터는 기술 대기업들이 AI 웰니스 앱이 개인 건강 데이터를 어떻게 다루는지에 대해 베일(장막)을 걷어내라고 압박하고 있습니다.",
+          "편리함이 유혹적이지만, 사생활 보호 문제는 이 AI 웰니스 트렌드가 최대한의 주의를 기울이지 않으면 쉽게 판도라의 상자를 열 수도 있다는 것을 의미합니다."
+        ],
+        "translationHighlights": [
+          "베일(장막)을 걷어내라고 압박하고 있습니다",
+          "개인 건강 데이터를 어떻게 다루는지",
+          "판도라의 상자를 열 수도",
+          "최대한의 주의를 기울이지 않으면"
+        ],
+        "newWords": [
+          {
+            "word": "pull back the curtain",
+            "meaning": "비밀이나 숨겨진 정보를 드러내다, 실체를 밝히다",
+            "context": "to pull back the curtain on how their AI wellness apps handle..."
+          },
+          {
+            "word": "open a Pandora's box",
+            "meaning": "예상치 못한 많은 문제나 재앙을 초래하다",
+            "context": "could easily open a Pandora's box if not handled with utmost care"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The rapid adoption of AI investment tools by Gen Z is proving to be a double-edged sword, offering convenience but also veiled risks due to their opaque algorithms.",
           "Financial regulators are now racing against time to get a handle on these intricate systems, acutely aware that the market could soon be skating on thin ice without robust transparency."
         ],
@@ -323,6 +351,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "NVIDIA's bold acquisition of Cerebras, a real shot in the arm for its enterprise AI ambitions, shows how big players are upping the ante in high-performance computing.",
+          "However, smaller European generative AI firms must now thread the needle carefully, navigating the EU AI Act's strict mandates while trying to maintain their competitive edge."
+        ],
+        "sentenceTranslations": [
+          "NVIDIA가 Cerebras를 과감하게 인수한 것은 기업 AI 사업에 큰 활력소가 되었으며, 이는 주요 기업들이 고성능 컴퓨팅 분야에서 경쟁의 강도를 높이고 있음을 보여줍니다.",
+          "하지만 유럽의 소규모 생성형 AI 기업들은 이제 EU AI 법의 엄격한 규제를 준수하면서도 경쟁 우위를 유지하기 위해 신중하게 난관을 헤쳐나가야 합니다."
+        ],
+        "translationHighlights": [
+          "큰 활력소",
+          "경쟁의 강도를 높이고 있음을",
+          "신중하게 난관을 헤쳐나가야 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "a real shot in the arm",
+            "meaning": "큰 활력소, 기력 회복제 (새로운 힘이나 격려를 주는 것)",
+            "context": "a real shot in the arm for its enterprise AI ambitions"
+          },
+          {
+            "word": "upping the ante",
+            "meaning": "경쟁의 강도를 높이다, 판돈을 올리다 (요구나 위험을 증가시켜 이점을 얻으려는 행동)",
+            "context": "big players are upping the ante"
+          },
+          {
+            "word": "thread the needle",
+            "meaning": "난관을 신중하게 헤쳐나가다, 아슬아슬하게 통과하다 (어렵거나 미묘한 상황에서 아주 신중하고 정확한 행동 방침을 선택하다)",
+            "context": "must now thread the needle carefully"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With Gemini Ultra 2, Google DeepMind has truly upped the ante in the AI arms race, signaling a new era for complex enterprise applications.",
           "While many businesses are eager to hit the ground running with these advanced solutions, the EU's move to draw a line in the sand on data sovereignty suggests a cautious path ahead."
         ],
@@ -636,6 +696,44 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With NEOM's Sindalah Island projected to welcome guests ahead of schedule, Saudi Arabia's ambitious tourism expansion is truly **hitting its stride**, prompting Gulf carriers like Qatar Airways to **strike while the iron's hot** by significantly increasing flights.",
+          "However, the UNWTO's cautionary note reminds us that this exponential growth can be a **double-edged sword**, as neglecting environmental and cultural preservation could ultimately **kill the goose that lays the golden eggs** for long-term viability."
+        ],
+        "sentenceTranslations": [
+          "NEOM의 신달라 섬이 예상보다 일찍 손님을 맞이할 것으로 예상되면서, 사우디아라비아의 야심 찬 관광 확장은 진정으로 **본궤도에 오르고 있으며**, 카타르 항공과 같은 걸프 항공사들은 **기회를 놓치지 않고** 항공편을 대폭 증편하고 있습니다.",
+          "하지만 UNWTO의 경고는 이러한 기하급수적인 성장이 **양날의 검**이 될 수 있음을 상기시켜 줍니다. 환경 및 문화 보존을 소홀히 할 경우, 장기적인 지속가능성을 위한 **황금알을 낳는 거위를 죽이는 격**이 될 수 있기 때문입니다."
+        ],
+        "translationHighlights": [
+          "본궤도에 오르고 있으며",
+          "기회를 놓치지 않고",
+          "양날의 검",
+          "황금알을 낳는 거위를 죽이는 격"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "본궤도에 오르다, 순조롭게 진행되다",
+            "context": "Saudi Arabia's ambitious tourism expansion is truly **hitting its stride**"
+          },
+          {
+            "word": "strike while the iron's hot",
+            "meaning": "기회를 놓치지 않다, 때가 왔을 때 잡다",
+            "context": "to **strike while the iron's hot** by significantly increasing flights."
+          },
+          {
+            "word": "double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가짐)",
+            "context": "this exponential growth can be a **double-edged sword**"
+          },
+          {
+            "word": "kill the goose that lays the golden eggs",
+            "meaning": "황금알을 낳는 거위를 죽이다 (단기적인 이익을 위해 장기적인 이득을 해치다)",
+            "context": "could ultimately **kill the goose that lays the golden eggs**"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Japan is certainly riding the crest of a wave with its weak yen attracting a surge of Golden Week tourists, showing the power of favorable conditions.",
           "Meanwhile, the German Tourism Board is reading the tea leaves, wisely pivoting to immersive cultural experiences as travelers increasingly look beyond mainstream attractions."
         ],
@@ -925,6 +1023,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Despite securing P2, Max Verstappen's frustration over persistent KERS issues shows these reliability problems are a fly in the ointment for Red Bull Racing's title defense.",
+          "They'll need to pull out all the stops to iron out these kinks before the competition gets too hot to handle."
+        ],
+        "sentenceTranslations": [
+          "2위를 확보했음에도 불구하고, 맥스 베르스타펜이 끈질긴 KERS 문제에 대해 좌절감을 드러낸 것은, 이 신뢰성 문제가 레드불 레이싱의 타이틀 방어에 있어 옥에 티라는 것을 보여줍니다.",
+          "경쟁이 감당할 수 없을 정도로 치열해지기 전에, 그들은 이 문제들을 해결하기 위해 모든 노력을 기울여야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "옥에 티",
+          "모든 노력을 기울여야 할 것입니다",
+          "이 문제들을 해결하기 위해",
+          "감당할 수 없을 정도로 치열해지기 전에"
+        ],
+        "newWords": [
+          {
+            "word": "a fly in the ointment",
+            "meaning": "옥에 티, 작은 흠이나 문제점",
+            "context": "these reliability problems are a fly in the ointment"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 노력을 다하다, 총력을 기울이다",
+            "context": "They'll need to pull out all the stops"
+          },
+          {
+            "word": "iron out these kinks",
+            "meaning": "사소한 문제들을 해결하다, 곤란한 점들을 바로잡다",
+            "context": "to iron out these kinks"
+          }
+        ]
+      },
       {
         "sentences": [
           "Having achieved his Olympic dreams, Nathan Chen is now ready to **turn over a new leaf**, exploring challenges beyond the competitive ice rink.",
