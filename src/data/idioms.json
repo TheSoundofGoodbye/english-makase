@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The digital longevity trend, fueled by cutting-edge health wearables, is really starting to gather steam, offering users unprecedented insights into their bodies.",
+          "However, without robust regulation to protect such intimate data, privacy advocates fear we might be opening a Pandora's box of security risks down the line."
+        ],
+        "sentenceTranslations": [
+          "최첨단 건강 웨어러블 기기 덕분에 '디지털 장수' 트렌드가 본격적으로 탄력을 받고 있어, 사용자들에게 신체에 대한 전례 없는 통찰력을 제공하고 있습니다.",
+          "하지만 이렇게 사적인 데이터 보호를 위한 강력한 규제가 없다면, 사생활 옹호자들은 우리가 미래에 보안 위험의 판도라의 상자를 열게 될까 봐 우려하고 있습니다."
+        ],
+        "translationHighlights": [
+          "탄력을 받고 있어",
+          "전례 없는 통찰력",
+          "강력한 규제",
+          "판도라의 상자를 열게 될까 봐"
+        ],
+        "newWords": [
+          {
+            "word": "gather steam",
+            "meaning": "탄력을 받다, 기세가 오르다, 속도가 붙다",
+            "context": "is really starting to gather steam"
+          },
+          {
+            "word": "opening a Pandora's box",
+            "meaning": "판도라의 상자를 열다 (예상치 못한 많은 문제나 재앙을 초래하다)",
+            "context": "we might be opening a Pandora's box"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The European Centre for Data Protection is pushing for tech giants to pull back the curtain on how their AI wellness apps handle deeply personal health data.",
           "While the convenience is tempting, the privacy concerns mean this whole AI wellness trend could easily open a Pandora's box if not handled with utmost care."
         ],
@@ -351,6 +379,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Nvidia's new AI GPU is undoubtedly spurring a significant rally, but rising geopolitical tensions are already casting a long shadow over the tech sector's otherwise bullish outlook.",
+          "This leaves global chip suppliers like TSMC between a rock and a hard place, as they must carefully navigate geopolitical crosscurrents while still pushing the envelope in AI innovation."
+        ],
+        "sentenceTranslations": [
+          "엔비디아의 새로운 AI GPU가 분명 상당한 시장 반등을 촉발하고 있지만, 고조되는 지정학적 긴장은 기술 부문의 낙관적인 전망에 이미 어두운 그림자를 드리우고 있습니다.",
+          "이로 인해 TSMC와 같은 글로벌 칩 공급업체들은 진퇴양난에 빠져, 지정학적 역풍을 신중하게 헤쳐나가면서도 AI 혁신의 한계를 계속 확장해야 하는 상황입니다."
+        ],
+        "translationHighlights": [
+          "어두운 그림자를 드리우고 있습니다",
+          "낙관적인 전망",
+          "진퇴양난에 빠져",
+          "지정학적 역풍"
+        ],
+        "newWords": [
+          {
+            "word": "casting a long shadow",
+            "meaning": "오랜 기간 부정적인 영향을 미치다, 어두운 그림자를 드리우다",
+            "context": "are already casting a long shadow over the tech sector's otherwise bullish outlook"
+          },
+          {
+            "word": "between a rock and a hard place",
+            "meaning": "진퇴양난에 빠진, 이러지도 저러지도 못하는 상황에 처한",
+            "context": "This leaves global chip suppliers like TSMC between a rock and a hard place"
+          },
+          {
+            "word": "pushing the envelope",
+            "meaning": "한계를 뛰어넘다, 혁신을 추구하다",
+            "context": "while still pushing the envelope in AI innovation"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "NVIDIA's bold acquisition of Cerebras, a real shot in the arm for its enterprise AI ambitions, shows how big players are upping the ante in high-performance computing.",
           "However, smaller European generative AI firms must now thread the needle carefully, navigating the EU AI Act's strict mandates while trying to maintain their competitive edge."
         ],
@@ -694,6 +755,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Lufthansa is clearly trying to get ahead of the curve with its accelerated SAF program, anticipating future environmental regulations and passenger expectations for greener travel.",
+          "However, for regions like Kyushu, the unprecedented surge in visitors is proving to be a double-edged sword, as officials grapple with managing overtourism while maintaining its appeal."
+        ],
+        "sentenceTranslations": [
+          "루프트한자는 가속화된 SAF 프로그램으로 미래 환경 규제와 친환경 여행에 대한 승객들의 기대를 예측하며 확실히 시대를 앞서가려고 노력하고 있습니다.",
+          "하지만 큐슈와 같은 지역에서는 전례 없는 방문객 급증이 양날의 검으로 작용하여, 관광 관계자들이 매력을 유지하면서도 과잉 관광을 관리하는 데 고심하고 있습니다."
+        ],
+        "translationHighlights": [
+          "시대를 앞서가려고 노력하고 있습니다",
+          "양날의 검으로 작용하여",
+          "과잉 관광을 관리하는 데 고심하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "get ahead of the curve",
+            "meaning": "미래를 예측하고 다른 사람들보다 먼저 행동하거나 준비하다; 시대를 앞서가다",
+            "context": "trying to get ahead of the curve with its accelerated SAF program"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "긍정적인 면과 부정적인 면을 동시에 가진 것; 양날의 검",
+            "context": "the unprecedented surge in visitors is proving to be a double-edged sword"
+          },
+          {
+            "word": "grapple with",
+            "meaning": "~을 해결하려고 고심하다; ~와 씨름하다",
+            "context": "as officials grapple with managing overtourism"
+          }
+        ]
+      },
       {
         "sentences": [
           "With NEOM's Sindalah Island projected to welcome guests ahead of schedule, Saudi Arabia's ambitious tourism expansion is truly **hitting its stride**, prompting Gulf carriers like Qatar Airways to **strike while the iron's hot** by significantly increasing flights.",
