@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The personalized health tech boom means the genie is truly out of the bottle, fundamentally changing how we approach wellness.",
+          "With engagement rates soaring due to tangible results, this hyper-individualized approach is set to pick up even more steam."
+        ],
+        "sentenceTranslations": [
+          "맞춤형 건강 기술의 급증은 이제 돌이킬 수 없는 흐름이 되었고, 우리가 건강 관리에 접근하는 방식을 근본적으로 바꾸고 있습니다.",
+          "눈에 보이는 결과로 참여율이 치솟으면서, 이러한 초개인화된 접근 방식은 앞으로 더욱 탄력을 받을 것으로 보입니다."
+        ],
+        "translationHighlights": [
+          "돌이킬 수 없는 흐름이 되었고",
+          "건강 관리에 접근하는 방식을 근본적으로 바꾸고 있습니다",
+          "참여율이 치솟으면서",
+          "더욱 탄력을 받을 것으로 보입니다"
+        ],
+        "newWords": [
+          {
+            "word": "the genie is out of the bottle",
+            "meaning": "일단 시작된 일은 되돌릴 수 없다는 의미 (판도라의 상자가 열린 격)",
+            "context": "the genie is truly out of the bottle"
+          },
+          {
+            "word": "pick up steam",
+            "meaning": "점점 더 활기를 띠다, 가속화되다",
+            "context": "set to pick up even more steam"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The digital longevity trend, fueled by cutting-edge health wearables, is really starting to gather steam, offering users unprecedented insights into their bodies.",
           "However, without robust regulation to protect such intimate data, privacy advocates fear we might be opening a Pandora's box of security risks down the line."
         ],
@@ -377,6 +405,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Anthropic's new \"Claude 3.5\" model, with its enhanced long-context reasoning, truly raises the bar in the competitive AI landscape.",
+          "This development puts pressure on rivals like Google to constantly stay ahead of the curve or risk falling behind in the rapidly evolving AI arms race."
+        ],
+        "sentenceTranslations": [
+          "앤트로픽의 새로운 \"Claude 3.5\" 모델은 향상된 장문 맥락 추론 기능으로 경쟁이 치열한 AI 분야에서 진정으로 수준을 한 단계 끌어올렸습니다.",
+          "이러한 발전은 구글과 같은 경쟁사들이 급변하는 AI 경쟁에서 뒤처지지 않으려면 끊임없이 시대에 앞서나가야 한다는 압박을 주고 있습니다."
+        ],
+        "translationHighlights": [
+          "수준을 한 단계 끌어올렸습니다",
+          "경쟁이 치열한 AI 분야",
+          "시대에 앞서나가야 한다",
+          "급변하는 AI 경쟁"
+        ],
+        "newWords": [
+          {
+            "word": "raise the bar",
+            "meaning": "수준을 한 단계 끌어올리다; (더 높은) 기준을 세우다",
+            "context": "truly raises the bar in the competitive AI landscape"
+          },
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "시대에 앞서나가다; 최신 트렌드를 파악하고 선도하다",
+            "context": "constantly stay ahead of the curve or risk falling behind"
+          }
+        ]
+      },
       {
         "sentences": [
           "Nvidia's new AI GPU is undoubtedly spurring a significant rally, but rising geopolitical tensions are already casting a long shadow over the tech sector's otherwise bullish outlook.",
@@ -757,6 +813,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Kazakhstan's expanded e-visa program has hit the ground running, signaling a strategic push to diversify its tourism markets.",
+          "This policy shift aligns with a broader global trend, where nations are pulling out all the stops to make their authentic cultural experiences more accessible and enticing to a global audience."
+        ],
+        "sentenceTranslations": [
+          "카자흐스탄의 확대된 전자 비자 프로그램은 빠르게 시행되어, 관광 시장을 다변화하려는 전략적 노력을 보여주고 있습니다.",
+          "이러한 정책 변화는 전 세계 국가들이 고유의 문화 체험을 더욱 접근성 높고 매력적으로 만들어 글로벌 관객에게 선보이기 위해 모든 노력을 기울이는 광범위한 트렌드와 일치합니다."
+        ],
+        "translationHighlights": [
+          "빠르게 시행되어",
+          "전략적 노력",
+          "모든 노력을 기울이는",
+          "고유의 문화 체험"
+        ],
+        "newWords": [
+          {
+            "word": "hit the ground running",
+            "meaning": "초반부터 빠르게, 효과적으로 시작하다",
+            "context": "Kazakhstan's expanded e-visa program has hit the ground running"
+          },
+          {
+            "word": "strategic push",
+            "meaning": "전략적 노력, 추진",
+            "context": "signaling a strategic push to diversify its tourism markets"
+          },
+          {
+            "word": "pulling out all the stops",
+            "meaning": "모든 수단과 방법을 동원하다, 온갖 노력을 기울이다",
+            "context": "nations are pulling out all the stops to make their authentic cultural experiences more accessible"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Lufthansa is clearly trying to get ahead of the curve with its accelerated SAF program, anticipating future environmental regulations and passenger expectations for greener travel.",
           "However, for regions like Kyushu, the unprecedented surge in visitors is proving to be a double-edged sword, as officials grapple with managing overtourism while maintaining its appeal."
         ],
@@ -1116,6 +1205,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The *CS2 Major Copenhagen* grand final went *down to the wire*, with Team Spirit ultimately *coming out on top* after a grueling five-map battle against FaZe Clan.",
+          "Their relentless practice and strategic depth truly paid dividends, as 'donk' and his teammates are now understandably *on cloud nine*."
+        ],
+        "sentenceTranslations": [
+          "CS2 메이저 코펜하겐 그랜드 파이널은 마지막 순간까지 승패를 알 수 없었으며, 팀 스피릿이 FaZe Clan과의 숨 막히는 5전 3선승제 접전 끝에 결국 승리했습니다.",
+          "그들의 끊임없는 연습과 심도 깊은 전략은 진정으로 큰 결실을 맺었으며, 'donk'와 팀원들은 현재 당연히 더없이 행복해하고 있습니다."
+        ],
+        "translationHighlights": [
+          "마지막 순간까지 승패를 알 수 없었으며",
+          "결국 승리했습니다",
+          "큰 결실을 맺었으며",
+          "더없이 행복해하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "down to the wire",
+            "meaning": "마지막 순간까지 승패를 알 수 없는, 막상막하의",
+            "context": "The *CS2 Major Copenhagen* grand final went *down to the wire*..."
+          },
+          {
+            "word": "come out on top",
+            "meaning": "승리하다, 최종적으로 우위를 점하다",
+            "context": "...with Team Spirit ultimately *coming out on top*..."
+          },
+          {
+            "word": "on cloud nine",
+            "meaning": "더없이 행복한, 정말 기뻐서 어쩔 줄 모르는",
+            "context": "...his teammates are now understandably *on cloud nine*."
+          }
+        ]
+      },
       {
         "sentences": [
           "Despite securing P2, Max Verstappen's frustration over persistent KERS issues shows these reliability problems are a fly in the ointment for Red Bull Racing's title defense.",
