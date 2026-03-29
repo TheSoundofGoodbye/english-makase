@@ -3,6 +3,33 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "It's evident that AI companions are gaining ground among younger demographics, offering them a new outlet for connection and reducing social anxiety.",
+          "Yet, the critical question remains whether this growing reliance will ultimately help or hinder genuine human interaction; we must read the tea leaves carefully on its long-term societal effects."
+        ],
+        "sentenceTranslations": [
+          "AI 친구들이 젊은 층 사이에서 영향력을 확대하며, 새로운 소통 창구를 제공하고 사회적 불안감을 줄여주는 것은 분명합니다.",
+          "하지만 이러한 의존도 증가가 궁극적으로 진정한 인간 관계에 도움이 될지 방해가 될지 핵심적인 의문이 남습니다. 우리는 그 장기적인 사회적 영향에 대해 미래를 신중히 예측해야 합니다."
+        ],
+        "translationHighlights": [
+          "영향력을 확대하며",
+          "새로운 소통 창구를",
+          "미래를 신중히 예측해야 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "gaining ground",
+            "meaning": "영향력을 확대하다 / 세력을 넓히다",
+            "context": "AI companions are gaining ground among younger demographics"
+          },
+          {
+            "word": "read the tea leaves",
+            "meaning": "미래를 예측하다 / 상황을 통해 미래를 짐작하다",
+            "context": "we must read the tea leaves carefully on its long-term societal effects"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The personalized health tech boom means the genie is truly out of the bottle, fundamentally changing how we approach wellness.",
           "With engagement rates soaring due to tangible results, this hyper-individualized approach is set to pick up even more steam."
         ],
@@ -405,6 +432,33 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "With new U.S. export restrictions looming and Google's AI breakthroughs, it's clear **the gloves are off** in the race for AI dominance.",
+          "Companies are now **walking a tightrope**, balancing the need for innovation and global market access against geopolitical pressures and national security concerns."
+        ],
+        "sentenceTranslations": [
+          "미국의 새로운 수출 규제가 임박하고 구글의 AI 혁신이 나타나면서, AI 주도권 경쟁에서 이제 **본격적인 승부가 시작되었음이 분명합니다**.",
+          "기업들은 이제 혁신과 글로벌 시장 접근성이라는 필요를 지정학적 압력 및 국가 안보 우려와 **아슬아슬하게 균형을 맞추며** **외줄 타기를 하고 있습니다**."
+        ],
+        "translationHighlights": [
+          "본격적인 승부가 시작되었음이 분명합니다",
+          "아슬아슬하게 균형을 맞추며",
+          "외줄 타기를 하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "the gloves are off",
+            "meaning": "본격적인 승부가 시작되다, 봐주기 없는 경쟁이 시작되다",
+            "context": "it's clear **the gloves are off** in the race for AI dominance."
+          },
+          {
+            "word": "walking a tightrope",
+            "meaning": "아슬아슬하게 균형을 맞추다, 위태로운 상황에서 신중하게 행동하다",
+            "context": "Companies are now **walking a tightrope**, balancing the need for innovation..."
+          }
+        ]
+      },
       {
         "sentences": [
           "Anthropic's new \"Claude 3.5\" model, with its enhanced long-context reasoning, truly raises the bar in the competitive AI landscape.",
@@ -811,6 +865,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Cities like Venice are taking steps to stem the tide of overtourism, hoping to manage visitor numbers without dampening the travel spirit entirely.",
+          "Major travel companies and airlines, clearly reading the tea leaves from recent booking patterns, are now exploring new routes to \"undiscovered Europe\" destinations to cater to this evolving demand."
+        ],
+        "sentenceTranslations": [
+          "베네치아 같은 도시들은 과잉 관광의 흐름을 막기 위한 조치를 취하고 있으며, 방문객 수를 관리하면서도 여행의 즐거움을 완전히 해치지 않기를 바라고 있습니다.",
+          "주요 여행사와 항공사들은 최근 예약 패턴에서 미래를 읽어내고, 이러한 변화하는 수요를 충족시키기 위해 '발견되지 않은 유럽' 목적지로 가는 새로운 노선을 모색하고 있습니다."
+        ],
+        "translationHighlights": [
+          "흐름을 막다",
+          "여행의 즐거움을 해치다",
+          "미래를 읽어내다",
+          "변화하는 수요"
+        ],
+        "newWords": [
+          {
+            "word": "stem the tide",
+            "meaning": "흐름을 막다, 억제하다",
+            "context": "Cities like Venice are taking steps to stem the tide of overtourism"
+          },
+          {
+            "word": "reading the tea leaves",
+            "meaning": "징후를 읽고 미래를 예측하다, 상황을 파악하다",
+            "context": "Major travel companies and airlines, clearly reading the tea leaves from recent booking patterns"
+          }
+        ]
+      },
       {
         "sentences": [
           "Kazakhstan's expanded e-visa program has hit the ground running, signaling a strategic push to diversify its tourism markets.",
