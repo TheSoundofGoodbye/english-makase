@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With inflation continuing to squeeze household budgets, many young adults are really feeling the pinch, forcing them to put major life milestones like homeownership on the back burner.",
+          "This constant financial pressure has left a lot of people at their wits' end, making expanded mental health support from employers a welcome relief."
+        ],
+        "sentenceTranslations": [
+          "인플레이션이 계속해서 가계 예산을 압박하면서, 많은 젊은이들이 정말 경제적 어려움을 겪고 있으며, 주택 소유와 같은 중요한 삶의 목표들을 뒤로 미루게 만들고 있습니다.",
+          "이 지속적인 재정적 압박은 많은 사람들을 진퇴양난에 빠뜨렸고, 고용주들의 확대된 정신 건강 지원은 반가운 위안이 됩니다."
+        ],
+        "translationHighlights": [
+          "가계 예산을 압박하면서",
+          "경제적 어려움을 겪고 있으며",
+          "뒤로 미루게 만들고 있습니다",
+          "진퇴양난에 빠뜨렸고"
+        ],
+        "newWords": [
+          {
+            "word": "feeling the pinch",
+            "meaning": "경제적 어려움을 겪다, 압박감을 느끼다",
+            "context": "many young adults are really feeling the pinch"
+          },
+          {
+            "word": "put on the back burner",
+            "meaning": "나중으로 미루다, 보류하다",
+            "context": "forcing them to put major life milestones...on the back burner"
+          },
+          {
+            "word": "at their wits' end",
+            "meaning": "더 이상 어찌할 바를 모르는, 진퇴양난의",
+            "context": "This constant financial pressure has left a lot of people at their wits' end"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "It's evident that AI companions are gaining ground among younger demographics, offering them a new outlet for connection and reducing social anxiety.",
           "Yet, the critical question remains whether this growing reliance will ultimately help or hinder genuine human interaction; we must read the tea leaves carefully on its long-term societal effects."
         ],
@@ -432,6 +465,33 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Microsoft is clearly doubling down on its European AI infrastructure, aiming to capitalize on the burgeoning demand for enterprise AI deployments.",
+          "However, escalating US-China tech tensions threaten to throw a wrench in the works, potentially creating a challenging landscape for such ambitious global expansion."
+        ],
+        "sentenceTranslations": [
+          "마이크로소프트는 기업 AI 배포에 대한 급증하는 수요를 활용하기 위해 유럽 AI 인프라에 대한 투자를 확실히 강화하고 있습니다.",
+          "하지만 고조되는 미중 기술 갈등은 이러한 야심찬 글로벌 확장에 찬물을 끼얹을 위험이 있으며, 잠재적으로 어려운 환경을 조성할 수 있습니다."
+        ],
+        "translationHighlights": [
+          "투자를 확실히 강화하고 있습니다",
+          "급증하는 수요",
+          "찬물을 끼얹을 위험이 있으며"
+        ],
+        "newWords": [
+          {
+            "word": "double down on something",
+            "meaning": "~에 대한 투자를 강화하다, ~에 전념하다",
+            "context": "Microsoft is clearly doubling down on its European AI infrastructure"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다, 방해하다, 찬물을 끼얹다",
+            "context": "tech tensions threaten to throw a wrench in the works"
+          }
+        ]
+      },
       {
         "sentences": [
           "With new U.S. export restrictions looming and Google's AI breakthroughs, it's clear **the gloves are off** in the race for AI dominance.",
@@ -865,6 +925,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The 'Umrah Plus' program is clearly a game changer for Saudi Arabia's tourism sector, aiming to transform it from a purely religious destination into a broader cultural hub.",
+          "This strategic move is expected to open the floodgates for a new wave of international visitors eager to explore the Kingdom's rich heritage and adventure sites, truly allowing them to get off the beaten path."
+        ],
+        "sentenceTranslations": [
+          "'움라 플러스' 프로그램은 사우디아라비아 관광 산업에 명백히 판도를 바꾸는 중요한 변화를 가져올 것이며, 순수 종교 목적지에서 더 넓은 문화 허브로 변모시키는 것을 목표로 합니다.",
+          "이러한 전략적 움직임은 사우디 왕국의 풍부한 유산과 모험 명소를 탐험하고자 하는 새로운 국제 방문객의 물꼬를 틀 것으로 예상되며, 이들이 진정으로 잘 알려지지 않은 곳들을 탐험할 수 있게 할 것입니다."
+        ],
+        "translationHighlights": [
+          "판도를 바꾸는 중요한 변화",
+          "문화 허브로 변모시키는 것을 목표로 합니다",
+          "물꼬를 틀 것으로 예상되며",
+          "잘 알려지지 않은 곳들을 탐험할 수 있게 할 것입니다"
+        ],
+        "newWords": [
+          {
+            "word": "a game changer",
+            "meaning": "판도를 바꾸는 중요한 변화/사건",
+            "context": "The 'Umrah Plus' program is clearly a game changer"
+          },
+          {
+            "word": "open the floodgates",
+            "meaning": "물꼬를 트다, 봇물 터지듯 쏟아지게 하다",
+            "context": "expected to open the floodgates for a new wave"
+          },
+          {
+            "word": "get off the beaten path",
+            "meaning": "잘 알려지지 않은 곳을 여행하다/탐험하다",
+            "context": "allowing them to get off the beaten path"
+          }
+        ]
+      },
       {
         "sentences": [
           "Cities like Venice are taking steps to stem the tide of overtourism, hoping to manage visitor numbers without dampening the travel spirit entirely.",
