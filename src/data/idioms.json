@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With 65% of jobs predicted to require significant AI proficiency by 2030, the writing is clearly on the wall for professionals to proactively embrace upskilling.",
+          "Otherwise, individuals risk missing the boat on critical career opportunities as the skill gap rapidly widens."
+        ],
+        "sentenceTranslations": [
+          "2030년까지 일자리의 65%가 상당한 AI 능력을 요구할 것으로 예측되는 만큼, 전문가들이 선제적으로 역량을 강화해야 한다는 경고는 이미 분명합니다.",
+          "그렇게 하지 않으면, 기술 격차가 빠르게 벌어지면서 개인들은 중요한 경력 기회를 놓칠 위험에 처하게 됩니다."
+        ],
+        "translationHighlights": [
+          "선제적으로 역량을 강화해야 한다는 경고는 이미 분명합니다",
+          "기술 격차가 빠르게 벌어지면서",
+          "중요한 경력 기회를 놓칠 위험에 처하게 됩니다"
+        ],
+        "newWords": [
+          {
+            "word": "the writing is on the wall",
+            "meaning": "명확한 경고, 피할 수 없는 결과",
+            "context": "the writing is clearly on the wall for professionals"
+          },
+          {
+            "word": "proactively embrace upskilling",
+            "meaning": "선제적으로 역량을 강화하다",
+            "context": "to proactively embrace upskilling"
+          },
+          {
+            "word": "miss the boat",
+            "meaning": "기회를 놓치다",
+            "context": "individuals risk missing the boat on critical career opportunities"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With inflation continuing to squeeze household budgets, many young adults are really feeling the pinch, forcing them to put major life milestones like homeownership on the back burner.",
           "This constant financial pressure has left a lot of people at their wits' end, making expanded mental health support from employers a welcome relief."
         ],
@@ -467,6 +499,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Ahead of the PCE report, global markets are decidedly walking on eggshells, eager for clarity on the Fed's next move amidst persistent inflation and brewing US-China tech tensions.",
+          "Meanwhile, in the AI sector, specialized infrastructure startups are making a killing, attracting significant late-stage funding as investors cherry-pick winners, even while broader tech valuations remain under a cloud."
+        ],
+        "sentenceTranslations": [
+          "PCE 보고서를 앞두고, 글로벌 시장은 지속적인 인플레이션과 고조되는 미중 기술 갈등 속에서 연준의 다음 행보에 대한 명확성을 얻기 위해 조심스럽게 눈치를 보고 있습니다.",
+          "한편, AI 부문에서는 전문화된 인프라 스타트업들이 큰돈을 벌고 있으며, 투자자들이 승자를 선별하는 가운데 중요한 후기 단계 자금을 유치하고 있습니다. 심지어 전반적인 기술 기업 가치 평가가 여전히 불확실한 상황임에도 말이죠."
+        ],
+        "translationHighlights": [
+          "조심스럽게 눈치를 보고 있습니다",
+          "큰돈을 벌고 있으며",
+          "승자를 선별하는 가운데",
+          "여전히 불확실한 상황임에도"
+        ],
+        "newWords": [
+          {
+            "word": "walking on eggshells",
+            "meaning": "매우 조심스럽게 행동하다, 눈치를 보다",
+            "context": "global markets are decidedly walking on eggshells"
+          },
+          {
+            "word": "making a killing",
+            "meaning": "큰돈을 벌다, 떼돈을 벌다",
+            "context": "startups are making a killing"
+          },
+          {
+            "word": "under a cloud",
+            "meaning": "의심을 받거나 불확실한 상황에 있다",
+            "context": "valuations remain under a cloud"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Microsoft is clearly doubling down on its European AI infrastructure, aiming to capitalize on the burgeoning demand for enterprise AI deployments.",
           "However, escalating US-China tech tensions threaten to throw a wrench in the works, potentially creating a challenging landscape for such ambitious global expansion."
         ],
@@ -925,6 +990,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Emirates is clearly reading the tea leaves, expanding flights to Central Asia as travelers increasingly look for authentic experiences beyond traditional destinations.",
+          "By striking while the iron's hot with Silk Road tours, they are expertly capitalizing on a burgeoning market for less-explored cultural immersion."
+        ],
+        "sentenceTranslations": [
+          "에미레이트 항공은 여행객들이 전통적인 목적지를 넘어 진정한 경험을 찾아 나서면서, 중앙아시아 노선을 확장하며 분명히 시대의 흐름을 읽고 있습니다.",
+          "실크로드 투어를 통해 기회를 놓치지 않고 바로 행동함으로써, 덜 알려진 문화 체험에 대한 급성장하는 시장을 능숙하게 활용하고 있습니다."
+        ],
+        "translationHighlights": [
+          "시대의 흐름을 읽고 있습니다",
+          "기회를 놓치지 않고 바로 행동함으로써",
+          "급성장하는 시장",
+          "능숙하게 활용하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "reading the tea leaves",
+            "meaning": "시대의 흐름을 읽다, 미래를 예측하다",
+            "context": "Emirates is clearly reading the tea leaves"
+          },
+          {
+            "word": "striking while the iron's hot",
+            "meaning": "기회를 놓치지 않고 바로 행동하다",
+            "context": "By striking while the iron's hot"
+          },
+          {
+            "word": "burgeoning market",
+            "meaning": "급성장하는 시장",
+            "context": "capitalizing on a burgeoning market"
+          }
+        ]
+      },
       {
         "sentences": [
           "The 'Umrah Plus' program is clearly a game changer for Saudi Arabia's tourism sector, aiming to transform it from a purely religious destination into a broader cultural hub.",
