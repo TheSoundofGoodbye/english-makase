@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With hybrid work blurring the lines, many employees often find themselves at their wit's end trying to juggle professional demands and personal life.",
+          "This is why major corporations are proactively expanding well-being platforms, aiming to nip digital burnout in the bud and move the needle on employee resilience."
+        ],
+        "sentenceTranslations": [
+          "하이브리드 업무로 인해 업무와 개인 생활의 경계가 모호해지면서, 많은 직원이 직업적 요구와 개인 생활을 병행하려 애쓰다 보면 한계에 다다르곤 합니다.",
+          "이러한 이유로 주요 기업들은 디지털 번아웃을 초기에 해결하고 직원들의 회복탄력성에 실질적인 변화를 주기 위해 웰빙 플랫폼 확장에 적극적으로 나서고 있습니다."
+        ],
+        "translationHighlights": [
+          "한계에 다다르곤 합니다",
+          "초기에 해결하고",
+          "실질적인 변화를 주기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "at one's wit's end",
+            "meaning": "완전히 지쳐서 어찌할 바를 모르는, 더 이상 감당할 수 없는",
+            "context": "find themselves at their wit's end"
+          },
+          {
+            "word": "nip something in the bud",
+            "meaning": "(문제 등을) 싹부터 자르다, 초기에 해결하다",
+            "context": "nip digital burnout in the bud"
+          },
+          {
+            "word": "move the needle",
+            "meaning": "(상황에) 실질적인 변화를 가져오다, 큰 영향을 미치다",
+            "context": "move the needle on employee resilience"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With 65% of jobs predicted to require significant AI proficiency by 2030, the writing is clearly on the wall for professionals to proactively embrace upskilling.",
           "Otherwise, individuals risk missing the boat on critical career opportunities as the skill gap rapidly widens."
         ],
@@ -499,6 +531,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The Federal Reserve's reiteration of a \"higher for longer\" stance effectively threw cold water on Wall Street's earlier exuberance, prompting investors to pump the brakes on aggressive new ventures.",
+          "However, the AI sector continues to hit its stride, with Google Cloud's strategic partnership poised to steal a march on rivals in enterprise CRM integration and productivity enhancements."
+        ],
+        "sentenceTranslations": [
+          "연준이 '고금리 장기화' 기조를 재확인하면서 월스트리트의 초기 활기에 찬물을 끼얹었고, 투자자들은 공격적인 신규 투자에 제동을 걸게 되었습니다.",
+          "하지만 AI 부문은 꾸준히 성장세를 보이며 본 궤도에 오르고 있으며, 구글 클라우드의 전략적 파트너십은 기업 CRM 통합 및 생산성 향상 분야에서 경쟁사보다 한발 앞서 나갈 태세입니다."
+        ],
+        "translationHighlights": [
+          "찬물을 끼얹었고",
+          "제동을 걸게 되었습니다",
+          "본 궤도에 오르고 있으며",
+          "한발 앞서 나갈 태세입니다"
+        ],
+        "newWords": [
+          {
+            "word": "threw cold water on",
+            "meaning": "찬물을 끼얹다 (열기를 식히다, 낙담시키다)",
+            "context": "effectively threw cold water on Wall Street's earlier exuberance"
+          },
+          {
+            "word": "pump the brakes",
+            "meaning": "제동을 걸다 (신중을 기하다, 속도를 늦추다)",
+            "context": "investors to pump the brakes on aggressive new ventures"
+          },
+          {
+            "word": "steal a march on",
+            "meaning": "한발 앞서 나가다, 우위를 점하다 (경쟁사보다 유리한 고지를 차지하다)",
+            "context": "poised to steal a march on rivals in enterprise CRM integration"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Ahead of the PCE report, global markets are decidedly walking on eggshells, eager for clarity on the Fed's next move amidst persistent inflation and brewing US-China tech tensions.",
           "Meanwhile, in the AI sector, specialized infrastructure startups are making a killing, attracting significant late-stage funding as investors cherry-pick winners, even while broader tech valuations remain under a cloud."
         ],
@@ -992,6 +1057,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Experiential travel is truly hitting its stride in Southeast Asia, as more travelers look to go off the beaten path for authentic cultural engagement rather than traditional sightseeing.",
+          "Airlines like Qatar Airways are shrewdly striking while the iron is hot, rolling out new direct routes to accommodate this burgeoning demand for niche experiences."
+        ],
+        "sentenceTranslations": [
+          "체험형 여행이 동남아시아에서 진정으로 전성기를 맞고 있으며, 더 많은 여행객들이 전통적인 관광 대신 진정한 문화적 교감을 위해 틀에 박힌 경로를 벗어나고자 합니다.",
+          "카타르 항공과 같은 항공사들은 영리하게 호기를 잡고 있으며, 틈새 경험에 대한 이러한 급증하는 수요를 수용하기 위해 새로운 직항 노선을 개설하고 있습니다."
+        ],
+        "translationHighlights": [
+          "전성기를 맞고 있으며",
+          "틀에 박힌 경로를 벗어나고자 합니다",
+          "영리하게 호기를 잡고 있으며",
+          "급증하는 수요를 수용하기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "본 궤도에 오르다, 전성기를 맞다",
+            "context": "Experiential travel is truly hitting its stride in Southeast Asia"
+          },
+          {
+            "word": "go off the beaten path",
+            "meaning": "잘 알려지지 않은 길을 가다, 틀에 박힌 경로를 벗어나다",
+            "context": "look to go off the beaten path for authentic cultural engagement"
+          },
+          {
+            "word": "striking while the iron is hot",
+            "meaning": "기회를 놓치지 않다, 호기를 잡다",
+            "context": "Airlines like Qatar Airways are shrewdly striking while the iron is hot"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Emirates is clearly reading the tea leaves, expanding flights to Central Asia as travelers increasingly look for authentic experiences beyond traditional destinations.",
           "By striking while the iron's hot with Silk Road tours, they are expertly capitalizing on a burgeoning market for less-explored cultural immersion."
         ],
@@ -1478,6 +1576,33 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With the NBA Western Conference playoff picture remaining incredibly tight, teams like the Lakers and Mavericks are playing for keeps tonight to secure crucial seeding.",
+          "Indeed, with Valorant's unparalleled global momentum, the Masters Madrid final bracket will showcase the cream of the crop battling it out, promising to keep fans on the edge of their seats."
+        ],
+        "sentenceTranslations": [
+          "NBA 서부 컨퍼런스 플레이오프 판도가 여전히 극도로 팽팽한 가운데, 레이커스와 매버릭스 같은 팀들은 오늘 밤 중요한 시드권을 확보하기 위해 정말 사활을 걸고 있습니다.",
+          "실제로 발로란트의 전례 없는 글로벌 모멘텀과 함께, 마스터스 마드리드 최종 토너먼트는 최고 중의 최고 팀들이 격돌하는 모습을 선보이며, 팬들을 한시도 긴장의 끈을 놓지 못하게 할 것입니다."
+        ],
+        "translationHighlights": [
+          "사활을 걸고 있습니다",
+          "최고 중의 최고",
+          "긴장의 끈을 놓지 못하게 할"
+        ],
+        "newWords": [
+          {
+            "word": "playing for keeps",
+            "meaning": "사활을 걸다; 진지하게 승부를 겨루다; 대단히 중요한 것을 놓고 경쟁하다",
+            "context": "are playing for keeps tonight to secure crucial seeding"
+          },
+          {
+            "word": "the cream of the crop",
+            "meaning": "최고 중의 최고; 가장 뛰어나거나 좋은 부분(사람, 집단)",
+            "context": "will showcase the cream of the crop battling it out"
+          }
+        ]
+      },
       {
         "sentences": [
           "The *CS2 Major Copenhagen* grand final went *down to the wire*, with Team Spirit ultimately *coming out on top* after a grueling five-map battle against FaZe Clan.",
