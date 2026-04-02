@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With Verily's new AI wearable aiming to combat post-pandemic burnout, many professionals might finally feel like they're getting a new lease on life.",
+          "However, privacy advocates are urging caution, warning that handing over such intimate biometric data could be a slippery slope."
+        ],
+        "sentenceTranslations": [
+          "베릴리의 새로운 AI 웨어러블이 팬데믹 이후의 번아웃에 맞서 싸우는 것을 목표로 하면서, 많은 전문가들이 마침내 새로운 활력을 얻는 듯한 기분을 느낄지도 모르겠습니다.",
+          "하지만 사생활 옹호자들은 그러한 사적인 생체 데이터를 넘겨주는 것이 위험한 선례가 될 수 있다고 경고하며 신중을 기할 것을 촉구하고 있습니다."
+        ],
+        "translationHighlights": [
+          "새로운 활력을 얻는",
+          "사생활 옹호자들은",
+          "위험한 선례",
+          "신중을 기할 것을 촉구하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "a new lease on life",
+            "meaning": "새로운 활력, 삶의 새로운 기회",
+            "context": "feel like they're getting a new lease on life"
+          },
+          {
+            "word": "slippery slope",
+            "meaning": "위험한 선례, 나쁜 결과로 이어질 수 있는 상황",
+            "context": "could be a slippery slope"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With hybrid work blurring the lines, many employees often find themselves at their wit's end trying to juggle professional demands and personal life.",
           "This is why major corporations are proactively expanding well-being platforms, aiming to nip digital burnout in the bud and move the needle on employee resilience."
         ],
@@ -531,6 +559,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Despite soaring demand, persistent supply chain bottlenecks for next-gen AI accelerators are proving to be a fly in the ointment for Nvidia's Q2 revenue projections.",
+          "This hurdle, coupled with broader market volatility, is making venture capitalists put a premium on stability, shifting their focus towards long-term sustainable power solutions like Helion."
+        ],
+        "sentenceTranslations": [
+          "수요가 폭증함에도 불구하고, 차세대 AI 가속기의 지속적인 공급망 병목 현상은 엔비디아의 2분기 매출 전망에 있어서 예상치 못한 골칫거리가 되고 있습니다.",
+          "이러한 난관은 더 광범위한 시장 변동성과 맞물려, 벤처 투자가들이 안정성에 더 큰 가치를 두도록 만들면서 헬리온과 같은 장기적인 지속 가능한 에너지 솔루션으로 초점을 옮기고 있습니다."
+        ],
+        "translationHighlights": [
+          "예상치 못한 골칫거리",
+          "시장 변동성",
+          "더 큰 가치를 두도록",
+          "초점을 옮기고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "a fly in the ointment",
+            "meaning": "예상치 못한 골칫거리; 옥에 티",
+            "context": "are proving to be a fly in the ointment for Nvidia's Q2 revenue projections"
+          },
+          {
+            "word": "put a premium on",
+            "meaning": "~에 더 큰 가치를 두다; ~을 중요시하다",
+            "context": "is making venture capitalists put a premium on stability"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The Federal Reserve's reiteration of a \"higher for longer\" stance effectively threw cold water on Wall Street's earlier exuberance, prompting investors to pump the brakes on aggressive new ventures.",
           "However, the AI sector continues to hit its stride, with Google Cloud's strategic partnership poised to steal a march on rivals in enterprise CRM integration and productivity enhancements."
         ],
@@ -1057,6 +1113,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "While some non-EU travelers initially scratched their heads over the ETIAS application, the system is proving to be largely smooth sailing thanks to enhanced airline guidance.",
+          "This emphasis on efficiency and comfort has led premium airlines to pull out all the stops, ensuring travelers experience seamless transit and crucial peace of mind amidst evolving requirements."
+        ],
+        "sentenceTranslations": [
+          "비EU 여행객들이 ETIAS 신청 절차에 처음에는 고개를 갸웃했지만, 항공사들의 강화된 안내 덕분에 시스템은 대체로 순조롭게 진행되고 있습니다.",
+          "효율성과 편안함에 대한 이러한 강조는 프리미엄 항공사들이 모든 노력을 기울이도록 하여, 여행객들이 변화하는 요건 속에서도 원활한 환승과 결정적인 마음의 평화를 누리도록 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "고개를 갸웃했지만",
+          "순조롭게 진행되고",
+          "모든 노력을 기울이도록",
+          "마음의 평화"
+        ],
+        "newWords": [
+          {
+            "word": "scratch their heads",
+            "meaning": "고개를 갸웃하다, 의아해하다",
+            "context": "travelers initially scratched their heads over the ETIAS application"
+          },
+          {
+            "word": "smooth sailing",
+            "meaning": "순조로운 진행, 거침없는 항해",
+            "context": "the system is proving to be largely smooth sailing"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 노력을 다하다, 총력을 기울이다",
+            "context": "led premium airlines to pull out all the stops"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Experiential travel is truly hitting its stride in Southeast Asia, as more travelers look to go off the beaten path for authentic cultural engagement rather than traditional sightseeing.",
           "Airlines like Qatar Airways are shrewdly striking while the iron is hot, rolling out new direct routes to accommodate this burgeoning demand for niche experiences."
         ],
@@ -1576,6 +1665,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "As the Masters tees off, the die is cast for Scottie Scheffler, who aims to carve his name into history by defending his title.",
+          "Meanwhile, young Leo Chen will have to pull out all the stops if he hopes to truly shake things up on these hallowed greens."
+        ],
+        "sentenceTranslations": [
+          "마스터스 대회가 시작되면서, 타이틀 방어로 역사에 이름을 새기고자 하는 스코티 셰플러에게는 주사위가 던져졌습니다.",
+          "한편, 젊은 레오 첸은 이 신성한 그린에서 진정으로 파란을 일으키려면 모든 수단을 동원해야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "주사위가 던져졌습니다",
+          "역사에 이름을 새기고자",
+          "모든 수단을 동원해야 할 것입니다",
+          "파란을 일으키려면"
+        ],
+        "newWords": [
+          {
+            "word": "the die is cast",
+            "meaning": "주사위는 던져졌다 (돌이킬 수 없는 결정이 내려졌거나 중대한 사건이 시작되었음을 의미)",
+            "context": "the die is cast for Scottie Scheffler"
+          },
+          {
+            "word": "carve one's name into history",
+            "meaning": "역사에 이름을 새기다 (오래도록 기억될 중요한 업적을 남기다)",
+            "context": "who aims to carve his name into history"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 수단을 동원하다 / 전력을 다하다 (어떤 목표를 달성하기 위해 가능한 모든 노력과 자원을 사용하다)",
+            "context": "will have to pull out all the stops"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the NBA Western Conference playoff picture remaining incredibly tight, teams like the Lakers and Mavericks are playing for keeps tonight to secure crucial seeding.",
