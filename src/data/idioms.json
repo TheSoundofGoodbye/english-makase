@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "JPMorgan Chase's new AI feature helps users really \"read the tea leaves\" of their financial future, offering proactive insights instead of just historical data.",
+          "This foresight gives customers \"a leg up\" in managing their money, allowing them to build a solid \"nest egg\" for whatever lies ahead."
+        ],
+        "sentenceTranslations": [
+          "JP모건 체이스의 새로운 AI 기능은 사용자들이 자신의 재정적 미래를 정말로 '미리 예측'하게 도와주며, 단순한 과거 데이터 대신 선제적인 통찰력을 제공합니다.",
+          "이러한 선견지명은 고객들이 자금을 관리하는 데 '유리한 고지를 차지하게' 하고, 앞으로 닥칠 일을 대비해 튼튼한 '비상 자금'을 마련할 수 있도록 해줍니다."
+        ],
+        "translationHighlights": [
+          "미리 예측",
+          "선제적인 통찰력",
+          "유리한 고지를 차지하게",
+          "튼튼한 비상 자금"
+        ],
+        "newWords": [
+          {
+            "word": "read the tea leaves",
+            "meaning": "미리 예측하다, 정확하게 예측하다 (특히 불확실한 미래를)",
+            "context": "helps users really \"read the tea leaves\" of their financial future"
+          },
+          {
+            "word": "a leg up",
+            "meaning": "유리한 고지/이점, 더 나은 위치나 기회",
+            "context": "gives customers \"a leg up\" in managing their money"
+          },
+          {
+            "word": "nest egg",
+            "meaning": "노후 자금, 비상 자금, 미래를 위한 저축",
+            "context": "build a solid \"nest egg\" for whatever lies ahead"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With Verily's new AI wearable aiming to combat post-pandemic burnout, many professionals might finally feel like they're getting a new lease on life.",
           "However, privacy advocates are urging caution, warning that handing over such intimate biometric data could be a slippery slope."
         ],
@@ -559,6 +592,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With the IMF revising global growth downwards due to persistent disruptions, it seems the economy is still on thin ice, compelling many businesses to batten down the hatches for potential turbulence.",
+          "Meanwhile, tech giants are striving to thread the needle between hefty AI integration costs and the anticipated efficiency gains, carefully weighing this strategic pivot against compliance concerns."
+        ],
+        "sentenceTranslations": [
+          "IMF가 지속적인 혼란으로 인해 세계 경제 성장률을 하향 조정하면서, 경제는 여전히 위태로운 상황에 놓여 있어 많은 기업이 잠재적인 난기류에 대비하여 만반의 준비를 해야 하는 상황입니다.",
+          "동시에, 거대 기술 기업들은 막대한 AI 통합 비용과 예상되는 효율성 향상 사이에서 절묘하게 균형을 잡기 위해 노력하며, 이러한 전략적 전환을 규제 준수 문제와 신중하게 비교 검토하고 있습니다."
+        ],
+        "translationHighlights": [
+          "위태로운 상황",
+          "만반의 준비를 해야",
+          "절묘하게 균형을 잡기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "on thin ice",
+            "meaning": "위태로운/불확실한 상황에 처하다",
+            "context": "the economy is still on thin ice"
+          },
+          {
+            "word": "batten down the hatches",
+            "meaning": "만반의 준비를 하다, 어려움에 대비하다",
+            "context": "compelling many businesses to batten down the hatches"
+          },
+          {
+            "word": "thread the needle",
+            "meaning": "절묘하게 균형을 맞추다, 미묘한 조화를 이루다",
+            "context": "striving to thread the needle between hefty AI integration costs and the anticipated efficiency gains"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Despite soaring demand, persistent supply chain bottlenecks for next-gen AI accelerators are proving to be a fly in the ointment for Nvidia's Q2 revenue projections.",
           "This hurdle, coupled with broader market volatility, is making venture capitalists put a premium on stability, shifting their focus towards long-term sustainable power solutions like Helion."
         ],
@@ -1113,6 +1178,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With a significant 15% surge in tourist visa applications, the writing on the wall is clear: Canada is bracing for an unprecedented influx of football fans for the 2026 World Cup.",
+          "However, as rising sustainable aviation fuel costs put the squeeze on airlines, travelers should expect to feel the pinch through higher ticket prices for that once-in-a-lifetime trip."
+        ],
+        "sentenceTranslations": [
+          "관광 비자 신청이 15%나 급증한 것을 보면, 2026년 월드컵을 위해 캐나다가 전례 없는 축구 팬 유입에 대비하고 있다는 것이 명백합니다.",
+          "하지만 지속 가능한 항공 연료 비용 상승이 항공사들을 압박하면서, 여행객들은 일생일대의 월드컵 여행 티켓 가격에서 금전적인 어려움을 겪을 것으로 예상됩니다."
+        ],
+        "translationHighlights": [
+          "명백합니다",
+          "압박하면서",
+          "금전적인 어려움을 겪을 것으로 예상됩니다"
+        ],
+        "newWords": [
+          {
+            "word": "the writing on the wall",
+            "meaning": "명백한 징조, (어떤 일이 일어날 것이라는) 분명한 신호",
+            "context": "the writing on the wall is clear"
+          },
+          {
+            "word": "put the squeeze on",
+            "meaning": "~을 압박하다, ~을 궁지에 몰아넣다",
+            "context": "put the squeeze on airlines"
+          },
+          {
+            "word": "feel the pinch",
+            "meaning": "경제적 어려움을 겪다, 금전적인 압박을 느끼다",
+            "context": "expect to feel the pinch"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While some non-EU travelers initially scratched their heads over the ETIAS application, the system is proving to be largely smooth sailing thanks to enhanced airline guidance.",
           "This emphasis on efficiency and comfort has led premium airlines to pull out all the stops, ensuring travelers experience seamless transit and crucial peace of mind amidst evolving requirements."
         ],
@@ -1665,6 +1762,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "After a challenging opening round at The Masters, Viktor Hovland will certainly have to pull out all the stops today if he hopes to make a comeback.",
+          "Meanwhile, defending champion Scottie Scheffler and rookie sensation Li Wei, who is already making a splash, seem to be firing on all cylinders despite the intense Augusta pressure."
+        ],
+        "sentenceTranslations": [
+          "마스터스 첫 라운드에서 고전한 빅토르 호블란드는 오늘 반전을 꾀하려면 분명 모든 노력을 다해야 할 것입니다.",
+          "한편, 이미 센세이션을 일으키고 있는 디펜딩 챔피언 스코티 셰플러와 신예 리 웨이는 오거스타의 강렬한 압력에도 불구하고 정말 모든 역량을 발휘하고 있는 듯합니다."
+        ],
+        "translationHighlights": [
+          "고전한",
+          "모든 노력을 다해야 할 것입니다",
+          "센세이션을 일으키고 있는",
+          "모든 역량을 발휘하고 있는 듯합니다"
+        ],
+        "newWords": [
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 노력을 다하다, 총력을 기울이다",
+            "context": "have to pull out all the stops today"
+          },
+          {
+            "word": "making a splash",
+            "meaning": "센세이션을 일으키다, 세간의 이목을 끌다",
+            "context": "who is already making a splash"
+          },
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고의 기량을 발휘하다, 모든 역량을 총동원하다",
+            "context": "seem to be firing on all cylinders"
+          }
+        ]
+      },
       {
         "sentences": [
           "As the Masters tees off, the die is cast for Scottie Scheffler, who aims to carve his name into history by defending his title.",
