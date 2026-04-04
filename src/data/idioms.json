@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Managing the privacy settings across a myriad of interconnected health and lifestyle apps means many users are truly **drinking from a fire hose**, leading to widespread data fatigue.",
+          "To counteract this and prevent burnout, experts emphasize the need to occasionally **unplug** and intentionally **hit the reset button** on our digital lives."
+        ],
+        "sentenceTranslations": [
+          "서로 연결된 수많은 건강 및 라이프스타일 앱들의 개인 정보 설정을 관리하는 것은 많은 사용자들에게 정말이지 **정보의 홍수에 압도당하는 느낌**을 주며, 광범위한 데이터 피로로 이어지고 있습니다.",
+          "이를 해소하고 소진(번아웃)을 예방하기 위해, 전문가들은 가끔 **디지털 기기에서 벗어나** 의도적으로 우리의 디지털 생활을 **새롭게 시작할 필요가 있다**고 강조합니다."
+        ],
+        "translationHighlights": [
+          "정보의 홍수에 압도당하는 느낌",
+          "데이터 피로",
+          "디지털 기기에서 벗어나",
+          "새롭게 시작할 필요가 있다"
+        ],
+        "newWords": [
+          {
+            "word": "drinking from a fire hose",
+            "meaning": "정보의 홍수에 압도당하다, 한꺼번에 너무 많은 정보를 접하다",
+            "context": "truly **drinking from a fire hose**"
+          },
+          {
+            "word": "unplug",
+            "meaning": "(전자 기기에서) 벗어나다, 연결을 끊다",
+            "context": "occasionally **unplug**"
+          },
+          {
+            "word": "hit the reset button",
+            "meaning": "새롭게 시작하다, 초기화하다",
+            "context": "intentionally **hit the reset button**"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "JPMorgan Chase's new AI feature helps users really \"read the tea leaves\" of their financial future, offering proactive insights instead of just historical data.",
           "This foresight gives customers \"a leg up\" in managing their money, allowing them to build a solid \"nest egg\" for whatever lies ahead."
         ],
@@ -592,6 +625,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The European Commission's imminent Digital Markets Act enforcement could finally put the brakes on Google's long-standing dominance in AI-powered search.",
+          "Conversely, NVIDIA continues to buck the trend amidst global economic uncertainties, with its data center revenue projected to go from strength to strength due to insatiable AI demand."
+        ],
+        "sentenceTranslations": [
+          "유럽연합 집행위원회의 임박한 디지털 시장법 시행은 구글이 AI 기반 검색 시장에서 오랫동안 누려온 독점적 지위에 마침내 제동을 걸 수 있습니다.",
+          "반대로, 전 세계적인 경제 불확실성 속에서도 엔비디아는 계속해서 이러한 추세에 역행하며, 인공지능 수요의 폭발적인 증가 덕분에 데이터 센터 매출이 더욱 승승장구할 것으로 전망됩니다."
+        ],
+        "translationHighlights": [
+          "마침내 제동을 걸 수 있습니다",
+          "이러한 추세에 역행하며",
+          "더욱 승승장구할 것으로 전망됩니다"
+        ],
+        "newWords": [
+          {
+            "word": "put the brakes on",
+            "meaning": "제동을 걸다, ~을 늦추거나 멈추게 하다",
+            "context": "could finally put the brakes on Google's long-standing dominance"
+          },
+          {
+            "word": "buck the trend",
+            "meaning": "추세에 역행하다, 일반적인 경향과 반대되다",
+            "context": "NVIDIA continues to buck the trend amidst global economic uncertainties"
+          },
+          {
+            "word": "go from strength to strength",
+            "meaning": "점점 더 강력해지다, 계속해서 발전하다/성공하다",
+            "context": "projected to go from strength to strength due to insatiable AI demand"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With the IMF revising global growth downwards due to persistent disruptions, it seems the economy is still on thin ice, compelling many businesses to batten down the hatches for potential turbulence.",
           "Meanwhile, tech giants are striving to thread the needle between hefty AI integration costs and the anticipated efficiency gains, carefully weighing this strategic pivot against compliance concerns."
         ],
@@ -1178,6 +1243,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Venice's proactive decision to set a daily visitor cap aims to nip the problem of overtourism in the bud, safeguarding its unique charm.",
+          "This, combined with a growing trend among travelers to explore destinations off the beaten path, indicates a crucial paradigm shift in the tourism industry."
+        ],
+        "sentenceTranslations": [
+          "베네치아가 일일 방문객 상한선을 정한 선제적인 결정은 과잉 관광 문제를 초기에 해결하여 독특한 매력을 보호하려는 목적을 가지고 있습니다.",
+          "이는 여행객들 사이에서 잘 알려지지 않은 곳을 탐험하려는 경향이 커지는 것과 맞물려, 관광 산업에 중요한 패러다임 전환이 일어나고 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "선제적인 결정",
+          "과잉 관광 문제를 초기에 해결하여",
+          "잘 알려지지 않은 곳을 탐험하려는 경향",
+          "중요한 패러다임 전환"
+        ],
+        "newWords": [
+          {
+            "word": "nip in the bud",
+            "meaning": "문제를 초기에 해결하다, 싹을 자르다",
+            "context": "nip the problem of overtourism in the bud"
+          },
+          {
+            "word": "off the beaten path",
+            "meaning": "잘 알려지지 않은 곳, 인적이 드문 곳",
+            "context": "explore destinations off the beaten path"
+          },
+          {
+            "word": "paradigm shift",
+            "meaning": "패러다임 전환 (근본적인 변화)",
+            "context": "a crucial paradigm shift"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With a significant 15% surge in tourist visa applications, the writing on the wall is clear: Canada is bracing for an unprecedented influx of football fans for the 2026 World Cup.",
           "However, as rising sustainable aviation fuel costs put the squeeze on airlines, travelers should expect to feel the pinch through higher ticket prices for that once-in-a-lifetime trip."
         ],
@@ -1762,6 +1860,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The Padres truly came out swinging this season, sweeping the Dodgers and immediately sending a clear message to the league.",
+          "Likewise, FNATIC's decisive victory in the Valorant Champions Tour shows they're not just participating but playing for keeps."
+        ],
+        "sentenceTranslations": [
+          "샌디에이고 파드리스는 이번 시즌 초반부터 맹렬히 시작하여 다저스를 상대로 완승을 거두며 리그에 확실한 메시지를 보냈습니다.",
+          "마찬가지로, 발로란트 챔피언스 투어에서 FNATIC의 압도적인 승리는 그들이 단순히 참가하는 것을 넘어 진지하게 승리를 노리고 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "맹렬히 시작하여",
+          "확실한 메시지를 보냈습니다",
+          "압도적인 승리",
+          "진지하게 승리를 노리고 있음"
+        ],
+        "newWords": [
+          {
+            "word": "came out swinging",
+            "meaning": "맹렬히 시작하다, (초반부터) 공격적으로 나서다",
+            "context": "The Padres truly came out swinging this season"
+          },
+          {
+            "word": "playing for keeps",
+            "meaning": "진지하게 승리를 노리다, 전력을 다하다, 장난이 아닌 실전이다",
+            "context": "they're not just participating but playing for keeps"
+          }
+        ]
+      },
       {
         "sentences": [
           "After a challenging opening round at The Masters, Viktor Hovland will certainly have to pull out all the stops today if he hopes to make a comeback.",
