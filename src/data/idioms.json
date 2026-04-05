@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The push by initiatives like 'Gemini Everywhere' for deeper data access is giving privacy advocates pause, making them wary of giving tech giants carte blanche with our digital lives.",
+          "They argue that such extensive data sharing could be a slippery slope, potentially undermining individual autonomy and making it harder to put the genie back in the bottle once it's out."
+        ],
+        "sentenceTranslations": [
+          "'Gemini Everywhere' 같은 이니셔티브가 데이터 접근을 확대하려는 움직임은 사생활 보호 옹호자들에게 우려를 안겨주며, 그들이 거대 기술 기업들에게 우리 디지털 삶에 대한 전권을 부여하는 것을 경계하게 만듭니다.",
+          "그들은 그러한 광범위한 데이터 공유가 걷잡을 수 없이 나빠질 수 있는 상황이며, 개인의 자율성을 약화시키고 일단 풀려난 통제를 다시 제자리로 되돌리기가 더 어려워질 수 있다고 주장합니다."
+        ],
+        "translationHighlights": [
+          "우려를 안겨주며",
+          "전권을 부여하는 것을 경계하게 만듭니다",
+          "걷잡을 수 없이 나빠질 수 있는 상황",
+          "되돌리기가 더 어려워질 수 있다"
+        ],
+        "newWords": [
+          {
+            "word": "carte blanche",
+            "meaning": "전권, 완전한 자유",
+            "context": "giving tech giants carte blanche with our digital lives"
+          },
+          {
+            "word": "a slippery slope",
+            "meaning": "점점 더 나빠지는 상황, 미끄러운 비탈",
+            "context": "such extensive data sharing could be a slippery slope"
+          },
+          {
+            "word": "put the genie back in the bottle",
+            "meaning": "(한번 시작되거나 퍼진 일을) 다시 되돌리거나 통제하기 어렵다",
+            "context": "harder to put the genie back in the bottle once it's out"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Managing the privacy settings across a myriad of interconnected health and lifestyle apps means many users are truly **drinking from a fire hose**, leading to widespread data fatigue.",
           "To counteract this and prevent burnout, experts emphasize the need to occasionally **unplug** and intentionally **hit the reset button** on our digital lives."
         ],
@@ -625,6 +658,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Given the European Central Bank's hawkish signals, global investors are keenly **reading the tea leaves** to predict market shifts amidst stubbornly high inflation.",
+          "This cautious sentiment is clearly evident as venture capital firms now **separate the wheat from the chaff**, demanding concrete profitability roadmaps from generative AI startups."
+        ],
+        "sentenceTranslations": [
+          "유럽중앙은행의 매파적 신호에 비추어 볼 때, 전 세계 투자자들은 고질적인 높은 인플레이션 속에서 시장의 변화를 예측하기 위해 민감하게 **미래의 징후를 읽고 있습니다**.",
+          "이러한 신중한 분위기는 벤처 캐피털 회사들이 생성형 AI 스타트업들에게 구체적인 수익성 로드맵을 요구하며 **옥석을 가리고 있는** 모습에서 확연히 드러납니다."
+        ],
+        "translationHighlights": [
+          "미래의 징후를 읽고 있습니다",
+          "고질적인 높은 인플레이션",
+          "옥석을 가리고 있는",
+          "구체적인 수익성 로드맵"
+        ],
+        "newWords": [
+          {
+            "word": "reading the tea leaves",
+            "meaning": "미래의 징후를 읽다, 상황을 분석해 미래를 예측하다",
+            "context": "global investors are keenly reading the tea leaves to predict market shifts"
+          },
+          {
+            "word": "separate the wheat from the chaff",
+            "meaning": "옥석을 가리다, 중요한 것과 중요하지 않은 것을 구분하다",
+            "context": "venture capital firms now separate the wheat from the chaff"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The European Commission's imminent Digital Markets Act enforcement could finally put the brakes on Google's long-standing dominance in AI-powered search.",
           "Conversely, NVIDIA continues to buck the trend amidst global economic uncertainties, with its data center revenue projected to go from strength to strength due to insatiable AI demand."
         ],
@@ -1241,6 +1302,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "South Korea's enhanced Digital Nomad Visa program is a game changer, poised to reshape its tourism landscape by attracting a significant influx of global remote talent.",
+          "This strategic move is already paying dividends, with major airlines like Korean Air anticipating a substantial boost in international flight bookings."
+        ],
+        "sentenceTranslations": [
+          "한국의 강화된 디지털 노마드 비자 프로그램은 진정한 판도를 바꾸는 요소로서, 전 세계 원격 근무 인재의 상당한 유입을 통해 관광 지형을 재편할 준비가 되어 있습니다.",
+          "이러한 전략적 움직임은 이미 성과를 거두고 있어, 대한항공과 같은 주요 항공사들이 국제선 항공권 예약의 상당한 증가를 예상하고 있습니다."
+        ],
+        "translationHighlights": [
+          "판도를 바꾸는 요소",
+          "관광 지형을 재편할 준비가 되어 있습니다",
+          "이미 성과를 거두고 있어",
+          "상당한 증가를 예상하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "game changer",
+            "meaning": "판도를 바꾸는 요소/상황",
+            "context": "is a game changer, poised to reshape"
+          },
+          {
+            "word": "pay dividends",
+            "meaning": "장기적으로 이익을 가져오다/성과를 거두다",
+            "context": "is already paying dividends, with major airlines"
+          }
+        ]
+      },
       {
         "sentences": [
           "Venice's proactive decision to set a daily visitor cap aims to nip the problem of overtourism in the bud, safeguarding its unique charm.",
@@ -1860,6 +1949,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The Masters final and the LEC grand final both promise to go down to the wire today, with champions and challengers giving it their all.",
+          "Meanwhile, the outdoor recreation sector continues to go from strength to strength, clearly having struck a chord with the public looking for an escape."
+        ],
+        "sentenceTranslations": [
+          "오늘 마스터스 결승전과 LEC 그랜드 파이널 모두 우승자와 도전자들이 모든 것을 쏟아부으며 마지막까지 손에 땀을 쥐게 할 것으로 예상됩니다.",
+          "한편, 야외 레크리에이션 분야는 계속해서 승승장구하며, 탈출구를 찾는 대중의 마음을 확실히 사로잡은 모습입니다."
+        ],
+        "translationHighlights": [
+          "손에 땀을 쥐게 할 것으로 예상됩니다",
+          "모든 것을 쏟아부으며",
+          "승승장구하며",
+          "마음을 사로잡은"
+        ],
+        "newWords": [
+          {
+            "word": "go down to the wire",
+            "meaning": "마지막까지 결과를 알 수 없거나, 손에 땀을 쥐게 하는 상황이 되다",
+            "context": "both promise to go down to the wire today"
+          },
+          {
+            "word": "go from strength to strength",
+            "meaning": "점점 더 강해지거나 성공하다, 승승장구하다",
+            "context": "continues to go from strength to strength"
+          },
+          {
+            "word": "strike a chord",
+            "meaning": "공감을 얻다, 마음을 울리다, (대중의) 심금을 울리다",
+            "context": "clearly having struck a chord with the public"
+          }
+        ]
+      },
       {
         "sentences": [
           "The Padres truly came out swinging this season, sweeping the Dodgers and immediately sending a clear message to the league.",
