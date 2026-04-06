@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The WHO's push for transparency aims to shine a light on the often murky waters of data sharing in AI health applications.",
+          "It's essential for users to not just take things at face value but really dig into the fine print of these wellness plans to grasp data monetization."
+        ],
+        "sentenceTranslations": [
+          "WHO의 투명성 강화 움직임은 AI 건강 앱의 데이터 공유를 둘러싼 종종 불분명하고 의심스러운 상황들을 명확히 밝히는 것을 목표로 합니다.",
+          "사용자들은 단순히 겉만 보고 판단하지 않고, 데이터 수익화 방식에 대해 이러한 웰니스 플랜의 세부 조항들을 정말 깊이 파고들어 이해하는 것이 필수적입니다."
+        ],
+        "translationHighlights": [
+          "불분명하고 의심스러운 상황들을 명확히 밝히는",
+          "겉만 보고 판단하지 않고",
+          "깊이 파고들어 이해하는 것이 필수적입니다"
+        ],
+        "newWords": [
+          {
+            "word": "shine a light on",
+            "meaning": "명확히 밝히다, ~에 대해 알려주다",
+            "context": "aims to shine a light on the often murky waters"
+          },
+          {
+            "word": "murky waters",
+            "meaning": "불분명하고 의심스러운 상황",
+            "context": "on the often murky waters of data sharing"
+          },
+          {
+            "word": "take things at face value",
+            "meaning": "겉만 보고 판단하다, 액면 그대로 받아들이다",
+            "context": "not just take things at face value"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The push by initiatives like 'Gemini Everywhere' for deeper data access is giving privacy advocates pause, making them wary of giving tech giants carte blanche with our digital lives.",
           "They argue that such extensive data sharing could be a slippery slope, potentially undermining individual autonomy and making it harder to put the genie back in the bottle once it's out."
         ],
@@ -658,6 +690,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Given the IMF's cautious global outlook and persistent inflation concerns, many businesses will need to **batten down the hatches** to navigate the gathering economic headwinds.",
+          "Despite this challenging environment, companies like AWS are concurrently **breaking new ground** with specialized AI models, aiming to gain a strategic edge in the evolving enterprise landscape."
+        ],
+        "sentenceTranslations": [
+          "IMF의 신중한 글로벌 전망과 지속적인 인플레이션 우려를 고려할 때, 많은 기업들은 거세지는 경제적 역풍을 헤쳐나가기 위해 **단단히 준비해야 할 것**입니다.",
+          "이러한 어려운 환경 속에서도 AWS와 같은 기업들은 전문화된 AI 모델로 동시에 **새로운 지평을 열며**, 진화하는 기업 환경에서 전략적 우위를 확보하려 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "단단히 준비해야 할 것",
+          "경제적 역풍",
+          "새로운 지평을 열며",
+          "전략적 우위"
+        ],
+        "newWords": [
+          {
+            "word": "batten down the hatches",
+            "meaning": "어려운 상황에 대비하다; 단단히 준비하다",
+            "context": "need to batten down the hatches"
+          },
+          {
+            "word": "economic headwinds",
+            "meaning": "경제적 역풍; 경제 성장을 저해하는 요인들",
+            "context": "gathering economic headwinds"
+          },
+          {
+            "word": "breaking new ground",
+            "meaning": "새로운 지평을 열다; 혁신적인 일을 하다",
+            "context": "are concurrently breaking new ground"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Given the European Central Bank's hawkish signals, global investors are keenly **reading the tea leaves** to predict market shifts amidst stubbornly high inflation.",
           "This cautious sentiment is clearly evident as venture capital firms now **separate the wheat from the chaff**, demanding concrete profitability roadmaps from generative AI startups."
         ],
@@ -1302,6 +1367,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The ETIAS system seems to be hitting its stride, streamlining entry for visa-exempt travelers and significantly cutting down on last-minute disruptions.",
+          "This push for efficiency, coupled with efforts like Emirates paving the way for sustainable aviation fuel, indicates a broader industry shift towards smarter, greener travel."
+        ],
+        "sentenceTranslations": [
+          "ETIAS 시스템은 이제 제 궤도에 오른 것처럼 보이며, 비자 면제 여행객들의 입국 절차를 간소화하고 막판 취소를 크게 줄이고 있습니다.",
+          "이러한 효율성 증대 노력과 더불어 에미레이트 항공이 지속 가능한 항공유 사용을 위해 선구적인 역할을 하는 것 등은, 더 스마트하고 친환경적인 여행을 향한 광범위한 업계 변화를 보여줍니다."
+        ],
+        "translationHighlights": [
+          "제 궤도에 오른 것처럼 보이며",
+          "막판 취소를 크게 줄이고 있습니다",
+          "선구적인 역할을 하는 것",
+          "광범위한 업계 변화"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "제 궤도에 오르다, 순조롭게 진행되다",
+            "context": "The ETIAS system seems to be hitting its stride"
+          },
+          {
+            "word": "paving the way",
+            "meaning": "길을 닦다, 선구적인 역할을 하다",
+            "context": "Emirates paving the way for sustainable aviation fuel"
+          }
+        ]
+      },
       {
         "sentences": [
           "South Korea's enhanced Digital Nomad Visa program is a game changer, poised to reshape its tourism landscape by attracting a significant influx of global remote talent.",
@@ -1949,6 +2042,33 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With spring's arrival, outdoor recreation has truly begun to pick up steam, evidenced by the National Park Service's 15% year-over-year increase in visitors.",
+          "This surge, however, means visitors should get their ducks in a row by securing trail permits well in advance to avoid disappointment."
+        ],
+        "sentenceTranslations": [
+          "봄이 오면서 야외 활동이 진정으로 활기를 띠기 시작했으며, 국립공원 관리청이 발표한 전년 대비 15% 증가한 방문객 수가 이를 증명합니다.",
+          "하지만 이러한 급증은 방문객들이 실망하는 일이 없도록 미리 트레일 허가를 확보하여 모든 준비를 철저히 해야 한다는 것을 의미합니다."
+        ],
+        "translationHighlights": [
+          "활기를 띠기 시작했으며",
+          "모든 준비를 철저히 해야 한다는 것을",
+          "미리 ~을 확보하여"
+        ],
+        "newWords": [
+          {
+            "word": "pick up steam",
+            "meaning": "활기를 띠기 시작하다, 기세가 오르다, 추진력을 얻다",
+            "context": "outdoor recreation has truly begun to pick up steam"
+          },
+          {
+            "word": "get one's ducks in a row",
+            "meaning": "모든 준비를 철저히 하다, 일을 체계적으로 정리하다",
+            "context": "visitors should get their ducks in a row by securing trail permits well in advance"
+          }
+        ]
+      },
       {
         "sentences": [
           "The Masters final and the LEC grand final both promise to go down to the wire today, with champions and challengers giving it their all.",
