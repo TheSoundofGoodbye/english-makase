@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While privacy advocates caution users to keep a weather eye open, it's hard not to give Gemini its due for making personal finance management a breeze.",
+          "With AI becoming an active participant in our financial lives, the genie is truly out of the bottle for traditional expense tracking, and savvy users are already embracing this paradigm shift."
+        ],
+        "sentenceTranslations": [
+          "프라이버시 옹호론자들이 사용자들에게 늘 경계를 늦추지 말라고 경고하지만, 개인 재정 관리를 아주 쉽게 만들어준 제미니의 공로를 인정하지 않을 수 없습니다.",
+          "AI가 우리의 재정 생활에 적극적으로 참여하게 되면서, 기존의 지출 추적 방식에 있어서는 이제 돌이킬 수 없는 변화가 시작되었고, savvy한 사용자들은 이미 이러한 패러다임의 변화를 받아들이고 있습니다."
+        ],
+        "translationHighlights": [
+          "경계를 늦추지 말라고 경고하지만",
+          "공로를 인정하지 않을 수 없습니다",
+          "아주 쉽게 만들어준",
+          "돌이킬 수 없는 변화가 시작되었고"
+        ],
+        "newWords": [
+          {
+            "word": "keep a weather eye open",
+            "meaning": "경계를 늦추지 않고 지켜보다, 조심하다",
+            "context": "caution users to keep a weather eye open"
+          },
+          {
+            "word": "give X its due",
+            "meaning": "~의 공로/정당한 평가를 인정하다",
+            "context": "it's hard not to give Gemini its due"
+          },
+          {
+            "word": "the genie is out of the bottle",
+            "meaning": "한번 시작된 일은 되돌릴 수 없다, 돌이킬 수 없는 변화가 일어났다",
+            "context": "the genie is truly out of the bottle for traditional expense tracking"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The WHO's push for transparency aims to shine a light on the often murky waters of data sharing in AI health applications.",
           "It's essential for users to not just take things at face value but really dig into the fine print of these wellness plans to grasp data monetization."
         ],
@@ -690,6 +723,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The impending EU tariffs on Chinese EVs are forcing global automakers to read the tea leaves regarding their supply chain strategies, anticipating significant shifts in the market.",
+          "Meanwhile, as the AI sector sees a gold rush of investment, many firms are striving to keep their powder dry for future strategic pivots amidst intensifying competition."
+        ],
+        "sentenceTranslations": [
+          "유럽 연합의 중국산 전기차 관세 부과가 임박하면서, 글로벌 자동차 제조업체들은 시장의 중대한 변화를 예상하며 공급망 전략에 대해 미래를 예측하려 애쓰고 있습니다.",
+          "한편, AI 부문이 투자 열풍(골드 러시)을 겪으면서, 많은 기업들은 치열해지는 경쟁 속에서 미래의 전략적 전환을 위해 여력을 남겨두려 노력하고 있습니다."
+        ],
+        "translationHighlights": [
+          "미래를 예측하려 애쓰고 있습니다",
+          "투자 열풍(골드 러시)",
+          "여력을 남겨두려 노력하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "read the tea leaves",
+            "meaning": "미래를 예측하다, 징후를 읽다",
+            "context": "forcing global automakers to read the tea leaves regarding their supply chain strategies"
+          },
+          {
+            "word": "gold rush",
+            "meaning": "골드 러시, (특정 분야에 대한) 열풍",
+            "context": "as the AI sector sees a gold rush of investment"
+          },
+          {
+            "word": "keep their powder dry",
+            "meaning": "미래를 대비해 여력을 남겨두다, 신중히 준비하다",
+            "context": "many firms are striving to keep their powder dry for future strategic pivots"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Given the IMF's cautious global outlook and persistent inflation concerns, many businesses will need to **batten down the hatches** to navigate the gathering economic headwinds.",
           "Despite this challenging environment, companies like AWS are concurrently **breaking new ground** with specialized AI models, aiming to gain a strategic edge in the evolving enterprise landscape."
         ],
@@ -1369,6 +1434,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Despite persistent global economic uncertainties, premium transatlantic travel is clearly hitting its stride, showing no signs of slowing down.",
+          "Indeed, with new digital nomad visa schemes giving a shot in the arm to destinations like Vietnam, travelers are increasingly looking to venture off the beaten path for authentic cultural immersion."
+        ],
+        "sentenceTranslations": [
+          "지속적인 세계 경제 불확실성에도 불구하고, 프리미엄 대서양 횡단 여행은 분명히 탄력을 받고 있으며, 주춤할 기미를 보이지 않고 있습니다.",
+          "실제로, 베트남과 같은 목적지에 새로운 디지털 노마드 비자 제도가 활력을 불어넣으면서, 여행객들은 진정한 문화 체험을 위해 점점 더 덜 알려진 곳을 탐험하려 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "탄력을 받고 있으며",
+          "주춤할 기미를 보이지 않고 있습니다",
+          "활력을 불어넣으면서",
+          "덜 알려진 곳을 탐험하려"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "본격적으로 활기를 띠다, 순조롭게 진행되다",
+            "context": "premium transatlantic travel is clearly hitting its stride"
+          },
+          {
+            "word": "a shot in the arm",
+            "meaning": "활력소, 원기 회복제, 큰 도움이 되는 것",
+            "context": "new digital nomad visa schemes giving a shot in the arm"
+          },
+          {
+            "word": "off the beaten path",
+            "meaning": "사람들의 발길이 뜸한, 덜 알려진 곳",
+            "context": "looking to venture off the beaten path"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The ETIAS system seems to be hitting its stride, streamlining entry for visa-exempt travelers and significantly cutting down on last-minute disruptions.",
           "This push for efficiency, coupled with efforts like Emirates paving the way for sustainable aviation fuel, indicates a broader industry shift towards smarter, greener travel."
         ],
@@ -2042,6 +2140,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Despite Viktor Hovland's impressive final-round charge, Scottie Scheffler managed to keep his head in the game and secure his second Green Jacket.",
+          "His calm final nine holes allowed him to seal the deal, denying Hovland the chance to steal his thunder and make history."
+        ],
+        "sentenceTranslations": [
+          "Viktor Hovland 선수의 인상적인 마지막 라운드 추격에도 불구하고, Scottie Scheffler는 침착함을 잃지 않고 두 번째 그린 재킷을 확보했습니다.",
+          "그의 차분한 마지막 9개 홀은 그가 우승을 확정 짓는 데 결정적이었고, Hovland가 그의 영광을 가로채고 역사를 만드는 것을 막았습니다."
+        ],
+        "translationHighlights": [
+          "침착함을 잃지 않고",
+          "우승을 확정 짓는 데 결정적이었고",
+          "영광을 가로채고"
+        ],
+        "newWords": [
+          {
+            "word": "keep one's head in the game",
+            "meaning": "집중력을 유지하다, 침착함을 잃지 않다",
+            "context": "managed to keep his head in the game"
+          },
+          {
+            "word": "seal the deal",
+            "meaning": "거래를 성사시키다, 최종적으로 확정 짓다",
+            "context": "allowed him to seal the deal"
+          },
+          {
+            "word": "steal one's thunder",
+            "meaning": "남의 영광을 가로채다, 주목을 가로채다",
+            "context": "deny Hovland the chance to steal his thunder"
+          }
+        ]
+      },
       {
         "sentences": [
           "With spring's arrival, outdoor recreation has truly begun to pick up steam, evidenced by the National Park Service's 15% year-over-year increase in visitors.",
