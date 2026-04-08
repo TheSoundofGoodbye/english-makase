@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The swift integration of AI emotional support companions into personal relationships is certainly opening a Pandora's box of ethical questions about authenticity and long-term social development.",
+          "As these platforms gain ground, regulators will undoubtedly have to walk a fine line between fostering technological innovation and protecting users' psychological well-being."
+        ],
+        "sentenceTranslations": [
+          "개인적인 관계에 AI 감성 지원 동반자가 빠르게 통합되는 것은 진정성과 장기적인 사회 발전에 대한 윤리적 질문들을 봇물 터뜨리듯 쏟아내고 있습니다.",
+          "이러한 플랫폼들이 점점 더 큰 영향력을 얻게 되면서, 규제 당국은 기술 혁신을 장려하는 것과 사용자들의 심리적 안녕을 보호하는 것 사이에서 아슬아슬한 줄타기를 해야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "봇물 터뜨리듯 쏟아내고",
+          "점점 더 큰 영향력을 얻게 되면서",
+          "아슬아슬한 줄타기를"
+        ],
+        "newWords": [
+          {
+            "word": "open a Pandora's box",
+            "meaning": "판도라의 상자를 열다 (예기치 않거나 통제 불가능한 문제들을 야기하다)",
+            "context": "opening a Pandora's box of ethical questions"
+          },
+          {
+            "word": "gain ground",
+            "meaning": "점점 더 큰 영향력을 얻다, 진전을 보이다",
+            "context": "As these platforms gain ground"
+          },
+          {
+            "word": "walk a fine line",
+            "meaning": "아슬아슬한 줄타기를 하다, 미묘한 균형을 유지하다",
+            "context": "have to walk a fine line"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While privacy advocates caution users to keep a weather eye open, it's hard not to give Gemini its due for making personal finance management a breeze.",
           "With AI becoming an active participant in our financial lives, the genie is truly out of the bottle for traditional expense tracking, and savvy users are already embracing this paradigm shift."
         ],
@@ -723,6 +755,33 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The tech industry is truly on the cusp of a major transformation with the anticipated launch of Google DeepMind's 'Aether'.",
+          "This pivotal moment, driving a surge in semiconductor stocks, signals that the writing is clearly on the wall for companies to embrace AI integration or risk being left behind."
+        ],
+        "sentenceTranslations": [
+          "구글 딥마인드의 '에테르' 출시가 임박하면서 기술 업계는 실로 엄청난 변화의 문턱에 와 있습니다.",
+          "반도체 주식의 급등을 이끄는 이 중요한 순간은 기업들이 AI 통합을 받아들이지 않으면 뒤처질 것이라는 명백한 신호입니다."
+        ],
+        "translationHighlights": [
+          "엄청난 변화의 문턱에",
+          "주식의 급등을 이끄는",
+          "명백한 신호입니다"
+        ],
+        "newWords": [
+          {
+            "word": "on the cusp of",
+            "meaning": "~의 문턱에, ~의 전환점에",
+            "context": "The tech industry is truly *on the cusp of* a major transformation"
+          },
+          {
+            "word": "the writing is on the wall",
+            "meaning": "불길하거나 피할 수 없는 결과의 명백한 징조",
+            "context": "signals that *the writing is clearly on the wall* for companies"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The impending EU tariffs on Chinese EVs are forcing global automakers to read the tea leaves regarding their supply chain strategies, anticipating significant shifts in the market.",
           "Meanwhile, as the AI sector sees a gold rush of investment, many firms are striving to keep their powder dry for future strategic pivots amidst intensifying competition."
         ],
@@ -1432,6 +1491,33 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Savvy travelers are looking to steal a march on the upcoming ETIAS system, leading to a noticeable uptick in early summer bookings for the Amalfi Coast and other popular European destinations.",
+          "Airlines and tour operators are also doing their part to iron out the kinks in their systems, hoping to ensure a seamless experience once the new digital authorization becomes standard."
+        ],
+        "sentenceTranslations": [
+          "현명한 여행객들은 다가오는 ETIAS 시스템 시행에 앞서 유리한 고지를 점하기 위해, 아말피 해안을 비롯한 인기 유럽 목적지의 초여름 예약이 눈에 띄게 증가하고 있습니다.",
+          "항공사와 여행사들 또한 새로운 디지털 인증이 표준화된 이후 방문객들이 원활한 경험을 할 수 있도록, 시스템의 초기 문제점들을 해결하기 위해 노력하고 있습니다."
+        ],
+        "translationHighlights": [
+          "앞서 유리한 고지를 점하기 위해",
+          "눈에 띄게 증가하고 있습니다",
+          "초기 문제점들을 해결하기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "steal a march on",
+            "meaning": "(남보다) 한발 앞서 유리한 고지를 점하다 / 먼저 이점을 얻다",
+            "context": "looking to **steal a march on** the upcoming ETIAS system"
+          },
+          {
+            "word": "iron out the kinks",
+            "meaning": "(계획이나 시스템의) 초기 문제점들을 해결하다 / 애로사항을 없애다",
+            "context": "to **iron out the kinks** in their systems"
+          }
+        ]
+      },
       {
         "sentences": [
           "Despite persistent global economic uncertainties, premium transatlantic travel is clearly hitting its stride, showing no signs of slowing down.",
