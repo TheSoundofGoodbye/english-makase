@@ -3,6 +3,44 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "For many U.S. households, the recent report about spending over $300 monthly on digital subscriptions has made the writing on the wall clear, pointing to the need for financial reevaluation.",
+          "While canceling beloved streaming services might be a tough pill to swallow, consumers are realizing it's crucial to trim the fat and keep their financial head above water in the current economic climate."
+        ],
+        "sentenceTranslations": [
+          "많은 미국 가구들에게, 디지털 구독 서비스에 월 300달러 이상을 지출한다는 최근 보고서는 재정 재평가의 필요성에 대한 분명한 경고를 주었습니다.",
+          "좋아하는 스트리밍 서비스를 취소하는 것이 받아들이기 힘든 현실일 수 있지만, 소비자들은 현재의 경제 상황에서 불필요한 지출을 줄이고 재정적으로 버티는 것이 중요하다고 깨닫고 있습니다."
+        ],
+        "translationHighlights": [
+          "분명한 경고를 주었습니다",
+          "받아들이기 힘든 현실",
+          "불필요한 지출을 줄이고",
+          "재정적으로 버티는 것"
+        ],
+        "newWords": [
+          {
+            "word": "the writing on the wall",
+            "meaning": "분명한 경고, 임박한 불운의 징조",
+            "context": "has made the writing on the wall clear"
+          },
+          {
+            "word": "a tough pill to swallow",
+            "meaning": "받아들이기 힘든 현실/소식",
+            "context": "might be a tough pill to swallow"
+          },
+          {
+            "word": "trim the fat",
+            "meaning": "불필요한 지출/군살을 줄이다",
+            "context": "crucial to trim the fat"
+          },
+          {
+            "word": "keep one's financial head above water",
+            "meaning": "재정적으로 버티다, 파산하지 않고 유지하다",
+            "context": "keep their financial head above water"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The swift integration of AI emotional support companions into personal relationships is certainly opening a Pandora's box of ethical questions about authenticity and long-term social development.",
           "As these platforms gain ground, regulators will undoubtedly have to walk a fine line between fostering technological innovation and protecting users' psychological well-being."
         ],
@@ -755,6 +793,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Google's Gemini 3.0 has undeniably raised the bar in multimodal AI, effectively throwing down the gauntlet to rivals and compelling them to reassess their competitive strategies.",
+          "In this rapidly evolving sector, companies must keep a weather eye open for market shifts and technological breakthroughs, lest they find themselves quickly outmaneuvered."
+        ],
+        "sentenceTranslations": [
+          "구글의 제미니 3.0은 멀티모달 AI 분야에서 명백히 기준을 한층 높였으며, 경쟁사들에게 도전장을 내밀면서 그들이 경쟁 전략을 재평가하도록 만들었습니다.",
+          "이처럼 빠르게 진화하는 분야에서 기업들은 시장 변화와 기술 혁신에 대해 항상 경계를 늦추지 않고 주시해야 합니다. 그렇지 않으면 신속하게 경쟁에서 밀려날 수 있습니다."
+        ],
+        "translationHighlights": [
+          "기준을 한층 높였으며",
+          "도전장을 내밀면서",
+          "항상 경계를 늦추지 않고 주시해야 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "raise the bar",
+            "meaning": "수준/기준을 높이다",
+            "context": "undeniably raised the bar in multimodal AI"
+          },
+          {
+            "word": "throw down the gauntlet",
+            "meaning": "도전장을 내밀다, 싸움을 걸다",
+            "context": "effectively throwing down the gauntlet to rivals"
+          },
+          {
+            "word": "keep a weather eye open",
+            "meaning": "위험이나 변화에 대비하여 계속 주시하다, 경계하다",
+            "context": "must keep a weather eye open for market shifts"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The tech industry is truly on the cusp of a major transformation with the anticipated launch of Google DeepMind's 'Aether'.",
           "This pivotal moment, driving a surge in semiconductor stocks, signals that the writing is clearly on the wall for companies to embrace AI integration or risk being left behind."
         ],
@@ -1493,6 +1563,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Even with ETIAS processing finally hitting its stride, the travel industry is finding it an uphill battle to mitigate the persistent dip in last-minute bookings from previously visa-exempt countries.",
+          "To prevent summer travel plans from going south due to unawareness, the industry needs to pull out all the stops in proactively communicating the new pre-authorization requirements."
+        ],
+        "sentenceTranslations": [
+          "ETIAS 처리 과정이 마침내 제 궤도에 올랐음에도 불구하고, 여행 업계는 기존 비자 면제 국가들로부터의 막판 예약 감소세를 완화하기 위해 고군분투하고 있습니다.",
+          "정보 부족으로 인해 여름 여행 계획이 무산되는 것을 막기 위해, 업계는 새로운 사전 승인 요건을 적극적으로 알리는 데 전력을 다해야 합니다."
+        ],
+        "translationHighlights": [
+          "제 궤도에 오르다",
+          "고군분투하다",
+          "여행 계획이 무산되다",
+          "전력을 다하다"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "제 궤도에 오르다, 순조롭게 진행되다",
+            "context": "ETIAS processing finally hitting its stride"
+          },
+          {
+            "word": "an uphill battle",
+            "meaning": "고군분투, 힘겨운 싸움",
+            "context": "finding it an uphill battle to mitigate"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "전력을 다하다, 모든 노력을 기울이다",
+            "context": "needs to pull out all the stops"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Savvy travelers are looking to steal a march on the upcoming ETIAS system, leading to a noticeable uptick in early summer bookings for the Amalfi Coast and other popular European destinations.",
           "Airlines and tour operators are also doing their part to iron out the kinks in their systems, hoping to ensure a seamless experience once the new digital authorization becomes standard."
         ],
@@ -2226,6 +2329,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Scottie Scheffler is truly going for broke at The Masters, aiming to clinch a historic third consecutive green jacket and cement his legendary status.",
+          "Meanwhile, Team BDS managed to punch above their weight in the LEC Spring Split semifinals, completely stealing the show with their upset victory over G2 Esports."
+        ],
+        "sentenceTranslations": [
+          "스카티 셰플러는 이번 마스터스에서 모든 것을 걸고, 역사적인 세 번째 그린 재킷을 차지하여 자신의 전설적인 지위를 굳히려고 합니다.",
+          "한편, LEC 스프링 스플릿 준결승에서 Team BDS는 기대 이상의 실력을 보여주며 G2 이스포츠를 상대로 이변의 승리를 거둬 완전히 이목을 집중시켰습니다."
+        ],
+        "translationHighlights": [
+          "모든 것을 걸고",
+          "전설적인 지위를 굳히려고 합니다",
+          "기대 이상의 실력을 보여주며",
+          "완전히 이목을 집중시켰습니다"
+        ],
+        "newWords": [
+          {
+            "word": "going for broke",
+            "meaning": "모든 것을 걸고, 전력을 다하다",
+            "context": "Scottie Scheffler is truly going for broke at The Masters"
+          },
+          {
+            "word": "punch above their weight",
+            "meaning": "기대 이상의 실력을 발휘하다, 자신보다 강한 상대를 이기다",
+            "context": "Team BDS managed to punch above their weight in the LEC Spring Split semifinals"
+          },
+          {
+            "word": "steal the show",
+            "meaning": "모든 이목을 집중시키다, 가장 주목받다",
+            "context": "completely stealing the show with their upset victory"
+          }
+        ]
+      },
       {
         "sentences": [
           "Despite Viktor Hovland's impressive final-round charge, Scottie Scheffler managed to keep his head in the game and secure his second Green Jacket.",
