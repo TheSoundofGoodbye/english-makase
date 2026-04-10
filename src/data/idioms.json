@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Before Google introduced 'WorkFlex Navigator,' many professionals were burning the candle at both ends, struggling to maintain a consistent work-life balance in their hybrid setups.",
+          "This AI-powered platform aims to break new ground by intelligently optimizing team collaboration, truly raising the bar for adaptive work environments."
+        ],
+        "sentenceTranslations": [
+          "구글이 'WorkFlex Navigator'를 도입하기 전, 많은 직장인들이 하이브리드 근무 환경에서 일과 삶의 균형을 유지하느라 양쪽으로 초를 태우듯 고군분투했습니다.",
+          "이 AI 기반 플랫폼은 팀 협업을 지능적으로 최적화하여 새로운 지평을 열고, 적응형 근무 환경의 기준을 진정으로 높이는 것을 목표로 합니다."
+        ],
+        "translationHighlights": [
+          "양쪽으로 초를 태우듯 고군분투했습니다",
+          "새로운 지평을 열고",
+          "기준을 진정으로 높이는 것을"
+        ],
+        "newWords": [
+          {
+            "word": "burn the candle at both ends",
+            "meaning": "양쪽으로 초를 태우다 (과로하다, 몸을 혹사하다)",
+            "context": "burning the candle at both ends, struggling to maintain a consistent work-life balance"
+          },
+          {
+            "word": "break new ground",
+            "meaning": "새로운 지평을 열다, 선구적인 일을 하다",
+            "context": "aims to break new ground by intelligently optimizing team collaboration"
+          },
+          {
+            "word": "raise the bar",
+            "meaning": "기준을 높이다, 더 높은 수준을 설정하다",
+            "context": "truly raising the bar for adaptive work environments"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "For many U.S. households, the recent report about spending over $300 monthly on digital subscriptions has made the writing on the wall clear, pointing to the need for financial reevaluation.",
           "While canceling beloved streaming services might be a tough pill to swallow, consumers are realizing it's crucial to trim the fat and keep their financial head above water in the current economic climate."
         ],
@@ -793,6 +825,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Despite the European Central Bank’s hints at potential rate cuts, eurozone core inflation remains **the elephant in the room**, stubbornly impacting trade outlooks.",
+          "Conversely, the AI sector is clearly **on a tear**, with significant investments like Google's in Anthropic keeping tech stocks buoyant and fueling an insatiable demand for chips."
+        ],
+        "sentenceTranslations": [
+          "유럽중앙은행이 금리 인하 가능성을 시사했음에도 불구하고, 유로존의 근원 인플레이션은 여전히 **모두가 알지만 언급하기 꺼려하는 문제**로 남아 무역 전망에 지속적으로 영향을 미치고 있습니다.",
+          "이와 대조적으로, AI 분야는 구글이 Anthropic에 투자한 것과 같은 막대한 투자 덕분에 기술주를 활성화하고 칩 수요를 끊임없이 부추기면서 명백히 **고공행진 중**입니다."
+        ],
+        "translationHighlights": [
+          "모두가 알지만 언급하기 꺼려하는 문제",
+          "고공행진 중",
+          "금리 인하 가능성을 시사했음에도 불구하고",
+          "기술주를 활성화하고"
+        ],
+        "newWords": [
+          {
+            "word": "the elephant in the room",
+            "meaning": "모두가 알지만 언급하기 꺼려하는 문제 (크고 명백한 문제)",
+            "context": "eurozone core inflation remains **the elephant in the room**"
+          },
+          {
+            "word": "on a tear",
+            "meaning": "고공행진 중인, 연승하는, 맹활약 중인",
+            "context": "the AI sector is clearly **on a tear**"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Google's Gemini 3.0 has undeniably raised the bar in multimodal AI, effectively throwing down the gauntlet to rivals and compelling them to reassess their competitive strategies.",
           "In this rapidly evolving sector, companies must keep a weather eye open for market shifts and technological breakthroughs, lest they find themselves quickly outmaneuvered."
         ],
@@ -1563,6 +1623,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Clearly determined to pull out all the stops in its tourism push, Saudi Arabia has rolled out an ambitious multi-entry visa program, setting its sights on the luxury travel market.",
+          "With forward bookings already seeing a significant jump, it looks like they are hitting the ground running and are poised to turn heads in the experiential travel sector."
+        ],
+        "sentenceTranslations": [
+          "사우디아라비아가 관광 산업 추진에 총력을 기울이겠다는 분명한 의지를 보이며, 야심 찬 복수 입국 비자 프로그램을 시작했고, 럭셔리 여행 시장에 목표를 두고 있습니다.",
+          "선행 예약이 이미 크게 증가한 것을 보면, 이들은 빠르게 본궤도에 오른 것 같으며, 체험형 여행 부문에서 주목을 끌 준비가 되어 있습니다."
+        ],
+        "translationHighlights": [
+          "총력을 기울이겠다는 분명한 의지를 보이며",
+          "목표를 두고 있습니다",
+          "빠르게 본궤도에 오른 것 같으며",
+          "주목을 끌 준비가 되어 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 수단과 방법을 동원하다, 총력을 기울이다",
+            "context": "Clearly determined to **pull out all the stops** in its tourism push"
+          },
+          {
+            "word": "hit the ground running",
+            "meaning": "바로 업무에 착수하다, 순조롭게 시작하다",
+            "context": "it looks like they are **hitting the ground running**"
+          },
+          {
+            "word": "turn heads",
+            "meaning": "(많은 사람들의) 시선을 사로잡다, 주목을 끌다",
+            "context": "poised to **turn heads** in the experiential travel sector"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Even with ETIAS processing finally hitting its stride, the travel industry is finding it an uphill battle to mitigate the persistent dip in last-minute bookings from previously visa-exempt countries.",
           "To prevent summer travel plans from going south due to unawareness, the industry needs to pull out all the stops in proactively communicating the new pre-authorization requirements."
         ],
@@ -2329,6 +2422,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Rookie phenom Minwoo Kim's impressive T7 finish at Augusta National has truly put him on the map, signaling he's ready to take the PGA Tour by storm this season.",
+          "This spirit of unexpected triumph also shone brightly in esports, as Team Heretics, after a grueling five-map series, managed to pull out all the stops to clinch their Valorant semi-finals spot."
+        ],
+        "sentenceTranslations": [
+          "신인 돌풍 김민우 선수의 오거스타 내셔널 T7위라는 인상적인 기록은 그를 정말 유명하게 만들었고, 이번 시즌 PGA 투어를 휩쓸 준비가 되었음을 알리고 있습니다.",
+          "이러한 예상치 못한 승리의 정신은 이스포츠에서도 빛을 발했습니다. 팀 헤레틱스가 힘든 5세트 접전 끝에 모든 수단을 동원하여 발로란트 준결승 진출을 확정 지었기 때문입니다."
+        ],
+        "translationHighlights": [
+          "유명하게 만들었고",
+          "PGA 투어를 휩쓸",
+          "모든 수단을 동원하여",
+          "신인 돌풍"
+        ],
+        "newWords": [
+          {
+            "word": "put (someone/something) on the map",
+            "meaning": "유명하게 만들다, 중요한 존재로 만들다",
+            "context": "has truly put him on the map"
+          },
+          {
+            "word": "take (something) by storm",
+            "meaning": "~을 휩쓸다, 단숨에 사로잡다, 큰 성공을 거두다",
+            "context": "ready to take the PGA Tour by storm"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 수단을 동원하다, 전력을 다하다",
+            "context": "managed to pull out all the stops"
+          }
+        ]
+      },
       {
         "sentences": [
           "Scottie Scheffler is truly going for broke at The Masters, aiming to clinch a historic third consecutive green jacket and cement his legendary status.",
