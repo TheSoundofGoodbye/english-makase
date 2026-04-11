@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While AI-powered health trackers are quickly catching fire among consumers, the lack of regulation puts many users at risk.",
+          "As Dr. Sharma warns, this cutting-edge technology could easily turn into a double-edged sword if not properly overseen, jeopardizing consumer privacy."
+        ],
+        "sentenceTranslations": [
+          "AI 기반 건강 추적기는 소비자들 사이에서 빠르게 인기를 얻고 있지만, 규제 부족으로 인해 많은 사용자들이 위험에 처해 있습니다.",
+          "샤르마 박사가 경고했듯이, 이 최첨단 기술은 제대로 감독되지 않으면 쉽게 양날의 검이 되어 소비자 프라이버시를 위협할 수 있습니다."
+        ],
+        "translationHighlights": [
+          "빠르게 인기를 얻고 있지만",
+          "규제 부족으로 인해",
+          "양날의 검이 되어",
+          "위협할 수 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "catch fire",
+            "meaning": "급속히 인기를 얻다, 큰 호응을 얻다",
+            "context": "AI-powered health trackers are quickly catching fire among consumers"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (이점과 단점을 동시에 가짐)",
+            "context": "could easily turn into a double-edged sword if not properly overseen"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Before Google introduced 'WorkFlex Navigator,' many professionals were burning the candle at both ends, struggling to maintain a consistent work-life balance in their hybrid setups.",
           "This AI-powered platform aims to break new ground by intelligently optimizing team collaboration, truly raising the bar for adaptive work environments."
         ],
@@ -825,6 +853,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Following the robust jobs report, the Fed's decision to pour cold water on early rate cut hopes has left many market participants bracing for continued economic headwinds.",
+          "Consequently, investors are now keenly reading the tea leaves from central bank statements, trying to gauge how long this period of higher borrowing costs will persist and affect global equities."
+        ],
+        "sentenceTranslations": [
+          "견고한 고용 보고서 발표 이후, 연준이 조기 금리 인하 기대에 찬물을 끼얹으면서 많은 시장 참여자들이 계속될 경제적 역풍에 대비하고 있습니다.",
+          "이에 따라 투자자들은 이제 중앙은행의 발표에서 미묘한 징후들을 면밀히 읽어내며, 이 높은 차입 비용 기간이 얼마나 지속되어 전 세계 주식 시장에 영향을 미칠지 가늠하려 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "찬물을 끼얹으면서",
+          "경제적 역풍에 대비하고 있습니다",
+          "미묘한 징후들을 면밀히 읽어내며",
+          "가늠하려 하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "pour cold water on",
+            "meaning": "~에 찬물을 끼얹다, ~의 기세를 꺾다",
+            "context": "to pour cold water on early rate cut hopes"
+          },
+          {
+            "word": "brace for",
+            "meaning": "~에 대비하다, ~에 대비해 자세를 취하다",
+            "context": "bracing for continued economic headwinds"
+          },
+          {
+            "word": "read the tea leaves",
+            "meaning": "미묘한 징후를 읽어 미래를 예측하다",
+            "context": "keenly reading the tea leaves from central bank statements"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Despite the European Central Bank’s hints at potential rate cuts, eurozone core inflation remains **the elephant in the room**, stubbornly impacting trade outlooks.",
           "Conversely, the AI sector is clearly **on a tear**, with significant investments like Google's in Anthropic keeping tech stocks buoyant and fueling an insatiable demand for chips."
         ],
@@ -1621,6 +1682,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With Venice reportedly \"bursting at the seams\" ahead of its reservation system, it's evident traditional European hotspots are struggling with overtourism.",
+          "This has led many adventurous travelers to \"venture off the beaten path,\" seeking out unique cultural experiences in lesser-known regions like the Balkans."
+        ],
+        "sentenceTranslations": [
+          "베네치아가 예약 시스템 도입을 앞두고 '발 디딜 틈 없이' 붐비는 것을 보면, 전통적인 유럽 인기 여행지들이 과잉 관광으로 어려움을 겪는 것이 분명합니다.",
+          "이로 인해 많은 모험심 강한 여행객들이 '익숙하지 않은 길을 택해' 발칸반도와 같은 덜 알려진 지역에서 독특한 문화 경험을 추구하고 있습니다."
+        ],
+        "translationHighlights": [
+          "발 디딜 틈 없이",
+          "과잉 관광으로 어려움을 겪는",
+          "익숙하지 않은 길을 택해",
+          "독특한 문화 경험을 추구하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "bursting at the seams",
+            "meaning": "너무 가득 차서 터질 것 같은, 매우 붐비는",
+            "context": "Venice reportedly \"bursting at the seams\""
+          },
+          {
+            "word": "venture off the beaten path",
+            "meaning": "사람들이 잘 가지 않는 곳을 탐험하다, 익숙하지 않은 길을 택하다",
+            "context": "many adventurous travelers to \"venture off the beaten path\""
+          }
+        ]
+      },
       {
         "sentences": [
           "Clearly determined to pull out all the stops in its tourism push, Saudi Arabia has rolled out an ambitious multi-entry visa program, setting its sights on the luxury travel market.",
@@ -2422,6 +2511,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Viktor Hovland truly hit his stride on moving day, pulling ahead of the pack with a phenomenal 67 despite the difficult conditions.",
+          "With Scottie Scheffler right on his heels, tomorrow's final round is sure to be a real nail-biter, going right down to the wire."
+        ],
+        "sentenceTranslations": [
+          "빅터 호블랜드는 어려운 상황 속에서도 무빙 데이(3라운드)에 제대로 기세를 타며, 경이로운 67타로 선두를 치고 나갔습니다.",
+          "바로 뒤를 바짝 쫓는 스코티 셰플러 덕분에, 내일 최종 라운드는 정말 손에 땀을 쥐게 하는 접전이 될 것이며, 마지막 순간까지 승패를 알 수 없을 겁니다."
+        ],
+        "translationHighlights": [
+          "제대로 기세를 타며",
+          "선두를 치고 나갔습니다",
+          "손에 땀을 쥐게 하는 접전",
+          "마지막 순간까지 승패를 알 수 없을 겁니다"
+        ],
+        "newWords": [
+          {
+            "word": "hit one's stride",
+            "meaning": "어떤 일을 어려움 없이 능숙하게 해내기 시작하다, 진가를 발휘하다",
+            "context": "Hovland truly **hit his stride** on moving day"
+          },
+          {
+            "word": "nail-biter",
+            "meaning": "손에 땀을 쥐게 하는 (경기, 상황), 매우 긴장감 넘치는",
+            "context": "sure to be a real **nail-biter**"
+          },
+          {
+            "word": "down to the wire",
+            "meaning": "마지막 순간까지 (결과를 알 수 없는), 최종 순간에 가서야 결판나는",
+            "context": "going right **down to the wire**"
+          }
+        ]
+      },
       {
         "sentences": [
           "Rookie phenom Minwoo Kim's impressive T7 finish at Augusta National has truly put him on the map, signaling he's ready to take the PGA Tour by storm this season.",
