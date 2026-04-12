@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Veridian Dynamics' CogniWell AI platform has truly caught on like wildfire, signaling a significant societal shift towards integrated brain health.",
+          "While insurers are beginning to sweeten the deal for users, the ongoing debate around data security means navigating these advanced tools is still a double-edged sword."
+        ],
+        "sentenceTranslations": [
+          "Veridian Dynamics의 CogniWell AI 플랫폼은 정말 들불처럼 번져나가며, 통합적인 두뇌 건강으로 향하는 중요한 사회적 변화를 알리고 있습니다.",
+          "보험사들이 사용자들에게 더 유리한 조건을 제시하기 시작했지만, 데이터 보안에 대한 끊임없는 논쟁은 이러한 첨단 도구를 활용하는 것이 여전히 양날의 검임을 의미합니다."
+        ],
+        "translationHighlights": [
+          "들불처럼 번져나가며",
+          "더 유리한 조건을 제시하기 시작했지만",
+          "양날의 검"
+        ],
+        "newWords": [
+          {
+            "word": "catch on like wildfire",
+            "meaning": "들불처럼 번지다, 급속히 인기를 얻다",
+            "context": "CogniWell AI platform has truly caught on like wildfire"
+          },
+          {
+            "word": "sweeten the deal",
+            "meaning": "더 유리한 조건을 제시하다, 거래를 더 매력적으로 만들다",
+            "context": "insurers are beginning to sweeten the deal"
+          },
+          {
+            "word": "double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가짐)",
+            "context": "still a double-edged sword"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While AI-powered health trackers are quickly catching fire among consumers, the lack of regulation puts many users at risk.",
           "As Dr. Sharma warns, this cutting-edge technology could easily turn into a double-edged sword if not properly overseen, jeopardizing consumer privacy."
         ],
@@ -853,6 +885,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Despite the AI industry **going from strength to strength** with record-breaking stock performance and aggressive integration plans, regulatory bodies are now **putting it under the microscope**.",
+          "This close scrutiny from authorities like the European Commission suggests that even pioneering tech firms cannot simply **have their cake and eat it too** when it comes to data privacy."
+        ],
+        "sentenceTranslations": [
+          "AI 산업이 기록적인 주가 상승과 공격적인 통합 계획으로 **승승장구하고 있음에도 불구하고**, 이제 규제 당국이 이를 **면밀히 조사하고 있습니다**.",
+          "유럽 연합 집행위원회와 같은 당국의 이러한 **면밀한 조사는** 선구적인 기술 기업들조차 데이터 프라이버시 문제에 있어서는 **두 가지 이점을 모두 취할 수는 없다**는 것을 시사합니다."
+        ],
+        "translationHighlights": [
+          "승승장구하고 있음에도 불구하고",
+          "면밀히 조사하고 있습니다",
+          "면밀한 조사는",
+          "두 가지 이점을 모두 취할 수는 없다"
+        ],
+        "newWords": [
+          {
+            "word": "go from strength to strength",
+            "meaning": "점점 더 강해지다; 일취월장하다",
+            "context": "Despite the AI industry going from strength to strength with record-breaking stock performance..."
+          },
+          {
+            "word": "put (something) under the microscope",
+            "meaning": "(무엇을) 면밀히 조사하다; 정밀 분석하다",
+            "context": "...regulatory bodies are now putting it under the microscope."
+          },
+          {
+            "word": "have one's cake and eat it too",
+            "meaning": "두 가지 이점을 모두 취하다; 모순되는 두 가지를 동시에 가지려 하다",
+            "context": "...cannot simply have their cake and eat it too when it comes to data privacy."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Following the robust jobs report, the Fed's decision to pour cold water on early rate cut hopes has left many market participants bracing for continued economic headwinds.",
           "Consequently, investors are now keenly reading the tea leaves from central bank statements, trying to gauge how long this period of higher borrowing costs will persist and affect global equities."
         ],
@@ -1684,6 +1749,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With European summer travel preparations now in full swing, the fully implemented ETIAS system is poised to grease the wheels, making entry smoother for eligible visitors.",
+          "This shift towards sustainability indicates that major carriers are putting their money where their mouth is, while 'slow travel' bookings are truly gaining traction among eco-conscious tourists."
+        ],
+        "sentenceTranslations": [
+          "유럽 여름 여행 준비가 한창인 가운데, 완전히 시행된 ETIAS 시스템은 적격 방문객들의 입국 절차를 더욱 순조롭게 할 것으로 보입니다.",
+          "이러한 지속 가능성으로의 전환은 주요 항공사들이 말한 것을 행동으로 증명하고 있음을 나타내며, 동시에 '슬로우 트래블' 예약이 환경을 생각하는 여행객들 사이에서 진정으로 인기를 얻고 있습니다."
+        ],
+        "translationHighlights": [
+          "한창인 가운데",
+          "더욱 순조롭게 할 것으로 보입니다",
+          "말한 것을 행동으로 증명하고 있음을 나타내며",
+          "진정으로 인기를 얻고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "grease the wheels",
+            "meaning": "일이 순조롭게 진행되도록 돕다",
+            "context": "is poised to grease the wheels"
+          },
+          {
+            "word": "put one's money where one's mouth is",
+            "meaning": "말한 것을 행동으로 증명하다 (특히 돈을 들여서)",
+            "context": "are putting their money where their mouth is"
+          },
+          {
+            "word": "gain traction",
+            "meaning": "인기를 얻다, 지지받다, 탄력을 받다",
+            "context": "are truly gaining traction"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With Venice reportedly \"bursting at the seams\" ahead of its reservation system, it's evident traditional European hotspots are struggling with overtourism.",
           "This has led many adventurous travelers to \"venture off the beaten path,\" seeking out unique cultural experiences in lesser-known regions like the Balkans."
         ],
@@ -2511,6 +2609,44 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With rookie phenom Min Woo Lee just pulling within one stroke, Scottie Scheffler will certainly have to pull out all the stops to prevent this Green Jacket battle from going right down to the wire.",
+          "Meanwhile, T1 continues to ride high after making short work of Gen.G, solidifying their dominance with an 11th LCK title and Faker's record 10th championship."
+        ],
+        "sentenceTranslations": [
+          "신예 선수 민우 리가 한 타차로 바짝 따라붙으면서, 스코티 셰플러는 이 그린 재킷 싸움이 막판까지 초접전으로 흐르는 것을 막기 위해 모든 수단을 동원해야 할 것입니다.",
+          "한편 T1은 Gen.G를 단숨에 제압한 후에도 계속 승승장구하며, 11번째 LCK 타이틀과 페이커의 기록적인 10번째 우승으로 그들의 지배력을 확고히 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "모든 수단을 동원해야 할 것입니다",
+          "막판까지 초접전으로 흐르는 것",
+          "계속 승승장구하며",
+          "단숨에 제압한 후에도"
+        ],
+        "newWords": [
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 수단과 방법을 동원하다, 전력을 다하다",
+            "context": "have to pull out all the stops to prevent"
+          },
+          {
+            "word": "go down to the wire",
+            "meaning": "막판까지 승패를 알 수 없는 접전이 되다",
+            "context": "battle from going right down to the wire"
+          },
+          {
+            "word": "ride high",
+            "meaning": "승승장구하다, 기세등등하다",
+            "context": "T1 continues to ride high"
+          },
+          {
+            "word": "make short work of",
+            "meaning": "~을 쉽게 해치우다, ~을 단숨에 끝내다",
+            "context": "after making short work of Gen.G"
+          }
+        ]
+      },
       {
         "sentences": [
           "Viktor Hovland truly hit his stride on moving day, pulling ahead of the pack with a phenomenal 67 despite the difficult conditions.",
