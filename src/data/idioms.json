@@ -3,6 +3,33 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "By bringing AI-powered diagnostics into primary care, the Mayo Clinic-Google Health partnership is truly set to **level the playing field** for early detection of neurodegenerative diseases.",
+          "This isn't merely an incremental step; it's undeniably **a game changer** poised to redefine healthcare accessibility on a massive scale."
+        ],
+        "sentenceTranslations": [
+          "메이요 클리닉과 구글 헬스의 파트너십은 AI 기반 진단을 1차 진료에 도입함으로써, 신경퇴행성 질환의 조기 진단에 있어 진정으로 **모두에게 동등한 기회를 제공할** 것입니다.",
+          "이것은 단순히 점진적인 발전이 아니라, 대규모로 의료 접근성을 재정의할 **판도를 바꾸는** 혁신임이 분명합니다."
+        ],
+        "translationHighlights": [
+          "모두에게 동등한 기회를 제공할",
+          "판도를 바꾸는",
+          "대규모로 재정의할"
+        ],
+        "newWords": [
+          {
+            "word": "level the playing field",
+            "meaning": "모든 사람에게 동등한 기회를 주다, 공정한 경쟁 환경을 만들다",
+            "context": "truly set to **level the playing field** for early detection"
+          },
+          {
+            "word": "a game changer",
+            "meaning": "판도를 바꾸는 혁신, 상황을 완전히 뒤바꾸는 것",
+            "context": "it's undeniably **a game changer** poised to redefine"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Veridian Dynamics' CogniWell AI platform has truly caught on like wildfire, signaling a significant societal shift towards integrated brain health.",
           "While insurers are beginning to sweeten the deal for users, the ongoing debate around data security means navigating these advanced tools is still a double-edged sword."
         ],
@@ -885,6 +912,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "NVIDIA is certainly firing on all cylinders with the 'Blackwell Ultra' GPU pre-orders, clearly demonstrating how AI continues to fuel market optimism.",
+          "However, the potential for further US semiconductor restrictions could throw a wrench in the works for firms like ASML, escalating trade tensions ahead of the G7 summit."
+        ],
+        "sentenceTranslations": [
+          "NVIDIA는 'Blackwell Ultra' GPU 사전 주문으로 확실히 승승장구하고 있으며, AI가 시장 낙관론을 어떻게 계속 부추기는지 명확히 보여주고 있습니다.",
+          "하지만 미국의 추가 반도체 규제 가능성은 ASML 같은 기업들의 계획에 제동을 걸 수 있으며, G7 정상회담을 앞두고 무역 긴장을 고조시킬 것으로 보입니다."
+        ],
+        "translationHighlights": [
+          "승승장구하고 있으며",
+          "시장 낙관론을 부추기는지",
+          "계획에 제동을 걸 수 있으며",
+          "무역 긴장을 고조시킬"
+        ],
+        "newWords": [
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고의 성능을 내며 순조롭게 나아가다, 승승장구하다",
+            "context": "NVIDIA is certainly firing on all cylinders with the 'Blackwell Ultra' GPU pre-orders..."
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획이나 진행에 예상치 못한 문제나 장애물을 만들다, 제동을 걸다",
+            "context": "...could throw a wrench in the works for firms like ASML..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Despite the AI industry **going from strength to strength** with record-breaking stock performance and aggressive integration plans, regulatory bodies are now **putting it under the microscope**.",
           "This close scrutiny from authorities like the European Commission suggests that even pioneering tech firms cannot simply **have their cake and eat it too** when it comes to data privacy."
         ],
@@ -1749,6 +1804,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With global demand for travel off the charts, Venice is taking proactive steps to stem the tide of chronic overtourism.",
+          "Meanwhile, Thailand seems to be reading the writing on the wall, diversifying its appeal to attract longer-stay visitors, recognizing that the old models are simply not cutting it."
+        ],
+        "sentenceTranslations": [
+          "전 세계적인 여행 수요가 기록적인 수준으로 급증하면서, 베네치아는 고질적인 과잉 관광의 흐름을 막기 위해 선제적인 조치를 취하고 있습니다.",
+          "반면 태국은 기존 모델들이 더 이상 효과가 없다는 것을 깨닫고, 더 오래 머무는 방문객을 유치하기 위해 매력을 다각화하며, 미래의 변화를 감지하는 듯합니다."
+        ],
+        "translationHighlights": [
+          "기록적인 수준으로 급증하면서",
+          "흐름을 막기 위해",
+          "미래의 변화를 감지하는",
+          "효과가 없다는 것을 깨닫고"
+        ],
+        "newWords": [
+          {
+            "word": "off the charts",
+            "meaning": "기록적으로 높거나 상상을 초월하는 수준으로",
+            "context": "With global demand for travel off the charts"
+          },
+          {
+            "word": "stem the tide",
+            "meaning": "어떤 나쁜 흐름이나 추세를 막다",
+            "context": "to stem the tide of chronic overtourism"
+          },
+          {
+            "word": "reading the writing on the wall",
+            "meaning": "다가올 위험이나 불가피한 변화의 징후를 알아채다",
+            "context": "Thailand seems to be reading the writing on the wall"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With European summer travel preparations now in full swing, the fully implemented ETIAS system is poised to grease the wheels, making entry smoother for eligible visitors.",
           "This shift towards sustainability indicates that major carriers are putting their money where their mouth is, while 'slow travel' bookings are truly gaining traction among eco-conscious tourists."
         ],
@@ -2609,6 +2697,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Scottie Scheffler's historic second Masters victory yesterday unequivocally demonstrated his nerves of steel under immense pressure.",
+          "Now, esports fans are keen to see if North American hopefuls Sentinels can bounce back with a vengeance at the Valorant Masters Shanghai after their recent regional playoff exit."
+        ],
+        "sentenceTranslations": [
+          "스콧티 셰플러가 어제 달성한 역사적인 두 번째 마스터스 우승은 엄청난 압박감 속에서도 그가 강철 같은 배짱을 가지고 있음을 명백히 보여주었습니다.",
+          "이제 e스포츠 팬들은 북미의 기대주 센티넬즈가 최근 지역 플레이오프 탈락 이후 발로란트 마스터스 상하이에서 맹렬히 재기할 수 있을지 주목하고 있습니다."
+        ],
+        "translationHighlights": [
+          "강철 같은 배짱",
+          "엄청난 압박감 속에서도",
+          "맹렬히 재기할 수 있을지",
+          "지역 플레이오프 탈락 이후"
+        ],
+        "newWords": [
+          {
+            "word": "nerves of steel",
+            "meaning": "강철 같은 배짱, 강한 담력 (특히 압박감 속에서 침착함을 유지하는 능력)",
+            "context": "demonstrated his nerves of steel under immense pressure"
+          },
+          {
+            "word": "bounce back with a vengeance",
+            "meaning": "맹렬히 재기하다, 더욱 강력하게 회복하다 (이전보다 더 강하게 돌아오거나 성공하다)",
+            "context": "can bounce back with a vengeance at the Valorant Masters Shanghai"
+          }
+        ]
+      },
       {
         "sentences": [
           "With rookie phenom Min Woo Lee just pulling within one stroke, Scottie Scheffler will certainly have to pull out all the stops to prevent this Green Jacket battle from going right down to the wire.",
