@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The relentless digital clamor is causing many to run themselves ragged, pushing them to get off the grid and seek true downtime.",
+          "Increasingly, people are choosing to hit the reset button on their tech habits, yearning to truly clear their heads from the algorithmic pressure Dr. Sharma mentioned."
+        ],
+        "sentenceTranslations": [
+          "끊임없는 디지털 소음 때문에 많은 사람들이 지쳐 쓰러질 정도로 힘들게 지내고 있으며, 이는 그들을 온라인과의 연결을 끊고 진정한 휴식을 찾도록 내몰고 있습니다.",
+          "점점 더 많은 사람들이 기술 사용 습관을 재설정하려고 선택하며, Sharma 박사가 언급한 알고리즘 압력에서 벗어나 진정으로 머리를 식히기를 갈망하고 있습니다."
+        ],
+        "translationHighlights": [
+          "지쳐 쓰러질 정도로 힘들게 지내고 있으며",
+          "온라인과의 연결을 끊고",
+          "기술 사용 습관을 재설정하려고",
+          "진정으로 머리를 식히기를"
+        ],
+        "newWords": [
+          {
+            "word": "run oneself ragged",
+            "meaning": "지쳐 쓰러질 정도로 힘들게 일하거나 지내다",
+            "context": "causing many to run themselves ragged"
+          },
+          {
+            "word": "get off the grid",
+            "meaning": "일상생활(특히 통신망)과 단절하다, 잠적하다",
+            "context": "pushing them to get off the grid"
+          },
+          {
+            "word": "hit the reset button",
+            "meaning": "재설정하다, 처음부터 다시 시작하다",
+            "context": "choosing to hit the reset button"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Bank of America's new SmartVest tool truly helps users take the guesswork out of managing their savings amidst fluctuating markets.",
           "By doing so, it offers a real advantage for those trying to keep their heads above water during times of persistent inflationary pressure."
         ],
@@ -940,6 +973,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "While global markets saw a cautious rebound, many are still trying to read the tea leaves on the Fed's signaling and sticky inflation, as the jury is still out on a sustained recovery.",
+          "Meanwhile, new export controls on advanced lithography equipment could throw a wrench in the works for global supply chains, forcing companies to go back to the drawing board on their sourcing strategies."
+        ],
+        "sentenceTranslations": [
+          "글로벌 시장은 조심스러운 반등을 보였지만, 연준의 신호와 고착화된 인플레이션에 대해 많은 이들이 아직 미래를 예측하려 애쓰고 있으며, 지속적인 회복 가능성에는 아직 미지수입니다.",
+          "한편, 첨단 리소그래피 장비에 대한 새로운 수출 통제는 글로벌 공급망에 문제를 일으킬 수 있어, 기업들이 소싱 전략을 처음부터 재검토하도록 만들고 있습니다."
+        ],
+        "translationHighlights": [
+          "미래를 예측하려 애쓰고 있으며",
+          "아직 미지수입니다",
+          "문제를 일으킬 수 있어"
+        ],
+        "newWords": [
+          {
+            "word": "read the tea leaves",
+            "meaning": "미래를 예측하다, 징후를 살피다",
+            "context": "many are still trying to read the tea leaves on the Fed's signaling"
+          },
+          {
+            "word": "the jury is still out",
+            "meaning": "아직 결론이 나지 않았다, 미지수이다",
+            "context": "the jury is still out on a sustained recovery"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다, 문제를 일으키다",
+            "context": "could throw a wrench in the works for global supply chains"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Jensen Huang's 'Blackwell Ultra' unveiling at GTC truly moved the needle for enterprise AI adoption, signaling that companies must get ahead of the curve to leverage these new capabilities.",
           "This strategic imperative is becoming critical, even as geopolitical tensions regarding AI chip exports continue to raise the stakes for global tech firms navigating a complex landscape."
         ],
@@ -1863,6 +1928,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Thanks to a robust tourism boom, global passenger traffic is going through the roof, prompting airlines to expand their reach significantly.",
+          "Industry experts believe that with this unprecedented appetite for travel, the global tourism sector is truly riding the crest of a wave, with no end in sight."
+        ],
+        "sentenceTranslations": [
+          "강력한 관광 붐 덕분에 전 세계 승객 수가 폭발적으로 증가하고 있으며, 항공사들이 그들의 운항 범위를 크게 확장하도록 이끌고 있습니다.",
+          "업계 전문가들은 이 전례 없는 여행 수요와 함께 글로벌 관광 부문이 진정으로 전성기를 맞고 있으며, 그 끝이 보이지 않는다고 보고 있습니다."
+        ],
+        "translationHighlights": [
+          "폭발적으로 증가하고 있으며",
+          "운항 범위를 크게 확장하도록 이끌고 있습니다",
+          "전성기를 맞고 있으며",
+          "그 끝이 보이지 않는다고 보고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "going through the roof",
+            "meaning": "폭발적으로 증가하다, 최고조에 달하다",
+            "context": "passenger traffic is going through the roof"
+          },
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "최고조의 성공을 누리다, 전성기를 맞다",
+            "context": "sector is truly riding the crest of a wave"
+          }
+        ]
+      },
       {
         "sentences": [
           "With K-Culture's global popularity reaching a fever pitch, South Korea is certainly striking while the iron is hot by launching its new K-Culture Visa program.",
@@ -2791,6 +2884,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The 8th seed Orlando Magic truly punched above their weight last night, decisively knocking the top-seeded Celtics off their perch in a stunning upset.",
+          "With Paolo Banchero's fiery post-game declaration, the Magic have certainly turned the tables, leaving fans hanging on every play as the series hangs in the balance."
+        ],
+        "sentenceTranslations": [
+          "8번 시드 올랜도 매직은 어젯밤 정말 기대 이상의 실력을 발휘하며, 놀라운 이변으로 1번 시드 셀틱스를 우세한 자리에서 끌어내렸습니다.",
+          "파올로 반케로의 열정적인 경기 후 선언으로, 매직은 확실히 전세를 뒤집었으며, 시리즈의 향방이 불확실한 가운데 팬들은 매 순간에 집중하고 있습니다."
+        ],
+        "translationHighlights": [
+          "기대 이상의 실력을 발휘하며",
+          "우세한 자리에서 끌어내렸습니다",
+          "전세를 뒤집었으며",
+          "매 순간에 집중하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "punch above one's weight",
+            "meaning": "기대 이상의 실력을 발휘하다 (자신의 능력/등급보다 더 좋은 성과를 내다)",
+            "context": "The 8th seed Orlando Magic truly punched above their weight last night..."
+          },
+          {
+            "word": "knock (someone) off their perch",
+            "meaning": "(누군가를) 우세한 자리에서 끌어내리다/몰아내다 (특히 오만하거나 지배적인 위치에 있는 사람을 끌어내릴 때)",
+            "context": "...decisively knocking the top-seeded Celtics off their perch..."
+          },
+          {
+            "word": "turn the tables",
+            "meaning": "전세를 뒤집다/역전시키다 (상황이나 위치를 유리하게 바꾸다)",
+            "context": "...the Magic have certainly turned the tables..."
+          }
+        ]
+      },
       {
         "sentences": [
           "The Oakland Athletics, despite the backdrop of their impending move, have truly hit the ground running this season, surprisingly leading the AL West.",
