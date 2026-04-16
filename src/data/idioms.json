@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With many feeling like they're running on fumes from always-on digital workspaces, 'disconnect-to-reconnect' retreats are now a hot ticket item.",
+          "While personalized health tech offers advanced diagnostics, it also underscores the critical need for individuals to truly hit the reset button on their digital lives."
+        ],
+        "sentenceTranslations": [
+          "늘 켜져 있는 디지털 업무 환경으로 인해 많은 이들이 진이 빠진 듯한 느낌을 받으면서, '연결을 끊고 재충전하는' 휴양지는 이제 굉장히 인기 있는 상품이 되었습니다.",
+          "개인 맞춤형 헬스 기술이 첨단 진단 기능을 제공하지만, 이는 또한 개인이 디지털 생활에 대해 진정으로 재설정 버튼을 눌러야 할 중요한 필요성을 강조합니다."
+        ],
+        "translationHighlights": [
+          "진이 빠진 듯한 느낌을 받으면서",
+          "굉장히 인기 있는 상품",
+          "재설정 버튼을 눌러야 할"
+        ],
+        "newWords": [
+          {
+            "word": "running on fumes",
+            "meaning": "진이 빠진 상태로 (겨우) 버티다, 에너지가 고갈된 상태로 기능하다",
+            "context": "feeling like they're running on fumes"
+          },
+          {
+            "word": "a hot ticket item",
+            "meaning": "굉장히 인기 있는 상품/것, 매우 수요가 많은 것",
+            "context": "now a hot ticket item"
+          },
+          {
+            "word": "hit the reset button",
+            "meaning": "재설정 버튼을 누르다, 처음부터 다시 시작하다, 전환하다",
+            "context": "truly hit the reset button"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The relentless digital clamor is causing many to run themselves ragged, pushing them to get off the grid and seek true downtime.",
           "Increasingly, people are choosing to hit the reset button on their tech habits, yearning to truly clear their heads from the algorithmic pressure Dr. Sharma mentioned."
         ],
@@ -1930,6 +1962,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Despite the new ETIAS system requiring travelers to jump through a few more hoops for entry, major carriers are reporting that summer bookings for Europe are still going gangbusters.",
+          "This robust demand truly proves that European destinations remain a hot commodity among global travelers, regardless of any new administrative layers."
+        ],
+        "sentenceTranslations": [
+          "새로운 ETIAS 시스템으로 인해 여행자들이 입국을 위해 더 많은 난관을 거쳐야 함에도 불구하고, 주요 항공사들은 유럽 여름 항공권 예약이 여전히 대박을 터뜨리고 있다고 보고했습니다.",
+          "이러한 견고한 수요는 유럽 여행지가 전 세계 여행객들 사이에서 인기 품목으로 남아 있음을 진정으로 증명하며, 어떤 새로운 행정 절차가 추가되더라도 변함이 없다는 것을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "더 많은 난관을 거쳐야",
+          "대박을 터뜨리고 있다",
+          "인기 품목"
+        ],
+        "newWords": [
+          {
+            "word": "jump through a few more hoops",
+            "meaning": "더 많은 난관을 거치다, 까다로운 절차를 밟다",
+            "context": "requiring travelers to jump through a few more hoops"
+          },
+          {
+            "word": "go gangbusters",
+            "meaning": "엄청나게 잘나가다, 대박을 터뜨리다",
+            "context": "summer bookings for Europe are still going gangbusters"
+          },
+          {
+            "word": "hot commodity",
+            "meaning": "인기 품목, 수요가 많은 것",
+            "context": "European destinations remain a hot commodity"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Thanks to a robust tourism boom, global passenger traffic is going through the roof, prompting airlines to expand their reach significantly.",
           "Industry experts believe that with this unprecedented appetite for travel, the global tourism sector is truly riding the crest of a wave, with no end in sight."
         ],
@@ -2884,6 +2948,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Despite his recent ankle sprain, Jayson Tatum is confidently **back in fighting trim** for the Celtics' highly anticipated playoff opener.",
+          "Knicks coach Tom Thibodeau clearly stated his team will truly **have their work cut out for them** against Boston's proven championship caliber."
+        ],
+        "sentenceTranslations": [
+          "최근 발목 부상에도 불구하고, 제이슨 테이텀은 Celtics의 모두가 기대하는 플레이오프 첫 경기를 위해 자신감 있게 **완벽한 몸 상태로 돌아왔습니다**.",
+          "톰 티보도 Knicks 감독은 그의 팀이 Boston의 검증된 챔피언십 기량에 맞서 **정말 힘든 싸움을 하게 될 것임을** 분명히 밝혔습니다."
+        ],
+        "translationHighlights": [
+          "완벽한 몸 상태로 돌아왔습니다",
+          "모두가 기대하는 플레이오프 첫 경기",
+          "정말 힘든 싸움을 하게 될 것임을",
+          "검증된 챔피언십 기량"
+        ],
+        "newWords": [
+          {
+            "word": "back in fighting trim",
+            "meaning": "최상의 몸 상태로 돌아온, 만반의 준비를 갖춘",
+            "context": "Jayson Tatum is confidently back in fighting trim for the Celtics' highly anticipated playoff opener."
+          },
+          {
+            "word": "have their work cut out for them",
+            "meaning": "매우 어려운 과제/힘든 일을 앞두고 있다",
+            "context": "his team will truly have their work cut out for them against Boston's proven championship caliber."
+          }
+        ]
+      },
       {
         "sentences": [
           "The 8th seed Orlando Magic truly punched above their weight last night, decisively knocking the top-seeded Celtics off their perch in a stunning upset.",
