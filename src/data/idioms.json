@@ -3,6 +3,33 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Google DeepMind's integration of AI financial coaching aims to level the playing field, offering sophisticated wealth management to the masses.",
+          "But with such intimate access to personal finances, the privacy concerns become a double-edged sword for users, necessitating clear regulatory guidelines."
+        ],
+        "sentenceTranslations": [
+          "구글 딥마인드가 AI 금융 코칭을 통합한 것은 기존에 접근하기 어려웠던 부유층 전유의 자산 관리를 대중에게 제공하여, 진정으로 공평한 경쟁의 장을 마련하는 것을 목표로 합니다.",
+          "그러나 개인 재정에 대한 이처럼 사적인 접근은 사용자들에게 양날의 검이 될 수 있으며, 명확한 규제 지침 마련을 필수적으로 만듭니다."
+        ],
+        "translationHighlights": [
+          "공평한 경쟁의 장을 마련하는",
+          "양날의 검",
+          "필수적으로 만듭니다"
+        ],
+        "newWords": [
+          {
+            "word": "level the playing field",
+            "meaning": "모든 사람이 성공할 수 있는 동등한 기회를 주다; 공정한 경쟁 환경을 조성하다",
+            "context": "aims to level the playing field"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (이점과 단점을 동시에 가진 것)",
+            "context": "become a double-edged sword"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With many feeling like they're running on fumes from always-on digital workspaces, 'disconnect-to-reconnect' retreats are now a hot ticket item.",
           "While personalized health tech offers advanced diagnostics, it also underscores the critical need for individuals to truly hit the reset button on their digital lives."
         ],
@@ -1003,6 +1030,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Microsoft's 'AI-First' mandate isn't just a minor adjustment; it's a strategic gambit designed to move the needle dramatically across all divisions, securing their competitive edge.",
+          "Meanwhile, NVIDIA, with its record-breaking pre-orders, is clearly riding the crest of a wave, demonstrating that investor confidence in the burgeoning AI infrastructure market continues to grow by leaps and bounds."
+        ],
+        "sentenceTranslations": [
+          "마이크로소프트의 'AI 우선' 정책은 단순한 작은 조정이 아니라, 모든 부문에서 극적인 변화를 일으켜 경쟁 우위를 확보하려는 전략적 도박입니다.",
+          "한편, 엔비디아는 기록적인 사전 주문량으로 확실히 승승장구하고 있으며, 급성장하는 AI 인프라 시장에 대한 투자자 신뢰가 눈부시게 성장하고 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "극적인 변화를 일으켜",
+          "경쟁 우위를 확보하려는",
+          "승승장구하고 있으며",
+          "눈부시게 성장하고 있음을"
+        ],
+        "newWords": [
+          {
+            "word": "move the needle",
+            "meaning": "상황이나 결과에 눈에 띄는 변화나 영향을 미치다",
+            "context": "designed to move the needle dramatically"
+          },
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "특정 시기에 매우 성공하고 있거나 호황을 누리다",
+            "context": "is clearly riding the crest of a wave"
+          },
+          {
+            "word": "by leaps and bounds",
+            "meaning": "매우 빠르게; 급속도로 진전하다",
+            "context": "continues to grow by leaps and bounds"
+          }
+        ]
+      },
       {
         "sentences": [
           "While global markets saw a cautious rebound, many are still trying to read the tea leaves on the Fed's signaling and sticky inflation, as the jury is still out on a sustained recovery.",
