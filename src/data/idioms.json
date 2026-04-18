@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The new Personalized Health Blueprint aims to help individuals cut through the noise of generic wellness advice by leveraging unique genetic profiles.",
+          "However, as the FCA warns about unregulated AI 'lifestyle investment' platforms, it's clear that data-driven solutions can be a double-edged sword if not approached with caution."
+        ],
+        "sentenceTranslations": [
+          "새로운 '맞춤형 건강 청사진'은 개개인의 고유한 유전적 특성을 활용하여 일반적인 건강 조언의 수많은 정보 속에서 핵심을 파악하도록 돕는 것을 목표로 합니다.",
+          "하지만, 금융감독청이 무분별한 AI '라이프스타일 투자' 플랫폼에 대해 경고하는 것처럼, 데이터 기반 솔루션은 주의 깊게 접근하지 않으면 양날의 검이 될 수 있다는 점이 분명합니다."
+        ],
+        "translationHighlights": [
+          "수많은 정보 속에서 핵심을 파악하도록",
+          "고유한 유전적 특성",
+          "양날의 검",
+          "무분별한 AI 플랫폼"
+        ],
+        "newWords": [
+          {
+            "word": "cut through the noise",
+            "meaning": "수많은 정보/방해 요소 속에서 핵심을 파악하다; 불필요한 것을 걸러내다",
+            "context": "to help individuals **cut through the noise** of generic wellness advice"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (이점과 단점을 동시에 지닌 것)",
+            "context": "data-driven solutions can be **a double-edged sword** if not approached with caution"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Google DeepMind's integration of AI financial coaching aims to level the playing field, offering sophisticated wealth management to the masses.",
           "But with such intimate access to personal finances, the privacy concerns become a double-edged sword for users, necessitating clear regulatory guidelines."
         ],
@@ -1032,6 +1060,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Amidst the unprecedented surge in AI compute demand, companies are pulling out all the stops to secure critical infrastructure, as evidenced by TSMC's 98% utilization and Google Cloud's premium offers.",
+          "As geopolitical tensions escalate, the EU's push for domestic chip production signals that when it comes to tech trade, the gloves are off in the global competition for AI dominance."
+        ],
+        "sentenceTranslations": [
+          "전례 없는 AI 연산 수요 급증 속에서, TSMC가 98%의 가동률을 보이고 구글 클라우드가 프리미엄 오퍼를 하는 것에서 알 수 있듯이, 기업들은 핵심 인프라를 확보하기 위해 모든 수단과 방법을 동원하고 있습니다.",
+          "지정학적 긴장이 고조되면서, EU가 국내 칩 생산을 추진하는 것은 AI 주도권을 위한 글로벌 경쟁에서 기술 무역에 있어서 봐주는 것 없는 진검승부가 시작되었음을 시사합니다."
+        ],
+        "translationHighlights": [
+          "모든 수단과 방법을 동원하고 있습니다",
+          "핵심 인프라를 확보하기 위해",
+          "지정학적 긴장이 고조되면서",
+          "봐주는 것 없는 진검승부가 시작되었음"
+        ],
+        "newWords": [
+          {
+            "word": "pulling out all the stops",
+            "meaning": "모든 수단과 방법을 동원하다, 전력을 다하다",
+            "context": "companies are pulling out all the stops to secure critical infrastructure"
+          },
+          {
+            "word": "the gloves are off",
+            "meaning": "진검승부를 벌이다, 봐주는 것 없이 싸우다",
+            "context": "when it comes to tech trade, the gloves are off in the global competition"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Microsoft's 'AI-First' mandate isn't just a minor adjustment; it's a strategic gambit designed to move the needle dramatically across all divisions, securing their competitive edge.",
           "Meanwhile, NVIDIA, with its record-breaking pre-orders, is clearly riding the crest of a wave, demonstrating that investor confidence in the burgeoning AI infrastructure market continues to grow by leaps and bounds."
         ],
@@ -2022,6 +2078,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Lufthansa, observing the marked increase in booking inquiries for Central Asian travel, clearly decided to strike while the iron is hot by fast-tracking their new Tashkent route.",
+          "Thanks to compelling media coverage like National Geographic's series, these 'Jewels of the Khanates' are certainly starting to catch fire, putting Uzbekistan firmly on the global travel radar."
+        ],
+        "sentenceTranslations": [
+          "루프트한자는 중앙아시아 여행 문의의 현저한 증가를 보고, 기회를 놓치지 않고 새로운 타슈켄트 노선 개설을 신속히 추진하기로 결정했습니다.",
+          "내셔널 지오그래픽 시리즈 같은 매력적인 미디어 보도 덕분에, 이 '칸국의 보석들'은 확실히 인기를 얻기 시작하며 우즈베키스탄을 전 세계 여행의 주목 대상으로 만들고 있습니다."
+        ],
+        "translationHighlights": [
+          "기회를 놓치지 않고",
+          "신속히 추진하기로 결정했습니다",
+          "인기를 얻기 시작하며",
+          "주목 대상으로 만들고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회를 놓치지 않고 잡다, 때를 놓치지 않다",
+            "context": "decided to strike while the iron is hot by fast-tracking"
+          },
+          {
+            "word": "catch fire",
+            "meaning": "(빠르게) 인기를 얻다, 널리 퍼지다",
+            "context": "are certainly starting to catch fire"
+          },
+          {
+            "word": "put [something] on the global travel radar",
+            "meaning": "[무엇]을 전 세계 여행객들의 주목 대상으로 만들다",
+            "context": "putting Uzbekistan firmly on the global travel radar"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Despite the new ETIAS system requiring travelers to jump through a few more hoops for entry, major carriers are reporting that summer bookings for Europe are still going gangbusters.",
           "This robust demand truly proves that European destinations remain a hot commodity among global travelers, regardless of any new administrative layers."
         ],
@@ -3008,6 +3097,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "By partnering with 'Caps', T1 is clearly aiming to strike while the iron's hot, capitalizing on his esports legacy to significantly expand their global fanbase.",
+          "This proactive approach to fan engagement parallels how outdoor enthusiasts are now catching the wave of increased interest in wilderness exploration, reflected in the surge of Yellowstone permit applications."
+        ],
+        "sentenceTranslations": [
+          "T1은 'Caps'와의 파트너십을 통해 기회를 놓치지 않고 그의 e스포츠 유산을 활용하여 전 세계 팬층을 크게 확장하려는 것이 분명합니다.",
+          "팬 참여에 대한 이러한 선제적인 접근 방식은 야생 탐험에 대한 관심 증가의 흐름을 타는 야외 활동 애호가들의 모습과 유사하며, 옐로스톤 허가 신청 급증으로 나타나고 있습니다."
+        ],
+        "translationHighlights": [
+          "기회를 놓치지 않고",
+          "전 세계 팬층을 크게 확장",
+          "선제적인 접근 방식",
+          "흐름을 타는"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron's hot",
+            "meaning": "기회를 놓치지 않고 행동하다, 때가 좋을 때 바로 하다",
+            "context": "T1 is clearly aiming to strike while the iron's hot"
+          },
+          {
+            "word": "catching the wave",
+            "meaning": "유행/흐름을 타다, 기세를 타다",
+            "context": "outdoor enthusiasts are now catching the wave of increased interest"
+          }
+        ]
+      },
       {
         "sentences": [
           "Despite his recent ankle sprain, Jayson Tatum is confidently **back in fighting trim** for the Celtics' highly anticipated playoff opener.",
