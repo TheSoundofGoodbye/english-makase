@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With major financial institutions like Vanguard quickly promoting AI-driven advice, it seems many are ready to jump on the bandwagon for personalized portfolios.",
+          "However, Senator Chen's caution reminds us that while beneficial, this technology can be a double-edged sword if not properly regulated to protect everyday investors."
+        ],
+        "sentenceTranslations": [
+          "뱅가드와 같은 주요 금융 기관들이 AI 기반 조언을 빠르게 홍보하면서, 많은 사람들이 맞춤형 포트폴리오를 위해 이 대세에 합류할 준비가 된 것 같습니다.",
+          "하지만 첸 상원의원의 경고는, 이 기술이 유용하면서도 일반 투자자를 보호하기 위해 제대로 규제되지 않으면 양날의 검이 될 수 있음을 상기시켜 줍니다."
+        ],
+        "translationHighlights": [
+          "이 대세에 합류할",
+          "양날의 검",
+          "제대로 규제되지 않으면",
+          "일반 투자자를 보호하기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "jump on the bandwagon",
+            "meaning": "대세에 합류하다, 유행을 따르다",
+            "context": "many are ready to jump on the bandwagon"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검, 이점과 단점을 모두 가진 것",
+            "context": "this technology can be a double-edged sword"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The new Personalized Health Blueprint aims to help individuals cut through the noise of generic wellness advice by leveraging unique genetic profiles.",
           "However, as the FCA warns about unregulated AI 'lifestyle investment' platforms, it's clear that data-driven solutions can be a double-edged sword if not approached with caution."
         ],
@@ -1060,6 +1088,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "While the AI industry experiences a boom, venture-backed semiconductor startups keen on expanding into key Asian markets are truly caught between a rock and a hard place due to the US-China trade policy discussions.",
+          "This geopolitical tension surrounding critical AI chip exports could effectively throw a wrench in their meticulous growth strategies, making it arduous to gain a foothold in these crucial new territories."
+        ],
+        "sentenceTranslations": [
+          "AI 산업이 호황을 누리는 가운데, 핵심 아시아 시장으로 확장을 모색하는 벤처 투자 반도체 스타트업들은 미중 무역 정책 논의로 인해 진퇴양난에 빠져 있습니다.",
+          "AI 칩 수출을 둘러싼 이러한 지정학적 긴장은 그들의 세심한 성장 전략에 효과적으로 제동을 걸 수 있으며, 이 중요한 새로운 시장에 발판을 마련하는 것을 어렵게 만들 것입니다."
+        ],
+        "translationHighlights": [
+          "진퇴양난에 빠져 있습니다",
+          "제동을 걸 수 있으며",
+          "발판을 마련하는 것을"
+        ],
+        "newWords": [
+          {
+            "word": "caught between a rock and a hard place",
+            "meaning": "어려운 두 가지 선택지 사이에서 난처한 상황에 처하다",
+            "context": "are truly caught between a rock and a hard place"
+          },
+          {
+            "word": "throw a wrench in (one's strategies)",
+            "meaning": "~의 전략에 예상치 못한 문제를 일으켜 방해하다",
+            "context": "could effectively throw a wrench in their meticulous growth strategies"
+          },
+          {
+            "word": "gain a foothold",
+            "meaning": "(새로운 시장 등에) 발판을 마련하다, 기반을 다지다",
+            "context": "arduous to gain a foothold in these crucial new territories"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Amidst the unprecedented surge in AI compute demand, companies are pulling out all the stops to secure critical infrastructure, as evidenced by TSMC's 98% utilization and Google Cloud's premium offers.",
           "As geopolitical tensions escalate, the EU's push for domestic chip production signals that when it comes to tech trade, the gloves are off in the global competition for AI dominance."
         ],
@@ -2076,6 +2136,33 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "AirAsia X is certainly striking while the iron is hot by launching new routes to Budapest and Prague, seizing the moment as demand for budget-friendly Central European adventures soars.",
+          "This strategic expansion allows travelers to go off the beaten track, exploring authentic gastronomy and heritage sites, which is precisely what Malaysia's Minister of Tourism highlighted as the new travel trend."
+        ],
+        "sentenceTranslations": [
+          "에어아시아 X는 부다페스트와 프라하 노선을 새로 개설하며, 저렴한 비용으로 중앙 유럽을 탐험하려는 수요가 급증하는 이 기회를 놓치지 않고 있습니다.",
+          "이번 전략적인 확장은 여행객들이 남들이 잘 가지 않는 곳을 탐험하며 진정한 미식과 유적지를 경험하도록 돕고 있는데, 이는 말레이시아 관광부 장관이 새로운 여행 트렌드로 강조한 바와 정확히 일치합니다."
+        ],
+        "translationHighlights": [
+          "기회를 놓치지 않고 있습니다",
+          "남들이 잘 가지 않는 곳을 탐험하며",
+          "정확히 일치합니다"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회를 놓치지 않고 잡다, 기회가 왔을 때 바로 행동하다",
+            "context": "striking while the iron is hot by launching new routes"
+          },
+          {
+            "word": "go off the beaten track",
+            "meaning": "남들이 잘 가지 않는 곳으로 가다, 일반적인 경로를 벗어나다",
+            "context": "travelers to go off the beaten track, exploring authentic gastronomy"
+          }
+        ]
+      },
       {
         "sentences": [
           "Lufthansa, observing the marked increase in booking inquiries for Central Asian travel, clearly decided to strike while the iron is hot by fast-tracking their new Tashkent route.",
@@ -3097,6 +3184,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The Orlando Magic certainly threw a wrench in the works for the top-seeded Celtics' playoff plans, with Paolo Banchero's dominant performance securing a stunning Game 1 upset.",
+          "Simultaneously, the League of Legends MSI is quickly gaining traction globally, proving that esports has become a force to be reckoned with in mainstream entertainment."
+        ],
+        "sentenceTranslations": [
+          "올랜도 매직은 파올로 반케로의 압도적인 활약으로 게임 1에서 이변의 승리를 거두며, 최상위 시드 셀틱스의 플레이오프 계획에 제대로 제동을 걸었습니다.",
+          "동시에, 리그 오브 레전드 MSI는 전 세계적으로 빠르게 인기를 얻고 있으며, 이스포츠가 주류 엔터테인먼트에서 무시할 수 없는 세력으로 자리매김했음을 증명하고 있습니다."
+        ],
+        "translationHighlights": [
+          "제대로 제동을 걸었습니다",
+          "이변의 승리를 거두며",
+          "빠르게 인기를 얻고 있으며",
+          "무시할 수 없는 세력으로 자리매김했음을"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획대로 진행되는 것을 방해하거나 차질을 빚게 하다",
+            "context": "The Orlando Magic certainly threw a wrench in the works for the top-seeded Celtics' playoff plans"
+          },
+          {
+            "word": "gain traction",
+            "meaning": "인기나 지지를 얻기 시작하다, 동력을 얻다",
+            "context": "the League of Legends MSI is quickly gaining traction globally"
+          },
+          {
+            "word": "a force to be reckoned with",
+            "meaning": "무시할 수 없는 강력한 존재/세력",
+            "context": "esports has become a force to be reckoned with"
+          }
+        ]
+      },
       {
         "sentences": [
           "By partnering with 'Caps', T1 is clearly aiming to strike while the iron's hot, capitalizing on his esports legacy to significantly expand their global fanbase.",
