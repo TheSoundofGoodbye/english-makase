@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The emergence of AI wellness companions is really helping people nip digital fatigue and anxiety in the bud, shifting how we approach mental health proactively.",
+          "While these personalized tools are proving to be a game changer for emotional well-being, the ongoing debate about data privacy versus tailored support highlights that it's often a double-edged sword."
+        ],
+        "sentenceTranslations": [
+          "AI 웰니스 동반자들의 등장은 사람들이 디지털 피로와 불안을 조기에 진압하도록 도우며, 우리가 정신 건강에 선제적으로 접근하는 방식을 바꾸고 있습니다.",
+          "이러한 맞춤형 도구들이 정서적 웰빙에 있어 판도를 바꾸는 역할을 하고 있지만, 데이터 프라이버시와 맞춤형 지원에 대한 지속적인 논쟁은 이것이 종종 양날의 검과 같다는 점을 강조합니다."
+        ],
+        "translationHighlights": [
+          "조기에 진압하도록 돕다",
+          "판도를 바꾸는 역할",
+          "양날의 검과 같다"
+        ],
+        "newWords": [
+          {
+            "word": "nip something in the bud",
+            "meaning": "문제가 더 심각해지기 전에 미리 막다, 조기에 진압하다",
+            "context": "helping people nip digital fatigue and anxiety in the bud"
+          },
+          {
+            "word": "a game changer",
+            "meaning": "상황의 판도를 완전히 바꾸는 혁신적인 것",
+            "context": "proving to be a game changer for emotional well-being"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "장점과 단점을 동시에 지닌 양날의 검",
+            "context": "highlights that it's often a double-edged sword"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With major financial institutions like Vanguard quickly promoting AI-driven advice, it seems many are ready to jump on the bandwagon for personalized portfolios.",
           "However, Senator Chen's caution reminds us that while beneficial, this technology can be a double-edged sword if not properly regulated to protect everyday investors."
         ],
@@ -1088,6 +1120,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Leading AI developers now find themselves walking a tightrope, trying to innovate rapidly while staying on the right side of the EU's Digital Services Act.",
+          "Despite these regulatory hurdles, many businesses are taking the bull by the horns, accelerating AI agent integration to gain a competitive edge."
+        ],
+        "sentenceTranslations": [
+          "선도적인 AI 개발사들은 이제 EU 디지털 서비스법을 준수하면서도 빠르게 혁신해야 하는 아슬아슬한 줄타기를 하고 있습니다.",
+          "이러한 규제 장벽에도 불구하고, 많은 기업들은 정면 돌파를 선택하며 경쟁 우위를 확보하기 위해 AI 에이전트 통합을 가속화하고 있습니다."
+        ],
+        "translationHighlights": [
+          "아슬아슬한 줄타기를 하고 있습니다",
+          "준수하면서도",
+          "정면 돌파를 선택하며",
+          "경쟁 우위를 확보하기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "walk a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다, 위험한 상황에서 매우 조심스럽게 균형을 잡다",
+            "context": "now find themselves walking a tightrope"
+          },
+          {
+            "word": "take the bull by the horns",
+            "meaning": "난국을 정면으로 돌파하다, 문제에 과감하고 단호하게 대처하다",
+            "context": "many businesses are taking the bull by the horns"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While the AI industry experiences a boom, venture-backed semiconductor startups keen on expanding into key Asian markets are truly caught between a rock and a hard place due to the US-China trade policy discussions.",
           "This geopolitical tension surrounding critical AI chip exports could effectively throw a wrench in their meticulous growth strategies, making it arduous to gain a foothold in these crucial new territories."
         ],
@@ -2138,6 +2198,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Travelers planning a European getaway will now have to jump through hoops with the new ETIAS system, adding another layer of bureaucracy to their pre-trip preparations.",
+          "Major airlines are advising passengers to get their ducks in a row well in advance of their trip to avoid any last-minute snags."
+        ],
+        "sentenceTranslations": [
+          "유럽 여행을 계획 중인 여행객들은 이제 새로운 ETIAS 시스템으로 인해 여러 복잡한 절차를 거쳐야 하며, 이는 여행 전 준비 과정에 또 다른 행정적 부담을 더할 것입니다.",
+          "주요 항공사들은 막판에 발생할 수 있는 문제들을 피하기 위해 승객들에게 여행 훨씬 전에 모든 준비를 철저히 해두라고 조언하고 있습니다."
+        ],
+        "translationHighlights": [
+          "여러 복잡한 절차를 거쳐야 하며",
+          "행정적 부담을 더할 것입니다",
+          "모든 준비를 철저히 해두라고",
+          "막판에 발생할 수 있는 문제들을"
+        ],
+        "newWords": [
+          {
+            "word": "jump through hoops",
+            "meaning": "여러 복잡한 절차를 거치다; 까다로운 요구 사항을 따르다",
+            "context": "have to jump through hoops with the new ETIAS system"
+          },
+          {
+            "word": "get your ducks in a row",
+            "meaning": "모든 준비를 완벽하게 하다; 일을 순서대로 정리하다",
+            "context": "to get their ducks in a row well in advance"
+          },
+          {
+            "word": "last-minute snags",
+            "meaning": "막판에 생기는 예상치 못한 문제/차질",
+            "context": "avoid any last-minute snags"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "AirAsia X is certainly striking while the iron is hot by launching new routes to Budapest and Prague, seizing the moment as demand for budget-friendly Central European adventures soars.",
           "This strategic expansion allows travelers to go off the beaten track, exploring authentic gastronomy and heritage sites, which is precisely what Malaysia's Minister of Tourism highlighted as the new travel trend."
         ],
@@ -3184,6 +3277,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Arsenal's dramatic late victory has certainly thrown a curveball into the Premier League title race, making it anyone's game in the final stretch.",
+          "Similarly, Fnatic's comeback to clinch the LEC Spring Finals, despite their tough season, proves that they really went the extra mile and are now riding high."
+        ],
+        "sentenceTranslations": [
+          "아스널의 극적인 막판 승리는 프리미어리그 우승 경쟁에 예상치 못한 변수를 던졌고, 마지막 고비를 앞두고 이제는 누가 이겨도 이상하지 않은 상황이 되었습니다.",
+          "마찬가지로, 힘든 시즌에도 불구하고 LEC 스프링 결승전에서 Fnatic이 역전승을 거둔 것은 그들이 정말 각고의 노력을 기울였으며, 이제는 한창 잘나가고 있다는 것을 증명합니다."
+        ],
+        "translationHighlights": [
+          "예상치 못한 변수를 던졌고",
+          "누가 이겨도 이상하지 않은 상황",
+          "각고의 노력을 기울였으며",
+          "한창 잘나가고 있다는 것을"
+        ],
+        "newWords": [
+          {
+            "word": "throw a curveball",
+            "meaning": "예상치 못한 변수를 던지다, 예측을 뒤엎다",
+            "context": "has certainly thrown a curveball into the Premier League title race"
+          },
+          {
+            "word": "anyone's game",
+            "meaning": "누가 이겨도 이상하지 않은 상황, 승부를 알 수 없는 경기",
+            "context": "making it anyone's game in the final stretch"
+          },
+          {
+            "word": "go the extra mile",
+            "meaning": "특별히 더 노력하다, 한 수 더 뜨다",
+            "context": "proves that they really went the extra mile"
+          }
+        ]
+      },
       {
         "sentences": [
           "The Orlando Magic certainly threw a wrench in the works for the top-seeded Celtics' playoff plans, with Paolo Banchero's dominant performance securing a stunning Game 1 upset.",
