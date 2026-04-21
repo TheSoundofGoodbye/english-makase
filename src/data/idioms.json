@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The recent surge in advanced AI features from tech giants means companies must **read the room** regarding employees' increasing desire for meaningful flexibility and digital well-being.",
+          "To prevent widespread burnout, leaders must go beyond mere allowance and actively encourage staff to truly **recharge their batteries**, ensuring a healthier work-life balance."
+        ],
+        "sentenceTranslations": [
+          "기술 대기업들의 첨단 AI 기능 급증은 기업들이 직원들의 의미 있는 유연성과 디지털 웰빙에 대한 높아지는 요구를 **잘 파악해야 함**을 의미합니다.",
+          "만연한 번아웃을 방지하기 위해, 리더들은 단순히 허용하는 것을 넘어 직원들이 진정으로 **에너지를 재충전할** 수 있도록 적극적으로 독려하여, 더 건강한 워라밸을 보장해야 합니다."
+        ],
+        "translationHighlights": [
+          "잘 파악해야 함",
+          "에너지를 재충전할",
+          "의미 있는 유연성",
+          "만연한 번아웃"
+        ],
+        "newWords": [
+          {
+            "word": "read the room",
+            "meaning": "상황/분위기를 파악하다, 눈치채다",
+            "context": "companies must read the room regarding employees' increasing desire"
+          },
+          {
+            "word": "recharge one's batteries",
+            "meaning": "에너지를 재충전하다, 휴식을 취하다",
+            "context": "actively encourage staff to truly recharge their batteries"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The emergence of AI wellness companions is really helping people nip digital fatigue and anxiety in the bud, shifting how we approach mental health proactively.",
           "While these personalized tools are proving to be a game changer for emotional well-being, the ongoing debate about data privacy versus tailored support highlights that it's often a double-edged sword."
         ],
@@ -1120,6 +1148,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Alphabet's decision to divest its smart home division and funnel resources into AI development is a clear sign they're swinging for the fences in the race against competitors like OpenAI.",
+          "Meanwhile, EU lawmakers are intent on leveling the playing field with robust AI governance rules, recognizing their critical role in fostering consumer trust and ensuring fair market competition."
+        ],
+        "sentenceTranslations": [
+          "스마트 홈 부문을 매각하고 AI 개발에 자원을 집중하기로 한 Alphabet의 결정은 OpenAI 같은 경쟁사들과의 경쟁에서 그들이 과감하게 승부를 걸고 있다는 분명한 신호입니다.",
+          "한편, EU 의원들은 소비자 신뢰를 높이고 공정한 시장 경쟁을 보장하는 데 결정적인 역할을 하는 강력한 AI 거버넌스 규정으로 모두에게 동등한 경쟁 환경을 조성하는 데 주력하고 있습니다."
+        ],
+        "translationHighlights": [
+          "과감하게 승부를 걸고 있다",
+          "모두에게 동등한 경쟁 환경을 조성",
+          "소비자 신뢰를 높이고",
+          "공정한 시장 경쟁을 보장"
+        ],
+        "newWords": [
+          {
+            "word": "swing for the fences",
+            "meaning": "큰 성공을 목표로 과감하게 모험하다, 승부를 걸다",
+            "context": "they're swinging for the fences in the race against competitors"
+          },
+          {
+            "word": "level the playing field",
+            "meaning": "모두에게 공정한 경쟁 환경을 조성하다",
+            "context": "intent on leveling the playing field with robust AI governance rules"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Leading AI developers now find themselves walking a tightrope, trying to innovate rapidly while staying on the right side of the EU's Digital Services Act.",
           "Despite these regulatory hurdles, many businesses are taking the bull by the horns, accelerating AI agent integration to gain a competitive edge."
         ],
@@ -2196,6 +2252,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The ETIAS system's initial technical glitches and processing backlogs are already threatening to throw a wrench in the works for millions of summer travelers eagerly planning their European getaways.",
+          "Unless authorities manage to iron out these issues swiftly, countless eagerly anticipated summer trips could be left completely up in the air, creating a ripple effect across the travel industry."
+        ],
+        "sentenceTranslations": [
+          "ETIAS 시스템의 초기 기술적 결함과 처리 지연은 이미 유럽 여름 휴가를 간절히 계획 중인 수백만 명의 여행객들에게 큰 차질을 초래할 위협이 되고 있습니다.",
+          "당국이 이러한 문제들을 신속하게 해결하지 못한다면, 수많은 간절히 기대했던 여름 여행 계획들이 완전히 불확실한 상태로 남겨져 여행 산업 전반에 파급 효과를 일으킬 수 있습니다."
+        ],
+        "translationHighlights": [
+          "큰 차질을 초래할 위협이",
+          "신속하게 해결하지 못한다면",
+          "완전히 불확실한 상태로",
+          "파급 효과를 일으킬 수 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획이나 진행에 큰 차질을 초래하다, 방해하다",
+            "context": "threatening to throw a wrench in the works"
+          },
+          {
+            "word": "iron out",
+            "meaning": "문제나 어려움을 해결하다, 조율하다",
+            "context": "manage to iron out these issues"
+          },
+          {
+            "word": "up in the air",
+            "meaning": "미정인, 불확실한, 결정되지 않은 상태인",
+            "context": "could be left completely up in the air"
+          }
+        ]
+      },
       {
         "sentences": [
           "Travelers planning a European getaway will now have to jump through hoops with the new ETIAS system, adding another layer of bureaucracy to their pre-trip preparations.",
@@ -3277,6 +3366,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The Oklahoma City Thunder truly pulled the rug out from under the favored Lakers, sending shockwaves through the NBA playoffs.",
+          "Meanwhile, esports continues to catch on like wildfire among Gen Z, with competitive gaming now starting to take center stage in the world of leisure activities."
+        ],
+        "sentenceTranslations": [
+          "오클라호마시티 썬더가 강력한 우승 후보였던 레이커스의 발밑을 예상치 못하게 흔들며 NBA 플레이오프에 큰 충격을 안겼습니다.",
+          "한편, e스포츠는 Z세대 사이에서 들불처럼 인기를 얻고 있으며, 이제는 레저 활동의 세계에서 주연의 자리를 차지하기 시작했습니다."
+        ],
+        "translationHighlights": [
+          "발밑을 예상치 못하게 흔들며",
+          "큰 충격을 안겼습니다",
+          "들불처럼 인기를 얻고 있으며",
+          "주연의 자리를 차지하기 시작했습니다"
+        ],
+        "newWords": [
+          {
+            "word": "pull the rug out from under someone",
+            "meaning": "예상치 못하게 기반을 뒤흔들다/곤경에 빠뜨리다",
+            "context": "The Oklahoma City Thunder truly pulled the rug out from under the favored Lakers"
+          },
+          {
+            "word": "catch on like wildfire",
+            "meaning": "들불처럼 빠르게 퍼지다/인기를 얻다",
+            "context": "esports continues to catch on like wildfire among Gen Z"
+          },
+          {
+            "word": "take center stage",
+            "meaning": "주요 관심사가 되다/주연의 자리를 차지하다",
+            "context": "now starting to take center stage in the world of leisure activities"
+          }
+        ]
+      },
       {
         "sentences": [
           "Arsenal's dramatic late victory has certainly thrown a curveball into the Premier League title race, making it anyone's game in the final stretch.",
