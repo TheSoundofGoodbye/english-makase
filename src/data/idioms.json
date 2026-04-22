@@ -3,6 +3,33 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With AI-powered automation rapidly expanding, many Gen Z and early-career millennials are realizing the writing is on the wall for traditional entry-level positions.",
+          "Consequently, a lot of them are proactively enrolling in upskilling programs, keen to stay ahead of the curve in this transforming job economy."
+        ],
+        "sentenceTranslations": [
+          "AI 기반 자동화가 빠르게 확장되면서, 많은 Z세대와 초기 경력 밀레니얼 세대는 전통적인 초급 직무의 미래가 뻔히 보인다고 깨닫고 있습니다.",
+          "결과적으로, 그들 중 많은 이들이 변화하는 직업 경제에서 시대에 뒤처지지 않고 앞서나가기 위해 능동적으로 재교육 프로그램에 등록하고 있습니다."
+        ],
+        "translationHighlights": [
+          "미래가 뻔히 보인다고 깨닫고 있습니다",
+          "시대에 뒤처지지 않고 앞서나가기 위해",
+          "능동적으로 재교육 프로그램에 등록하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "the writing is on the wall",
+            "meaning": "(미래의) 불길한 징조가 뻔히 보이다, 운명이 정해져 있다",
+            "context": "the writing is on the wall for traditional entry-level positions"
+          },
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "시대에 뒤떨어지지 않고 앞서나가다, 트렌드를 앞서가다",
+            "context": "keen to stay ahead of the curve in this transforming job economy"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The recent surge in advanced AI features from tech giants means companies must **read the room** regarding employees' increasing desire for meaningful flexibility and digital well-being.",
           "To prevent widespread burnout, leaders must go beyond mere allowance and actively encourage staff to truly **recharge their batteries**, ensuring a healthier work-life balance."
         ],
@@ -1148,6 +1175,33 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With Federal Reserve Chair Powell emphasizing a \"bumpy path\" to 2% inflation and a readiness to hold rates steady, global markets are effectively walking a tightrope, weighing economic stability against growth prospects.",
+          "However, Microsoft is putting its money where its mouth is, committing $5 billion to the Azure AI Foundry, signaling a clear intent to dominate the specialized chip and open-source model space despite lingering economic uncertainties."
+        ],
+        "sentenceTranslations": [
+          "연준 의장 파월이 2% 인플레이션으로 가는 \"험난한 길\"과 금리를 필요한 만큼 유지할 준비가 되어 있음을 강조하면서, 글로벌 시장은 경제 안정성과 성장 전망을 저울질하며 사실상 줄타기를 하고 있습니다.",
+          "하지만 마이크로소프트는 애저 AI 파운드리에 50억 달러를 투자하며 과감하게 약속을 이행하고 있으며, 이는 지속되는 경제적 불확실성에도 불구하고 특수 칩과 오픈소스 모델 분야를 지배하겠다는 명확한 의지를 보여줍니다."
+        ],
+        "translationHighlights": [
+          "줄타기를 하고 있습니다",
+          "경제 안정성과 성장 전망을 저울질하며",
+          "약속을 이행하고 있으며"
+        ],
+        "newWords": [
+          {
+            "word": "walking a tightrope",
+            "meaning": "위험하고 불안정한 상황에서 매우 조심스럽게 행동하다.",
+            "context": "global markets are effectively walking a tightrope"
+          },
+          {
+            "word": "put one's money where one's mouth is",
+            "meaning": "말로만 하지 않고 실제 행동(특히 투자)으로 약속이나 주장을 뒷받침하다.",
+            "context": "Microsoft is putting its money where its mouth is"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Alphabet's decision to divest its smart home division and funnel resources into AI development is a clear sign they're swinging for the fences in the race against competitors like OpenAI.",
           "Meanwhile, EU lawmakers are intent on leveling the playing field with robust AI governance rules, recognizing their critical role in fostering consumer trust and ensuring fair market competition."
         ],
@@ -2252,6 +2306,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "By expanding its e-visa program, Vietnam is clearly **rolling out the red carpet** for North American travelers, aiming to capitalize on their spending power.",
+          "This strategic move is expected to **give a significant shot in the arm** to the local tourism economy, potentially seeing inbound flights **take off** dramatically."
+        ],
+        "sentenceTranslations": [
+          "이비자 프로그램을 확대함으로써 베트남은 북미 여행객들에게 **극진한 대접을 베풀며**, 그들의 소비력을 활용하려 하고 있습니다.",
+          "이 전략적인 움직임은 지역 관광 경제에 **상당한 활력을 불어넣어**, 연말까지 입국 항공편이 극적으로 **급증할** 것으로 예상됩니다."
+        ],
+        "translationHighlights": [
+          "극진한 대접을 베풀며",
+          "소비력을 활용하려 하고 있습니다",
+          "상당한 활력을 불어넣어",
+          "급증할"
+        ],
+        "newWords": [
+          {
+            "word": "roll out the red carpet",
+            "meaning": "극진히 환대하다, 특별 대우를 하다",
+            "context": "Vietnam is clearly **rolling out the red carpet** for North American travelers"
+          },
+          {
+            "word": "give a significant shot in the arm",
+            "meaning": "(~에게) 상당한 활력을 불어넣다, 사기를 진작시키다",
+            "context": "expected to **give a significant shot in the arm** to the local tourism economy"
+          },
+          {
+            "word": "take off",
+            "meaning": "(사업, 프로젝트 등이) 급성장하다, 성공하다",
+            "context": "potentially seeing inbound flights **take off** dramatically"
+          }
+        ]
+      },
       {
         "sentences": [
           "The ETIAS system's initial technical glitches and processing backlogs are already threatening to throw a wrench in the works for millions of summer travelers eagerly planning their European getaways.",
@@ -3366,6 +3453,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The Miami Heat truly managed to knock the top-seeded Celtics off their perch in Game 3, leaving them scrambling to recover.",
+          "Boston will have to dig deep and turn up the heat themselves if they hope to turn the tide in this intense playoff series."
+        ],
+        "sentenceTranslations": [
+          "마이애미 히트가 3차전에서 1위 팀 셀틱스를 정말이지 무너뜨리며, 셀틱스는 회복을 위해 허둥지둥해야 할 상황에 놓였습니다.",
+          "보스턴은 이 치열한 플레이오프 시리즈에서 전세를 뒤집으려면 스스로 깊이 있는 노력을 하고 강도를 높여야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "무너뜨리며",
+          "허둥지둥해야 할 상황에",
+          "깊이 있는 노력을 하고",
+          "강도를 높여야 할"
+        ],
+        "newWords": [
+          {
+            "word": "knock someone off their perch",
+            "meaning": "우월한 위치에 있는 사람/팀을 패배시키다, 위세가 등등한 사람을 꺾다",
+            "context": "managed to knock the top-seeded Celtics off their perch"
+          },
+          {
+            "word": "dig deep",
+            "meaning": "최대한의 노력을 하다, 깊이 파고들다",
+            "context": "Boston will have to dig deep"
+          },
+          {
+            "word": "turn up the heat",
+            "meaning": "강도를 높이다, 압력을 가하다",
+            "context": "and turn up the heat themselves"
+          }
+        ]
+      },
       {
         "sentences": [
           "The Oklahoma City Thunder truly pulled the rug out from under the favored Lakers, sending shockwaves through the NBA playoffs.",
