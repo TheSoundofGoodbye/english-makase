@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The WEF's stark report underscores that for professionals to thrive, staying ahead of the curve in AI literacy is no longer optional.",
+          "As financial advisors now recommend, putting your money where your mouth is on AI-specific training is crucial for navigating the evolving job market."
+        ],
+        "sentenceTranslations": [
+          "세계 경제 포럼의 보고서는 전문가들이 성공하려면 AI 활용 능력에 있어서 최신 동향을 앞서 나가는 것이 더 이상 선택 사항이 아님을 강조합니다.",
+          "재정 고문들이 현재 권고하듯이, AI 특정 교육에 직접 투자하여 지지하는 것이 변화하는 직업 시장을 헤쳐나가는 데 매우 중요합니다."
+        ],
+        "translationHighlights": [
+          "최신 동향을 앞서 나가는 것이",
+          "더 이상 선택 사항이 아님을",
+          "직접 투자하여 지지하는 것이",
+          "매우 중요합니다"
+        ],
+        "newWords": [
+          {
+            "word": "staying ahead of the curve",
+            "meaning": "최신 동향을 앞서가다, 남들보다 한발 앞서나가다",
+            "context": "staying ahead of the curve in AI literacy"
+          },
+          {
+            "word": "putting your money where your mouth is",
+            "meaning": "말뿐만이 아니라 행동으로 실천하다, (특히 돈을 들여) 직접 투자하여 지지하다",
+            "context": "putting your money where your mouth is on AI-specific training"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With AI-powered automation rapidly expanding, many Gen Z and early-career millennials are realizing the writing is on the wall for traditional entry-level positions.",
           "Consequently, a lot of them are proactively enrolling in upskilling programs, keen to stay ahead of the curve in this transforming job economy."
         ],
@@ -1175,6 +1203,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The recent surge in WTI crude oil prices, coupled with IMF warnings about persistent supply chain fragmentation, could **throw a wrench in the works** for the projected 2026 global growth outlook.",
+          "This volatile environment, further complicated by the impending EU AI Act and geopolitical shifts, compels businesses to constantly **read the tea leaves** to **stay ahead of the curve** in compliance and operational resilience."
+        ],
+        "sentenceTranslations": [
+          "최근 서부 텍사스산 원유(WTI) 가격 급등은 지속적인 공급망 분열에 대한 IMF의 경고와 맞물려, 2026년 세계 경제 성장 전망에 **돌발 변수를 던질 수 있습니다**.",
+          "임박한 EU AI법과 지정학적 변화로 더욱 복잡해진 이러한 불안정한 환경은 기업들로 하여금 규제 준수 및 운영 회복력 측면에서 **앞서나가기 위해** 끊임없이 **미래를 예측하고 징후를 읽도록** 만듭니다."
+        ],
+        "translationHighlights": [
+          "돌발 변수를 던질 수 있습니다",
+          "불안정한 환경",
+          "미래를 예측하고 징후를 읽도록",
+          "앞서나가기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획을 틀어지게 하다, 방해하다",
+            "context": "could **throw a wrench in the works** for the projected 2026 global growth outlook"
+          },
+          {
+            "word": "read the tea leaves",
+            "meaning": "미래를 예측하다, 징후를 읽다",
+            "context": "compels businesses to constantly **read the tea leaves** to stay ahead of the curve"
+          },
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "앞서나가다, 최신 트렌드를 파악하고 대비하다",
+            "context": "read the tea leaves to **stay ahead of the curve** in compliance and operational resilience"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With Federal Reserve Chair Powell emphasizing a \"bumpy path\" to 2% inflation and a readiness to hold rates steady, global markets are effectively walking a tightrope, weighing economic stability against growth prospects.",
           "However, Microsoft is putting its money where its mouth is, committing $5 billion to the Azure AI Foundry, signaling a clear intent to dominate the specialized chip and open-source model space despite lingering economic uncertainties."
         ],
@@ -2306,6 +2367,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With popular spots like Kyoto bursting at the seams due to an unprecedented surge in visitors, it’s clear many destinations are becoming victims of their own success.",
+          "This puts the onus on local authorities to go the extra mile for crowd management, while the industry as a whole needs to put its money where its mouth is by investing in sustainable practices for the long run."
+        ],
+        "sentenceTranslations": [
+          "교토처럼 인기 있는 관광지가 전례 없는 방문객 급증으로 터져 나갈 지경이 되면서, 많은 관광지들이 자신들의 성공의 희생양이 되고 있음이 분명합니다.",
+          "이는 현지 당국이 인파 관리에 각별히 노력해야 할 책임을 지게 하며, 업계 전반은 장기적으로 지속 가능한 관행에 투자함으로써 말한 대로 실천해야 합니다."
+        ],
+        "translationHighlights": [
+          "터져 나갈 지경",
+          "자신들의 성공의 희생양",
+          "각별히 노력해야 할",
+          "말한 대로 실천해야"
+        ],
+        "newWords": [
+          {
+            "word": "bursting at the seams",
+            "meaning": "공간이 꽉 차서 터질 듯한, 매우 붐비는",
+            "context": "Kyoto bursting at the seams due to an unprecedented surge"
+          },
+          {
+            "word": "victims of their own success",
+            "meaning": "자신들의 성공으로 인해 오히려 어려움을 겪는 경우 (성공의 희생양)",
+            "context": "many destinations are becoming victims of their own success"
+          },
+          {
+            "word": "put its money where its mouth is",
+            "meaning": "말한 대로 행동으로 옮기다, 약속한 대로 투자하거나 실천하다",
+            "context": "the industry as a whole needs to put its money where its mouth is"
+          }
+        ]
+      },
       {
         "sentences": [
           "By expanding its e-visa program, Vietnam is clearly **rolling out the red carpet** for North American travelers, aiming to capitalize on their spending power.",
@@ -3453,6 +3547,36 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Jayson Tatum's phenomenal 42-point outburst truly stole the show last night, giving the Celtics a crucial 3-2 lead against the 76ers.",
+          "Meanwhile, the ongoing discussion about the PGA Tour's calendar overhaul continues to stir the pot, though officials insist it's vital for future growth and fan engagement."
+        ],
+        "sentenceTranslations": [
+          "제이슨 테이텀의 경이로운 42점 폭발은 어젯밤 진정으로 이목을 사로잡았고, 셀틱스가 76ers를 상대로 3-2로 결정적인 리드를 잡게 해주었습니다.",
+          "한편, PGA 투어 일정 개편에 대한 지속적인 논의는 계속해서 논란을 불러일으키고 있지만, 관계자들은 이것이 미래의 성장과 팬 참여에 필수적이라고 강조합니다."
+        ],
+        "translationHighlights": [
+          "이목을 사로잡았고",
+          "경이로운",
+          "결정적인 리드를 잡게 해주었습니다",
+          "논란을 불러일으키고",
+          "일정 개편",
+          "팬 참여"
+        ],
+        "newWords": [
+          {
+            "word": "stole the show",
+            "meaning": "다른 모든 것보다 더 좋거나 흥미로워 주목을 독점하다, 이목을 사로잡다",
+            "context": "Tatum's phenomenal 42-point outburst truly stole the show"
+          },
+          {
+            "word": "stir the pot",
+            "meaning": "논란을 일으키다, 상황을 더 어렵게 만들다",
+            "context": "continues to stir the pot"
+          }
+        ]
+      },
       {
         "sentences": [
           "The Miami Heat truly managed to knock the top-seeded Celtics off their perch in Game 3, leaving them scrambling to recover.",
