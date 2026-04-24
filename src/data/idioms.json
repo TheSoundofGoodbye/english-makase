@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While AI-driven smart home systems like Gemini Harmony offer unprecedented convenience, the data privacy questions they raise are proving to be a double-edged sword for many.",
+          "Moreover, with Gen Z workers increasingly eschewing traditional homeownership for digital nomadism, it's clear we're witnessing a sea change in societal priorities."
+        ],
+        "sentenceTranslations": [
+          "제미니 하모니와 같은 AI 기반 스마트 홈 시스템이 전례 없는 편리함을 제공하지만, 이들이 제기하는 데이터 프라이버시 문제는 많은 사람들에게 양날의 검으로 작용하고 있습니다.",
+          "게다가 Z세대 직장인들이 전통적인 주택 소유를 디지털 노마드 생활을 위해 점점 더 외면하면서, 우리는 사회적 우선순위의 엄청난 변화를 목격하고 있음이 분명합니다."
+        ],
+        "translationHighlights": [
+          "전례 없는 편리함",
+          "양날의 검으로 작용하고 있습니다",
+          "점점 더 외면하면서",
+          "사회적 우선순위의 엄청난 변화"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가짐)",
+            "context": "are proving to be a double-edged sword"
+          },
+          {
+            "word": "a sea change",
+            "meaning": "엄청난 변화, 근본적인 변화",
+            "context": "we're witnessing a sea change in societal priorities"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The WEF's stark report underscores that for professionals to thrive, staying ahead of the curve in AI literacy is no longer optional.",
           "As financial advisors now recommend, putting your money where your mouth is on AI-specific training is crucial for navigating the evolving job market."
         ],
@@ -1203,6 +1231,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "To truly **level the playing field** against industrial overcapacity, the EU and US must forge a united front, ensuring fair global competition.",
+          "Meanwhile, NVIDIA continues to **hit it out of the park**, with its 'Blackwell Ultra' pre-orders driving analysts to significantly raise Q2 revenue projections."
+        ],
+        "sentenceTranslations": [
+          "산업 과잉 생산에 맞서 진정으로 **공정한 경쟁 환경을 조성하기 위해**, EU와 미국은 공정한 글로벌 경쟁을 보장하는 통일된 전선을 구축해야 합니다.",
+          "한편, 엔비디아는 계속해서 **놀라운 성공을 거두며**, '블랙웰 울트라' 사전 주문이 분석가들로 하여금 2분기 매출 전망치를 크게 상향 조정하게 만들고 있습니다."
+        ],
+        "translationHighlights": [
+          "공정한 경쟁 환경을 조성하기 위해",
+          "통일된 전선을 구축해야 합니다",
+          "놀라운 성공을 거두며",
+          "매출 전망치를 크게 상향 조정하게 만들고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "level the playing field",
+            "meaning": "공정한 경쟁 환경을 조성하다; 모든 사람에게 공평한 기회를 주다",
+            "context": "To truly **level the playing field** against industrial overcapacity..."
+          },
+          {
+            "word": "hit it out of the park",
+            "meaning": "대성공을 거두다; 기대 이상으로 아주 잘하다 (야구 홈런에 비유)",
+            "context": "Meanwhile, NVIDIA continues to **hit it out of the park**..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The recent surge in WTI crude oil prices, coupled with IMF warnings about persistent supply chain fragmentation, could **throw a wrench in the works** for the projected 2026 global growth outlook.",
           "This volatile environment, further complicated by the impending EU AI Act and geopolitical shifts, compels businesses to constantly **read the tea leaves** to **stay ahead of the curve** in compliance and operational resilience."
         ],
@@ -2367,6 +2423,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Venice's new visitor system, though aimed at curbing overtourism, is proving to be a double-edged sword, reportedly causing a noticeable dip in spontaneous foot traffic for local businesses.",
+          "On the brighter side, the proposed 'ASEAN Pass' e-visa could potentially smooth the way for tourists keen to explore multiple Southeast Asian nations seamlessly."
+        ],
+        "sentenceTranslations": [
+          "베네치아의 새로운 방문객 시스템은 과잉 관광을 억제하기 위한 목적임에도 불구하고, 양날의 검으로 작용하여 현지 상점들의 즉흥적인 방문객 수가 눈에 띄게 감소하고 있다고 합니다.",
+          "한편, 긍정적인 측면으로는 제안된 '아세안 패스' 전자 비자가 여러 동남아시아 국가를 원활하게 탐험하고자 하는 관광객들에게 길을 순조롭게 열어줄 수 있습니다."
+        ],
+        "translationHighlights": [
+          "양날의 검으로 작용하여",
+          "즉흥적인 방문객 수가 눈에 띄게 감소",
+          "길을 순조롭게 열어줄 수 있습니다",
+          "원활하게 탐험하고자 하는 관광객들"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가지고 있는 것)",
+            "context": "is proving to be a double-edged sword"
+          },
+          {
+            "word": "smooth the way",
+            "meaning": "길을 순조롭게 하다, (어떤 일을) 용이하게 하다",
+            "context": "could potentially smooth the way"
+          }
+        ]
+      },
       {
         "sentences": [
           "With popular spots like Kyoto bursting at the seams due to an unprecedented surge in visitors, it’s clear many destinations are becoming victims of their own success.",
