@@ -3,6 +3,33 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "As AI rapidly reshapes white-collar roles, many professionals now recognize the writing is on the wall for outdated skill sets, urging them to proactively upskill.",
+          "This pressing need for specialized upskilling platforms underscores that for many, navigating this new landscape has become a make-or-break situation for their careers."
+        ],
+        "sentenceTranslations": [
+          "AI가 화이트칼라 직무를 빠르게 재편함에 따라, 많은 전문가들은 시대에 뒤떨어진 기술로는 더 이상 안 된다는 분명한 징조를 인지하고 있으며, 이는 그들이 적극적으로 역량을 강화하도록 촉구하고 있습니다.",
+          "이처럼 전문적인 역량 강화 플랫폼에 대한 긴급한 필요성은 많은 이들에게 있어 이 새로운 환경을 헤쳐나가는 것이 그들의 경력에 있어 성패를 가르는 중대한 상황이 되었음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "분명한 징조",
+          "역량을 강화하도록 촉구하고 있습니다",
+          "성패를 가르는 중대한 상황"
+        ],
+        "newWords": [
+          {
+            "word": "the writing is on the wall",
+            "meaning": "다가오는 변화나 문제, 특히 부정적인 결과에 대한 명확한 징후",
+            "context": "many professionals now recognize the writing is on the wall for outdated skill sets"
+          },
+          {
+            "word": "a make-or-break situation",
+            "meaning": "성공 또는 실패를 결정하는 매우 중요한 상황",
+            "context": "has become a make-or-break situation for their careers"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While AI-driven smart home systems like Gemini Harmony offer unprecedented convenience, the data privacy questions they raise are proving to be a double-edged sword for many.",
           "Moreover, with Gen Z workers increasingly eschewing traditional homeownership for digital nomadism, it's clear we're witnessing a sea change in societal priorities."
         ],
@@ -1231,6 +1258,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Amidst the ongoing debate on generative AI's societal impact, calls for global governance have reached a fever pitch, emphasizing the need for 'guardrails, not just accelerators.'",
+          "While NVIDIA's stock has soared, indicating robust data center demand, the jury is still out on whether the current pace of AI infrastructure spending is truly sustainable in the long run."
+        ],
+        "sentenceTranslations": [
+          "생성형 AI의 사회적 영향에 대한 논의가 계속되는 가운데, '가속기뿐만 아니라 안전장치도 필요하다'는 전 세계적인 거버넌스 요구가 절정에 달했습니다.",
+          "엔비디아 주식이 급등하여 데이터 센터 수요가 견조함을 보여주지만, 현재 AI 인프라 지출 속도가 장기적으로 정말 지속 가능한지에 대해서는 아직 결론이 나지 않았습니다."
+        ],
+        "translationHighlights": [
+          "절정에 달했습니다",
+          "안전장치도 필요하다",
+          "아직 결론이 나지 않았습니다",
+          "지속 가능한지"
+        ],
+        "newWords": [
+          {
+            "word": "reach a fever pitch",
+            "meaning": "절정에 달하다, 극도로 흥분하거나 격렬해지다",
+            "context": "calls for global governance have reached a fever pitch"
+          },
+          {
+            "word": "the jury is still out",
+            "meaning": "아직 결론이 나지 않았다, 아직 미지수이다",
+            "context": "the jury is still out on whether the current pace..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "To truly **level the playing field** against industrial overcapacity, the EU and US must forge a united front, ensuring fair global competition.",
           "Meanwhile, NVIDIA continues to **hit it out of the park**, with its 'Blackwell Ultra' pre-orders driving analysts to significantly raise Q2 revenue projections."
         ],
@@ -2423,6 +2478,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With UNESCO sounding the alarm over the escalating pressure on heritage sites, governments and tour operators must now nip unsustainable tourism practices in the bud.",
+          "This proactive approach, coupled with airlines like Emirates putting their money where their mouth is through eco-partnerships, signals a crucial shift towards safeguarding our planet's invaluable treasures."
+        ],
+        "sentenceTranslations": [
+          "유네스코가 유적지에 대한 압박 증가에 대해 경보를 울리면서, 정부와 여행사들은 이제 지속 불가능한 관광 관행을 미연에 방지해야 합니다.",
+          "이러한 선제적인 접근 방식은 에미레이트 항공과 같은 항공사들이 친환경 파트너십을 통해 말뿐이 아닌 행동으로 옮기는 것과 맞물려, 우리 지구의 귀중한 보물들을 보호하는 데 중요한 변화를 예고합니다."
+        ],
+        "translationHighlights": [
+          "경보를 울리면서",
+          "미연에 방지해야 합니다",
+          "말뿐이 아닌 행동으로 옮기는"
+        ],
+        "newWords": [
+          {
+            "word": "sounding the alarm",
+            "meaning": "경보를 울리다, 위험을 경고하다",
+            "context": "With UNESCO sounding the alarm over the escalating pressure..."
+          },
+          {
+            "word": "nip something in the bud",
+            "meaning": "(나쁜 일 등이) 초기에 싹을 자르다, 미연에 방지하다",
+            "context": "...must now nip unsustainable tourism practices in the bud."
+          },
+          {
+            "word": "put one's money where one's mouth is",
+            "meaning": "말로만 하지 않고 행동으로 보여주다, 약속한 대로 실천하다",
+            "context": "...airlines like Emirates putting their money where their mouth is..."
+          }
+        ]
+      },
       {
         "sentences": [
           "Venice's new visitor system, though aimed at curbing overtourism, is proving to be a double-edged sword, reportedly causing a noticeable dip in spontaneous foot traffic for local businesses.",
@@ -3631,6 +3718,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "LeBron James' vintage performance gave the Lakers a much-needed shot in the arm, as their Game 3 victory brought them back into contention.",
+          "However, they still have their work cut out for them to even the series against the formidable Nuggets, who won the first two games."
+        ],
+        "sentenceTranslations": [
+          "르브론 제임스의 베테랑다운 활약은 레이커스에게 큰 활력소가 되었고, 3차전 승리로 그들은 다시 승산 있는 경쟁에 뛰어들었습니다.",
+          "하지만, 1, 2차전을 따낸 강호 너겟츠를 상대로 시리즈를 동점으로 만들려면 아직 넘어야 할 산이 많습니다."
+        ],
+        "translationHighlights": [
+          "큰 활력소",
+          "승산 있는 경쟁에 뛰어들었습니다",
+          "넘어야 할 산이 많습니다",
+          "시리즈를 동점으로 만들려면"
+        ],
+        "newWords": [
+          {
+            "word": "a shot in the arm",
+            "meaning": "사기를 북돋우는 것, 활력소, 큰 도움",
+            "context": "gave the Lakers a much-needed shot in the arm"
+          },
+          {
+            "word": "have their work cut out for them",
+            "meaning": "힘들거나 어려운 일을 처리해야 하다, 할 일이 많다",
+            "context": "still have their work cut out for them"
+          }
+        ]
+      },
       {
         "sentences": [
           "Jayson Tatum's phenomenal 42-point outburst truly stole the show last night, giving the Celtics a crucial 3-2 lead against the 76ers.",
