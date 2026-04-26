@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Mindful AI certainly seems like a godsend for those grappling with cognitive overload, promising to take the load off their shoulders.",
+          "However, Dr. Sharma's warning reminds us that we might be treading a fine line between enhanced well-being and unwittingly ceding autonomy, potentially causing us to lose our touch for critical thinking."
+        ],
+        "sentenceTranslations": [
+          "인지 과부하로 힘들어하는 사람들에게 Mindful AI는 분명 천혜의 선물처럼 보이며, 그들의 어깨의 짐을 덜어주겠다고 약속합니다.",
+          "하지만 샤르마 박사의 경고는 우리가 향상된 웰빙과 무심코 자율성을 내주는 것 사이에서 아슬아슬한 줄타기를 하고 있으며, 궁극적으로 비판적 사고 능력을 잃을 수도 있음을 상기시킵니다."
+        ],
+        "translationHighlights": [
+          "천혜의 선물처럼 보이며",
+          "어깨의 짐을 덜어주겠다고 약속합니다",
+          "아슬아슬한 줄타기를 하고 있으며",
+          "비판적 사고 능력을 잃을 수도 있음을"
+        ],
+        "newWords": [
+          {
+            "word": "a godsend",
+            "meaning": "천혜의 선물, 아주 유용한 것",
+            "context": "Mindful AI certainly seems like a godsend for those grappling with cognitive overload"
+          },
+          {
+            "word": "treading a fine line",
+            "meaning": "아슬아슬한 줄타기를 하다, 미묘한 경계를 넘나들다",
+            "context": "we might be treading a fine line between enhanced well-being and unwittingly ceding autonomy"
+          },
+          {
+            "word": "lose one's touch",
+            "meaning": "감을 잃다, 기량이나 능력을 잃다",
+            "context": "causing us to lose our touch for critical thinking"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As AI rapidly reshapes white-collar roles, many professionals now recognize the writing is on the wall for outdated skill sets, urging them to proactively upskill.",
           "This pressing need for specialized upskilling platforms underscores that for many, navigating this new landscape has become a make-or-break situation for their careers."
         ],
@@ -1258,6 +1291,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With Anthropic's Axiom 2.0 pushing boundaries, venture capitalists are **doubling down on** generative AI startups, seeing them as truly **at the bleeding edge** of market disruption.",
+          "Meanwhile, the IMF's dire warning about supply chains means companies can't simply **put all their eggs in one basket**, making strategic diversification an economic imperative."
+        ],
+        "sentenceTranslations": [
+          "Anthropic의 Axiom 2.0이 한계를 뛰어넘으면서, 벤처 투자가들은 생성형 AI 스타트업에 **더욱 집중 투자하고 있으며**, 이들이 시장 파괴적 혁신의 **최첨단에 서 있다고 보고 있습니다**.",
+          "동시에, IMF의 공급망에 대한 심각한 경고는 기업들이 단순히 **하나에만 모든 것을 걸 수 없다는 것**을 의미하며, 전략적 다각화를 경제적 필수 요소로 만들고 있습니다."
+        ],
+        "translationHighlights": [
+          "더욱 집중 투자하고 있으며",
+          "최첨단에 서 있다고 보고 있습니다",
+          "하나에만 모든 것을 걸 수 없다는 것",
+          "경제적 필수 요소"
+        ],
+        "newWords": [
+          {
+            "word": "doubling down on",
+            "meaning": "~에 더욱 집중 투자하다, ~에 대한 노력을 배가하다",
+            "context": "venture capitalists are **doubling down on** generative AI startups"
+          },
+          {
+            "word": "at the bleeding edge",
+            "meaning": "최첨단에 있는, 매우 혁신적인",
+            "context": "seeing them as truly **at the bleeding edge** of market disruption"
+          },
+          {
+            "word": "put all their eggs in one basket",
+            "meaning": "모든 것을 하나에 걸다, 위험을 분산시키지 않다",
+            "context": "companies can't simply **put all their eggs in one basket**"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Amidst the ongoing debate on generative AI's societal impact, calls for global governance have reached a fever pitch, emphasizing the need for 'guardrails, not just accelerators.'",
           "While NVIDIA's stock has soared, indicating robust data center demand, the jury is still out on whether the current pace of AI infrastructure spending is truly sustainable in the long run."
         ],
@@ -2478,6 +2544,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Faced with its historic sites often bursting at the seams, Venice's new reservation system for day-trippers represents a significant effort to manage the influx.",
+          "This shift, coupled with the surge in eco-tourism packages and demand from workcation extenders, indicates a sea change in how travelers are now voting with their feet for value and sustainability."
+        ],
+        "sentenceTranslations": [
+          "역사 유적지들이 종종 발 디딜 틈 없이 붐비는 상황에 직면하여, 베네치아의 새로운 당일치기 관광객 예약 시스템은 유입 인구를 관리하기 위한 중요한 노력을 보여줍니다.",
+          "이러한 변화는 친환경 관광 상품의 급증과 워케이션 연장자들의 수요와 맞물려, 여행객들이 단순히 양보다는 가치와 지속 가능성을 택하며 자신의 선호를 분명히 드러내는 방식에 있어 근본적인 변화가 있음을 시사합니다."
+        ],
+        "translationHighlights": [
+          "발 디딜 틈 없이 붐비는",
+          "근본적인 변화",
+          "자신의 선호를 분명히 드러내는"
+        ],
+        "newWords": [
+          {
+            "word": "bursting at the seams",
+            "meaning": "너무 붐비거나 가득 찬",
+            "context": "its historic sites often *bursting at the seams*"
+          },
+          {
+            "word": "sea change",
+            "meaning": "근본적인 변화, 큰 변화",
+            "context": "indicates a *sea change* in how travelers"
+          },
+          {
+            "word": "voting with their feet",
+            "meaning": "(말 대신) 행동으로 자신의 선호나 불만을 표현하다",
+            "context": "travelers are now *voting with their feet* for value and sustainability"
+          }
+        ]
+      },
       {
         "sentences": [
           "With UNESCO sounding the alarm over the escalating pressure on heritage sites, governments and tour operators must now nip unsustainable tourism practices in the bud.",
@@ -3718,6 +3816,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The Celtics are truly **firing on all cylinders** in the playoffs, especially with Jayson Tatum's recent 38-point performance giving them a commanding 3-1 lead.",
+          "Meanwhile, G2 Esports will need to **bring their A-game** against Fnatic next weekend if they aim to make a deep run at the global Mid-Season Invitational."
+        ],
+        "sentenceTranslations": [
+          "셀틱스는 플레이오프에서 제이슨 테이텀의 최근 38점 활약으로 3대1의 압도적인 리드를 잡으며 정말 **최고의 기량을 발휘하고 있습니다**.",
+          "한편, G2 이스포츠는 다음 주말 프나틱과의 경기에서 세계 미드 시즌 인비테이셔널에서 좋은 성적을 내려면 **최고의 실력을 보여줘야 할 것입니다**."
+        ],
+        "translationHighlights": [
+          "최고의 기량을 발휘하고 있습니다",
+          "압도적인 리드를 잡으며",
+          "최고의 실력을 보여줘야 할 것입니다",
+          "좋은 성적을 내려면"
+        ],
+        "newWords": [
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고의 기량을 발휘하다, 완전히 제 기능을 하다",
+            "context": "The Celtics are truly firing on all cylinders"
+          },
+          {
+            "word": "bring one's A-game",
+            "meaning": "최고의 실력을 발휘하다, 최선을 다하다",
+            "context": "G2 Esports will need to bring their A-game"
+          }
+        ]
+      },
       {
         "sentences": [
           "LeBron James' vintage performance gave the Lakers a much-needed shot in the arm, as their Game 3 victory brought them back into contention.",
