@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The sheer volume of subscriptions is starting to nickel-and-dime households, creating a real sense of \"subscription fatigue.\"",
+          "Financial advisors are now urging everyone to take stock of their digital spending and trim the fat to avoid unnecessary budgetary strain."
+        ],
+        "sentenceTranslations": [
+          "엄청난 양의 구독 서비스들이 가정의 주머니를 야금야금 축내기 시작하면서, 진정한 '구독 피로'를 느끼게 하고 있습니다.",
+          "재정 전문가들은 이제 불필요한 예산 압박을 피하기 위해 모든 사람이 디지털 지출을 면밀히 검토하고 불필요한 부분을 덜어내야 한다고 촉구하고 있습니다."
+        ],
+        "translationHighlights": [
+          "야금야금 축내기 시작하면서",
+          "구독 피로",
+          "면밀히 검토하고",
+          "불필요한 부분을 덜어내야 한다고"
+        ],
+        "newWords": [
+          {
+            "word": "nickel-and-dime",
+            "meaning": "작은 돈을 계속 요구하여 점차적으로 돈을 소진시키다; 푼돈으로 괴롭히다",
+            "context": "starting to nickel-and-dime households"
+          },
+          {
+            "word": "take stock of",
+            "meaning": "상황을 검토하거나 평가하다; ~을 재평가하다",
+            "context": "to take stock of their digital spending"
+          },
+          {
+            "word": "trim the fat",
+            "meaning": "불필요한 비용이나 지출을 줄이다; 군더더기를 없애다",
+            "context": "and trim the fat to avoid unnecessary budgetary strain"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Mindful AI certainly seems like a godsend for those grappling with cognitive overload, promising to take the load off their shoulders.",
           "However, Dr. Sharma's warning reminds us that we might be treading a fine line between enhanced well-being and unwittingly ceding autonomy, potentially causing us to lose our touch for critical thinking."
         ],
@@ -1291,6 +1324,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Jensen Huang's strategic hint about 'Blackwell X' clearly shows NVIDIA is striking while the iron is hot, leveraging surging AI demand to maintain its market dominance.",
+          "Similarly, Apple's aggressive diversification of its iPhone component production in Southeast Asia demonstrates a clear intent to hedge its bets against future supply chain disruptions."
+        ],
+        "sentenceTranslations": [
+          "젠슨 황 CEO가 'Blackwell X'에 대해 전략적으로 언급한 것은 엔비디아가 급증하는 AI 수요를 활용하여 시장 지배력을 유지하고자 기회를 놓치지 않고 있다는 것을 분명히 보여줍니다.",
+          "마찬가지로, 애플이 아이폰 부품 생산을 동남아시아로 적극적으로 다변화하는 것은 미래의 공급망 혼란에 대비하여 위험을 분산하려는 분명한 의도를 보여줍니다."
+        ],
+        "translationHighlights": [
+          "기회를 놓치지 않고 있다는",
+          "시장 지배력을 유지하고자",
+          "위험을 분산하려는",
+          "공급망 혼란에 대비하여"
+        ],
+        "newWords": [
+          {
+            "word": "striking while the iron is hot",
+            "meaning": "가장 유리한 시점에 즉시 행동하여 기회를 잡다",
+            "context": "NVIDIA is **striking while the iron is hot**"
+          },
+          {
+            "word": "hedge its bets",
+            "meaning": "여러 가능성에 대비하여 위험을 분산하거나 줄이다",
+            "context": "clear intent to **hedge its bets** against future supply chain disruptions"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With Anthropic's Axiom 2.0 pushing boundaries, venture capitalists are **doubling down on** generative AI startups, seeing them as truly **at the bleeding edge** of market disruption.",
           "Meanwhile, the IMF's dire warning about supply chains means companies can't simply **put all their eggs in one basket**, making strategic diversification an economic imperative."
         ],
@@ -2544,6 +2605,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Japan is truly striking while the iron is hot, expanding its digital nomad visas to leverage the buzz from Osaka Expo 2025 and attract longer-term visitors.",
+          "This strategic initiative, coupled with boosted regional flights, aims to open the floodgates for travelers looking to venture off the beaten track and experience deeper cultural immersion."
+        ],
+        "sentenceTranslations": [
+          "일본은 오사카 엑스포 2025의 열기를 활용해 장기 체류 방문객을 유치하기 위해 디지털 노마드 비자를 확대하면서, 정말 '쇠뿔도 단김에 빼는' 격입니다.",
+          "지역 항공편 증대와 더불어 이러한 전략적 움직임은 틀에 박힌 경로를 벗어나 더 깊이 있는 문화 체험을 원하는 여행객들을 위한 길을 활짝 열어줄 것입니다."
+        ],
+        "translationHighlights": [
+          "쇠뿔도 단김에 빼는 격",
+          "길을 활짝 열어줄 것입니다",
+          "틀에 박힌 경로를 벗어나"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "쇠뿔도 단김에 빼다 (기회가 있을 때 지체 없이 행동하다)",
+            "context": "Japan is truly striking while the iron is hot"
+          },
+          {
+            "word": "open the floodgates",
+            "meaning": "봇물 터지듯 길을 열다/늘리다 (어떤 것을 대량으로 허용하거나 시작하다)",
+            "context": "aims to open the floodgates for travelers"
+          },
+          {
+            "word": "off the beaten track",
+            "meaning": "잘 알려지지 않은 길/장소 (일반적인 관광 경로에서 벗어나 사람이 적고 특색 있는 곳)",
+            "context": "looking to venture off the beaten track"
+          }
+        ]
+      },
       {
         "sentences": [
           "Faced with its historic sites often bursting at the seams, Venice's new reservation system for day-trippers represents a significant effort to manage the influx.",
@@ -3816,6 +3909,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The electrifying NBA playoffs, where every possession can turn on a dime, clearly set the stage for the League of Legends Mid-Season Invitational, with teams pulling out all the stops in London.",
+          "This competitive spirit isn't confined to professional arenas; adventure cycling events are catching fire across North America, indicating that the enthusiasm for challenging oneself is in full swing."
+        ],
+        "sentenceTranslations": [
+          "전율 넘치는 NBA 플레이오프는 매 공격권마다 상황이 급변할 수 있어 리그 오브 레전드 MSI의 장을 완벽하게 마련했고, 런던에서 팀들이 총력을 기울이고 있습니다.",
+          "이런 경쟁심은 프로 경기장에만 국한되지 않습니다. 북미 전역에서 모험 자전거 이벤트가 큰 인기를 얻고 있어, 자신에게 도전하려는 열정이 한창임을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "급변할 수 있어",
+          "총력을 기울이고",
+          "큰 인기를 얻고 있어",
+          "한창임을"
+        ],
+        "newWords": [
+          {
+            "word": "turn on a dime",
+            "meaning": "순식간에 상황이 바뀌다, 급변하다",
+            "context": "where every possession can turn on a dime"
+          },
+          {
+            "word": "pulling out all the stops",
+            "meaning": "총력을 기울이다, 모든 노력을 다하다",
+            "context": "with teams pulling out all the stops"
+          },
+          {
+            "word": "catching fire",
+            "meaning": "급속도로 인기를 얻다, 유행처럼 번지다",
+            "context": "adventure cycling events are catching fire"
+          }
+        ]
+      },
       {
         "sentences": [
           "The Celtics are truly **firing on all cylinders** in the playoffs, especially with Jayson Tatum's recent 38-point performance giving them a commanding 3-1 lead.",
