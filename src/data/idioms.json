@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With major tech firms like Google and Meta putting their foot down on in-office mandates, it's clear the pendulum is swinging back towards traditional work models.",
+          "For many professionals, this means they'll have to bite the bullet and reconsider their living arrangements, potentially heading back to city centers to be closer to their corporate hubs."
+        ],
+        "sentenceTranslations": [
+          "구글과 메타 같은 주요 기술 기업들이 사무실 복귀 명령에 대해 단호한 입장을 취하면서, 전통적인 근무 형태로 추세가 다시 돌아오고 있는 것이 분명해졌습니다.",
+          "많은 직장인들에게는 이것이 어려운 상황을 감수하고 주거 계획을 재고하여, 회사 본거지와 더 가까운 도심으로 돌아가야 할 수도 있다는 것을 의미합니다."
+        ],
+        "translationHighlights": [
+          "단호한 입장을 취하면서",
+          "추세가 다시 돌아오고 있는",
+          "어려운 상황을 감수하고",
+          "주거 계획을 재고하여"
+        ],
+        "newWords": [
+          {
+            "word": "put one's foot down",
+            "meaning": "단호한 태도를 취하다, 고집을 부리다",
+            "context": "putting their foot down on in-office mandates"
+          },
+          {
+            "word": "the pendulum is swinging back",
+            "meaning": "추세가 다시 과거로 돌아가다, 상황이 역전되다",
+            "context": "the pendulum is swinging back towards traditional work models"
+          },
+          {
+            "word": "bite the bullet",
+            "meaning": "어려운 상황을 억지로 감수하다, 이를 악물고 참다",
+            "context": "they'll have to bite the bullet and reconsider their living arrangements"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With major financial institutions **jumping on the bandwagon** of AI-powered financial tools, it's evident that the landscape of personal finance is rapidly evolving.",
           "Yet, balancing the promise of democratized financial planning with **treading a fine line** around data privacy will be key for these new platforms."
         ],
@@ -1351,6 +1384,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The Fed's sustained 'higher-for-longer' stance certainly threw cold water on any hopes of an immediate market rebound.",
+          "Despite this, the fierce competition for AI dominance ensures tech giants like Google and Microsoft continue to raise the bar for innovation."
+        ],
+        "sentenceTranslations": [
+          "연준의 지속적인 '고금리 장기화' 기조는 즉각적인 시장 반등에 대한 어떠한 기대에도 찬물을 끼얹었습니다.",
+          "그럼에도 불구하고, 인공지능 주도권을 향한 치열한 경쟁은 구글과 마이크로소프트 같은 거대 기술 기업들이 혁신의 기준을 계속해서 높이도록 만듭니다."
+        ],
+        "translationHighlights": [
+          "고금리 장기화 기조",
+          "찬물을 끼얹었습니다",
+          "인공지능 주도권",
+          "혁신의 기준을 높이도록"
+        ],
+        "newWords": [
+          {
+            "word": "throw cold water on something",
+            "meaning": "어떤 것에 찬물을 끼얹다 (열정, 계획, 희망 등을 꺾다)",
+            "context": "threw cold water on any hopes"
+          },
+          {
+            "word": "raise the bar",
+            "meaning": "기준(수준)을 높이다",
+            "context": "continue to raise the bar"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Meta's ambitious 'Aura' project for next-gen AR devices clearly shows tech giants are pulling out all the stops in the fiercely competitive consumer AI market.",
           "Concurrently, with the Federal Reserve's stance on inflation still causing jitters, and potential EU tariffs looming, analysts are now trying to read the tea leaves for what this means for deep-tech startups and global supply chains."
         ],
@@ -2660,6 +2721,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With the new €5 access fee, Venice is effectively walking a tightrope, attempting to strike a balance between preserving its heritage and remaining a welcoming destination.",
+          "While some fear this might put a damper on spontaneous day-tripper enthusiasm, it reflects a growing global trend to better manage the adverse effects of mass tourism."
+        ],
+        "sentenceTranslations": [
+          "새로운 5유로 입장료 도입으로 베네치아는 사실상 외줄 타기를 하는 셈이며, 유산을 보존하면서도 환영받는 여행지로 남으려는 균형을 맞추려 애쓰고 있습니다.",
+          "일각에서는 이것이 즉흥적인 당일치기 여행객들의 열정에 찬물을 끼얹을까 우려하지만, 이는 대량 관광의 부정적인 영향을 더 잘 관리하려는 전 세계적인 추세를 반영합니다."
+        ],
+        "translationHighlights": [
+          "외줄 타기를 하는 셈이며",
+          "균형을 맞추려 애쓰고 있습니다",
+          "찬물을 끼얹을까 우려하지만",
+          "전 세계적인 추세를 반영합니다"
+        ],
+        "newWords": [
+          {
+            "word": "walking a tightrope",
+            "meaning": "위태로운 균형을 유지하다; 신중하게 행동하다 (외줄 타기를 하듯이)",
+            "context": "Venice is effectively walking a tightrope"
+          },
+          {
+            "word": "put a damper on",
+            "meaning": "~에 찬물을 끼얹다; ~의 흥을 깨다; ~의 기세를 꺾다",
+            "context": "this might put a damper on spontaneous day-tripper enthusiasm"
+          }
+        ]
+      },
       {
         "sentences": [
           "With accelerated SAF mandates on the horizon, the critical hurdle of insufficient global production capacity remains the elephant in the room for carriers striving for greener flights.",
@@ -3996,6 +4085,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Luka Dončić truly came through in the clutch for the Mavericks, single-handedly turning the tide of the game with his incredible performance.",
+          "Now, with Game 6 in Dallas, the Clippers know they are truly under the gun, with their backs against the wall if they want to keep their playoff hopes alive."
+        ],
+        "sentenceTranslations": [
+          "루카 돈치치는 마브스 팀을 위해 결정적인 순간에 진가를 발휘하며, 그의 놀라운 활약으로 경기의 판도를 완전히 뒤집었습니다.",
+          "이제 댈러스에서 열릴 6차전을 앞두고 클리퍼스는 플레이오프 희망을 이어가려면 진짜 절체절명의 위기이며, 벼랑 끝에 몰려 있다는 것을 알고 있습니다."
+        ],
+        "translationHighlights": [
+          "결정적인 순간에 진가를 발휘하며",
+          "경기의 판도를 완전히 뒤집었습니다",
+          "절체절명의 위기",
+          "벼랑 끝에 몰려 있다는 것을 알고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "come through in the clutch",
+            "meaning": "결정적인 순간에 성공하다/진가를 발휘하다",
+            "context": "Luka Dončić truly came through in the clutch for the Mavericks"
+          },
+          {
+            "word": "turn the tide",
+            "meaning": "판세를 뒤집다, 상황을 역전시키다",
+            "context": "single-handedly turning the tide of the game"
+          },
+          {
+            "word": "under the gun",
+            "meaning": "압박감에 시달리다, 매우 급박한 상황에 처하다",
+            "context": "the Clippers know they are truly under the gun"
+          }
+        ]
+      },
       {
         "sentences": [
           "The electrifying NBA playoffs, where every possession can turn on a dime, clearly set the stage for the League of Legends Mid-Season Invitational, with teams pulling out all the stops in London.",
