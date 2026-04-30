@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Many people are finding that forgotten subscriptions have become a real money pit, constantly draining their finances without them even realizing it.",
+          "Thankfully, new AI tools are helping us keep our finger on the pulse of our spending, preventing those sneaky charges from piling up."
+        ],
+        "sentenceTranslations": [
+          "많은 사람들이 잊고 있던 구독 서비스들이 자신도 모르게 재정을 계속 고갈시키는 진정한 돈 먹는 하마가 되었다는 것을 깨닫고 있습니다.",
+          "다행히도, 새로운 AI 도구들은 우리가 지출 상황을 계속 파악하고, 그런 교묘한 요금들이 쌓이는 것을 막아주는 데 도움을 주고 있습니다."
+        ],
+        "translationHighlights": [
+          "돈 먹는 하마",
+          "재정을 계속 고갈시키는",
+          "지출 상황을 계속 파악하고",
+          "교묘한 요금들이 쌓이는 것"
+        ],
+        "newWords": [
+          {
+            "word": "money pit",
+            "meaning": "돈 먹는 하마, 밑 빠진 독 (돈이 계속 많이 드는 것)",
+            "context": "become a real money pit"
+          },
+          {
+            "word": "keep our finger on the pulse",
+            "meaning": "상황/동향을 계속 주시하다, 파악하다",
+            "context": "keep our finger on the pulse of our spending"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With major tech firms like Google and Meta putting their foot down on in-office mandates, it's clear the pendulum is swinging back towards traditional work models.",
           "For many professionals, this means they'll have to bite the bullet and reconsider their living arrangements, potentially heading back to city centers to be closer to their corporate hubs."
         ],
@@ -1384,6 +1412,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The ongoing friction over critical mineral exports presents a tough nut to crack for global trade, exacerbating the 0.8% contraction in tech hardware shipments.",
+          "Meanwhile, AI startups are urging regulators to cut through the red tape, fearing that fragmented regulations will make Europe lose ground in the global AI race."
+        ],
+        "sentenceTranslations": [
+          "핵심 광물 수출을 둘러싼 지속적인 마찰은 글로벌 무역에 있어 해결하기 어려운 문제이며, 기술 하드웨어 운송의 0.8% 감소를 악화시키고 있습니다.",
+          "한편, AI 스타트업들은 파편화된 규제가 유럽이 글로벌 AI 경쟁에서 뒤처지게 만들 것을 우려하며, 규제 당국에 불필요한 규제를 제거해 달라고 촉구하고 있습니다."
+        ],
+        "translationHighlights": [
+          "해결하기 어려운 문제",
+          "악화시키고 있습니다",
+          "불필요한 규제를 제거해 달라고",
+          "뒤처지게 만들 것"
+        ],
+        "newWords": [
+          {
+            "word": "a tough nut to crack",
+            "meaning": "해결하기 매우 어려운 문제나 상황",
+            "context": "presents a tough nut to crack for global trade"
+          },
+          {
+            "word": "cut through the red tape",
+            "meaning": "불필요한 관료주의나 복잡한 절차를 간소화하다, 장애물을 제거하다",
+            "context": "urging regulators to cut through the red tape"
+          },
+          {
+            "word": "lose ground",
+            "meaning": "경쟁이나 발전에서 뒤처지다, 입지를 잃다",
+            "context": "make Europe lose ground in the global AI race"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The Fed's sustained 'higher-for-longer' stance certainly threw cold water on any hopes of an immediate market rebound.",
           "Despite this, the fierce competition for AI dominance ensures tech giants like Google and Microsoft continue to raise the bar for innovation."
         ],
@@ -2721,6 +2782,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The Ministry of Tourism is clearly rolling out the red carpet for international visitors by expanding e-visa access, aiming to make Saudi Arabia a top-tier travel destination.",
+          "This strategic focus on unique cultural experiences, like those found in AlUla, is certainly hitting the sweet spot with travelers, leaving a lasting impression that resonates long after their trip."
+        ],
+        "sentenceTranslations": [
+          "관광부는 전자 비자 접근을 확대하여 해외 방문객들을 위해 확실히 성대한 환영을 베풀고 있으며, 사우디아라비아를 최고 수준의 여행지로 만들고자 합니다.",
+          "알울라에서 찾을 수 있는 것과 같은 독특한 문화 체험에 대한 이러한 전략적 초점은 여행객들에게 분명 정확히 주효하며, 여행 후에도 오랫동안 기억에 남는 깊은 인상을 남기고 있습니다."
+        ],
+        "translationHighlights": [
+          "성대한 환영을 베풀고 있으며",
+          "최고 수준의 여행지로 만들고자 합니다",
+          "정확히 주효하며",
+          "깊은 인상을 남기고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "roll out the red carpet",
+            "meaning": "성대한 환영을 베풀다, 극진히 대접하다",
+            "context": "rolling out the red carpet for international visitors"
+          },
+          {
+            "word": "hit the sweet spot",
+            "meaning": "정확히 주효하다, 딱 맞는 지점을 찾다",
+            "context": "certainly hitting the sweet spot with travelers"
+          },
+          {
+            "word": "leave a lasting impression",
+            "meaning": "깊은 인상을 남기다, 오래 기억되다",
+            "context": "leaving a lasting impression that resonates long after their trip"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the new €5 access fee, Venice is effectively walking a tightrope, attempting to strike a balance between preserving its heritage and remaining a welcoming destination.",
@@ -4085,6 +4179,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The Western Conference Semifinals are now truly on a razor's edge with the series tied 2-2, demanding peak performance from both the Nuggets and Suns.",
+          "For Game 5, the Nuggets will need to dig deep and pull out all the stops to leverage their home-court advantage and secure a crucial lead."
+        ],
+        "sentenceTranslations": [
+          "서부 컨퍼런스 준결승은 시리즈가 2-2 동률을 이루면서 진정으로 일촉즉발의 상황에 놓여 있으며, 너기츠와 선즈 양 팀 모두에게 최고의 기량을 요구하고 있습니다.",
+          "5차전에서 너기츠는 홈 경기 이점을 활용해 결정적인 우위를 확보하려면 깊은 내면의 힘을 끄집어내고 모든 수단과 방법을 동원해야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "일촉즉발의 상황",
+          "최고의 기량을 요구하고 있습니다",
+          "깊은 내면의 힘을 끄집어내고",
+          "모든 수단과 방법을 동원해야"
+        ],
+        "newWords": [
+          {
+            "word": "on a razor's edge",
+            "meaning": "일촉즉발의 상황, 위태로운 상태",
+            "context": "The Western Conference Semifinals are now truly on a razor's edge"
+          },
+          {
+            "word": "dig deep",
+            "meaning": "깊은 내면의 힘을 끄집어내다, 최선을 다하다",
+            "context": "the Nuggets will need to dig deep"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 수단과 방법을 동원하다, 전력을 다하다",
+            "context": "and pull out all the stops"
+          }
+        ]
+      },
       {
         "sentences": [
           "Luka Dončić truly came through in the clutch for the Mavericks, single-handedly turning the tide of the game with his incredible performance.",
