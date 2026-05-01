@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With persistent cost-of-living increases, many households are really **feeling the pinch**, prompting a surge in AI finance tool adoption.",
+          "These sophisticated platforms empower users to **get their financial ducks in a row**, enabling them to make informed decisions and better **weather the storm** of economic uncertainty."
+        ],
+        "sentenceTranslations": [
+          "지속적인 생활비 인상으로 많은 가구들이 **경제적으로 어려움을 겪고** 있으며, 이는 AI 금융 도구 채택이 급증하는 계기가 되고 있습니다.",
+          "이러한 정교한 플랫폼은 사용자들이 **재정 상태를 깔끔하게 정리**하도록 돕고, 정보에 입각한 결정을 내리며 경제 불확실성의 **어려운 시기를 더 잘 헤쳐나가도록** 합니다."
+        ],
+        "translationHighlights": [
+          "경제적으로 어려움을 겪고",
+          "재정 상태를 깔끔하게 정리",
+          "어려운 시기를 더 잘 헤쳐나가도록"
+        ],
+        "newWords": [
+          {
+            "word": "feel the pinch",
+            "meaning": "경제적으로 어려움을 겪다, 곤궁함을 느끼다",
+            "context": "many households are really **feeling the pinch**"
+          },
+          {
+            "word": "get one's ducks in a row",
+            "meaning": "일을 잘 정리하다, 만반의 준비를 하다 (특히 재정)",
+            "context": "empower users to **get their financial ducks in a row**"
+          },
+          {
+            "word": "weather the storm",
+            "meaning": "어려운 시기를 이겨내다, 폭풍우를 견디다",
+            "context": "better **weather the storm** of economic uncertainty"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Many people are finding that forgotten subscriptions have become a real money pit, constantly draining their finances without them even realizing it.",
           "Thankfully, new AI tools are helping us keep our finger on the pulse of our spending, preventing those sneaky charges from piling up."
         ],
@@ -1412,6 +1444,33 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Microsoft, with its strategic Azure AI expansion integrating Lumina Labs' Project Chimera, is truly throwing down the gauntlet to Google in the enterprise AI space.",
+          "This aggressive move indicates they are pulling out all the stops to capture market share and solidify their position by Q3."
+        ],
+        "sentenceTranslations": [
+          "마이크로소프트는 Lumina Labs의 Project Chimera를 통합한 전략적 Azure AI 확장으로, 엔터프라이즈 AI 분야에서 구글에 진정으로 도전장을 내밀고 있습니다.",
+          "이러한 공격적인 움직임은 그들이 3분기까지 시장 점유율을 확보하고 입지를 굳히기 위해 전력을 다하고 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "도전장을 내밀고 있습니다",
+          "전력을 다하고 있음을 보여줍니다",
+          "시장 점유율을 확보하고 입지를 굳히기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "throwing down the gauntlet",
+            "meaning": "공개적으로 도전하다, 도전장을 내밀다",
+            "context": "is truly throwing down the gauntlet to Google"
+          },
+          {
+            "word": "pulling out all the stops",
+            "meaning": "온갖 노력을 다하다, 전력을 다하다",
+            "context": "they are pulling out all the stops to capture market share"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The ongoing friction over critical mineral exports presents a tough nut to crack for global trade, exacerbating the 0.8% contraction in tech hardware shipments.",
           "Meanwhile, AI startups are urging regulators to cut through the red tape, fearing that fragmented regulations will make Europe lose ground in the global AI race."
         ],
@@ -2782,6 +2841,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The recent surge in direct flights to places like Tashkent and Almaty clearly shows the tide is turning in global travel, with adventurers now eager to venture into uncharted territory.",
+          "Moreover, simplified e-visa platforms and the growing emphasis on eco-tourism certifications are undoubtedly leveling the playing field, making these once-overlooked destinations more accessible and appealing to a broader audience."
+        ],
+        "sentenceTranslations": [
+          "타슈켄트와 알마티 같은 곳으로의 직항편 급증은 전 세계 여행의 흐름이 바뀌고 있음을 분명히 보여주며, 모험가들이 이제 미지의 영역으로 과감히 나아가기를 열망하고 있습니다.",
+          "게다가, 간소화된 전자 비자 플랫폼과 생태 관광 인증에 대한 강조 증가는 의심할 여지 없이 공정한 경쟁의 장을 마련하여, 한때 간과되었던 이 목적지들을 더 넓은 대중에게 더 접근하기 쉽고 매력적으로 만들고 있습니다."
+        ],
+        "translationHighlights": [
+          "흐름이 바뀌고 있음",
+          "미지의 영역으로",
+          "공정한 경쟁의 장을 마련하여"
+        ],
+        "newWords": [
+          {
+            "word": "the tide is turning",
+            "meaning": "흐름이 바뀌다; 판도가 달라지다",
+            "context": "clearly shows the tide is turning in global travel"
+          },
+          {
+            "word": "uncharted territory",
+            "meaning": "미지의 영역; 미개척지",
+            "context": "eager to venture into uncharted territory"
+          },
+          {
+            "word": "leveling the playing field",
+            "meaning": "공정한 경쟁의 장을 만들다; 동등한 기회를 제공하다",
+            "context": "are undoubtedly leveling the playing field"
+          }
+        ]
+      },
       {
         "sentences": [
           "The Ministry of Tourism is clearly rolling out the red carpet for international visitors by expanding e-visa access, aiming to make Saudi Arabia a top-tier travel destination.",
@@ -4179,6 +4270,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Defending champion Brooks Koepka is famous for bringing his A-game when the pressure is highest, consistently performing at his absolute peak in major championships.",
+          "If Rory McIlroy hopes to finally turn the tide on his decade-long major drought, he'll have to pull out all the stops and deliver a flawless performance this week."
+        ],
+        "sentenceTranslations": [
+          "디펜딩 챔피언 브룩스 켑카는 압박감이 최고조에 달했을 때 늘 최고의 기량을 발휘하는 것으로 유명하며, 메이저 대회에서 꾸준히 절정의 플레이를 보여줍니다.",
+          "로리 맥길로이가 10년간의 메이저 대회 우승 가뭄을 마침내 뒤집으려면, 이번 주에 모든 수단과 방법을 동원하여 완벽한 경기를 펼쳐야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "최고의 기량을 발휘하는",
+          "압박감이 최고조에 달했을 때",
+          "우승 가뭄을 마침내 뒤집으려면",
+          "모든 수단과 방법을 동원하여"
+        ],
+        "newWords": [
+          {
+            "word": "bring one's A-game",
+            "meaning": "최고의 기량을 발휘하다, 최고의 실력을 보여주다",
+            "context": "famous for bringing his A-game when the pressure is highest"
+          },
+          {
+            "word": "turn the tide",
+            "meaning": "전세를 역전시키다, 흐름을 뒤집다",
+            "context": "hopes to finally turn the tide on his decade-long major drought"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 수단과 방법을 동원하다, 전력을 다하다",
+            "context": "he'll have to pull out all the stops and deliver a flawless performance"
+          }
+        ]
+      },
       {
         "sentences": [
           "The Western Conference Semifinals are now truly on a razor's edge with the series tied 2-2, demanding peak performance from both the Nuggets and Suns.",
