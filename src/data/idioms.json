@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The introduction of AI productivity tools like AscendFlow, while promising hyper-personalized workflows, has become a double-edged sword for companies, simultaneously sparking concerns over digital surveillance and data privacy.",
+          "With 65% of employees prioritizing flexible working hours, the writing is clearly on the wall for companies to genuinely enhance employee well-being rather than just chasing efficiency with AI."
+        ],
+        "sentenceTranslations": [
+          "AscendFlow와 같은 AI 생산성 도구의 도입은 초개인화된 워크플로우를 약속하지만, 동시에 디지털 감시와 데이터 프라이버시에 대한 우려를 불러일으키며 기업들에게 양날의 검이 되고 있습니다.",
+          "65%의 직원들이 유연근무 시간을 우선시하는 만큼, 기업들은 AI로 효율성만 쫓을 것이 아니라 직원들의 복지를 진정으로 향상시켜야 한다는 분명한 경고를 마주하고 있습니다."
+        ],
+        "translationHighlights": [
+          "양날의 검이 되고 있습니다",
+          "유연근무 시간을 우선시하는 만큼",
+          "분명한 경고를 마주하고 있습니다",
+          "직원들의 복지를 진정으로 향상시켜야 한다는"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가짐)",
+            "context": "has become a double-edged sword for companies"
+          },
+          {
+            "word": "the writing is on the wall",
+            "meaning": "미래가 분명히 예측되다, 피할 수 없는 결과의 징조가 보이다",
+            "context": "the writing is clearly on the wall for companies"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With persistent cost-of-living increases, many households are really **feeling the pinch**, prompting a surge in AI finance tool adoption.",
           "These sophisticated platforms empower users to **get their financial ducks in a row**, enabling them to make informed decisions and better **weather the storm** of economic uncertainty."
         ],
@@ -1444,6 +1472,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The concentrated reliance on a single geopolitical hotspot for advanced chip manufacturing has truly put the global economy on a knife's edge.",
+          "If this critical supply chain were to hit a snag, many industries would undoubtedly be left high and dry, hence the imperative for diversification."
+        ],
+        "sentenceTranslations": [
+          "첨단 칩 제조를 단일 지정학적 요충지에 집중적으로 의존하면서, 전 세계 경제가 진정으로 매우 위태로운 상황에 놓였습니다.",
+          "이 중요한 공급망에 문제가 발생한다면, 수많은 산업이 의심할 여지 없이 곤경에 처하게 될 것이며, 이것이 바로 다각화가 필수적인 이유입니다."
+        ],
+        "translationHighlights": [
+          "단일 지정학적 요충지에 집중적으로 의존하면서",
+          "매우 위태로운 상황",
+          "문제가 발생한다면",
+          "곤경에 처하게 될 것"
+        ],
+        "newWords": [
+          {
+            "word": "on a knife's edge",
+            "meaning": "매우 위태로운 상황에 있는, 아슬아슬한",
+            "context": "put the global economy on a knife's edge"
+          },
+          {
+            "word": "hit a snag",
+            "meaning": "예상치 못한 문제에 부딪히다, 차질을 겪다",
+            "context": "were to hit a snag"
+          },
+          {
+            "word": "left high and dry",
+            "meaning": "어려운 상황에 홀로 남겨지다, 곤경에 처하다",
+            "context": "be left high and dry"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Microsoft, with its strategic Azure AI expansion integrating Lumina Labs' Project Chimera, is truly throwing down the gauntlet to Google in the enterprise AI space.",
           "This aggressive move indicates they are pulling out all the stops to capture market share and solidify their position by Q3."
         ],
@@ -2841,6 +2902,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With the Sindalah island resort now open, Saudi Arabia's NEOM project is truly hitting the ground running in its ambitious bid to redefine luxury tourism.",
+          "This move, alongside new flight routes and ambitious GDP targets, signals a clear intent to be a game-changer for global travel and a significant economic force."
+        ],
+        "sentenceTranslations": [
+          "신달라 섬 리조트가 개장하면서, 사우디아라비아의 네옴 프로젝트는 럭셔리 관광을 재정의하려는 야심 찬 목표를 향해 정말로 순조롭게 출발하고 있습니다.",
+          "이러한 움직임은 새로운 항공 노선과 야심 찬 GDP 목표와 더불어, 세계 여행 시장의 판도를 바꾸고 주요 경제 동력이 되겠다는 분명한 의지를 보여줍니다."
+        ],
+        "translationHighlights": [
+          "순조롭게 출발하고 있습니다",
+          "야심 찬 목표",
+          "판도를 바꾸고",
+          "주요 경제 동력이"
+        ],
+        "newWords": [
+          {
+            "word": "hitting the ground running",
+            "meaning": "순조롭게/빠르게 시작하다, 즉시 효과적으로 활동을 개시하다",
+            "context": "is truly hitting the ground running in its ambitious bid..."
+          },
+          {
+            "word": "a game-changer",
+            "meaning": "판도를 바꾸는 것, 상황을 완전히 뒤바꾸는 중대한 변화",
+            "context": "signals a clear intent to be a game-changer for global travel..."
+          }
+        ]
+      },
       {
         "sentences": [
           "The recent surge in direct flights to places like Tashkent and Almaty clearly shows the tide is turning in global travel, with adventurers now eager to venture into uncharted territory.",
