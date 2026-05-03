@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The rumored Apple Watch, with its groundbreaking non-invasive blood glucose monitoring, is truly poised to be a game changer for millions navigating daily health.",
+          "This innovative tech will undoubtedly help individuals stay ahead of the curve in managing their wellness, bringing personalized preventative care to their wrists."
+        ],
+        "sentenceTranslations": [
+          "소문으로만 무성했던 애플 워치의 비침습 혈당 모니터링 기능은 수많은 사람들이 일상 건강을 관리하는 방식에 진정한 판도를 바꿀 것입니다.",
+          "이 혁신적인 기술은 의심할 여지 없이 개개인이 자신의 건강 관리에 있어 시대를 앞서나가도록 도울 것이며, 개인 맞춤형 예방 의료를 손목 위로 가져올 것입니다."
+        ],
+        "translationHighlights": [
+          "판도를 바꿀 것입니다",
+          "일상 건강을 관리하는 방식",
+          "시대를 앞서나가도록 도울 것이며",
+          "개인 맞춤형 예방 의료"
+        ],
+        "newWords": [
+          {
+            "word": "poised to be",
+            "meaning": "~할 준비가 되어 있는, 막 ~하려 하는",
+            "context": "is truly poised to be a game changer"
+          },
+          {
+            "word": "game changer",
+            "meaning": "판도를 바꾸는 것, 획기적인 변화",
+            "context": "poised to be a game changer"
+          },
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "추세/변화에 앞서 나가다, 시대를 앞서가다",
+            "context": "help individuals stay ahead of the curve"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The introduction of AI productivity tools like AscendFlow, while promising hyper-personalized workflows, has become a double-edged sword for companies, simultaneously sparking concerns over digital surveillance and data privacy.",
           "With 65% of employees prioritizing flexible working hours, the writing is clearly on the wall for companies to genuinely enhance employee well-being rather than just chasing efficiency with AI."
         ],
@@ -1472,6 +1505,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Seeing NVIDIA's impressive surge and Microsoft's accelerated AI infrastructure plans, many tech companies are keen to strike while the iron is hot and solidify their market position.",
+          "However, as Marc Andreessen suggested, investors are increasingly reading the tea leaves to distinguish sustainable growth from mere speculative hype."
+        ],
+        "sentenceTranslations": [
+          "NVIDIA의 인상적인 급등과 마이크로소프트의 가속화된 AI 인프라 계획을 보면서, 많은 기술 기업들이 쇠뿔도 단김에 빼듯 지금이 기회라 여기며 시장 입지를 굳히고자 합니다.",
+          "하지만 마크 안드레센이 시사했듯이, 투자자들은 단순히 투기적 과열이 아닌 지속 가능한 성장을 구분하기 위해 갈수록 징후를 읽고 미래를 예측하려 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "쇠뿔도 단김에 빼듯",
+          "시장 입지를 굳히고자 합니다",
+          "징후를 읽고 미래를 예측하려",
+          "투기적 과열이 아닌 지속 가능한 성장"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "쇠뿔도 단김에 빼다, 기회를 놓치지 않고 바로 행동하다",
+            "context": "keen to strike while the iron is hot"
+          },
+          {
+            "word": "read the tea leaves",
+            "meaning": "징후나 단서를 통해 미래를 예측하다, 상황을 파악하다",
+            "context": "increasingly reading the tea leaves"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The concentrated reliance on a single geopolitical hotspot for advanced chip manufacturing has truly put the global economy on a knife's edge.",
           "If this critical supply chain were to hit a snag, many industries would undoubtedly be left high and dry, hence the imperative for diversification."
         ],
@@ -2902,6 +2963,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The new ETIAS system, coupled with ongoing manufacturing delays for long-haul aircraft, is really throwing a wrench in the works for many travelers eyeing a European summer getaway.",
+          "Against this backdrop, emerging destinations like Uzbekistan are finding their moment in the sun, successfully stealing a march on more established routes by offering authentic, less complicated experiences."
+        ],
+        "sentenceTranslations": [
+          "새로운 ETIAS 시스템은 장거리 항공기 제조 지연과 맞물려, 유럽 여름 휴가를 계획하는 많은 여행객들에게 큰 걸림돌이 되고 있습니다.",
+          "이런 상황 속에서 우즈베키스탄 같은 신흥 여행지들은 자신들의 전성기를 맞이하며, 진짜 같고 덜 복잡한 경험을 제공함으로써 기존 인기 여행지들보다 한발 앞서 나가고 있습니다."
+        ],
+        "translationHighlights": [
+          "큰 걸림돌이 되고 있습니다",
+          "자신들의 전성기를 맞이하며",
+          "한발 앞서 나가고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획이나 진행을 방해하거나 망치다",
+            "context": "throwing a wrench in the works for many travelers"
+          },
+          {
+            "word": "find their moment in the sun",
+            "meaning": "성공적인 시기를 맞이하다, 전성기를 누리다",
+            "context": "are finding their moment in the sun"
+          },
+          {
+            "word": "steal a march on",
+            "meaning": "남보다 한발 앞서서 유리한 위치를 차지하다",
+            "context": "successfully stealing a march on more established routes"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the Sindalah island resort now open, Saudi Arabia's NEOM project is truly hitting the ground running in its ambitious bid to redefine luxury tourism.",
@@ -4359,6 +4452,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With Arsenal now just one point behind, the Premier League title race is truly coming down to the wire, promising a nail-biting finish to the season.",
+          "Every team vying for a trophy or a top spot now has the bit between their teeth, ready to pull out all the stops in these decisive final matches."
+        ],
+        "sentenceTranslations": [
+          "아스널이 이제 단 1점 차로 추격하면서 프리미어리그 우승 경쟁은 정말 마지막 순간까지 예측 불허의 상황으로 치닫고 있으며, 손에 땀을 쥐게 하는 시즌 마무리가 예상됩니다.",
+          "트로피나 상위권을 노리는 모든 팀들은 이제 성공하겠다는 강한 의지로 가득 차 있으며, 이 결정적인 마지막 경기에서 모든 수단을 동원할 준비가 되어 있습니다."
+        ],
+        "translationHighlights": [
+          "마지막 순간까지 예측 불허의 상황으로 치닫고 있으며",
+          "손에 땀을 쥐게 하는",
+          "강한 의지로 가득 차 있으며",
+          "모든 수단을 동원할 준비가 되어 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "coming down to the wire",
+            "meaning": "최후의 순간까지 승패가 가려지지 않고 예측 불허의 상황으로 치닫다",
+            "context": "is truly coming down to the wire"
+          },
+          {
+            "word": "have the bit between their teeth",
+            "meaning": "성공하려는 강한 의지로 가득 차 있다, 매우 결심이 굳다",
+            "context": "now has the bit between their teeth"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "최대한의 노력(모든 수단)을 동원하다, 전력을 다하다",
+            "context": "ready to pull out all the stops"
+          }
+        ]
+      },
       {
         "sentences": [
           "Defending champion Brooks Koepka is famous for bringing his A-game when the pressure is highest, consistently performing at his absolute peak in major championships.",
