@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With 68% of individuals feeling overwhelmed, it's clear that many are up to their neck in the continuous data streams from AI-powered devices.",
+          "Consequently, the surge in digital detox travel shows people are eager to get off the grid and truly recharge their batteries away from the digital noise."
+        ],
+        "sentenceTranslations": [
+          "개인의 68%가 압도감을 느끼는 상황에서, 많은 사람들이 AI 기반 기기에서 쏟아지는 끊임없는 데이터 흐름에 완전히 파묻혀 있다는 것이 분명합니다.",
+          "결과적으로 디지털 디톡스 여행의 급증은 사람들이 연결을 끊고 디지털 소음에서 벗어나 진정으로 활력을 되찾고 싶어 한다는 것을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "완전히 파묻혀 있다는 것",
+          "연결을 끊고",
+          "활력을 되찾고 싶어 한다는 것"
+        ],
+        "newWords": [
+          {
+            "word": "up to their neck",
+            "meaning": "(어떤 것에) 완전히 파묻힌, ~에 허덕이는",
+            "context": "many are up to their neck in the continuous data streams"
+          },
+          {
+            "word": "get off the grid",
+            "meaning": "공공 서비스망(전기, 수도 등)에서 벗어나다; (비유적으로) 문명/기술과 단절하다",
+            "context": "eager to get off the grid and truly recharge their batteries"
+          },
+          {
+            "word": "recharge their batteries",
+            "meaning": "기력을 회복하다, 재충전하다",
+            "context": "get off the grid and truly recharge their batteries away from the digital noise"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The rumored Apple Watch, with its groundbreaking non-invasive blood glucose monitoring, is truly poised to be a game changer for millions navigating daily health.",
           "This innovative tech will undoubtedly help individuals stay ahead of the curve in managing their wellness, bringing personalized preventative care to their wrists."
         ],
@@ -1505,6 +1537,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Microsoft Azure appears to be firing on all cylinders, propelling an impressive uptake in AI adoption among Fortune 500 companies.",
+          "However, with trade tensions still creating ripple effects across global markets, investors are cautiously optimistic, waiting to see how the broader economic picture plays out."
+        ],
+        "sentenceTranslations": [
+          "마이크로소프트 애저가 모든 역량을 최대한 발휘하며, 포춘 500대 기업들 사이에서 AI 도입을 놀랍도록 견인하고 있는 듯합니다.",
+          "하지만 무역 긴장이 여전히 전 세계 시장에 파급 효과를 일으키고 있어, 투자자들은 더 넓은 경제 상황이 어떻게 전개될지 지켜보며 조심스러운 낙관론을 유지하고 있습니다."
+        ],
+        "translationHighlights": [
+          "모든 역량을 최대한 발휘하며",
+          "파급 효과를 일으키고 있어",
+          "조심스러운 낙관론을 유지하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "firing on all cylinders",
+            "meaning": "모든 역량을 최대한 발휘하다, 전력을 다하다",
+            "context": "firing on all cylinders, propelling an impressive uptake"
+          },
+          {
+            "word": "ripple effects",
+            "meaning": "파급 효과, 연쇄 반응",
+            "context": "creating ripple effects across global markets"
+          },
+          {
+            "word": "cautiously optimistic",
+            "meaning": "신중한 낙관론을 가진, 조심스럽게 낙관하는",
+            "context": "investors are cautiously optimistic"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Seeing NVIDIA's impressive surge and Microsoft's accelerated AI infrastructure plans, many tech companies are keen to strike while the iron is hot and solidify their market position.",
           "However, as Marc Andreessen suggested, investors are increasingly reading the tea leaves to distinguish sustainable growth from mere speculative hype."
         ],
@@ -2963,6 +3027,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The new Ethiopian Airlines service opens up a significant corridor for North American travelers, many of whom are eager to explore destinations off the beaten path in East Africa.",
+          "This strategic expansion comes as the wider airline industry continues to walk a tightrope, balancing growth ambitions with the spiraling costs of sustainable aviation fuel."
+        ],
+        "sentenceTranslations": [
+          "에티오피아 항공의 새로운 직항 서비스는 북미 여행객들에게 중요한 통로를 열어주는데, 이들 중 많은 이들이 동아프리카의 잘 알려지지 않은 곳들을 탐험하기를 열망하고 있습니다.",
+          "이러한 전략적 확장은 더 넓은 항공 산업이 성장에 대한 야망과 지속 가능한 항공 연료의 치솟는 비용 사이에서 아슬아슬한 줄타기를 계속하는 와중에 이루어지고 있습니다."
+        ],
+        "translationHighlights": [
+          "중요한 통로를 열어주는데",
+          "잘 알려지지 않은 곳들을",
+          "아슬아슬한 줄타기를 계속하는",
+          "치솟는 비용"
+        ],
+        "newWords": [
+          {
+            "word": "off the beaten path",
+            "meaning": "잘 알려지지 않은, 흔히 가지 않는 길",
+            "context": "explore destinations off the beaten path in East Africa"
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다, 위태로운 상황을 헤쳐나가다",
+            "context": "the wider airline industry continues to walk a tightrope"
+          }
+        ]
+      },
       {
         "sentences": [
           "The new ETIAS system, coupled with ongoing manufacturing delays for long-haul aircraft, is really throwing a wrench in the works for many travelers eyeing a European summer getaway.",
@@ -4452,6 +4544,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "G2 Esports is off to a flying start at the MSI group stages, already proving to be a force to be reckoned with.",
+          "While the NBA Western Conference semi-finals remain neck and neck, esports analysts expect MSI viewership to go through the roof."
+        ],
+        "sentenceTranslations": [
+          "G2 e스포츠는 MSI 그룹 스테이지에서 순조로운 출발을 보이며, 이미 만만찮은 상대임을 증명하고 있습니다.",
+          "한편, NBA 서부 컨퍼런스 준결승전은 여전히 박빙인 가운데, e스포츠 분석가들은 MSI 시청률이 폭발적으로 증가할 것으로 예상합니다."
+        ],
+        "translationHighlights": [
+          "순조로운 출발을 보이며",
+          "만만찮은 상대",
+          "여전히 박빙인 가운데",
+          "폭발적으로 증가할 것으로 예상합니다"
+        ],
+        "newWords": [
+          {
+            "word": "off to a flying start",
+            "meaning": "순조로운 출발을 보이다, 기분 좋게 시작하다",
+            "context": "G2 Esports is off to a flying start at the MSI group stages"
+          },
+          {
+            "word": "a force to be reckoned with",
+            "meaning": "만만찮은 상대, 강력한 경쟁자 (쉽게 봐서는 안 될 존재)",
+            "context": "proving to be a force to be reckoned with"
+          },
+          {
+            "word": "go through the roof",
+            "meaning": "(가격, 수치 등이) 폭등하다, 최고조에 달하다",
+            "context": "MSI viewership to go through the roof"
+          }
+        ]
+      },
       {
         "sentences": [
           "With Arsenal now just one point behind, the Premier League title race is truly coming down to the wire, promising a nail-biting finish to the season.",
