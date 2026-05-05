@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While AI-powered tools can give investors a **leg up** in navigating market volatility and boosting confidence, Dr. Petrova reminds us that human oversight is still **the bottom line** for truly complex life decisions.",
+          "After all, while AI can crunch numbers at lightning speed, only a human advisor can truly **read between the lines** of your personal circumstances and offer that essential human touch."
+        ],
+        "sentenceTranslations": [
+          "AI 기반 도구들이 투자자들이 시장 변동성을 헤쳐나가고 자신감을 높이는 데 **유리하게 작용할 수** 있지만, 페트로바 박사는 진정으로 복잡한 인생 결정에는 인간의 감독이 여전히 **가장 중요하다고** 강조합니다.",
+          "결국, AI는 엄청난 속도로 숫자를 처리할 수 있지만, 오직 인간 조언자만이 여러분의 개인적인 상황을 진정으로 **행간을 읽어내고** 필수적인 인간적인 손길을 제공할 수 있습니다."
+        ],
+        "translationHighlights": [
+          "유리하게 작용할 수",
+          "가장 중요하다고",
+          "행간을 읽어내고",
+          "인간적인 손길"
+        ],
+        "newWords": [
+          {
+            "word": "a leg up",
+            "meaning": "유리한 위치/우위, 도움",
+            "context": "give investors a leg up"
+          },
+          {
+            "word": "the bottom line",
+            "meaning": "가장 중요한 핵심, 본질",
+            "context": "still the bottom line"
+          },
+          {
+            "word": "read between the lines",
+            "meaning": "겉으로 드러나지 않는 숨은 의미나 속뜻을 파악하다, 행간을 읽다",
+            "context": "read between the lines of your personal circumstances"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With 68% of individuals feeling overwhelmed, it's clear that many are up to their neck in the continuous data streams from AI-powered devices.",
           "Consequently, the surge in digital detox travel shows people are eager to get off the grid and truly recharge their batteries away from the digital noise."
         ],
@@ -1537,6 +1570,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Microsoft's release of the Azure AI Agent Platform is poised to help businesses stay ahead of the curve by deploying autonomous agents for complex tasks, signaling a new era of efficiency.",
+          "Yet, amidst persistent inflationary pressures and escalating trade disputes, global economies and policymakers are increasingly finding themselves between a rock and a hard place, balancing innovation with stability and national security."
+        ],
+        "sentenceTranslations": [
+          "마이크로소프트의 애저 AI 에이전트 플랫폼 출시는 기업들이 복잡한 작업을 위한 자율 AI 에이전트를 배포하여 시대를 앞서 나가도록 돕고 효율성의 새 시대를 열 것으로 기대됩니다.",
+          "그러나 지속적인 인플레이션 압력과 고조되는 무역 분쟁 속에서 세계 경제와 정책 입안자들은 혁신과 안정, 그리고 국가 안보 사이에서 균형을 잡아야 하는 진퇴양난의 상황에 점점 더 놓이게 됩니다."
+        ],
+        "translationHighlights": [
+          "시대를 앞서 나가도록",
+          "효율성의 새 시대를",
+          "진퇴양난의 상황에",
+          "균형을 잡아야 하는"
+        ],
+        "newWords": [
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "시대를 앞서가다, 최신 동향을 주도하다",
+            "context": "help businesses stay ahead of the curve"
+          },
+          {
+            "word": "between a rock and a hard place",
+            "meaning": "진퇴양난에 빠지다, 이러지도 저러지도 못하는 상황에 처하다",
+            "context": "finding themselves between a rock and a hard place"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Microsoft Azure appears to be firing on all cylinders, propelling an impressive uptake in AI adoption among Fortune 500 companies.",
           "However, with trade tensions still creating ripple effects across global markets, investors are cautiously optimistic, waiting to see how the broader economic picture plays out."
         ],
@@ -3027,6 +3088,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Even with ETIAS throwing a new curveball for non-EU travelers, southern European destinations like Greece and Portugal are still riding high on record early-summer bookings.",
+          "Airlines are pulling out all the stops, not only adding capacity but also launching digital tools to help passengers grease the wheels through the updated entry protocols."
+        ],
+        "sentenceTranslations": [
+          "ETIAS가 비EU 여행객들에게 새로운 예상치 못한 난관을 던졌음에도 불구하고, 그리스와 포르투갈 같은 남유럽 목적지들은 기록적인 초여름 예약으로 여전히 승승장구하고 있습니다.",
+          "항공사들은 모든 노력을 기울여 운항 편수를 늘릴 뿐만 아니라, 승객들이 업데이트된 입국 절차를 원활하게 진행할 수 있도록 돕는 디지털 도구들도 출시하고 있습니다."
+        ],
+        "translationHighlights": [
+          "새로운 예상치 못한 난관을 던졌음에도 불구하고",
+          "승승장구하고 있습니다",
+          "모든 노력을 기울여",
+          "원활하게 진행할 수 있도록"
+        ],
+        "newWords": [
+          {
+            "word": "throw a curveball",
+            "meaning": "예상치 못한 문제나 난관을 던지다, 상황을 복잡하게 만들다",
+            "context": "ETIAS throwing a new curveball"
+          },
+          {
+            "word": "riding high",
+            "meaning": "승승장구하다, 매우 성공적이다, 높은 인기를 누리다",
+            "context": "are still riding high"
+          },
+          {
+            "word": "grease the wheels",
+            "meaning": "일이 원활하게 진행되도록 돕다, 수월하게 하다",
+            "context": "help passengers grease the wheels"
+          }
+        ]
+      },
       {
         "sentences": [
           "The new Ethiopian Airlines service opens up a significant corridor for North American travelers, many of whom are eager to explore destinations off the beaten path in East Africa.",
@@ -4544,6 +4638,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "After Jayson Tatum's heroic 45-point performance forced a decisive Game 7, the Celtics-76ers series has truly come down to the wire, keeping fans on the edge of their seats.",
+          "Conversely, the Denver Nuggets, firing on all cylinders with Nikola Jokic's incredible triple-double averages, seem poised to run away with the series against the Lakers."
+        ],
+        "sentenceTranslations": [
+          "제이슨 테이텀의 영웅적인 45점 활약으로 결정적인 7차전이 성사되면서, 셀틱스와 76ers의 시리즈는 그야말로 막판까지 손에 땀을 쥐게 만들며, 팬들을 좌불안석하게 하고 있습니다.",
+          "반대로, 니콜라 요키치의 놀라운 트리플더블 평균 기록으로 최고의 기량을 뿜어내고 있는 덴버 너기츠는 레이커스와의 시리즈에서 쉽게 승리할 것으로 보입니다."
+        ],
+        "translationHighlights": [
+          "막판까지 손에 땀을 쥐게 만들며",
+          "좌불안석하게 하고 있습니다",
+          "최고의 기량을 뿜어내고 있는",
+          "쉽게 승리할 것으로 보입니다"
+        ],
+        "newWords": [
+          {
+            "word": "come down to the wire",
+            "meaning": "경쟁, 시합 등이 마지막 순간까지 결과를 알 수 없게 진행되다",
+            "context": "the Celtics-76ers series has truly come down to the wire"
+          },
+          {
+            "word": "on the edge of their seats",
+            "meaning": "몹시 흥분하거나 긴장하여 (결과를) 기다리다, 좌불안석하다",
+            "context": "keeping fans on the edge of their seats"
+          },
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고의 기량이나 효율로 작동하다/활약하다",
+            "context": "the Denver Nuggets, firing on all cylinders with Nikola Jokic's incredible triple-double averages"
+          }
+        ]
+      },
       {
         "sentences": [
           "G2 Esports is off to a flying start at the MSI group stages, already proving to be a force to be reckoned with.",
