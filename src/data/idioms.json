@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While AI offers unprecedented convenience in personal finance, its rapid integration is proving to be a double-edged sword, opening the door to sophisticated scams.",
+          "To navigate this financial minefield safely, consumers must stay ahead of the curve by actively seeking user education and understanding new security guidelines."
+        ],
+        "sentenceTranslations": [
+          "AI는 개인 금융에 전례 없는 편리함을 제공하지만, 빠른 통합은 양날의 칼이 되어 정교한 사기로 이어지고 있습니다.",
+          "이 금융 지뢰밭을 안전하게 헤쳐나가려면, 소비자들은 사용자 교육을 적극적으로 찾고 새로운 보안 지침을 이해함으로써 시대에 앞서나가야 합니다."
+        ],
+        "translationHighlights": [
+          "양날의 칼",
+          "금융 지뢰밭",
+          "시대에 앞서나가야 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 칼 (좋은 점과 나쁜 점을 동시에 가짐)",
+            "context": "proving to be a double-edged sword"
+          },
+          {
+            "word": "financial minefield",
+            "meaning": "금융 지뢰밭 (숨겨진 위험이 가득한 복잡한 금융 상황)",
+            "context": "navigate this financial minefield"
+          },
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "시대에 앞서나가다 / 한발 앞서 준비하다",
+            "context": "must stay ahead of the curve"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While AI-powered tools can give investors a **leg up** in navigating market volatility and boosting confidence, Dr. Petrova reminds us that human oversight is still **the bottom line** for truly complex life decisions.",
           "After all, while AI can crunch numbers at lightning speed, only a human advisor can truly **read between the lines** of your personal circumstances and offer that essential human touch."
         ],
@@ -1570,6 +1602,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "As Brussels signaled an aggressive enforcement stance on the EU AI Act, tech companies are certainly feeling the pinch, prompting many to tread carefully in their development strategies.",
+          "This cautious approach is compounded by downgraded Eurozone growth and persistent energy volatility, making it clear that businesses must batten down the hatches for a potentially tumultuous period."
+        ],
+        "sentenceTranslations": [
+          "브뤼셀이 EU AI법에 대한 강경한 집행 태세를 시사하면서, 기술 기업들은 분명 재정적 압박을 느끼고 있으며, 많은 기업들이 개발 전략에서 신중을 기하도록 만들고 있습니다.",
+          "이러한 신중한 접근 방식은 유로존 성장률 하향 조정과 지속적인 에너지 변동성으로 인해 더욱 심화되고 있으며, 기업들이 잠재적으로 격동적인 시기에 대비해야 한다는 점을 명확히 합니다."
+        ],
+        "translationHighlights": [
+          "재정적 압박을 느끼고",
+          "신중을 기하도록",
+          "잠재적으로 격동적인 시기에 대비해야"
+        ],
+        "newWords": [
+          {
+            "word": "feeling the pinch",
+            "meaning": "재정적 압박/곤란을 겪다",
+            "context": "tech companies are certainly feeling the pinch"
+          },
+          {
+            "word": "tread carefully",
+            "meaning": "신중하게 행동하다, 조심하다",
+            "context": "many to tread carefully in their development strategies"
+          },
+          {
+            "word": "batten down the hatches",
+            "meaning": "어려운 시기에 대비하다, 만반의 준비를 하다",
+            "context": "businesses must batten down the hatches for a potentially tumultuous period"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Microsoft's release of the Azure AI Agent Platform is poised to help businesses stay ahead of the curve by deploying autonomous agents for complex tasks, signaling a new era of efficiency.",
           "Yet, amidst persistent inflationary pressures and escalating trade disputes, global economies and policymakers are increasingly finding themselves between a rock and a hard place, balancing innovation with stability and national security."
         ],
@@ -3088,6 +3152,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With destinations like Vietnam and Thailand reporting record arrivals, Southeast Asia's post-pandemic tourism boom is truly firing on all cylinders, reflecting robust demand.",
+          "However, persistent supply chain issues delaying new aircraft and soaring fuel costs threaten to throw a wrench in the works, potentially stifling this impressive growth."
+        ],
+        "sentenceTranslations": [
+          "베트남과 태국 같은 목적지들이 기록적인 방문객 수를 보고하면서, 동남아시아의 팬데믹 이후 관광 붐은 강력한 수요를 반영하며 진정으로 최고조에 달했습니다.",
+          "하지만 신규 항공기 인도를 지연시키는 지속적인 공급망 문제와 치솟는 유류비가 계획에 예상치 못한 문제를 발생시킬 위험이 있으며, 이러한 인상적인 성장을 억제할 수 있습니다."
+        ],
+        "translationHighlights": [
+          "최고조에 달했습니다",
+          "기록적인 방문객 수",
+          "계획에 예상치 못한 문제를 발생시킬 위험이 있으며",
+          "치솟는 유류비"
+        ],
+        "newWords": [
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고조에 달하다, 전력을 다하다",
+            "context": "tourism boom is truly **firing on all cylinders**"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다, 예상치 못한 문제를 발생시키다",
+            "context": "threaten to **throw a wrench in the works**"
+          }
+        ]
+      },
       {
         "sentences": [
           "Even with ETIAS throwing a new curveball for non-EU travelers, southern European destinations like Greece and Portugal are still riding high on record early-summer bookings.",
