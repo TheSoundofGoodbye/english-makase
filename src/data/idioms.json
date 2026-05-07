@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The recent report makes it clear that while AI offers a significant productivity boost, it's proving to be a double-edged sword for many professionals facing 'AI fatigue'.",
+          "Companies like ZenFlow Tech, by proactively introducing 'digital detox' features, are certainly playing it smart and staying ahead of the curve in anticipating user needs for mindful tech integration."
+        ],
+        "sentenceTranslations": [
+          "최근 보고서에 따르면 AI가 상당한 생산성 향상을 제공하는 한편, 많은 전문가들이 겪는 'AI 피로'의 측면에서는 양날의 검으로 작용하고 있음이 분명해졌습니다.",
+          "젠플로우 테크와 같은 기업들은 '디지털 디톡스' 기능을 선제적으로 도입함으로써, 사용자들의 현명한 기술 통합 요구를 예상하며 영리하게 대처하고 시대를 앞서나가고 있습니다."
+        ],
+        "translationHighlights": [
+          "양날의 검으로 작용하고 있음",
+          "AI 피로",
+          "영리하게 대처하고",
+          "시대를 앞서나가고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 면과 나쁜 면을 동시에 가진 것)",
+            "context": "it's proving to be a double-edged sword for many professionals"
+          },
+          {
+            "word": "playing it smart",
+            "meaning": "현명하게 대처하다, 영리하게 행동하다",
+            "context": "are certainly playing it smart"
+          },
+          {
+            "word": "staying ahead of the curve",
+            "meaning": "시대를 앞서가다, 최신 트렌드나 변화를 미리 파악하고 대비하다",
+            "context": "staying ahead of the curve in anticipating user needs"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While AI offers unprecedented convenience in personal finance, its rapid integration is proving to be a double-edged sword, opening the door to sophisticated scams.",
           "To navigate this financial minefield safely, consumers must stay ahead of the curve by actively seeking user education and understanding new security guidelines."
         ],
@@ -1600,6 +1633,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "By pouring $5 billion into its AI supercomputing cluster, NEOM is clearly reading the tea leaves, understanding that national AI prowess will soon be calling the shots in the global economic arena.",
+          "This escalating competition means other nations, already navigating the choppy waters of inflation and interest rates, must now go full throttle to avoid being sidelined in this critical tech race."
+        ],
+        "sentenceTranslations": [
+          "NEOM이 AI 슈퍼컴퓨팅 클러스터에 50억 달러를 쏟아붓는 것은 그들이 분명히 징후를 읽고 있다는 증거입니다. 곧 국가 AI 역량이 전 세계 경제 무대에서 주도권을 쥐게 될 것이라는 점을 이해하고 있는 것이죠.",
+          "이러한 경쟁 심화는 이미 인플레이션과 금리라는 험난한 상황을 헤쳐나가고 있는 다른 국가들도, 이 중요한 기술 경쟁에서 소외되지 않기 위해 이제는 전속력으로 나아가야 함을 의미합니다."
+        ],
+        "translationHighlights": [
+          "징후를 읽고 있다는 증거입니다",
+          "주도권을 쥐게 될 것",
+          "험난한 상황",
+          "전속력으로 나아가야 함"
+        ],
+        "newWords": [
+          {
+            "word": "reading the tea leaves",
+            "meaning": "미래를 예측하다; 징후를 읽다",
+            "context": "NEOM is clearly reading the tea leaves"
+          },
+          {
+            "word": "calling the shots",
+            "meaning": "주도권을 쥐다; 결정권을 행사하다",
+            "context": "national AI prowess will soon be calling the shots"
+          },
+          {
+            "word": "go full throttle",
+            "meaning": "전속력으로 나아가다; 총력을 기울이다",
+            "context": "must now go full throttle"
+          }
+        ]
+      },
       {
         "sentences": [
           "As Brussels signaled an aggressive enforcement stance on the EU AI Act, tech companies are certainly feeling the pinch, prompting many to tread carefully in their development strategies.",
