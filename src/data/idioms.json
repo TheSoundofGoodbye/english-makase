@@ -3,6 +3,44 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Many employees are feeling on tenterhooks, fearing advanced AI might put them out to pasture, forcing companies to find ways to ease their anxiety.",
+          "To prevent burnout, firms are encouraging employees to pull the plug on AI-driven tasks after work, ensuring they don't burn the candle at both ends."
+        ],
+        "sentenceTranslations": [
+          "많은 직원들이 첨단 AI 때문에 일자리를 잃을까 봐 전전긍긍하고 있으며, 이로 인해 기업들은 직원들의 불안감을 완화할 방법을 찾아야 하는 상황입니다.",
+          "번아웃을 방지하기 위해, 기업들은 직원들에게 퇴근 후 AI 관련 업무에서 손을 떼고, 과도하게 일하지 않도록 독려하고 있습니다."
+        ],
+        "translationHighlights": [
+          "전전긍긍하고 있으며",
+          "일자리를 잃을까 봐",
+          "손을 떼고",
+          "과도하게 일하지 않도록"
+        ],
+        "newWords": [
+          {
+            "word": "on tenterhooks",
+            "meaning": "전전긍긍하며, 몹시 불안해하며",
+            "context": "Many employees are feeling on tenterhooks"
+          },
+          {
+            "word": "put (someone) out to pasture",
+            "meaning": "(더 이상 쓸모없다고 여겨져) 해고하다, 은퇴시키다",
+            "context": "AI might put them out to pasture"
+          },
+          {
+            "word": "pull the plug (on something)",
+            "meaning": "(활동, 계획 등을) 중단시키다, 손을 떼다",
+            "context": "to pull the plug on AI-driven tasks"
+          },
+          {
+            "word": "burn the candle at both ends",
+            "meaning": "과로하다, 너무 열심히 일하다",
+            "context": "don't burn the candle at both ends"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The recent report makes it clear that while AI offers a significant productivity boost, it's proving to be a double-edged sword for many professionals facing 'AI fatigue'.",
           "Companies like ZenFlow Tech, by proactively introducing 'digital detox' features, are certainly playing it smart and staying ahead of the curve in anticipating user needs for mindful tech integration."
         ],
@@ -3220,6 +3258,34 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Scandinavian Airlines is certainly riding the crest of a wave by launching new direct routes to Seoul, capitalizing on the immense global appetite for K-culture.",
+          "To truly grease the wheels for sustained growth, their active engagement with regional governments to explore streamlined e-visa options will be crucial."
+        ],
+        "sentenceTranslations": [
+          "스칸디나비아 항공은 서울 직항 노선을 새로 개설함으로써 K-컬처에 대한 엄청난 세계적인 수요를 활용하며 확실히 최고의 전성기를 누리고 있습니다.",
+          "지속적인 성장을 위해 정부와 적극적으로 협력하여 간소화된 전자 비자 옵션을 모색하는 그들의 노력은 진정으로 일을 순조롭게 진행시키는 데 결정적일 것입니다."
+        ],
+        "translationHighlights": [
+          "최고의 전성기를 누리고 있습니다",
+          "엄청난 세계적인 수요",
+          "일을 순조롭게 진행시키는",
+          "결정적일 것입니다"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "최고의 전성기를 누리다, 매우 성공적인 시기를 보내다",
+            "context": "Scandinavian Airlines is certainly *riding the crest of a wave* by launching..."
+          },
+          {
+            "word": "grease the wheels",
+            "meaning": "일을 순조롭게 진행시키다, 일이 잘 풀리도록 돕다",
+            "context": "To truly *grease the wheels* for sustained growth..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With destinations like Vietnam and Thailand reporting record arrivals, Southeast Asia's post-pandemic tourism boom is truly firing on all cylinders, reflecting robust demand.",
           "However, persistent supply chain issues delaying new aircraft and soaring fuel costs threaten to throw a wrench in the works, potentially stifling this impressive growth."
         ],
@@ -4796,6 +4862,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With the Celtics and Bucks set for their Game 7 decider, both teams will surely go for broke, knowing their championship dreams are on the line.",
+          "Meanwhile, Sentinels' unexpected win over DRX truly turned the tables on the perceived regional power balance, hinting at a new era for Western Valorant."
+        ],
+        "sentenceTranslations": [
+          "셀틱스와 벅스가 7차전 최종전에 돌입하면서, 두 팀 모두 챔피언십 우승의 꿈이 걸려 있음을 알기에 모든 것을 걸고 임할 것입니다.",
+          "한편, 센티넬즈가 DRX를 상대로 거둔 예상치 못한 승리는 지역 강팀 구도에 대한 인식을 완전히 뒤바꾸며, 서구권 발로란트의 새로운 시대를 예고했습니다."
+        ],
+        "translationHighlights": [
+          "모든 것을 걸고 임할 것입니다",
+          "예상치 못한 승리",
+          "인식을 완전히 뒤바꾸며",
+          "새로운 시대를 예고했습니다"
+        ],
+        "newWords": [
+          {
+            "word": "go for broke",
+            "meaning": "모든 것을 걸다, 한판 승부를 걸다",
+            "context": "both teams will surely go for broke"
+          },
+          {
+            "word": "turn the tables",
+            "meaning": "상황을 역전시키다, 판세를 뒤집다",
+            "context": "truly turned the tables on the perceived regional power balance"
+          }
+        ]
+      },
       {
         "sentences": [
           "After Jayson Tatum's heroic 45-point performance forced a decisive Game 7, the Celtics-76ers series has truly come down to the wire, keeping fans on the edge of their seats.",
