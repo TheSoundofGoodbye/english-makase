@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "As AI co-pilots become increasingly common, many professionals see the writing on the wall regarding the need to elevate their human-centric skills.",
+          "Consequently, companies are now pushing employees to hone their soft skills, aiming to give them a leg up in a rapidly evolving job market."
+        ],
+        "sentenceTranslations": [
+          "AI 코파일럿이 점점 더 보편화됨에 따라, 많은 전문가들은 인간 중심의 기술을 향상해야 할 필요성에 대해 분명한 징조를 보고 있습니다.",
+          "결과적으로, 기업들은 급변하는 직업 시장에서 직원들에게 우위를 점하게 해주기 위해 소프트 스킬을 연마하도록 독려하고 있습니다."
+        ],
+        "translationHighlights": [
+          "분명한 징조를 보고 있습니다",
+          "인간 중심의 기술을 향상해야 할 필요성",
+          "소프트 스킬을 연마하도록",
+          "우위를 점하게 해주기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "the writing on the wall",
+            "meaning": "미래의 분명한 예고/징조",
+            "context": "see the writing on the wall regarding the need"
+          },
+          {
+            "word": "hone one's skills",
+            "meaning": "기술/능력을 연마하다, 갈고 닦다",
+            "context": "pushing employees to hone their soft skills"
+          },
+          {
+            "word": "get a leg up",
+            "meaning": "우위를 점하다, 유리한 고지를 차지하다",
+            "context": "give them a leg up in a rapidly evolving job market"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Many employees are feeling on tenterhooks, fearing advanced AI might put them out to pasture, forcing companies to find ways to ease their anxiety.",
           "To prevent burnout, firms are encouraging employees to pull the plug on AI-driven tasks after work, ensuring they don't burn the candle at both ends."
         ],
@@ -1673,6 +1706,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With G7 ministers pushing for global interoperability in AI regulation, tech giants like Microsoft are threading the needle between fostering innovation and mitigating systemic risks.",
+          "The persistent geopolitical headwinds are indeed throwing a wrench in the works for semiconductor giants like TSMC, leaving the timely delivery of crucial advanced chips very much up in the air."
+        ],
+        "sentenceTranslations": [
+          "G7 장관들이 AI 규제의 국제적 상호운용성을 추진함에 따라, 마이크로소프트와 같은 거대 기술 기업들은 혁신을 촉진하는 동시에 시스템적 위험을 완화하는 미묘한 균형을 잡기 위해 노력하고 있습니다.",
+          "이러한 지속적인 지정학적 역풍은 TSMC와 같은 반도체 대기업들의 사업에 정말로 방해를 놓고 있으며, 핵심 첨단 칩의 적시 납품을 매우 불확실하게 만들고 있습니다."
+        ],
+        "translationHighlights": [
+          "미묘한 균형을 잡기 위해 노력하고 있습니다",
+          "지정학적 역풍",
+          "사업에 정말로 방해를 놓고 있으며",
+          "매우 불확실하게 만들고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "threading the needle",
+            "meaning": "미묘하고 어려운 균형을 잡다; 복잡한 상황에서 신중하게 해결책을 찾다",
+            "context": "...are threading the needle between fostering innovation..."
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "(계획이나 과정에) 방해를 놓다; 차질을 빚게 하다",
+            "context": "...are indeed throwing a wrench in the works for semiconductor giants..."
+          },
+          {
+            "word": "up in the air",
+            "meaning": "미정인; 불확실한; 결정되지 않은",
+            "context": "...leaving the timely delivery of crucial advanced chips very much up in the air."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "By pouring $5 billion into its AI supercomputing cluster, NEOM is clearly reading the tea leaves, understanding that national AI prowess will soon be calling the shots in the global economic arena.",
           "This escalating competition means other nations, already navigating the choppy waters of inflation and interest rates, must now go full throttle to avoid being sidelined in this critical tech race."
         ],
@@ -3256,6 +3322,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With the ETIAS system now mandatory, travelers really need to get their ducks in a row by completing the application well before their departure to Europe.",
+          "Otherwise, they risk being left high and dry at the departure gate, potentially derailing their entire European adventure."
+        ],
+        "sentenceTranslations": [
+          "ETIAS 시스템이 이제 의무화되었으니, 여행자들은 유럽 출발 훨씬 전에 신청서를 작성하여 모든 준비를 철저히 해야 합니다.",
+          "그렇지 않으면, 출국장에서 난처한 상황에 처하게 되어, 전체 유럽 여행 계획이 틀어질 위험이 있습니다."
+        ],
+        "translationHighlights": [
+          "모든 준비를 철저히 해야 합니다",
+          "난처한 상황에 처하게 되어",
+          "여행 계획이 틀어질"
+        ],
+        "newWords": [
+          {
+            "word": "get one's ducks in a row",
+            "meaning": "모든 준비를 철저히 하다, 체계적으로 정리하다",
+            "context": "get their ducks in a row by completing the application"
+          },
+          {
+            "word": "be left high and dry",
+            "meaning": "난처한 상황에 처하다, (지원 없이) 궁지에 몰리다",
+            "context": "risk being left high and dry at the departure gate"
+          },
+          {
+            "word": "derail",
+            "meaning": "(계획 등을) 틀어지게 하다, 좌절시키다",
+            "context": "potentially derailing their entire European adventure"
+          }
+        ]
+      },
       {
         "sentences": [
           "Scandinavian Airlines is certainly riding the crest of a wave by launching new direct routes to Seoul, capitalizing on the immense global appetite for K-culture.",
@@ -4862,6 +4960,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Rookie sensation Liam Chen has truly stolen the show at Valhalla, leaving many to wonder if he can hold his surprising lead.",
+          "With the greens playing tricks on even seasoned pros, Scottie Scheffler knows he'll have to pull out all the stops this weekend to defend his title."
+        ],
+        "sentenceTranslations": [
+          "신예 돌풍 리암 첸이 발할라에서 단연 주목을 한몸에 받고 있으며, 그가 이 놀라운 선두를 지킬 수 있을지 많은 이들이 궁금해하고 있습니다.",
+          "노련한 프로 선수들에게조차 그린이 예측 불허의 장난을 걸고 있지만, 스코티 셰플러는 이번 주말 챔피언 타이틀을 지키기 위해 모든 수단을 동원해야 한다는 것을 알고 있습니다."
+        ],
+        "translationHighlights": [
+          "주목을 한몸에 받고",
+          "예측 불허의 장난을 걸고",
+          "모든 수단을 동원해야"
+        ],
+        "newWords": [
+          {
+            "word": "steal the show",
+            "meaning": "가장 인상적이거나 인기 있는 사람/요소가 되다, 이목을 사로잡다",
+            "context": "has truly stolen the show at Valhalla"
+          },
+          {
+            "word": "play tricks on",
+            "meaning": "~를 속이거나 혼란스럽게 하다 (특히 감각이나 정신이)",
+            "context": "greens playing tricks on even seasoned pros"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "성공을 위해 가능한 모든 수단을 동원하다, 전력을 다하다",
+            "context": "he'll have to pull out all the stops this weekend"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the Celtics and Bucks set for their Game 7 decider, both teams will surely go for broke, knowing their championship dreams are on the line.",
