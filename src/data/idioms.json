@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The omnipresent AI assistants are undoubtedly helping millions free up bandwidth for meaningful self-improvement and community engagement.",
+          "However, experts caution that this digital curation could be a slippery slope, potentially causing us to lose touch with genuine human connections."
+        ],
+        "sentenceTranslations": [
+          "어디에나 존재하는 AI 비서들이 수많은 사람들이 의미 있는 자기 계발과 공동체 활동을 위해 정신적 여유를 확보하는 데 확실히 도움을 주고 있습니다.",
+          "하지만 전문가들은 이러한 디지털 큐레이션이 자칫 잘못하면 안 좋은 방향으로 흘러갈 수 있는 상황이며, 진정한 인간적인 관계를 잃게 만들 수도 있다고 경고합니다."
+        ],
+        "translationHighlights": [
+          "정신적 여유를 확보하다",
+          "안 좋은 방향으로 흘러갈 수 있는 상황",
+          "진정한 인간적인 관계를 잃게 만들다"
+        ],
+        "newWords": [
+          {
+            "word": "free up bandwidth",
+            "meaning": "정신적 여유나 시간을 확보하다 (원래는 네트워크 통신량을 확보하다는 뜻이지만, 비유적으로 사용됨)",
+            "context": "helping millions free up bandwidth"
+          },
+          {
+            "word": "a slippery slope",
+            "meaning": "미끄러운 비탈길, 한 번 발을 들이면 안 좋은 방향으로 계속 나아갈 수 있는 상황",
+            "context": "could be a slippery slope"
+          },
+          {
+            "word": "lose touch with",
+            "meaning": "~와 연락이 끊기거나 관계를 잃다; ~에 대한 감각/이해를 잃다",
+            "context": "to lose touch with genuine human connections"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As AI co-pilots become increasingly common, many professionals see the writing on the wall regarding the need to elevate their human-centric skills.",
           "Consequently, companies are now pushing employees to hone their soft skills, aiming to give them a leg up in a rapidly evolving job market."
         ],
@@ -1706,6 +1738,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With the European Commission outlining new \"green AI\" regulatory frameworks, the writing is on the wall for tech companies to prioritize sustainable practices beyond just raw processing power.",
+          "Those who fail to shift gears and embrace environmentally conscious solutions risk being left behind as the market increasingly demands tangible ROI and sustainable applications."
+        ],
+        "sentenceTranslations": [
+          "유럽연합 집행위원회가 새로운 '그린 AI' 규제 프레임워크를 발표하면서, 기술 기업들이 단순한 처리 능력 이상으로 지속 가능한 관행을 우선시해야 한다는 명확한 신호가 나타나고 있습니다.",
+          "이러한 변화에 발맞춰 태세를 전환하고 환경 친화적인 솔루션을 도입하지 못하는 기업들은 시장이 점차 실질적인 투자 수익(ROI)과 지속 가능한 애플리케이션을 요구함에 따라 뒤처질 위험에 처할 것입니다."
+        ],
+        "translationHighlights": [
+          "명확한 신호가 나타나고 있습니다",
+          "태세를 전환하고",
+          "뒤처질 위험에 처할 것입니다"
+        ],
+        "newWords": [
+          {
+            "word": "the writing is on the wall",
+            "meaning": "미래의 좋지 않은 일이나 변화를 분명히 예측할 수 있는 상황을 의미 (명확한 신호가 보이다)",
+            "context": "the writing is on the wall for tech companies to prioritize..."
+          },
+          {
+            "word": "shift gears",
+            "meaning": "진행 중인 일의 방식이나 방향을 바꾸다, 새로운 접근 방식을 취하다 (태세를 전환하다)",
+            "context": "fail to shift gears and embrace environmentally conscious solutions"
+          },
+          {
+            "word": "be left behind",
+            "meaning": "발전이나 변화하는 흐름을 따라가지 못하고 뒤처지다 (뒤처지다)",
+            "context": "risk being left behind as the market increasingly demands..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With G7 ministers pushing for global interoperability in AI regulation, tech giants like Microsoft are threading the needle between fostering innovation and mitigating systemic risks.",
           "The persistent geopolitical headwinds are indeed throwing a wrench in the works for semiconductor giants like TSMC, leaving the timely delivery of crucial advanced chips very much up in the air."
         ],
@@ -3322,6 +3386,33 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Despite the robust summer bookings across Asia-Pacific, major carriers are finding themselves between a rock and a hard place due to the escalating sustainable aviation fuel mandates and scarce supply.",
+          "They're essentially walking a tightrope, trying to balance environmental compliance with the need to keep operational costs from skyrocketing."
+        ],
+        "sentenceTranslations": [
+          "아시아-태평양 지역의 견조한 여름 예약에도 불구하고, 주요 항공사들은 지속 가능한 항공 연료(SAF) 의무화와 부족한 공급 때문에 진퇴양난에 빠져 있습니다.",
+          "그들은 환경 규제 준수와 운영 비용 급등을 막아야 하는 필요성 사이에서 줄타기를 하고 있는 셈입니다."
+        ],
+        "translationHighlights": [
+          "진퇴양난에 빠져 있습니다",
+          "줄타기를 하고 있는 셈입니다",
+          "운영 비용 급등"
+        ],
+        "newWords": [
+          {
+            "word": "between a rock and a hard place",
+            "meaning": "진퇴양난에 빠진, 이러지도 저러지도 못하는 상황",
+            "context": "finding themselves between a rock and a hard place"
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다, 매우 조심스럽게 처신하다",
+            "context": "essentially walking a tightrope"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the ETIAS system now mandatory, travelers really need to get their ducks in a row by completing the application well before their departure to Europe.",
