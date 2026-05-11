@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With 60% of employers struggling to find AI-proficient candidates, it's clear the writing's on the wall for those not willing to embrace continuous skill development.",
+          "To truly stay ahead of the curve in this rapidly evolving job market, professionals must invest in targeted learning, rather than putting all their eggs in one decade-old degree basket."
+        ],
+        "sentenceTranslations": [
+          "고용주 60%가 AI 숙련 후보자를 찾느라 고군분투하는 상황을 보면, 지속적인 기술 개발을 받아들이지 않는 사람들에게 미래가 어떻게 될지는 불 보듯 뻔합니다.",
+          "급변하는 이 직업 시장에서 진정으로 시대에 앞서나가려면, 전문가들은 10년 된 학위 하나에 모든 것을 걸기보다는 목표 지향적인 학습에 투자해야 합니다."
+        ],
+        "translationHighlights": [
+          "고군분투하는 상황을 보면",
+          "미래가 어떻게 될지는 불 보듯 뻔합니다",
+          "진정으로 시대에 앞서나가려면",
+          "10년 된 학위 하나에 모든 것을 걸기보다는"
+        ],
+        "newWords": [
+          {
+            "word": "the writing's on the wall",
+            "meaning": "미래의 안 좋은 징조가 분명하다; 불 보듯 뻔한 결과",
+            "context": "it's clear the writing's on the wall for those not willing to embrace continuous skill development."
+          },
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "시대에 뒤떨어지지 않다; 최신 트렌드를 유지하다; 앞서나가다",
+            "context": "To truly stay ahead of the curve in this rapidly evolving job market"
+          },
+          {
+            "word": "put all one's eggs in one basket",
+            "meaning": "모든 것을 한 가지에만 걸다; 위험을 분산시키지 않다",
+            "context": "rather than putting all their eggs in one decade-old degree basket."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The omnipresent AI assistants are undoubtedly helping millions free up bandwidth for meaningful self-improvement and community engagement.",
           "However, experts caution that this digital curation could be a slippery slope, potentially causing us to lose touch with genuine human connections."
         ],
@@ -1738,6 +1771,33 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "As analysts project robust enterprise AI spending, tech companies are clearly looking to strike while the iron is hot, leveraging generative solutions for efficiency and new product development.",
+          "However, this rapid sector growth is proving to be a double-edged sword, with increasing regulatory scrutiny threatening to impose new compliance hurdles on key players."
+        ],
+        "sentenceTranslations": [
+          "분석가들이 기업 AI 지출의 견고한 증가를 예상함에 따라, 기술 기업들은 효율성 증대와 신제품 개발을 위해 생성형 솔루션을 활용하며 기회를 놓치지 않으려 분명히 노력하고 있습니다.",
+          "하지만 이러한 급속한 AI 산업 성장은 양날의 검으로 작용하고 있으며, 강화되는 규제 당국의 감시가 주요 기업들에게 새로운 규제 준수 장벽을 부과할 위협이 되고 있습니다."
+        ],
+        "translationHighlights": [
+          "기회를 놓치지 않으려 노력하고 있습니다",
+          "양날의 검",
+          "규제 준수 장벽"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회를 놓치지 않다, 기회가 있을 때 행동하다",
+            "context": "looking to strike while the iron is hot"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (장점과 단점을 동시에 지니고 있어 이로울 수도 해로울 수도 있는 것)",
+            "context": "proving to be a double-edged sword"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With the European Commission outlining new \"green AI\" regulatory frameworks, the writing is on the wall for tech companies to prioritize sustainable practices beyond just raw processing power.",
           "Those who fail to shift gears and embrace environmentally conscious solutions risk being left behind as the market increasingly demands tangible ROI and sustainable applications."
         ],
@@ -3386,6 +3446,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With Vietnam's new visa-free policy attracting a surge of interest in cultural tours, other destinations in the region would be wise to strike while the iron is hot and highlight their unique local heritage.",
+          "This growing appetite for immersive experiences clearly indicates that travelers are increasingly eager to get off the beaten path and forge authentic connections, rather than sticking to conventional mass tourism."
+        ],
+        "sentenceTranslations": [
+          "베트남의 새로운 무비자 정책이 문화 관광에 대한 엄청난 관심을 불러일으키고 있는 만큼, 이 지역의 다른 여행지들도 쇠뿔 단 김에 빼라는 격으로 그들만의 독특한 지역 유산을 강조하는 것이 현명할 것입니다.",
+          "이러한 몰입형 경험에 대한 증가하는 욕구는 여행객들이 전통적인 대량 관광에만 머물지 않고 정형화된 길에서 벗어나 진정한 유대감을 형성하려는 열망이 커지고 있음을 분명히 보여줍니다."
+        ],
+        "translationHighlights": [
+          "쇠뿔 단 김에 빼라",
+          "정형화된 길에서 벗어나",
+          "엄청난 관심을 불러일으키고 있는 만큼",
+          "진정한 유대감을 형성하려는 열망이 커지고 있음을"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "좋은 기회가 생겼을 때 즉시 행동하다, 쇠뿔 단 김에 빼다",
+            "context": "would be wise to strike while the iron is hot"
+          },
+          {
+            "word": "get off the beaten path",
+            "meaning": "흔히 가지 않는 길을 가다, 잘 알려지지 않은 곳을 방문하다",
+            "context": "eager to get off the beaten path"
+          }
+        ]
+      },
       {
         "sentences": [
           "Despite the robust summer bookings across Asia-Pacific, major carriers are finding themselves between a rock and a hard place due to the escalating sustainable aviation fuel mandates and scarce supply.",
@@ -5051,6 +5139,33 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "T1 Challenger, the unseeded Korean team, truly came out of left field to stun reigning champions JD Gaming at the MSI, showing everyone they weren't to be underestimated.",
+          "Their stunning 3-2 victory not only secured their spot in the upper bracket final but also demonstrated that they are punching above their weight on the international stage."
+        ],
+        "sentenceTranslations": [
+          "언더시드 한국 팀 T1 챌린저가 MSI에서 디펜딩 챔피언 JD Gaming을 상대로 예상 밖의 활약을 펼치며 모두를 놀라게 했고, 결코 만만치 않은 팀임을 보여주었습니다.",
+          "그들의 놀라운 3대2 승리는 어퍼 브래킷 결승 진출을 확정 지었을 뿐만 아니라, 그들이 국제 무대에서 기대 이상의 실력을 발휘하고 있음을 입증했습니다."
+        ],
+        "translationHighlights": [
+          "예상 밖의 활약",
+          "결코 만만치 않은 팀임을",
+          "기대 이상의 실력을 발휘하고 있음을"
+        ],
+        "newWords": [
+          {
+            "word": "came out of left field",
+            "meaning": "예상 밖으로 등장하다, 뜻밖의 일이 생기다",
+            "context": "T1 Challenger...truly came out of left field to stun reigning champions..."
+          },
+          {
+            "word": "punching above their weight",
+            "meaning": "(자신보다 강한 상대를 상대로) 기대 이상의 실력을 발휘하다",
+            "context": "demonstrated that they are punching above their weight on the international stage."
+          }
+        ]
+      },
       {
         "sentences": [
           "Rookie sensation Liam Chen has truly stolen the show at Valhalla, leaving many to wonder if he can hold his surprising lead.",
