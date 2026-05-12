@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The WEF report today highlights that AI is a true game changer for the global workforce, so individuals will need to get up to speed with new skills to remain competitive.",
+          "Luckily, innovative platforms like JPMorgan Chase's new AI are helping everyday people get their financial ducks in a row, making sophisticated planning accessible to all."
+        ],
+        "sentenceTranslations": [
+          "오늘 발표된 세계경제포럼 보고서는 AI가 전 세계 노동시장의 판도를 완전히 뒤바꿀 것이며, 따라서 개인들은 경쟁력을 유지하기 위해 새로운 기술을 빠르게 습득해야 할 것이라고 강조합니다.",
+          "다행히도, JP모건 체이스의 새로운 AI와 같은 혁신적인 플랫폼들은 일반인들이 재정 상태를 깔끔하게 정리할 수 있도록 도와주며, 복잡한 재정 계획을 모두가 이용할 수 있도록 만들고 있습니다."
+        ],
+        "translationHighlights": [
+          "판도를 완전히 뒤바꿀 것",
+          "빠르게 습득해야 할 것",
+          "재정 상태를 깔끔하게 정리할 수 있도록"
+        ],
+        "newWords": [
+          {
+            "word": "game changer",
+            "meaning": "상황이나 활동의 방식을 완전히 바꾸는 것; 판도를 뒤엎는 결정적인 요소",
+            "context": "AI is a true game changer"
+          },
+          {
+            "word": "get up to speed",
+            "meaning": "새로운 정보나 기술을 빠르게 익히다; 최신 정보를 파악하다",
+            "context": "need to get up to speed with new skills"
+          },
+          {
+            "word": "get one's ducks in a row",
+            "meaning": "만반의 준비를 하다; 자신의 일을 깔끔하게 정리하다",
+            "context": "get their financial ducks in a row"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With 60% of employers struggling to find AI-proficient candidates, it's clear the writing's on the wall for those not willing to embrace continuous skill development.",
           "To truly stay ahead of the curve in this rapidly evolving job market, professionals must invest in targeted learning, rather than putting all their eggs in one decade-old degree basket."
         ],
@@ -1771,6 +1803,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "While Nvidia continues to hit it out of the park with demand for its AI GPUs, the broader market is pumping the brakes as inflation fears and rising energy costs loom.",
+          "Meanwhile, the G7's stalled discussions on critical minerals show that relying solely on bilateral agreements is merely kicking the can down the road for a truly secure supply chain."
+        ],
+        "sentenceTranslations": [
+          "엔비디아가 AI GPU 수요로 기대를 훨씬 뛰어넘는 대성공을 거두고 있는 반면, 인플레이션 우려와 치솟는 에너지 비용이 그림자를 드리우면서 더 넓은 시장은 속도를 늦추고 있습니다.",
+          "한편, G7의 핵심 광물 관련 논의가 교착 상태에 빠진 것은 양자 협정에만 의존하는 것이 진정으로 안정적인 공급망을 구축하는 데 있어 문제를 다음으로 미루는 것에 불과하다는 것을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "기대를 훨씬 뛰어넘는 대성공을 거두고",
+          "속도를 늦추고",
+          "문제를 다음으로 미루는 것에 불과하다"
+        ],
+        "newWords": [
+          {
+            "word": "hit it out of the park",
+            "meaning": "기대 이상으로 엄청난 성공을 거두다, 대박을 치다",
+            "context": "Nvidia continues to hit it out of the park"
+          },
+          {
+            "word": "pump the brakes",
+            "meaning": "속도를 늦추다, 제동을 걸다, 신중하게 접근하다",
+            "context": "the broader market is pumping the brakes"
+          },
+          {
+            "word": "kick the can down the road",
+            "meaning": "어려운 문제 해결을 다음으로 미루다, 땜질식으로 넘어가다",
+            "context": "is merely kicking the can down the road"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As analysts project robust enterprise AI spending, tech companies are clearly looking to strike while the iron is hot, leveraging generative solutions for efficiency and new product development.",
           "However, this rapid sector growth is proving to be a double-edged sword, with increasing regulatory scrutiny threatening to impose new compliance hurdles on key players."
         ],
@@ -3446,6 +3510,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Southeast Asian tourism boards are keen to strike while the iron is hot, as international visitors flock to the region, creating unprecedented demand.",
+          "Yet, regional carriers find themselves caught between a rock and a hard place, unable to fully capitalize on this booming market as engine inspections keep their fleets grounded, which is certainly a bitter pill to swallow."
+        ],
+        "sentenceTranslations": [
+          "동남아시아 관광청들은 국제 방문객이 몰려들어 전례 없는 수요를 창출함에 따라, 쇠뿔도 단김에 빼는 격으로 이 기회를 잡으려 합니다.",
+          "하지만 지역 항공사들은 엔진 점검으로 인해 항공기 운항이 중단되면서, 이처럼 급증하는 시장 기회를 온전히 활용하지 못하는 진퇴양난의 상황에 처해 있으며, 이는 분명 쓰디쓴 현실입니다."
+        ],
+        "translationHighlights": [
+          "쇠뿔도 단김에 빼는 격으로",
+          "진퇴양난의 상황",
+          "급증하는 시장 기회",
+          "쓰디쓴 현실"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "쇠뿔도 단김에 빼다 (기회를 놓치지 않고 바로 행동하다)",
+            "context": "keen to strike while the iron is hot"
+          },
+          {
+            "word": "caught between a rock and a hard place",
+            "meaning": "진퇴양난에 빠지다 (두 가지 나쁜 선택지 사이에서 곤경에 처하다)",
+            "context": "find themselves caught between a rock and a hard place"
+          },
+          {
+            "word": "a bitter pill to swallow",
+            "meaning": "쓰디쓴 현실/받아들이기 힘든 사실 (불쾌하거나 받아들이기 어려운 현실)",
+            "context": "which is certainly a bitter pill to swallow"
+          }
+        ]
+      },
       {
         "sentences": [
           "With Vietnam's new visa-free policy attracting a surge of interest in cultural tours, other destinations in the region would be wise to strike while the iron is hot and highlight their unique local heritage.",
@@ -5139,6 +5236,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Despite Jalen Brunson's foot injury, the Knicks are expected to **pull out all the stops** in tonight's pivotal Game 5, with Brunson himself vowing to 'give it my all.'",
+          "Given the statistical significance of winning Game 5 in a tied series, this contest is undeniably a **make-or-break** situation for both teams, each hoping to **gain the upper hand** on their path to the Conference Finals."
+        ],
+        "sentenceTranslations": [
+          "제일런 브런슨이 발 부상을 안고 있음에도 불구하고, 닉스는 오늘 밤 운명의 5차전에서 **총력을 다할 것으로 예상되며**, 브런슨 본인도 '모든 것을 바치겠다'고 다짐했습니다.",
+          "동률 상황에서 5차전 승리가 통계적으로 매우 중요하다는 점을 고려할 때, 이 경기는 양 팀 모두에게 확실히 **성패를 좌우하는** 상황이며, 각 팀은 컨퍼런스 결승으로 향하는 길에 **우위를 점하기**를 바라고 있습니다."
+        ],
+        "translationHighlights": [
+          "총력을 다할 것으로 예상되며",
+          "운명의 5차전",
+          "성패를 좌우하는",
+          "우위를 점하기"
+        ],
+        "newWords": [
+          {
+            "word": "pull out all the stops",
+            "meaning": "총력을 다하다, 모든 노력을 기울이다",
+            "context": "expected to pull out all the stops"
+          },
+          {
+            "word": "make-or-break",
+            "meaning": "성패를 좌우하는, 매우 중요한",
+            "context": "undeniably a make-or-break situation"
+          },
+          {
+            "word": "gain the upper hand",
+            "meaning": "우위를 점하다, 유리한 고지를 차지하다",
+            "context": "hoping to gain the upper hand"
+          }
+        ]
+      },
       {
         "sentences": [
           "T1 Challenger, the unseeded Korean team, truly came out of left field to stun reigning champions JD Gaming at the MSI, showing everyone they weren't to be underestimated.",
