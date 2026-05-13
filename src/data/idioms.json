@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While Apex Wealth AI's new system promises users financial efficiency, privacy advocates warn that customers might be making a Faustian bargain by giving unprecedented access to their data.",
+          "Critics argue this extensive data collection could be a slippery slope, leading to further erosion of financial privacy in the pursuit of hyper-personalization."
+        ],
+        "sentenceTranslations": [
+          "Apex Wealth AI의 새로운 시스템이 사용자들에게 재정적 효율성을 약속하지만, 개인 정보 옹호자들은 고객들이 자신들의 데이터에 전례 없는 접근 권한을 주면서 파우스트적 거래를 하는 것일 수 있다고 경고합니다.",
+          "비판론자들은 이러한 광범위한 데이터 수집이 위험한 미끄럼길이 될 수 있으며, 초개인화 추구로 인해 금융 프라이버시가 더욱 침해될 수 있다고 주장합니다."
+        ],
+        "translationHighlights": [
+          "파우스트적 거래를 하는 것일 수 있다",
+          "전례 없는 접근 권한",
+          "위험한 미끄럼길",
+          "금융 프라이버시가 더욱 침해될 수 있다"
+        ],
+        "newWords": [
+          {
+            "word": "making a Faustian bargain",
+            "meaning": "큰 대가를 치르고 당장의 이득을 취하는 거래 (a deal where one sacrifices something of great value for immediate benefit)",
+            "context": "...customers might be making a Faustian bargain by giving unprecedented access to their data."
+          },
+          {
+            "word": "a slippery slope",
+            "meaning": "한 번 시작하면 나쁜 결과로 이어지기 쉬운 상황이나 과정 (a course of action likely to lead to undesirable consequences if continued)",
+            "context": "...could be a slippery slope, leading to further erosion of financial privacy..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The WEF report today highlights that AI is a true game changer for the global workforce, so individuals will need to get up to speed with new skills to remain competitive.",
           "Luckily, innovative platforms like JPMorgan Chase's new AI are helping everyday people get their financial ducks in a row, making sophisticated planning accessible to all."
         ],
@@ -1803,6 +1831,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The writing is on the wall for some of the more speculative AI valuations, particularly after Cerebras Systems' Q1 revenue miss.",
+          "With NVIDIA's next-gen Blackwell-Ultra chips raising the bar, smaller AI hardware manufacturers are struggling to keep their heads above water."
+        ],
+        "sentenceTranslations": [
+          "일부 투기적인 AI 기업들의 기업 가치에 대한 경고음이 울리고 있으며, 특히 Cerebras Systems의 1분기 매출 부진 이후 더욱 그렇습니다.",
+          "엔비디아의 차세대 블랙웰-울트라 칩이 기준을 높이면서, 소규모 AI 하드웨어 제조업체들은 파산 위기를 겨우 모면하고 있습니다."
+        ],
+        "translationHighlights": [
+          "경고음이 울리고 있습니다",
+          "투기적인 기업 가치",
+          "기준을 높이면서",
+          "파산 위기를 겨우 모면하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "the writing is on the wall",
+            "meaning": "불길한 징조가 보이다, 경고음이 울리다 (나쁜 일이 일어날 것이라는 분명한 신호)",
+            "context": "The writing is on the wall for some of the more speculative AI valuations"
+          },
+          {
+            "word": "raise the bar",
+            "meaning": "기준을 높이다, 수준을 향상시키다",
+            "context": "NVIDIA's next-gen Blackwell-Ultra chips raising the bar"
+          },
+          {
+            "word": "keep one's head above water",
+            "meaning": "파산 위기를 모면하다, 빚지지 않고 버티다 (재정적으로 어려움을 겪지 않고 버티다)",
+            "context": "struggling to keep their heads above water"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While Nvidia continues to hit it out of the park with demand for its AI GPUs, the broader market is pumping the brakes as inflation fears and rising energy costs loom.",
           "Meanwhile, the G7's stalled discussions on critical minerals show that relying solely on bilateral agreements is merely kicking the can down the road for a truly secure supply chain."
         ],
@@ -3510,6 +3571,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The impending transatlantic fare hike due to sustainable fuel mandates could prove to be a bitter pill to swallow for summer travelers.",
+          "Yet, despite popular spots like Kyoto being bursting at the seams with bookings, local officials worry their infrastructure is already stretched thin."
+        ],
+        "sentenceTranslations": [
+          "지속 가능한 연료 의무화로 인한 임박한 대서양 횡단 항공료 인상은 여름 여행객들에게는 감수하기 힘든 고통이 될 수 있습니다.",
+          "하지만 교토와 같은 인기 명소들이 예약으로 넘쳐남에도 불구하고, 현지 관계자들은 이미 한계에 다다른 인프라에 대해 우려하고 있습니다."
+        ],
+        "translationHighlights": [
+          "감수하기 힘든 고통이 될 수 있습니다",
+          "예약으로 넘쳐남에도 불구하고",
+          "이미 한계에 다다른 인프라"
+        ],
+        "newWords": [
+          {
+            "word": "a bitter pill to swallow",
+            "meaning": "감수하기 힘든 고통/받아들이기 힘든 현실",
+            "context": "prove to be a bitter pill to swallow"
+          },
+          {
+            "word": "bursting at the seams",
+            "meaning": "터질 듯이 가득 찬, 꽉 들어찬",
+            "context": "being bursting at the seams with bookings"
+          },
+          {
+            "word": "stretched thin",
+            "meaning": "자원/인력이 부족하여 역량이 한계에 다다른",
+            "context": "infrastructure is already stretched thin"
+          }
+        ]
+      },
       {
         "sentences": [
           "Southeast Asian tourism boards are keen to strike while the iron is hot, as international visitors flock to the region, creating unprecedented demand.",
@@ -5236,6 +5329,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Jokic's crucial 40-point performance truly helped the Nuggets turn the tide in the Western Conference Finals, bringing the series back to an intense 2-2 tie.",
+          "Similarly, Valorant star TenZ is looking to seek greener pastures by leaving Sentinels, clearly intending to raise the bar for his own career in a new competitive ecosystem."
+        ],
+        "sentenceTranslations": [
+          "요키치의 결정적인 40점 활약은 너기츠가 서부 컨퍼런스 결승에서 판세를 뒤집는 데 정말 큰 도움이 되었고, 시리즈를 다시 팽팽한 2-2 동점으로 만들었습니다.",
+          "마찬가지로, 발로란트 스타 TenZ는 센티넬즈를 떠나 더 나은 환경을 찾아 이동함으로써, 새로운 경쟁 생태계에서 자신 경력의 기준을 높이려는 분명한 의도를 가지고 있습니다."
+        ],
+        "translationHighlights": [
+          "판세를 뒤집는 데",
+          "더 나은 환경을 찾아",
+          "기준을 높이려는"
+        ],
+        "newWords": [
+          {
+            "word": "turn the tide",
+            "meaning": "판세를 뒤집다, 상황을 역전시키다",
+            "context": "helped the Nuggets turn the tide in the Western Conference Finals"
+          },
+          {
+            "word": "seek greener pastures",
+            "meaning": "더 좋은 기회나 환경을 찾아 떠나다",
+            "context": "is looking to seek greener pastures by leaving Sentinels"
+          },
+          {
+            "word": "raise the bar",
+            "meaning": "기준을 높이다, 수준을 향상시키다",
+            "context": "intending to raise the bar for his own career"
+          }
+        ]
+      },
       {
         "sentences": [
           "Despite Jalen Brunson's foot injury, the Knicks are expected to **pull out all the stops** in tonight's pivotal Game 5, with Brunson himself vowing to 'give it my all.'",
