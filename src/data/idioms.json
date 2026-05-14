@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The survey revealing that constant alerts negatively impact user well-being clearly shows the writing is on the wall for tech companies to prioritize digital wellness.",
+          "Similarly, the massive surge in bookings for carbon-neutral getaways proves consumers are increasingly voting with their feet for responsible tourism, creating a significant sea change in the travel industry."
+        ],
+        "sentenceTranslations": [
+          "끊임없는 알림이 사용자 웰빙에 부정적인 영향을 미친다는 설문조사 결과는 IT 기업들이 디지털 웰빙을 우선시해야 한다는 명백한 신호를 보여줍니다.",
+          "마찬가지로, 탄소 중립 휴가 상품 예약의 폭발적인 증가는 소비자들이 책임감 있는 관광을 위해 점점 더 실질적인 선택을 하고 있음을 증명하며, 여행 산업에 중대한 변혁을 가져오고 있습니다."
+        ],
+        "translationHighlights": [
+          "명백한 신호",
+          "실질적인 선택",
+          "중대한 변혁"
+        ],
+        "newWords": [
+          {
+            "word": "the writing is on the wall",
+            "meaning": "어떤 일이 곧 일어날 것이라는 분명한 징조나 피할 수 없는 결과",
+            "context": "shows the writing is on the wall for tech companies"
+          },
+          {
+            "word": "vote with one's feet",
+            "meaning": "(불만을 표현하거나 선호를 보여주기 위해) 어떤 장소나 상황을 떠나거나 특정 선택을 하다",
+            "context": "consumers are increasingly voting with their feet for responsible tourism"
+          },
+          {
+            "word": "a sea change",
+            "meaning": "근본적인 또는 엄청난 변화",
+            "context": "creating a significant sea change in the travel industry"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While Apex Wealth AI's new system promises users financial efficiency, privacy advocates warn that customers might be making a Faustian bargain by giving unprecedented access to their data.",
           "Critics argue this extensive data collection could be a slippery slope, leading to further erosion of financial privacy in the pursuit of hyper-personalization."
         ],
@@ -1831,6 +1863,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Nvidia's shares are absolutely riding the crest of a wave following the Blackwell Ultra leaks, certainly putting a spring in the step of the high-performance AI hardware market.",
+          "This hardware optimism, coupled with venture capitalists now looking for practical AI solutions that truly move the needle, indicates a maturing market focused on tangible ROI."
+        ],
+        "sentenceTranslations": [
+          "블랙웰 울트라 유출 소식에 엔비디아 주가가 그야말로 절정에 달하며, 고성능 AI 하드웨어 시장에 활기를 불어넣고 있습니다.",
+          "이러한 하드웨어 낙관론은 시장에 실질적인 변화를 가져올 수 있는 실용적인 AI 솔루션을 찾는 벤처 캐피탈리스트들의 움직임과 맞물려, 유형의 투자 수익률(ROI)에 초점을 맞춘 시장의 성숙을 시사합니다."
+        ],
+        "translationHighlights": [
+          "절정에 달하며",
+          "활기를 불어넣고 있습니다",
+          "실질적인 변화를 가져올 수 있는",
+          "유형의 투자 수익률(ROI)"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "최고조에 달하다, 한창 인기를 끌다, 호황을 누리다",
+            "context": "Nvidia's shares are absolutely riding the crest of a wave"
+          },
+          {
+            "word": "put a spring in one's step",
+            "meaning": "활기를 불어넣다, 기운 나게 하다, 기분이 좋아지다",
+            "context": "putting a spring in the step of the high-performance AI hardware market"
+          },
+          {
+            "word": "move the needle",
+            "meaning": "상황이나 결과에 큰 변화를 가져오다, 진전을 이루다",
+            "context": "practical AI solutions that truly move the needle"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The writing is on the wall for some of the more speculative AI valuations, particularly after Cerebras Systems' Q1 revenue miss.",
           "With NVIDIA's next-gen Blackwell-Ultra chips raising the bar, smaller AI hardware manufacturers are struggling to keep their heads above water."
         ],
@@ -3571,6 +3636,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Bhutan's latest adjustment to its Sustainable Development Fee aims to **thread the needle** between boosting revenue and preserving its pristine environment, a move many nations are watching closely.",
+          "With major carriers expanding routes and the EU ETIAS system now fully operational, it appears the industry is **greasing the wheels** for a significant upswing in experiential tourism."
+        ],
+        "sentenceTranslations": [
+          "부탄의 최신 지속가능개발 수수료 조정은 수입 증대와 깨끗한 환경 보존 사이에서 **절묘한 균형점을 찾으려는** 시도이며, 많은 국가들이 이 움직임을 면밀히 주시하고 있습니다.",
+          "주요 항공사들이 노선을 확장하고 EU ETIAS 시스템이 완전히 가동되면서, 업계는 체험형 관광의 상당한 증가를 위해 **모든 것을 순조롭게 진행시키고 있는** 것으로 보입니다."
+        ],
+        "translationHighlights": [
+          "절묘한 균형점을 찾으려는",
+          "면밀히 주시하고 있습니다",
+          "모든 것을 순조롭게 진행시키고 있는",
+          "상당한 증가"
+        ],
+        "newWords": [
+          {
+            "word": "thread the needle",
+            "meaning": "어려운 상황에서 두 가지 상반된 목적 사이에서 절묘한 균형점을 찾다; 매우 섬세하고 복잡한 일을 처리하다",
+            "context": "aims to **thread the needle** between boosting revenue and preserving its pristine environment"
+          },
+          {
+            "word": "grease the wheels",
+            "meaning": "일을 더 원활하게 진행시키다; 어떤 과정이나 거래를 촉진하다",
+            "context": "the industry is **greasing the wheels** for a significant upswing"
+          }
+        ]
+      },
       {
         "sentences": [
           "The impending transatlantic fare hike due to sustainable fuel mandates could prove to be a bitter pill to swallow for summer travelers.",
@@ -5329,6 +5422,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "As Brooks Koepka chases a record-tying fourth PGA title, he'll need to **pull out all the stops** today, with the championship truly **coming down to the wire**.",
+          "Meanwhile, the Boston Celtics' crucial Game 5 victory has put them **in the driver's seat** for the Eastern Conference Finals, making every possession feel like a **make-or-break** moment as they eye the NBA Finals."
+        ],
+        "sentenceTranslations": [
+          "브룩스 켑카가 PGA 챔피언십 4회 우승이라는 기록에 도전하는 만큼, 오늘은 모든 수단과 방법을 동원해야 할 것이며, 챔피언십은 진정으로 막판까지 승부가 갈리지 않을 것입니다.",
+          "한편, 보스턴 셀틱스의 결정적인 5차전 승리는 동부 컨퍼런스 결승전에서 그들을 주도적인 위치에 올려놓았고, NBA 결승 진출을 노리는 만큼 매 순간이 성패를 가르는 중요한 기로처럼 느껴집니다."
+        ],
+        "translationHighlights": [
+          "모든 수단과 방법을 동원해야 할 것",
+          "막판까지 승부가 갈리지 않을 것",
+          "주도적인 위치에 올려놓았고",
+          "성패를 가르는 중요한 기로"
+        ],
+        "newWords": [
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 수단과 방법을 동원하다, 총력을 기울이다",
+            "context": "he'll need to pull out all the stops today"
+          },
+          {
+            "word": "come down to the wire",
+            "meaning": "마지막 순간까지 승패를 알 수 없다, 막판까지 접전이다",
+            "context": "the championship truly coming down to the wire"
+          },
+          {
+            "word": "in the driver's seat",
+            "meaning": "주도권을 쥐고 있다, 유리한 고지를 점하다",
+            "context": "has put them in the driver's seat"
+          }
+        ]
+      },
       {
         "sentences": [
           "Jokic's crucial 40-point performance truly helped the Nuggets turn the tide in the Western Conference Finals, bringing the series back to an intense 2-2 tie.",
