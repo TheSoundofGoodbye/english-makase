@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Aether Labs' Echo promises to help users cut through the noise of constant digital influx, which has many feeling overwhelmed.",
+          "Yet, as experts warn, relying entirely on AI can be a double-edged sword; true well-being still hinges on our ability to periodically unplug and recharge."
+        ],
+        "sentenceTranslations": [
+          "Aether Labs의 Echo는 많은 사람들을 압도하는 끊임없는 디지털 정보의 홍수 속에서 사용자들이 핵심을 파악하도록 돕겠다고 약속합니다.",
+          "하지만 전문가들이 경고하듯이, AI에 전적으로 의존하는 것은 양날의 검이 될 수 있습니다; 진정한 웰빙은 여전히 주기적으로 휴식을 취하며 재충전하는 우리의 능력에 달려있습니다."
+        ],
+        "translationHighlights": [
+          "핵심을 파악하도록",
+          "끊임없는 디지털 정보의 홍수",
+          "양날의 검",
+          "휴식을 취하며 재충전하는"
+        ],
+        "newWords": [
+          {
+            "word": "cut through the noise",
+            "meaning": "핵심을 파악하다, 불필요한 정보 속에서 중요한 것을 가려내다",
+            "context": "help users cut through the noise of constant digital influx"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (긍정적 효과와 부정적 효과를 모두 가질 수 있는 것)",
+            "context": "relying entirely on AI can be a double-edged sword"
+          },
+          {
+            "word": "unplug and recharge",
+            "meaning": "(기술에서) 단절하고 휴식을 취하며 재충전하다",
+            "context": "our ability to periodically unplug and recharge"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The survey revealing that constant alerts negatively impact user well-being clearly shows the writing is on the wall for tech companies to prioritize digital wellness.",
           "Similarly, the massive surge in bookings for carbon-neutral getaways proves consumers are increasingly voting with their feet for responsible tourism, creating a significant sea change in the travel industry."
         ],
@@ -1863,6 +1896,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Facing the EU's landmark AI Act, European firms are quickly trying to get their ducks in a row, realizing the significant investment in compliance and talent it demands.",
+          "This regulatory pressure, coupled with projected global AI spending over $200 billion, makes it clear that corporations must bite the bullet and fully embrace AI or risk falling behind."
+        ],
+        "sentenceTranslations": [
+          "유럽연합의 획기적인 AI 법안에 직면하면서, 유럽 기업들은 컴플라이언스와 인재에 필요한 막대한 투자를 인식하며, 빠르게 준비를 철저히 하려고 노력하고 있습니다.",
+          "이러한 규제 압력은 전 세계 AI 지출이 2천억 달러를 넘어설 것으로 예상되는 것과 맞물려, 기업들이 뒤처지지 않기 위해 어려운 상황을 감내하고 AI를 전적으로 수용해야 함을 분명히 합니다."
+        ],
+        "translationHighlights": [
+          "준비를 철저히 하려고 노력하고 있습니다",
+          "막대한 투자를 인식하며",
+          "어려운 상황을 감내하고",
+          "AI를 전적으로 수용해야 함을"
+        ],
+        "newWords": [
+          {
+            "word": "get one's ducks in a row",
+            "meaning": "만반의 준비를 갖추다, 모든 것을 잘 정리하다",
+            "context": "trying to get their ducks in a row"
+          },
+          {
+            "word": "bite the bullet",
+            "meaning": "어려운 상황을 이를 악물고 감내하다, 힘든 결정을 내리다",
+            "context": "must bite the bullet"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Nvidia's shares are absolutely riding the crest of a wave following the Blackwell Ultra leaks, certainly putting a spring in the step of the high-performance AI hardware market.",
           "This hardware optimism, coupled with venture capitalists now looking for practical AI solutions that truly move the needle, indicates a maturing market focused on tangible ROI."
         ],
@@ -3636,6 +3697,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With the 2026 FIFA World Cup just around the corner, major airlines are reportedly **greasing the wheels** for potential temporary visa relaxations to accommodate the unprecedented fan travel demand.",
+          "Meanwhile, Saudi Arabia’s Red Sea Project is truly **putting itself on the map** as a luxury eco-destination, reflecting a broader industry trend to **stay ahead of the curve** with innovative tourist experiences and AI-driven operational efficiency."
+        ],
+        "sentenceTranslations": [
+          "2026년 FIFA 월드컵이 임박함에 따라, 주요 항공사들은 전례 없는 팬들의 여행 수요를 충족시키기 위해 잠재적인 임시 비자 완화를 위해 **물밑 작업을 하고 있다**고 전해집니다.",
+          "한편, 사우디아라비아의 홍해 프로젝트는 럭셔리 친환경 여행지로서 진정으로 **두각을 나타내고 있으며**, 이는 혁신적인 관광 경험과 AI 기반 운영 효율성으로 **시대에 앞서가려는** 광범위한 업계의 추세를 반영합니다."
+        ],
+        "translationHighlights": [
+          "물밑 작업을 하고 있다",
+          "두각을 나타내고 있으며",
+          "시대에 앞서가려는"
+        ],
+        "newWords": [
+          {
+            "word": "greasing the wheels",
+            "meaning": "일을 순조롭게 진행시키다, (특히 비공식적인 방법으로) 일을 원활하게 하다",
+            "context": "greasing the wheels for potential temporary visa relaxations"
+          },
+          {
+            "word": "putting itself on the map",
+            "meaning": "유명해지다, 세상에 이름을 알리다",
+            "context": "putting itself on the map as a luxury eco-destination"
+          },
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "시대에 앞서가다, 새로운 추세를 선도하다",
+            "context": "to stay ahead of the curve with innovative tourist experiences"
+          }
+        ]
+      },
       {
         "sentences": [
           "Bhutan's latest adjustment to its Sustainable Development Fee aims to **thread the needle** between boosting revenue and preserving its pristine environment, a move many nations are watching closely.",
@@ -5422,6 +5515,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The NBA Western Conference Finals are now **in full swing**, with Nikola Jokic absolutely **calling the shots** on the court, much to the delight of Nuggets fans.",
+          "This surge in sports excitement parallels the way outdoor hobbies, like nature photography, have truly **taken off**, becoming a cornerstone of post-pandemic leisure."
+        ],
+        "sentenceTranslations": [
+          "NBA 서부 컨퍼런스 결승전이 이제 **한창 진행 중이며**, 니콜라 요키치가 코트 위에서 완벽하게 **주도권을 잡고** 너기츠 팬들을 즐겁게 하고 있습니다.",
+          "스포츠의 이러한 흥분은 자연 사진과 같은 야외 취미가 진정으로 **인기를 얻어**, 팬데믹 이후 여가 활동의 핵심으로 자리 잡은 방식과 유사합니다."
+        ],
+        "translationHighlights": [
+          "한창 진행 중이며",
+          "주도권을 잡고",
+          "인기를 얻어"
+        ],
+        "newWords": [
+          {
+            "word": "in full swing",
+            "meaning": "한창 진행 중인, 최고조에 달한",
+            "context": "The NBA Western Conference Finals are now **in full swing**"
+          },
+          {
+            "word": "calling the shots",
+            "meaning": "주도권을 잡다, 지휘하다",
+            "context": "Nikola Jokic absolutely **calling the shots** on the court"
+          },
+          {
+            "word": "taken off",
+            "meaning": "(갑자기) 인기를 얻다, 성공하다",
+            "context": "outdoor hobbies... have truly **taken off**"
+          }
+        ]
+      },
       {
         "sentences": [
           "As Brooks Koepka chases a record-tying fourth PGA title, he'll need to **pull out all the stops** today, with the championship truly **coming down to the wire**.",
