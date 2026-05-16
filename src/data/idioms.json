@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Leveraging AI for budgeting is truly catching on like wildfire among younger demographics, with tools like FinFlow AI rapidly becoming indispensable for financial management.",
+          "However, Dr. Reed's concerns about 'digital decision fatigue' highlight how easy it is to reach sensory overload, prompting a growing number to hit the reset button with digital detox programs."
+        ],
+        "sentenceTranslations": [
+          "AI를 활용한 예산 관리는 젊은 세대 사이에서 정말 불티나게 퍼지고 있으며, FinFlow AI 같은 도구들은 재정 관리에 필수불가결한 존재가 되고 있습니다.",
+          "하지만 리드 박사의 '디지털 결정 피로'에 대한 우려는 우리가 얼마나 쉽게 감각 과부하 상태에 도달하는지를 보여주며, 이는 점점 더 많은 사람들이 디지털 디톡스 프로그램으로 재설정 버튼을 누르도록 이끌고 있습니다."
+        ],
+        "translationHighlights": [
+          "불티나게 퍼지고 있으며",
+          "필수불가결한 존재",
+          "감각 과부하 상태",
+          "재설정 버튼을 누르도록"
+        ],
+        "newWords": [
+          {
+            "word": "catch on like wildfire",
+            "meaning": "불티나게 퍼지다, 급속도로 유행하다",
+            "context": "is truly catching on like wildfire among younger demographics"
+          },
+          {
+            "word": "sensory overload",
+            "meaning": "감각 과부하",
+            "context": "how easy it is to reach sensory overload"
+          },
+          {
+            "word": "hit the reset button",
+            "meaning": "재설정하다, 다시 시작하다",
+            "context": "prompting a growing number to hit the reset button"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Aether Labs' Echo promises to help users cut through the noise of constant digital influx, which has many feeling overwhelmed.",
           "Yet, as experts warn, relying entirely on AI can be a double-edged sword; true well-being still hinges on our ability to periodically unplug and recharge."
         ],
@@ -1896,6 +1929,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With its 'Thor-X' superchip unveiled, Nvidia is clearly **firing on all cylinders**, driving bullish sentiment across the tech sector.",
+          "This robust VC activity, notably DeepMind Connect's successful Series B round, shows that investors are keen to **double down** on cutting-edge generative AI, highlighting the sector's resilience."
+        ],
+        "sentenceTranslations": [
+          "새로운 'Thor-X' 슈퍼칩을 공개하면서, 엔비디아는 명백히 **최고의 역량을 발휘하고 있으며**, 기술 부문 전반에 걸쳐 낙관적인 분위기를 이끌고 있습니다.",
+          "딥마인드 커넥트의 성공적인 시리즈 B 투자 유치에서 볼 수 있듯이, 이러한 견고한 벤처 캐피털 활동은 투자자들이 최첨단 생성형 AI에 **더욱 적극적으로 투자하려는 의지가 강하다는 것을** 보여주며, 해당 부문의 회복력을 강조합니다."
+        ],
+        "translationHighlights": [
+          "최고의 역량을 발휘하고 있으며",
+          "낙관적인 분위기",
+          "견고한 벤처 캐피털 활동",
+          "더욱 적극적으로 투자하려는 의지가 강하다는 것을"
+        ],
+        "newWords": [
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고의 역량을 발휘하다, 전력을 다하다",
+            "context": "Nvidia is clearly **firing on all cylinders**"
+          },
+          {
+            "word": "bullish sentiment",
+            "meaning": "낙관적인 분위기/심리",
+            "context": "driving **bullish sentiment** across the tech sector"
+          },
+          {
+            "word": "double down",
+            "meaning": "더욱 적극적으로 투자하다/노력하다, 투자를 늘리다",
+            "context": "investors are keen to **double down** on cutting-edge generative AI"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Facing the EU's landmark AI Act, European firms are quickly trying to get their ducks in a row, realizing the significant investment in compliance and talent it demands.",
           "This regulatory pressure, coupled with projected global AI spending over $200 billion, makes it clear that corporations must bite the bullet and fully embrace AI or risk falling behind."
         ],
@@ -3697,6 +3763,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Lufthansa's increased flights to Kyoto indicate that authentic cultural immersion is truly the flavor of the month for many travelers.",
+          "However, local authorities must walk a fine line to accommodate this influx without the city losing its unique charm and becoming a victim of its own success."
+        ],
+        "sentenceTranslations": [
+          "루프트한자의 교토 직항편 증가는 진정한 문화 체험이 많은 여행객들에게 최고의 인기를 누리고 있음을 보여줍니다.",
+          "하지만, 당국은 도시가 고유의 매력을 잃고 자신들의 성공에 발목 잡히지 않도록 방문객들을 수용하는 데 아슬아슬한 줄타기를 해야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "최고의 인기를 누리고 있음을 보여줍니다",
+          "아슬아슬한 줄타기를 해야 할 것",
+          "자신들의 성공에 발목 잡히지 않도록"
+        ],
+        "newWords": [
+          {
+            "word": "the flavor of the month",
+            "meaning": "최고의 인기/가장 유행하는 것",
+            "context": "cultural immersion is truly the flavor of the month"
+          },
+          {
+            "word": "walk a fine line",
+            "meaning": "아슬아슬한 줄타기를 하다/매우 신중하게 행동하다",
+            "context": "authorities must walk a fine line"
+          },
+          {
+            "word": "a victim of its own success",
+            "meaning": "자신의 성공으로 인해 피해를 입는 상황",
+            "context": "becoming a victim of its own success"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the 2026 FIFA World Cup just around the corner, major airlines are reportedly **greasing the wheels** for potential temporary visa relaxations to accommodate the unprecedented fan travel demand.",
@@ -5515,6 +5613,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With the NBA Eastern Conference Finals currently hanging in the balance at 1-1, tonight's Game 3 will see both teams pulling out all the stops to take control of the series.",
+          "Meanwhile, Faker's milestone and MSI's soaring viewership underscore how esports is truly hitting its stride on the global stage."
+        ],
+        "sentenceTranslations": [
+          "NBA 동부 컨퍼런스 결승전이 현재 1대1로 팽팽하게 맞서면서, 오늘 밤 3차전에서는 양 팀 모두 시리즈의 주도권을 잡기 위해 총력을 기울일 것입니다.",
+          "한편, 페이커 선수의 대기록과 MSI의 치솟는 시청률은 e스포츠가 세계 무대에서 진정으로 전성기를 맞이하고 있음을 강조합니다."
+        ],
+        "translationHighlights": [
+          "팽팽하게 맞서면서",
+          "총력을 기울일 것입니다",
+          "치솟는 시청률",
+          "전성기를 맞이하고 있음을"
+        ],
+        "newWords": [
+          {
+            "word": "hanging in the balance",
+            "meaning": "불확실한 상태에 있다, 위태롭다, 팽팽하게 맞서다",
+            "context": "series currently hanging in the balance at 1-1"
+          },
+          {
+            "word": "pulling out all the stops",
+            "meaning": "총력을 기울이다, 모든 수단을 동원하다",
+            "context": "both teams pulling out all the stops"
+          },
+          {
+            "word": "hitting its stride",
+            "meaning": "전성기를 맞이하다, 순조롭게 진행되다",
+            "context": "esports is truly hitting its stride"
+          }
+        ]
+      },
       {
         "sentences": [
           "The NBA Western Conference Finals are now **in full swing**, with Nikola Jokic absolutely **calling the shots** on the court, much to the delight of Nuggets fans.",
