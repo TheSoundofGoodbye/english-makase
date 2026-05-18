@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Synergy Global and other corporations decided to nip dwindling team cohesion in the bud by announcing a phased return to a mandatory three-day in-office hybrid model.",
+          "However, the surge in demand for flexible co-working spaces suggests that many employees are still trying to have their cake and eat it too, balancing office mandates with personal flexibility."
+        ],
+        "sentenceTranslations": [
+          "시너지 글로벌을 비롯한 기업들은 약화되는 팀 결속력을 초기에 해결하기 위해, 3일 의무 출근 하이브리드 모델로의 단계적 복귀를 발표했습니다.",
+          "하지만 유연한 코워킹 스페이스에 대한 수요 급증은 많은 직원들이 여전히 두 마리 토끼를 다 잡으려 한다는 것을 시사합니다. 즉, 사무실 출근 규정을 지키면서도 개인적인 유연성을 확보하려는 것입니다."
+        ],
+        "translationHighlights": [
+          "초기에 해결하기 위해",
+          "단계적 복귀를 발표했습니다",
+          "수요 급증은",
+          "두 마리 토끼를 다 잡으려 한다는 것"
+        ],
+        "newWords": [
+          {
+            "word": "nip ~ in the bud",
+            "meaning": "문제가 더 커지기 전에 초기에 해결하다",
+            "context": "decided to nip dwindling team cohesion in the bud"
+          },
+          {
+            "word": "have one's cake and eat it too",
+            "meaning": "두 가지 상충되는 이점을 모두 누리려 하다 (둘 다 가질 수는 없는 것을 동시에 가지려 하다)",
+            "context": "trying to have their cake and eat it too"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The sustained surge in telehealth consultations suggests many young adults are struggling to keep their heads above water financially and emotionally in today's demanding world.",
           "If AI assistants like Project Astra can truly help individuals get their ducks in a row with personalized wellness nudges, it could be a game-changer for overall peace of mind."
         ],
@@ -1963,6 +1991,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Alphabet truly knocked it out of the park with their new multimodal AI agents, propelling Google Cloud to a record-breaking quarter that far exceeded analyst projections.",
+          "This stellar performance demonstrates how adeptly they are cashing in on the surging demand for specialized AI, especially when other tech funding is experiencing slowdowns."
+        ],
+        "sentenceTranslations": [
+          "알파벳은 새로운 멀티모달 AI 에이전트로 정말 대박을 터뜨렸고, 구글 클라우드를 애널리스트 예상치를 훨씬 뛰어넘는 기록적인 분기로 이끌었습니다.",
+          "이러한 탁월한 실적은 다른 기술 부문의 자금 조달이 둔화되는 가운데서도, 그들이 전문 AI에 대한 폭증하는 수요를 얼마나 능숙하게 수익으로 연결하고 있는지를 보여줍니다."
+        ],
+        "translationHighlights": [
+          "대박을 터뜨렸고",
+          "수익으로 연결하고",
+          "기록적인 분기로 이끌었습니다",
+          "폭증하는 수요"
+        ],
+        "newWords": [
+          {
+            "word": "knocked it out of the park",
+            "meaning": "대성공을 거두다, 기대 이상으로 잘 해내다",
+            "context": "Alphabet truly *knocked it out of the park* with their new multimodal AI agents"
+          },
+          {
+            "word": "cashing in on",
+            "meaning": "~을 이용하여 돈을 벌다, ~을 기회 삼아 이득을 보다",
+            "context": "how adeptly they are *cashing in on* the surging demand for specialized AI"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Beijing's new rare earth processing export restrictions certainly represent a fly in the ointment for global green energy initiatives, complicating efforts to scale sustainable technologies worldwide.",
           "Conversely, the AI sector is truly hitting it out of the park, with companies like Microsoft not just riding the coattails of current trends but strategically moving to get in on the ground floor of AI-powered drug discovery."
         ],
@@ -3829,6 +3885,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Responding to a sea change in post-pandemic traveler preferences, many are now looking to get off the beaten track, seeking out authentic experiences beyond traditional hotspots.",
+          "This push for sustainable travel has prompted destinations like Venice to bite the bullet with day-tripper fees, showing that turning a blind eye to overtourism is no longer an option."
+        ],
+        "sentenceTranslations": [
+          "코로나 팬데믹 이후 여행객 선호도의 근본적인 변화에 발맞춰, 많은 이들이 이제 전통적인 인기 명소를 넘어선 잘 알려지지 않은 곳을 찾아 진정한 경험을 추구하고 있습니다.",
+          "지속 가능한 여행을 위한 이러한 노력은 베네치아와 같은 목적지가 일일 방문객 요금제를 통해 어려움을 감수하도록 만들었으며, 이는 과잉 관광에 눈 감는 것이 더 이상 불가능함을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "근본적인 변화",
+          "잘 알려지지 않은 곳을 찾아",
+          "어려움을 감수하도록"
+        ],
+        "newWords": [
+          {
+            "word": "sea change",
+            "meaning": "근본적인 변화, 혁명적인 변화",
+            "context": "a sea change in post-pandemic traveler preferences"
+          },
+          {
+            "word": "get off the beaten track",
+            "meaning": "잘 알려지지 않은 곳을 찾아가다, 평범하지 않은 길을 가다",
+            "context": "now looking to get off the beaten track"
+          },
+          {
+            "word": "bite the bullet",
+            "meaning": "어려움을 감수하다, 이를 악물고 참다",
+            "context": "destinations like Venice to bite the bullet with day-tripper fees"
+          }
+        ]
+      },
       {
         "sentences": [
           "The surge in regenerative tourism to destinations like Slovenia's Julian Alps indicates a significant shift, truly turning the tide for travelers keen to get off the beaten path.",
@@ -5712,6 +5800,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The Celtics' stunning comeback to force a decisive Game 7 truly kept fans on the edge of their seats, highlighting the unpredictable nature of playoff basketball.",
+          "Following her dominant win in Rome, Iga Świątek is undeniably a force to be reckoned with, ready to lay down the gauntlet and defend her title at Roland Garros."
+        ],
+        "sentenceTranslations": [
+          "셀틱스의 놀라운 역전승으로 결정적인 7차전이 성사되면서, 팬들은 정말 손에 땀을 쥐게 만들었고, 플레이오프 농구의 예측 불가능한 특성을 다시 한번 보여주었습니다.",
+          "로마에서의 압도적인 승리 후, 이가 시비옹테크는 의심할 여지 없이 무시할 수 없는 존재이며, 롤랑가로스에서 자신의 타이틀을 방어하기 위해 도전장을 내밀 준비가 되어 있습니다."
+        ],
+        "translationHighlights": [
+          "손에 땀을 쥐게 만들었고",
+          "예측 불가능한 특성을",
+          "무시할 수 없는 존재",
+          "도전장을 내밀"
+        ],
+        "newWords": [
+          {
+            "word": "keep someone on the edge of their seat",
+            "meaning": "~를 매우 긴장하게 만들다, 손에 땀을 쥐게 하다",
+            "context": "truly kept fans on the edge of their seats"
+          },
+          {
+            "word": "a force to be reckoned with",
+            "meaning": "무시할 수 없는 존재, 강력한 경쟁자",
+            "context": "undeniably a force to be reckoned with"
+          },
+          {
+            "word": "lay down the gauntlet",
+            "meaning": "도전하다, 도전을 제기하다",
+            "context": "ready to lay down the gauntlet"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the NBA Eastern Conference Finals currently hanging in the balance at 1-1, tonight's Game 3 will see both teams pulling out all the stops to take control of the series.",
