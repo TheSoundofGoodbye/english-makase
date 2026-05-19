@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The jury is still out on whether Google Health's 'MindMeld' service can genuinely replace human interaction for mental wellness, especially given the recent study's findings.",
+          "Many experts worry that relying solely on AI might be a drop in the bucket compared to the deep, empathetic connection that truly helps individuals heal."
+        ],
+        "sentenceTranslations": [
+          "구글 헬스의 '마인드멜드' 서비스가 정신 건강을 위한 인간 상호작용을 진정으로 대체할 수 있을지는 최근 연구 결과를 볼 때 여전히 미지수입니다.",
+          "많은 전문가들은 AI에만 전적으로 의존하는 것이 개인이 치유되는 데 진정으로 도움이 되는 깊고 공감적인 연결에 비하면 턱없이 부족할 수 있다고 우려합니다."
+        ],
+        "translationHighlights": [
+          "여전히 미지수입니다",
+          "진정으로 대체할 수 있을지",
+          "턱없이 부족할 수 있다고",
+          "깊고 공감적인 연결"
+        ],
+        "newWords": [
+          {
+            "word": "the jury is still out on",
+            "meaning": "아직 결정되지 않았거나 불확실한 상태이다",
+            "context": "The jury is still out on whether Google Health's 'MindMeld' service can genuinely replace human interaction..."
+          },
+          {
+            "word": "a drop in the bucket",
+            "meaning": "아주 적은 양, 턱없이 부족한 것",
+            "context": "relying solely on AI might be a drop in the bucket compared to the deep, empathetic connection..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Synergy Global and other corporations decided to nip dwindling team cohesion in the bud by announcing a phased return to a mandatory three-day in-office hybrid model.",
           "However, the surge in demand for flexible co-working spaces suggests that many employees are still trying to have their cake and eat it too, balancing office mandates with personal flexibility."
         ],
@@ -1991,6 +2019,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With major tech firms going all in on AI infrastructure, the recent regulatory scrutiny means they can no longer afford to bury their heads in the sand regarding energy-intensive operations.",
+          "As Palantir's CEO declared, sustainable AI is now a game-changer, and businesses failing to adapt to this new frontier risk getting caught behind the eight ball in terms of competitive advantage."
+        ],
+        "sentenceTranslations": [
+          "주요 기술 기업들이 AI 인프라에 총력을 기울이고 있지만, 최근 규제 당국의 감시가 강화되면서 에너지 집약적인 운영에 대해 더 이상 현실을 외면할 수 없게 되었습니다.",
+          "팔란티어 CEO가 선언했듯이, 지속 가능한 AI는 이제 판도를 바꾸는 요소이며, 이 새로운 영역에 적응하지 못하는 기업들은 경쟁 우위 면에서 불리한 입장에 놓일 위험이 있습니다."
+        ],
+        "translationHighlights": [
+          "총력을 기울이다",
+          "현실을 외면하다",
+          "판도를 바꾸는 요소",
+          "불리한 입장에 놓이다"
+        ],
+        "newWords": [
+          {
+            "word": "going all in",
+            "meaning": "모든 자원이나 노력을 쏟아붓다, 총력을 기울이다",
+            "context": "major tech firms going all in on AI infrastructure"
+          },
+          {
+            "word": "bury their heads in the sand",
+            "meaning": "문제를 외면하다, 현실을 회피하다",
+            "context": "no longer afford to bury their heads in the sand"
+          },
+          {
+            "word": "getting caught behind the eight ball",
+            "meaning": "불리한 상황에 처하다, 궁지에 몰리다",
+            "context": "risk getting caught behind the eight ball"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Alphabet truly knocked it out of the park with their new multimodal AI agents, propelling Google Cloud to a record-breaking quarter that far exceeded analyst projections.",
           "This stellar performance demonstrates how adeptly they are cashing in on the surging demand for specialized AI, especially when other tech funding is experiencing slowdowns."
         ],
@@ -3885,6 +3946,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Lufthansa's multi-billion euro investment in SAF clearly shows they are playing the long game to meet ambitious emissions targets and secure a sustainable future for air travel.",
+          "Meanwhile, from Dubrovnik walking a tightrope on cruise caps to travelers needing to get ahead of the curve with ETIAS, the travel sector is clearly navigating choppy waters."
+        ],
+        "sentenceTranslations": [
+          "루프트한자의 SAF(지속가능항공유)에 대한 수십억 유로 투자는 그들이 야심 찬 탄소 배출량 감축 목표를 달성하고 항공 여행의 지속가능한 미래를 확보하기 위해 장기적인 안목으로 접근하고 있음을 명확히 보여줍니다.",
+          "한편, 크루즈 승객 제한에 대해 위태로운 균형을 잡고 있는 두브로브니크부터 ETIAS 신청을 미리 서둘러야 하는 여행객들까지, 여행 업계는 분명히 격동의 시기를 헤쳐나가고 있습니다."
+        ],
+        "translationHighlights": [
+          "장기적인 안목으로 접근하고 있음을",
+          "위태로운 균형을 잡고 있는",
+          "미리 서둘러야 하는",
+          "격동의 시기를 헤쳐나가고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "playing the long game",
+            "meaning": "장기적인 안목으로 계획하고 행동하다",
+            "context": "they are playing the long game"
+          },
+          {
+            "word": "walking a tightrope",
+            "meaning": "위태로운 균형을 잡다, 아슬아슬한 줄타기를 하다",
+            "context": "Dubrovnik walking a tightrope"
+          },
+          {
+            "word": "get ahead of the curve",
+            "meaning": "시류를 앞서가다, 미리 대비하다",
+            "context": "get ahead of the curve with ETIAS"
+          }
+        ]
+      },
       {
         "sentences": [
           "Responding to a sea change in post-pandemic traveler preferences, many are now looking to get off the beaten track, seeking out authentic experiences beyond traditional hotspots.",
@@ -5800,6 +5894,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Given Max Verstappen's current form, many feel he has this in the bag for another Monaco victory, yet the track often throws a wrench in the works for even the strongest contenders.",
+          "However, for local hero Charles Leclerc, this race is truly a make-or-break moment, compelling him to pull out all the stops and finally clinch that elusive home win."
+        ],
+        "sentenceTranslations": [
+          "막스 페르스타펜이 현재 기량으로 모나코에서 또 한 번의 우승을 거의 따 놓은 당상이라고들 느끼지만, 이 트랙은 아무리 강한 경쟁자들에게도 종종 예기치 않은 변수를 던져줍니다.",
+          "하지만 현지 영웅 샤를 르클레르에게 이번 경기는 진정 성패를 가를 중대한 순간이기에, 그는 애타게 바라던 홈 우승을 마침내 거머쥐기 위해 모든 노력을 기울여야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "거의 따 놓은 당상",
+          "예기치 않은 변수",
+          "성패를 가를 중대한 순간",
+          "모든 노력을 기울여야"
+        ],
+        "newWords": [
+          {
+            "word": "have (something) in the bag",
+            "meaning": "거의 따 놓은 당상이다, 확실하게 얻다",
+            "context": "he has this in the bag for another Monaco victory"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "예기치 않은 문제를 일으키다, 계획을 방해하다",
+            "context": "the track often throws a wrench in the works"
+          },
+          {
+            "word": "a make-or-break moment",
+            "meaning": "성패를 가를 중대한 순간, 운명을 결정할 순간",
+            "context": "this race is truly a make-or-break moment"
+          }
+        ]
+      },
       {
         "sentences": [
           "The Celtics' stunning comeback to force a decisive Game 7 truly kept fans on the edge of their seats, highlighting the unpredictable nature of playoff basketball.",
