@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The report suggests many Gen Z employees feel they're falling through the cracks when it comes to company culture in hybrid work settings.",
+          "To address this, firms like Veridian are breaking new ground with specialized community hubs designed to foster genuine connections and boost collaboration."
+        ],
+        "sentenceTranslations": [
+          "보고서에 따르면, 하이브리드 근무 환경에서 많은 Z세대 직원들이 회사 문화와 관련하여 소외감을 느끼고 있다고 합니다.",
+          "이를 해결하기 위해 Veridian 같은 기업들은 진정한 유대감을 형성하고 협업을 증진하기 위해 특화된 커뮤니티 허브로 새로운 시도를 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "소외감을 느끼고 있다고 합니다",
+          "하이브리드 근무 환경",
+          "새로운 시도를 하고 있습니다",
+          "진정한 유대감을 형성하고 협업을 증진하기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "falling through the cracks",
+            "meaning": "소외되다, 간과되다, (틈새로) 빠져나가다",
+            "context": "employees feel they're **falling through the cracks** when it comes to company culture"
+          },
+          {
+            "word": "breaking new ground",
+            "meaning": "새로운 시도를 하다, 전례 없는 일을 하다, 개척하다",
+            "context": "firms like Veridian are **breaking new ground** with specialized community hubs"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The jury is still out on whether Google Health's 'MindMeld' service can genuinely replace human interaction for mental wellness, especially given the recent study's findings.",
           "Many experts worry that relying solely on AI might be a drop in the bucket compared to the deep, empathetic connection that truly helps individuals heal."
         ],
@@ -2019,6 +2047,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The unveiling of NVIDIA's Blackwell Ultra GPU, promising a seismic shift in AI efficiency, has certainly put the wind in their sails, with investors betting big on continued dominance.",
+          "However, Chair Powell's hawkish stance on interest rates, coupled with escalating tariffs, could very well throw a wrench in the works for broader market optimism, compelling companies to rethink their capital outlays."
+        ],
+        "sentenceTranslations": [
+          "AI 효율성에 지각변동을 예고한 NVIDIA의 Blackwell Ultra GPU 공개는 투자자들이 지속적인 지배력에 크게 베팅하면서 확실히 그들에게 순풍을 불어넣었습니다.",
+          "하지만 파월 의장의 금리에 대한 매파적인 태도는 고조되는 관세와 맞물려, 전반적인 시장 낙관론에 찬물을 끼얹고 기업들로 하여금 자본 지출을 재고하게 만들 수 있습니다."
+        ],
+        "translationHighlights": [
+          "순풍을 불어넣었습니다",
+          "크게 베팅하면서",
+          "찬물을 끼얹고",
+          "자본 지출을 재고하게 만들 수 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "put the wind in their sails",
+            "meaning": "순풍을 불어넣다, 탄력을 받게 하다",
+            "context": "has certainly put the wind in their sails"
+          },
+          {
+            "word": "betting big",
+            "meaning": "크게 베팅하다, 큰 기대를 걸다",
+            "context": "with investors betting big on continued dominance"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획/진행을 망치다, 방해하다",
+            "context": "could very well throw a wrench in the works for broader market optimism"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With major tech firms going all in on AI infrastructure, the recent regulatory scrutiny means they can no longer afford to bury their heads in the sand regarding energy-intensive operations.",
           "As Palantir's CEO declared, sustainable AI is now a game-changer, and businesses failing to adapt to this new frontier risk getting caught behind the eight ball in terms of competitive advantage."
         ],
@@ -3946,6 +4007,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Lufthansa Group is sitting pretty with its stronger-than-expected Q2 premium cabin bookings, especially given the global economic shifts.",
+          "While countries like Vietnam roll out the red carpet for digital nomads with new visas, global fleet growth has hit a snag, impacting fare stability for everyone."
+        ],
+        "sentenceTranslations": [
+          "루프트한자 그룹은 세계 경제 변화에도 불구하고 예상치를 뛰어넘는 2분기 프리미엄 객실 예약으로 아주 유리한 위치에 있습니다.",
+          "베트남처럼 새로운 비자로 디지털 노마드에게 극진한 환대를 베푸는 국가들도 있지만, 전 세계 항공기단 증가는 예상치 못한 문제에 부딪혀 모든 이의 항공료 안정성에 영향을 미치고 있습니다."
+        ],
+        "translationHighlights": [
+          "유리한 위치에 있습니다",
+          "극진한 환대를 베푸는",
+          "예상치 못한 문제에 부딪혀"
+        ],
+        "newWords": [
+          {
+            "word": "sitting pretty",
+            "meaning": "아주 유리한[좋은] 위치에 있다, 안정적인 상황에 있다",
+            "context": "Lufthansa Group is sitting pretty with its stronger-than-expected Q2 premium cabin bookings"
+          },
+          {
+            "word": "roll out the red carpet",
+            "meaning": "극진한 환대를 베풀다, 성대하게 환영하다",
+            "context": "countries like Vietnam roll out the red carpet for digital nomads with new visas"
+          },
+          {
+            "word": "hit a snag",
+            "meaning": "예상치 못한 문제[장애물]에 부딪히다",
+            "context": "global fleet growth has hit a snag, impacting fare stability"
+          }
+        ]
+      },
       {
         "sentences": [
           "Lufthansa's multi-billion euro investment in SAF clearly shows they are playing the long game to meet ambitious emissions targets and secure a sustainable future for air travel.",
@@ -5894,6 +5987,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "After her unexpected loss, Iga Świątek's every move is under the microscope as she prepares for the French Open, but her coach believes she'll soon be firing on all cylinders.",
+          "Conversely, Carlos Alcaraz, clearly hitting his stride this clay court season, is poised to throw down the gauntlet and make a strong bid for his maiden title."
+        ],
+        "sentenceTranslations": [
+          "예상치 못한 패배 이후, 이가 시비옹테크는 프랑스 오픈을 준비하면서 모든 움직임이 면밀히 주시되고 있지만, 코치는 그녀가 곧 최고의 기량을 발휘할 것이라고 믿고 있습니다.",
+          "반대로, 이번 클레이 코트 시즌에 확실히 상승세를 타고 있는 카를로스 알카라스는 도전장을 내밀고 자신의 첫 우승을 강력하게 노릴 태세입니다."
+        ],
+        "translationHighlights": [
+          "면밀히 주시되고 있지만",
+          "최고의 기량을 발휘할",
+          "확실히 상승세를 타고 있는",
+          "도전장을 내밀고"
+        ],
+        "newWords": [
+          {
+            "word": "under the microscope",
+            "meaning": "면밀히 조사/주시되는",
+            "context": "Iga Świątek's every move is under the microscope"
+          },
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고의 기량/성능을 발휘하다",
+            "context": "she'll soon be firing on all cylinders"
+          },
+          {
+            "word": "hitting his stride",
+            "meaning": "본격적으로 실력 발휘를 시작하다; 한창 상승세를 타다",
+            "context": "Carlos Alcaraz, clearly hitting his stride"
+          }
+        ]
+      },
       {
         "sentences": [
           "Given Max Verstappen's current form, many feel he has this in the bag for another Monaco victory, yet the track often throws a wrench in the works for even the strongest contenders.",
