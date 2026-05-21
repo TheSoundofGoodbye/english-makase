@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While juggling multiple income streams might seem like a smart move for financial resilience, it can truly be a double-edged sword for work-life balance.",
+          "Without strong digital boundaries, many might find themselves burning the candle at both ends, risking widespread burnout despite the initial benefits of AI."
+        ],
+        "sentenceTranslations": [
+          "여러 수입원을 동시에 관리하는 것이 재정적 안정에는 현명한 조치처럼 보일지 몰라도, 일과 삶의 균형에는 양날의 검이 될 수 있습니다.",
+          "명확한 디지털 경계가 없다면, 많은 이들이 인공지능의 초기 이점에도 불구하고 양쪽 끝을 태우듯이 무리하여 광범위한 번아웃에 직면할 위험이 있습니다."
+        ],
+        "translationHighlights": [
+          "양날의 검",
+          "일과 삶의 균형",
+          "양쪽 끝을 태우듯이 무리하다",
+          "광범위한 번아웃"
+        ],
+        "newWords": [
+          {
+            "word": "juggling multiple income streams",
+            "meaning": "여러 수입원을 동시에 관리하다 / 여러 일을 동시에 처리하다",
+            "context": "While juggling multiple income streams..."
+          },
+          {
+            "word": "double-edged sword",
+            "meaning": "양날의 검 (이점과 단점을 동시에 지닌 것)",
+            "context": "...it can truly be a double-edged sword for work-life balance."
+          },
+          {
+            "word": "burning the candle at both ends",
+            "meaning": "(양쪽 끝을 태우듯이) 너무 무리해서 일하다 / 과로하다",
+            "context": "...many might find themselves burning the candle at both ends..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The report suggests many Gen Z employees feel they're falling through the cracks when it comes to company culture in hybrid work settings.",
           "To address this, firms like Veridian are breaking new ground with specialized community hubs designed to foster genuine connections and boost collaboration."
         ],
@@ -2047,6 +2080,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Despite the WTO's projected slowdown, global equity markets successfully weathered the storm, signaling underlying resilience.",
+          "This robust performance, coupled with Cognito AI's massive funding and GM's ambitious electrification strategy, shows businesses are not just trying to keep their heads above water but are actively charting a new course towards innovation."
+        ],
+        "sentenceTranslations": [
+          "WTO가 예상한 경기 둔화에도 불구하고, 글로벌 증시는 성공적으로 어려움을 극복하며 근본적인 회복력을 보여주었습니다.",
+          "이러한 견조한 실적은 코그니토 AI의 막대한 자금 조달과 GM의 야심찬 전동화 전략과 더불어, 기업들이 단지 현상 유지에 그치지 않고 혁신을 향한 새로운 길을 적극적으로 개척하고 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "어려움을 극복하며",
+          "근본적인 회복력",
+          "현상 유지에 그치지 않고",
+          "새로운 길을 적극적으로 개척하고 있음을"
+        ],
+        "newWords": [
+          {
+            "word": "weather the storm",
+            "meaning": "어려움을 헤쳐나가다, 역경을 극복하다",
+            "context": "successfully weathered the storm"
+          },
+          {
+            "word": "keep one's head above water",
+            "meaning": "파산하지 않고 겨우 유지하다, 재정적으로 버티다",
+            "context": "trying to keep their heads above water"
+          },
+          {
+            "word": "chart a new course",
+            "meaning": "새로운 방향을 설정하다, 새로운 전략을 개척하다",
+            "context": "actively charting a new course"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The unveiling of NVIDIA's Blackwell Ultra GPU, promising a seismic shift in AI efficiency, has certainly put the wind in their sails, with investors betting big on continued dominance.",
           "However, Chair Powell's hawkish stance on interest rates, coupled with escalating tariffs, could very well throw a wrench in the works for broader market optimism, compelling companies to rethink their capital outlays."
         ],
@@ -4007,6 +4073,33 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Emirates is clearly riding the crest of a wave with its strong Q2 projections, especially for premium long-haul cabins to new destinations like Medellín.",
+          "Meanwhile, Venice's expanded entry fee and ASEAN's digital nomad visa pilot program demonstrate how destinations are trying to strike a delicate balance between attracting visitors and fostering sustainable growth."
+        ],
+        "sentenceTranslations": [
+          "에미레이츠 항공은 메데인과 같은 새로운 장거리 노선의 프리미엄 객실에 대한 높은 수요와 함께 강력한 2분기 실적 전망을 내놓으며 분명히 승승장구하고 있습니다.",
+          "한편, 베네치아의 확대된 입장료와 아세안의 디지털 노마드 비자 시범 프로그램은 목적지들이 방문객 유치와 지속 가능한 성장을 육성하는 것 사이에서 어떻게 미묘한 균형을 잡으려고 노력하는지 보여줍니다."
+        ],
+        "translationHighlights": [
+          "승승장구하고 있습니다",
+          "미묘한 균형을 잡으려고 노력하는지",
+          "방문객 유치와 지속 가능한 성장"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "승승장구하다, 큰 성공을 거두다",
+            "context": "Emirates is clearly **riding the crest of a wave** with its strong Q2 projections"
+          },
+          {
+            "word": "strike a delicate balance",
+            "meaning": "미묘한 균형을 잡다",
+            "context": "destinations are trying to **strike a delicate balance** between attracting visitors"
+          }
+        ]
+      },
       {
         "sentences": [
           "Lufthansa Group is sitting pretty with its stronger-than-expected Q2 premium cabin bookings, especially given the global economic shifts.",
@@ -5987,6 +6080,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With Giannis Antetokounmpo having knocked it out of the park in Game 4, tonight's pivotal Game 5 is truly make or break for both the Celtics and the Bucks in the Eastern Conference Finals.",
+          "Fans are eager to see which team will rise to the occasion and take control of the series."
+        ],
+        "sentenceTranslations": [
+          "야니스 아데토쿤보가 4차전에서 엄청난 활약을 펼치며 승리한 만큼, 동부 컨퍼런스 결승전에서 셀틱스와 벅스 모두에게 오늘 밤의 중요한 5차전은 정말로 성패를 좌우할 경기입니다.",
+          "팬들은 어느 팀이 중요한 순간에 실력을 발휘하여 시리즈의 주도권을 잡을지 간절히 기다리고 있습니다."
+        ],
+        "translationHighlights": [
+          "엄청난 활약을 펼치며",
+          "성패를 좌우할",
+          "중요한 순간에 실력을 발휘하여"
+        ],
+        "newWords": [
+          {
+            "word": "knocked it out of the park",
+            "meaning": "엄청난 활약을 펼치다, 기대 이상으로 잘하다",
+            "context": "Giannis Antetokounmpo having knocked it out of the park"
+          },
+          {
+            "word": "make or break",
+            "meaning": "성패를 좌우하는, 결정적인",
+            "context": "tonight's pivotal Game 5 is truly make or break"
+          },
+          {
+            "word": "rise to the occasion",
+            "meaning": "중요한 순간에 실력을 발휘하다, 난국을 극복하다",
+            "context": "which team will rise to the occasion"
+          }
+        ]
+      },
       {
         "sentences": [
           "After her unexpected loss, Iga Świątek's every move is under the microscope as she prepares for the French Open, but her coach believes she'll soon be firing on all cylinders.",
