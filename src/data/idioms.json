@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "As AI tools like Conductor swiftly become standard in daily professional life, many organizations are scrambling to get on the bandwagon to harness newfound productivity.",
+          "Yet, Dr. Sharma's warning underscores that without adequate ethical training and literacy, this rapid technological shift could quickly become a double-edged sword, creating more problems than it solves."
+        ],
+        "sentenceTranslations": [
+          "Conductor와 같은 AI 도구들이 일상적인 전문 업무에서 빠르게 표준이 되면서, 많은 조직들이 새로운 생산성을 활용하기 위해 서둘러 대세에 합류하고 있습니다.",
+          "하지만 닥터 샤르마의 경고는 적절한 윤리 교육과 AI 활용 능력이 없다면, 이러한 급격한 기술 변화가 해결하는 것보다 더 많은 문제를 야기하는 양날의 검이 될 수 있음을 강조합니다."
+        ],
+        "translationHighlights": [
+          "대세에 합류하고 있습니다",
+          "강조합니다",
+          "양날의 검이 될 수 있음을",
+          "윤리 교육과 AI 활용 능력"
+        ],
+        "newWords": [
+          {
+            "word": "get on the bandwagon",
+            "meaning": "대세에 합류하다, 시류에 편승하다",
+            "context": "scrambling to get on the bandwagon"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (장점과 단점을 동시에 지닌 것)",
+            "context": "become a double-edged sword"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While juggling multiple income streams might seem like a smart move for financial resilience, it can truly be a double-edged sword for work-life balance.",
           "Without strong digital boundaries, many might find themselves burning the candle at both ends, risking widespread burnout despite the initial benefits of AI."
         ],
@@ -2080,6 +2108,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With the EU AI Act's high-risk provisions fast approaching, generative AI developers like Anthropic are going the extra mile to beef up their ethical auditing, rather than cutting corners.",
+          "This commitment is crucial, especially as investors try to read the tea leaves on AI chip demand amidst geopolitical tensions that could throw a wrench in the works for global supply chains and trade."
+        ],
+        "sentenceTranslations": [
+          "EU AI Act의 고위험 조항들이 빠르게 다가오면서, Anthropic과 같은 생성형 AI 개발사들은 비용을 절감하기 위해 대충 처리하기보다는, 윤리 감사 역량을 강화하기 위해 특별한 노력을 기울이고 있습니다.",
+          "이러한 노력은 특히 지정학적 긴장이 글로벌 공급망과 무역에 문제를 일으킬 수 있는 상황에서, 투자자들이 AI 칩 수요에 대한 미래를 예측하려고 애쓰는 와중에 더욱 중요합니다."
+        ],
+        "translationHighlights": [
+          "특별한 노력을 기울이다",
+          "대충 처리하기보다는",
+          "미래를 예측하려고 애쓰는",
+          "문제를 일으킬 수 있는"
+        ],
+        "newWords": [
+          {
+            "word": "go the extra mile",
+            "meaning": "특별한 노력을 기울이다",
+            "context": "are going the extra mile to beef up their ethical auditing"
+          },
+          {
+            "word": "cut corners",
+            "meaning": "비용을 절감하기 위해 대충 처리하다",
+            "context": "rather than cutting corners"
+          },
+          {
+            "word": "read the tea leaves",
+            "meaning": "미래를 예측하다",
+            "context": "as investors try to read the tea leaves on AI chip demand"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Despite the WTO's projected slowdown, global equity markets successfully weathered the storm, signaling underlying resilience.",
           "This robust performance, coupled with Cognito AI's massive funding and GM's ambitious electrification strategy, shows businesses are not just trying to keep their heads above water but are actively charting a new course towards innovation."
         ],
@@ -4073,6 +4134,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Japan's new digital visa system aims to kill two birds with one stone, easing overtourism in popular spots while encouraging travelers to cast a wider net across lesser-known prefectures.",
+          "This strategic move not only alleviates pressure on hotspots but also allows visitors to truly get under the skin of Japan's rich regional heritage, moving beyond mere sightseeing."
+        ],
+        "sentenceTranslations": [
+          "일본의 새로운 디지털 비자 시스템은 인기 관광지의 과잉 관광 문제를 완화하는 동시에, 여행객들이 덜 알려진 현들을 폭넓게 둘러보도록 장려하며 일석이조의 효과를 노립니다.",
+          "이 전략적인 움직임은 번화한 관광지의 부담을 덜어줄 뿐만 아니라, 방문객들이 단순한 관광을 넘어 일본의 풍부한 지역 유산을 진정으로 깊이 이해하도록 돕습니다."
+        ],
+        "translationHighlights": [
+          "일석이조의 효과를 노립니다",
+          "폭넓게 둘러보도록 장려하며",
+          "깊이 이해하도록 돕습니다"
+        ],
+        "newWords": [
+          {
+            "word": "kill two birds with one stone",
+            "meaning": "일석이조의 효과를 보다, 한 번에 두 가지 목표를 달성하다",
+            "context": "aims to kill two birds with one stone, easing overtourism..."
+          },
+          {
+            "word": "cast a wider net",
+            "meaning": "더 넓은 범위의 대상을 고려하다/탐색하다, 선택의 폭을 넓히다",
+            "context": "encouraging travelers to cast a wider net across lesser-known prefectures."
+          },
+          {
+            "word": "get under the skin of",
+            "meaning": "~의 진면목을 파고들다, ~을 깊이 이해하다",
+            "context": "truly get under the skin of Japan's rich regional heritage"
+          }
+        ]
+      },
       {
         "sentences": [
           "Emirates is clearly riding the crest of a wave with its strong Q2 projections, especially for premium long-haul cabins to new destinations like Medellín.",
@@ -6080,6 +6173,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Carlos Alcaraz truly has his work cut out for him at the French Open, aiming for a historic third consecutive title amidst recent injury concerns.",
+          "From the NBA Western Conference Finals, which are expected to come down to the wire, to the Valorant tournament that has kept millions on the edge of their seats, the excitement is palpable."
+        ],
+        "sentenceTranslations": [
+          "최근 부상 우려에도 불구하고, 카를로스 알카라스는 다가오는 프랑스 오픈에서 역사적인 3연속 우승을 노리기에 정말로 쉽지 않은 도전에 직면해 있습니다.",
+          "승부가 막판까지 예측 불가능할 NBA 서부 컨퍼런스 결승전부터 시청자들을 손에 땀을 쥐게 한 발로란트 토너먼트까지, 그 열기는 생생하게 느껴집니다."
+        ],
+        "translationHighlights": [
+          "쉽지 않은 도전에 직면해 있습니다",
+          "승부가 막판까지 예측 불가능할",
+          "손에 땀을 쥐게 한",
+          "열기는 생생하게 느껴집니다"
+        ],
+        "newWords": [
+          {
+            "word": "have one's work cut out for them",
+            "meaning": "힘든 과제/도전에 직면하다, 할 일이 태산이다",
+            "context": "Carlos Alcaraz truly has his work cut out for him"
+          },
+          {
+            "word": "come down to the wire",
+            "meaning": "막판까지 승부를 알 수 없다, 마지막 순간까지 접전이다",
+            "context": "expected to come down to the wire"
+          },
+          {
+            "word": "on the edge of their seats",
+            "meaning": "매우 흥미진진해하며 (결과를) 애타게 기다리는",
+            "context": "kept millions on the edge of their seats"
+          }
+        ]
+      },
       {
         "sentences": [
           "With Giannis Antetokounmpo having knocked it out of the park in Game 4, tonight's pivotal Game 5 is truly make or break for both the Celtics and the Bucks in the Eastern Conference Finals.",
