@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "For many young adults, the dream of homeownership feels like chasing a wild goose, with property values continually soaring far beyond their reach.",
+          "While fintech solutions like NestWise AI aim to help first-time buyers get their ducks in a row, the EFF's caution reminds us that powerful tools can sometimes be a wolf in sheep's clothing if data privacy isn't robust."
+        ],
+        "sentenceTranslations": [
+          "많은 젊은이들에게 주택 소유의 꿈은 계속 치솟는 집값 때문에 마치 헛된 노력을 하는 것처럼 느껴집니다.",
+          "네스트와이즈 AI 같은 핀테크 솔루션이 첫 주택 구매자들이 만반의 준비를 갖추도록 돕는 것을 목표로 하지만, EFF의 경고는 데이터 프라이버시가 강력하지 않다면 강력한 도구도 때로는 양의 탈을 쓴 늑대가 될 수 있음을 상기시켜 줍니다."
+        ],
+        "translationHighlights": [
+          "헛된 노력을 하는 것처럼",
+          "만반의 준비를 갖추도록",
+          "양의 탈을 쓴 늑대"
+        ],
+        "newWords": [
+          {
+            "word": "chasing a wild goose",
+            "meaning": "헛된 노력을 하는 것, 불가능한 것을 쫓는 것",
+            "context": "the dream of homeownership feels like chasing a wild goose"
+          },
+          {
+            "word": "get their ducks in a row",
+            "meaning": "일을 정리하다, 만반의 준비를 갖추다",
+            "context": "aim to help first-time buyers get their ducks in a row"
+          },
+          {
+            "word": "a wolf in sheep's clothing",
+            "meaning": "양의 탈을 쓴 늑대 (겉은 온화하나 속은 해로운 것)",
+            "context": "powerful tools can sometimes be a wolf in sheep's clothing"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As AI tools like Conductor swiftly become standard in daily professional life, many organizations are scrambling to get on the bandwagon to harness newfound productivity.",
           "Yet, Dr. Sharma's warning underscores that without adequate ethical training and literacy, this rapid technological shift could quickly become a double-edged sword, creating more problems than it solves."
         ],
@@ -2108,6 +2140,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The U.S. Commerce Department's export restrictions on advanced AI chip manufacturing equipment are a clear attempt to pull the rug out from under Beijing's technological ambitions, extending their impact to third-party foundries.",
+          "However, NVIDIA is expertly making hay while the sun shines, securing a major partnership with Saudi Aramco and seeing its stock surge, demonstrating that some companies can swim against the tide of geopolitical tensions."
+        ],
+        "sentenceTranslations": [
+          "미국 상무부의 첨단 AI 칩 제조 장비 수출 규제는 베이징의 기술 야망에 갑자기 발목을 잡으려는 분명한 시도이며, 그 영향은 제3자 파운드리까지 미칩니다.",
+          "하지만 엔비디아는 기회가 왔을 때 놓치지 않고 사우디 아람코와의 주요 파트너십을 확보하고 주가가 급등하는 등 지정학적 긴장의 흐름에 역행해서도 일부 기업은 성공할 수 있음을 보여주고 있습니다."
+        ],
+        "translationHighlights": [
+          "갑자기 발목을 잡으려는",
+          "기회가 왔을 때 놓치지 않고",
+          "흐름에 역행해서도 성공할 수 있음"
+        ],
+        "newWords": [
+          {
+            "word": "pull the rug out from under",
+            "meaning": "갑자기 발목을 잡다, 지원을 끊어버리다",
+            "context": "to pull the rug out from under Beijing's technological ambitions"
+          },
+          {
+            "word": "make hay while the sun shines",
+            "meaning": "기회가 왔을 때 놓치지 않고 활용하다",
+            "context": "making hay while the sun shines"
+          },
+          {
+            "word": "swim against the tide",
+            "meaning": "흐름에 역행하다, 대세를 거스르다",
+            "context": "some companies can swim against the tide"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With the EU AI Act's high-risk provisions fast approaching, generative AI developers like Anthropic are going the extra mile to beef up their ethical auditing, rather than cutting corners.",
           "This commitment is crucial, especially as investors try to read the tea leaves on AI chip demand amidst geopolitical tensions that could throw a wrench in the works for global supply chains and trade."
         ],
@@ -4134,6 +4198,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "While the new ETIAS system is currently experiencing some rollout complexities and getting off to a rocky start, the European travel industry remains optimistic for the peak summer season.",
+          "Destinations like Georgia's Kakheti region are eager to catch the wave of experiential tourism, but looming airline consolidation could make long-haul access a harder nut to crack for many international visitors."
+        ],
+        "sentenceTranslations": [
+          "새로운 ETIAS 시스템이 초기 도입 단계에서 일부 복잡성을 겪으며 순탄치 않은 출발을 하고 있지만, 유럽 여행업계는 성수기 여름 시즌에 대해 여전히 낙관적인 전망을 유지하고 있습니다.",
+          "조지아의 카헤티 지역과 같은 여행지들은 체험 관광의 물결을 타기를 간절히 바라지만, 임박한 항공사 합병은 많은 해외 방문객들에게 장거리 접근성을 해결하기 어려운 문제로 만들 수 있습니다."
+        ],
+        "translationHighlights": [
+          "순탄치 않은 출발을 하고 있지만",
+          "낙관적인 전망을 유지하고 있습니다",
+          "체험 관광의 물결을 타기를",
+          "해결하기 어려운 문제로 만들 수 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "getting off to a rocky start",
+            "meaning": "순탄치 않은 출발을 하다, 시작부터 난항을 겪다",
+            "context": "getting off to a rocky start"
+          },
+          {
+            "word": "catch the wave",
+            "meaning": "물결을 타다, (유행이나 기회를) 흐름을 타다",
+            "context": "eager to catch the wave of experiential tourism"
+          },
+          {
+            "word": "a harder nut to crack",
+            "meaning": "해결하기 어려운 문제 (때로는 다루기 힘든 사람)",
+            "context": "make long-haul access a harder nut to crack"
+          }
+        ]
+      },
       {
         "sentences": [
           "Japan's new digital visa system aims to kill two birds with one stone, easing overtourism in popular spots while encouraging travelers to cast a wider net across lesser-known prefectures.",
@@ -6173,6 +6270,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With the UEFA Champions League Final fast approaching, Pep Guardiola's confident remarks suggest Manchester City is poised to deliver the goods on the pitch.",
+          "Meanwhile, the record viewership for the VCT Masters Grand Finals, along with the surge in adventure cycling, clearly shows that these engaging activities are starting to take the world by storm."
+        ],
+        "sentenceTranslations": [
+          "UEFA 챔피언스리그 결승전이 코앞으로 다가온 가운데, 펩 과르디올라 감독의 자신감 넘치는 발언은 맨체스터 시티가 경기장에서 중요한 순간에 기량을 발휘할 준비가 되어 있음을 암시합니다.",
+          "한편, VCT 마스터스 그랜드 파이널의 기록적인 시청률과 모험 자전거 여행의 급증은 이러한 매력적인 활동들이 선풍적인 인기를 끌기 시작하고 있음을 명확히 보여줍니다."
+        ],
+        "translationHighlights": [
+          "코앞으로 다가온 가운데",
+          "기량을 발휘할 준비가 되어 있음을 암시합니다",
+          "기록적인 시청률",
+          "선풍적인 인기를 끌기 시작하고 있음을"
+        ],
+        "newWords": [
+          {
+            "word": "deliver the goods",
+            "meaning": "기대에 부응하여 좋은 결과를 내다; 약속대로 실행하다",
+            "context": "poised to deliver the goods on the pitch"
+          },
+          {
+            "word": "take the world by storm",
+            "meaning": "선풍적인 인기를 끌다; 급속도로 유명해지다",
+            "context": "starting to take the world by storm"
+          }
+        ]
+      },
       {
         "sentences": [
           "Carlos Alcaraz truly has his work cut out for him at the French Open, aiming for a historic third consecutive title amidst recent injury concerns.",
