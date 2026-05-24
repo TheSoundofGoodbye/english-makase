@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With hybrid models solidifying, many young professionals are increasingly feeling like they're operating in a silo, disconnected from the vibrant office communities of the past.",
+          "Apps like 'Nexus Connect' are stepping up to turn the tide against this digital isolation, aiming to foster a sense of community that's been lacking."
+        ],
+        "sentenceTranslations": [
+          "하이브리드 근무 형태가 확고해지면서, 많은 젊은 직장인들이 과거의 활기찬 사무실 공동체와 단절된 채 고립되어 활동하는 기분을 점차 더 느끼고 있습니다.",
+          "'넥서스 커넥트'와 같은 앱들은 이러한 디지털 고립에 맞서 흐름을 역전시키고, 부족했던 공동체 의식을 함양하는 것을 목표로 적극 나서고 있습니다."
+        ],
+        "translationHighlights": [
+          "고립되어 활동하는",
+          "활기찬 사무실 공동체와 단절된 채",
+          "흐름을 역전시키고",
+          "공동체 의식을 함양하는"
+        ],
+        "newWords": [
+          {
+            "word": "operating in a silo",
+            "meaning": "고립되어 활동하다, 단절된 채 일하다",
+            "context": "feeling like they're operating in a silo"
+          },
+          {
+            "word": "turn the tide",
+            "meaning": "상황을 역전시키다, 흐름을 바꾸다",
+            "context": "stepping up to turn the tide against this digital isolation"
+          },
+          {
+            "word": "foster a sense of community",
+            "meaning": "공동체 의식을 함양하다/촉진하다",
+            "context": "aiming to foster a sense of community"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "For many young adults, the dream of homeownership feels like chasing a wild goose, with property values continually soaring far beyond their reach.",
           "While fintech solutions like NestWise AI aim to help first-time buyers get their ducks in a row, the EFF's caution reminds us that powerful tools can sometimes be a wolf in sheep's clothing if data privacy isn't robust."
         ],
@@ -2140,6 +2173,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With NVIDIA's market cap now topping $4 trillion, it's clear the AI industry is truly hitting its stride, cementing its role as a major economic powerhouse.",
+          "This unprecedented momentum is compelling other giants, like Siemens, to double down on AI-driven automation, especially as they look to future-proof their industrial operations."
+        ],
+        "sentenceTranslations": [
+          "엔비디아의 시가총액이 4조 달러를 넘어서면서, AI 산업이 진정으로 전성기를 맞이하며 주요 경제 강국으로서의 입지를 굳히고 있음을 알 수 있습니다.",
+          "이 전례 없는 추진력은 지멘스와 같은 다른 대기업들이 산업 운영을 미래에도 대비하기 위해 AI 기반 자동화에 투자를 늘리도록 만들고 있습니다."
+        ],
+        "translationHighlights": [
+          "진정으로 전성기를 맞이하며",
+          "입지를 굳히고 있음을 알 수 있습니다",
+          "투자를 늘리도록 만들고 있습니다",
+          "미래에도 대비하기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "최고의 기량을 발휘하기 시작하다; 전성기를 맞이하다",
+            "context": "the AI industry is truly hitting its stride"
+          },
+          {
+            "word": "double down on",
+            "meaning": "노력/투자 등을 두 배로 늘리다; (위험을 무릅쓰고) 더 많은 것을 걸다",
+            "context": "to double down on AI-driven automation"
+          },
+          {
+            "word": "future-proof",
+            "meaning": "미래에도 사용 가능하도록 대비하다/설계하다",
+            "context": "to future-proof their industrial operations"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The U.S. Commerce Department's export restrictions on advanced AI chip manufacturing equipment are a clear attempt to pull the rug out from under Beijing's technological ambitions, extending their impact to third-party foundries.",
           "However, NVIDIA is expertly making hay while the sun shines, securing a major partnership with Saudi Aramco and seeing its stock surge, demonstrating that some companies can swim against the tide of geopolitical tensions."
         ],
@@ -4198,6 +4264,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "India's expanded e-visa program is poised to cast a wider net, attracting a new wave of visitors eager to explore regions beyond the typical tourist circuits.",
+          "This initiative, by making travel easier, will pave the way for more people to get off the beaten track and immerse themselves in India's rich, authentic cultural tapestry."
+        ],
+        "sentenceTranslations": [
+          "인도의 확대된 전자 비자 프로그램은 일반적인 관광 코스를 넘어선 지역을 탐험하고 싶어 하는 새로운 방문객들을 유치하며 더 넓은 범위의 관광객을 끌어모을 준비가 되어 있습니다.",
+          "여행을 더 쉽게 함으로써, 이 계획은 더 많은 사람들이 정해진 코스를 벗어나 인도의 풍부하고 진정한 문화적 태피스트리에 푹 빠져들 수 있도록 길을 열어줄 것입니다."
+        ],
+        "translationHighlights": [
+          "더 넓은 범위의 관광객을 끌어모으다",
+          "길을 열어주다",
+          "정해진 코스를 벗어나다"
+        ],
+        "newWords": [
+          {
+            "word": "cast a wider net",
+            "meaning": "더 넓은 범위의 사람이나 기회를 찾다 / 더 많은 것을 포함시키다",
+            "context": "poised to cast a wider net"
+          },
+          {
+            "word": "pave the way for",
+            "meaning": "~의 길을 닦다 / ~을 위한 여건을 만들다",
+            "context": "will pave the way for"
+          },
+          {
+            "word": "get off the beaten track",
+            "meaning": "잘 알려지지 않은 곳으로 가다 / 일반적인 관광 코스를 벗어나다",
+            "context": "to get off the beaten track"
+          }
+        ]
+      },
       {
         "sentences": [
           "While the new ETIAS system is currently experiencing some rollout complexities and getting off to a rocky start, the European travel industry remains optimistic for the peak summer season.",
@@ -6270,6 +6368,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With the Nuggets now having a commanding 3-1 lead and T1 solidifying their reign with another MSI title, it's clear these teams are **on a roll** in their respective leagues.",
+          "For their competitors, **the writing is on the wall**; they'll need to step up their game considerably to even hope to keep pace with these powerhouse organizations."
+        ],
+        "sentenceTranslations": [
+          "너기츠가 3-1로 압도적인 우위를 점하고 T1이 또 한 번의 MSI 우승으로 입지를 굳히면서, 이 팀들이 각 리그에서 **승승장구하고 있음**이 분명합니다.",
+          "경쟁자들에게는 **앞날이 뻔히 보인다**고 할 수 있습니다. 이 막강한 조직들과 보조를 맞추려면 상당한 수준으로 실력을 끌어올려야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "승승장구하고 있음",
+          "입지를 굳히면서",
+          "앞날이 뻔히 보인다",
+          "보조를 맞추려면"
+        ],
+        "newWords": [
+          {
+            "word": "on a roll",
+            "meaning": "승승장구하다, 잘나가다",
+            "context": "it's clear these teams are **on a roll** in their respective leagues"
+          },
+          {
+            "word": "the writing is on the wall",
+            "meaning": "결과가 뻔하다, 불길한 예감이 들다",
+            "context": "For their competitors, **the writing is on the wall**"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the UEFA Champions League Final fast approaching, Pep Guardiola's confident remarks suggest Manchester City is poised to deliver the goods on the pitch.",
