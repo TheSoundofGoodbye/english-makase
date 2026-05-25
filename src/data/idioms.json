@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Many young professionals often find themselves burning the candle at both ends, struggling to keep their professional and personal lives in sync.",
+          "Synthetica's new AI assistant, Aura, could be a real shot in the arm for those looking to regain control and combat digital burnout."
+        ],
+        "sentenceTranslations": [
+          "많은 젊은 직장인들은 종종 밤낮없이 일하며, 직장과 개인 생활의 균형을 맞추는 데 어려움을 겪고 있습니다.",
+          "신세티카의 새로운 AI 비서인 Aura는 디지털 번아웃에 맞서고 통제력을 되찾으려는 이들에게 진정으로 큰 힘이 될 수 있습니다."
+        ],
+        "translationHighlights": [
+          "밤낮없이 일하며",
+          "균형을 맞추는 데 어려움을 겪고 있습니다",
+          "큰 힘이 될 수 있습니다",
+          "디지털 번아웃에 맞서고 통제력을 되찾으려는"
+        ],
+        "newWords": [
+          {
+            "word": "burn the candle at both ends",
+            "meaning": "밤낮없이 일하다, 무리하게 일하다",
+            "context": "Many young professionals often find themselves burning the candle at both ends, struggling..."
+          },
+          {
+            "word": "a shot in the arm",
+            "meaning": "(경제적, 정신적) 활력소, 큰 힘이 되는 것",
+            "context": "Aura, could be a real shot in the arm for those looking to regain control..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With hybrid models solidifying, many young professionals are increasingly feeling like they're operating in a silo, disconnected from the vibrant office communities of the past.",
           "Apps like 'Nexus Connect' are stepping up to turn the tide against this digital isolation, aiming to foster a sense of community that's been lacking."
         ],
@@ -2173,6 +2201,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Amidst the fever pitch surrounding AI accelerators, companies like TSMC are having to pull out all the stops to meet unprecedented demand, even accelerating their fab plans.",
+          "Simultaneously, as the U.S. Commerce Secretary prepares to unveil new export controls, the industry finds itself walking a tightrope, trying to balance crucial innovation with heightened national security concerns."
+        ],
+        "sentenceTranslations": [
+          "AI 가속기(accelerator)를 둘러싼 열광적인 분위기 속에서, TSMC 같은 기업들은 전례 없는 수요를 맞추기 위해 총력을 기울여야만 하며, 심지어 공장 건설 계획까지 앞당기고 있습니다.",
+          "동시에, 미국 상무부 장관이 새로운 수출 규제 발표를 준비하는 가운데, 업계는 중요한 혁신과 강화된 국가 안보 우려 사이에서 위태로운 균형을 유지해야 하는 상황에 놓여 있습니다."
+        ],
+        "translationHighlights": [
+          "열광적인 분위기",
+          "총력을 기울여야만",
+          "위태로운 균형을 유지해야 하는"
+        ],
+        "newWords": [
+          {
+            "word": "fever pitch",
+            "meaning": "극도로 흥분한 상태, 열광적인 분위기",
+            "context": "Amidst the fever pitch surrounding AI accelerators"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "총력을 기울이다, 모든 수단을 동원하다",
+            "context": "having to pull out all the stops to meet unprecedented demand"
+          },
+          {
+            "word": "walking a tightrope",
+            "meaning": "위태로운 균형을 유지하다, 매우 어려운 상황을 신중하게 헤쳐나가다",
+            "context": "the industry finds itself walking a tightrope"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With NVIDIA's market cap now topping $4 trillion, it's clear the AI industry is truly hitting its stride, cementing its role as a major economic powerhouse.",
           "This unprecedented momentum is compelling other giants, like Siemens, to double down on AI-driven automation, especially as they look to future-proof their industrial operations."
         ],
@@ -4264,6 +4324,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Vietnam Airlines' strategy to expand direct services to emerging eco-tourism hubs like Phu Quoc and Da Lat is a clear sign they are casting a wider net to capture diverse traveler segments.",
+          "Meanwhile, the surge in 'slow travel' bookings for Hokkaido's artisan workshops marks a sea change in traveler preferences, moving beyond the well-trodden tourist paths."
+        ],
+        "sentenceTranslations": [
+          "베트남항공이 푸꾸옥과 달랏 같은 신흥 생태 관광지로 직항 노선을 확장하는 전략은 다양한 여행객층을 확보하기 위해 범위를 넓히고 있다는 분명한 신호입니다.",
+          "한편, 홋카이도 장인 워크숍 예약의 '느린 여행' 급증은 여행객들이 기존의 관광 경로를 벗어나면서 선호도에 큰 변화가 생겼음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "범위를 넓히고 있다는",
+          "다양한 여행객층을 확보하기 위해",
+          "큰 변화가 생겼음을",
+          "기존의 관광 경로를 벗어나면서"
+        ],
+        "newWords": [
+          {
+            "word": "casting a wider net",
+            "meaning": "범위를 넓히다, 더 많은 가능성을 찾다",
+            "context": "are casting a wider net to capture diverse traveler segments"
+          },
+          {
+            "word": "a sea change",
+            "meaning": "큰 변화, 격변",
+            "context": "marks a sea change in traveler preferences"
+          }
+        ]
+      },
       {
         "sentences": [
           "India's expanded e-visa program is poised to cast a wider net, attracting a new wave of visitors eager to explore regions beyond the typical tourist circuits.",
@@ -6368,6 +6456,33 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "While Iga Swiatek breezed through her first match, several seeded players at the French Open found themselves facing an uphill battle, demonstrating that early rounds can often be deceptively challenging.",
+          "Conversely, the Boston Celtics are clearly in the driver's seat in the NBA Eastern Conference Finals, with their dominant 3-1 lead making their path to the championship look all but assured."
+        ],
+        "sentenceTranslations": [
+          "이가 시비옹테크가 첫 경기를 쉽게 통과한 반면, 프랑스 오픈의 몇몇 시드 선수들은 힘든 싸움에 직면했으며, 이는 초반 라운드가 종종 예상치 못하게 어려울 수 있음을 보여줍니다.",
+          "이와는 대조적으로, 보스턴 셀틱스는 NBA 동부 컨퍼런스 결승전에서 명백히 주도권을 쥐고 있으며, 3대1의 압도적인 리드는 그들의 챔피언십 우승을 거의 확실하게 만듭니다."
+        ],
+        "translationHighlights": [
+          "힘든 싸움에 직면했으며",
+          "주도권을 쥐고 있으며",
+          "거의 확실하게 만듭니다"
+        ],
+        "newWords": [
+          {
+            "word": "facing an uphill battle",
+            "meaning": "힘든 싸움에 직면하다, 어려운 과제에 직면하다",
+            "context": "found themselves **facing an uphill battle**"
+          },
+          {
+            "word": "in the driver's seat",
+            "meaning": "주도권을 쥐고 있다, 유리한 위치에 있다",
+            "context": "are clearly **in the driver's seat**"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the Nuggets now having a commanding 3-1 lead and T1 solidifying their reign with another MSI title, it's clear these teams are **on a roll** in their respective leagues.",
