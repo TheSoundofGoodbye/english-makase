@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With advanced AI tools fundamentally reshaping administrative and analytical roles, many employees are currently *feeling the pinch* when it comes to job security.",
+          "Therefore, to truly *stay ahead of the curve*, it's crucial for individuals to *get up to speed* on new adaptive skills, viewing this shift as an augmentation, not a replacement."
+        ],
+        "sentenceTranslations": [
+          "선진 AI 도구가 행정 및 분석 역할을 근본적으로 재편하면서, 많은 직원들이 일자리 안정성 면에서 현재 *어려움을 겪고 있습니다*.",
+          "따라서 진정으로 *시대의 흐름에 앞서 나가려면*, 개개인이 새로운 적응 기술들을 *빨리 익히는 것*이 중요하며, 이러한 변화를 대체가 아닌 보강으로 보아야 합니다."
+        ],
+        "translationHighlights": [
+          "어려움을 겪고 있습니다",
+          "시대의 흐름에 앞서 나가려면",
+          "빨리 익히는 것"
+        ],
+        "newWords": [
+          {
+            "word": "feeling the pinch",
+            "meaning": "경제적으로 쪼들리거나 어떤 어려움/압박을 느끼다",
+            "context": "many employees are currently feeling the pinch when it comes to job security"
+          },
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "시대의 흐름에 앞서 나가다, 최신 동향을 파악하고 대비하다",
+            "context": "to truly stay ahead of the curve, it's crucial"
+          },
+          {
+            "word": "get up to speed",
+            "meaning": "최신 정보를 파악하다, 어떤 것에 대해 빨리 배우고 익숙해지다",
+            "context": "individuals to get up to speed on new adaptive skills"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Many young professionals often find themselves burning the candle at both ends, struggling to keep their professional and personal lives in sync.",
           "Synthetica's new AI assistant, Aura, could be a real shot in the arm for those looking to regain control and combat digital burnout."
         ],
