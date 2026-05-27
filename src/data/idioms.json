@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With AI poised to displace a significant portion of entry-level roles, the writing is on the wall for financial services companies to adapt quickly.",
+          "To ensure an equitable transition and effectively reskill workers, G7 leaders must take the bull by the horns and implement bold new initiatives."
+        ],
+        "sentenceTranslations": [
+          "AI가 상당수의 초급 일자리를 대체할 준비를 하면서, 금융 서비스 기업들이 빠르게 적응해야 할 필요성이 명백해졌습니다.",
+          "공정한 전환을 보장하고 근로자들을 효과적으로 재교육하기 위해, G7 지도자들은 이 난국을 정면으로 돌파하고 과감한 새 정책을 실행해야 합니다."
+        ],
+        "translationHighlights": [
+          "명백해졌습니다",
+          "빠르게 적응해야 할 필요성",
+          "난국을 정면으로 돌파하고",
+          "과감한 새 정책"
+        ],
+        "newWords": [
+          {
+            "word": "the writing is on the wall",
+            "meaning": "(주로 부정적인) 미래가 명백함 / 징조가 보임",
+            "context": "the writing is on the wall for financial services companies"
+          },
+          {
+            "word": "take the bull by the horns",
+            "meaning": "(어려운 일을) 정면으로 맞서 처리하다 / 용감하게 대처하다",
+            "context": "G7 leaders must take the bull by the horns"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With advanced AI tools fundamentally reshaping administrative and analytical roles, many employees are currently *feeling the pinch* when it comes to job security.",
           "Therefore, to truly *stay ahead of the curve*, it's crucial for individuals to *get up to speed* on new adaptive skills, viewing this shift as an augmentation, not a replacement."
         ],
@@ -2233,6 +2261,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Google DeepMind's unveiling of Gemini Pro 2 truly throws down the gauntlet in the enterprise AI sector, signaling an aggressive push to dominate the market.",
+          "Consequently, smaller AI-as-a-service providers will now have their work cut out for them as they scramble to stay relevant amidst this intensified competition."
+        ],
+        "sentenceTranslations": [
+          "구글 딥마인드가 제미니 프로 2를 공개한 것은 기업용 AI 분야에 진정으로 도전장을 던진 것이며, 시장을 지배하려는 공격적인 공세를 알리는 신호입니다.",
+          "결과적으로, 소규모 AI 서비스 제공업체들은 이제 치열해진 경쟁 속에서 자신들의 존재감을 유지하기 위해 서둘러 노력해야 하므로 정말 힘든 싸움을 벌여야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "도전장을 던진",
+          "공격적인 공세",
+          "힘든 싸움을 벌여야 할 것입니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw down the gauntlet",
+            "meaning": "도전장을 던지다, 싸움을 걸다",
+            "context": "truly throws down the gauntlet in the enterprise AI sector"
+          },
+          {
+            "word": "aggressive push",
+            "meaning": "공격적인 추진, 적극적인 공세",
+            "context": "signaling an aggressive push to dominate the market"
+          },
+          {
+            "word": "have one's work cut out for them",
+            "meaning": "힘든 과제를 맡게 되다, 할 일이 태산이다",
+            "context": "will now have their work cut out for them"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Amidst the fever pitch surrounding AI accelerators, companies like TSMC are having to pull out all the stops to meet unprecedented demand, even accelerating their fab plans.",
           "Simultaneously, as the U.S. Commerce Secretary prepares to unveil new export controls, the industry finds itself walking a tightrope, trying to balance crucial innovation with heightened national security concerns."
         ],
@@ -4356,6 +4416,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With the Chinese outbound market firing on all cylinders, Southeast Asia's tourism sector is going from strength to strength, but airline capacity on key routes is truly feeling the pinch.",
+          "In response, Thailand's Ministry of Tourism is working hard to strike a delicate balance with initiatives like the new digital nomad visa, ensuring they don't kill the goose that lays the golden eggs by over-tourism."
+        ],
+        "sentenceTranslations": [
+          "중국 해외여행 시장이 완전히 활성화되면서, 동남아시아 관광 부문은 점점 더 번성하고 있지만, 주요 노선의 항공 수용력이 진정으로 압박을 받고 있습니다.",
+          "이에 대응하여, 태국 관광부는 새로운 디지털 노마드 비자 같은 정책으로 미묘한 균형을 잡기 위해 노력하며, 과잉 관광으로 황금알을 낳는 거위를 죽이지 않도록 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "완전히 활성화되면서",
+          "점점 더 번성하고 있지만",
+          "압박을 받고 있습니다",
+          "미묘한 균형을 잡기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고의 효율로 작동하다, 완전히 활성화되다",
+            "context": "Chinese outbound market firing on all cylinders"
+          },
+          {
+            "word": "going from strength to strength",
+            "meaning": "점점 더 강해지다, 번성하다",
+            "context": "tourism sector is going from strength to strength"
+          },
+          {
+            "word": "feeling the pinch",
+            "meaning": "경제적 어려움을 느끼다, 압박을 받다",
+            "context": "truly feeling the pinch"
+          }
+        ]
+      },
       {
         "sentences": [
           "Vietnam Airlines' strategy to expand direct services to emerging eco-tourism hubs like Phu Quoc and Da Lat is a clear sign they are casting a wider net to capture diverse traveler segments.",
