@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The World Economic Forum's report suggests that while Gen Z professionals are swiftly jumping on the bandwagon of AI for administrative tasks, this integration presents a double-edged sword for workplace dynamics.",
+          "HR leaders like Susan Wojcicki are therefore scrambling to strike a balance, determined not to let vital human collaboration fall by the wayside as automation takes center stage."
+        ],
+        "sentenceTranslations": [
+          "세계경제포럼의 보고서에 따르면 Z세대 전문가들이 행정 업무에 AI를 신속하게 도입하고 있지만, 이러한 통합은 직장 역학 관계에 있어 양날의 검과 같습니다.",
+          "따라서 수잔 워치츠키와 같은 HR 리더들은 자동화가 중심이 되는 상황에서 필수적인 인간 협력이 뒷전으로 밀려나지 않도록 균형을 맞추기 위해 고심하고 있습니다."
+        ],
+        "translationHighlights": [
+          "양날의 검과 같습니다",
+          "균형을 맞추기 위해 고심하고 있습니다",
+          "뒷전으로 밀려나지 않도록"
+        ],
+        "newWords": [
+          {
+            "word": "jump on the bandwagon",
+            "meaning": "유행을 따르다, 시류에 편승하다",
+            "context": "swiftly jumping on the bandwagon of AI"
+          },
+          {
+            "word": "double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가짐)",
+            "context": "presents a double-edged sword"
+          },
+          {
+            "word": "fall by the wayside",
+            "meaning": "뒷전으로 밀려나다, 버려지다, 잊히다",
+            "context": "not to let vital human collaboration fall by the wayside"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With AI poised to displace a significant portion of entry-level roles, the writing is on the wall for financial services companies to adapt quickly.",
           "To ensure an equitable transition and effectively reskill workers, G7 leaders must take the bull by the horns and implement bold new initiatives."
         ],
@@ -2261,6 +2293,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Sam Altman's ambitious plan to establish a global AI chip foundry with Saudi Arabia’s PIF suggests he's *betting the farm* on securing a dominant position in the crucial hardware supply chain.",
+          "Meanwhile, as G7 ministers *iron out the kinks* in AI regulation, companies like OpenAI will need to carefully *read the tea leaves* to adapt to the evolving competitive landscape and ensure fair play."
+        ],
+        "sentenceTranslations": [
+          "샘 알트먼이 사우디 국부펀드와 함께 글로벌 AI 칩 파운드리를 설립하려는 야심찬 계획은 그가 핵심 하드웨어 공급망에서 지배적인 위치를 확보하는 데 *모든 것을 걸고 있다*는 것을 시사합니다.",
+          "한편, G7 장관들이 AI 규제에 대한 *난제를 해결해나가는* 동안, OpenAI와 같은 기업들은 변화하는 경쟁 구도에 적응하고 공정한 경쟁을 보장하기 위해 *미래를 예견해야 할* 것입니다."
+        ],
+        "translationHighlights": [
+          "모든 것을 걸고 있다",
+          "지배적인 위치를 확보하는 데",
+          "난제를 해결해나가는",
+          "미래를 예견해야 할"
+        ],
+        "newWords": [
+          {
+            "word": "betting the farm",
+            "meaning": "모든 것을 걸다; 큰 위험을 감수하다",
+            "context": "he's *betting the farm* on securing a dominant position"
+          },
+          {
+            "word": "iron out the kinks",
+            "meaning": "난제/문제점을 해결하다; 매끄럽게 처리하다",
+            "context": "as G7 ministers *iron out the kinks* in AI regulation"
+          },
+          {
+            "word": "read the tea leaves",
+            "meaning": "미래를 예견하다; 징후를 통해 상황을 판단하다",
+            "context": "will need to carefully *read the tea leaves* to adapt"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Google DeepMind's unveiling of Gemini Pro 2 truly throws down the gauntlet in the enterprise AI sector, signaling an aggressive push to dominate the market.",
           "Consequently, smaller AI-as-a-service providers will now have their work cut out for them as they scramble to stay relevant amidst this intensified competition."
         ],
@@ -4416,6 +4481,33 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The launch of the GCC Schengen-style visa today really rolls out the red carpet for tourists eager to explore the diverse cultures of the Gulf region without bureaucratic hurdles.",
+          "This landmark policy is expected to give a shot in the arm to cultural tourism, especially for emerging destinations like Saudi Arabia and Oman, which are now poised to attract a much broader international audience."
+        ],
+        "sentenceTranslations": [
+          "오늘 출시된 GCC 솅겐식 비자는 행정적인 번거로움 없이 걸프 지역의 다채로운 문화를 탐험하고 싶어 하는 관광객들에게 정말 특별한 환영을 베풀고 있습니다.",
+          "이 획기적인 정책은 특히 사우디아라비아와 오만 같은 신흥 관광지들의 문화 관광에 활력을 불어넣을 것으로 예상되며, 이제 이 지역들은 훨씬 더 폭넓은 국제 관광객을 유치할 준비가 되었습니다."
+        ],
+        "translationHighlights": [
+          "특별한 환영을 베풀고 있습니다",
+          "행정적인 번거로움 없이",
+          "활력을 불어넣을 것으로"
+        ],
+        "newWords": [
+          {
+            "word": "roll out the red carpet",
+            "meaning": "특별한 환영을 베풀다, 극진히 대접하다",
+            "context": "really rolls out the red carpet for tourists"
+          },
+          {
+            "word": "give a shot in the arm",
+            "meaning": "활력을 불어넣다, 원기를 북돋아 주다",
+            "context": "expected to give a shot in the arm to cultural tourism"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the Chinese outbound market firing on all cylinders, Southeast Asia's tourism sector is going from strength to strength, but airline capacity on key routes is truly feeling the pinch.",
