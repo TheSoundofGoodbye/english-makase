@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Major corporations are walking a tightrope, trying to integrate AI for efficiency while simultaneously addressing the mental health fallout among their employees.",
+          "However, privacy advocates fear that Microsoft's new AI wellness tools could be a slippery slope towards unchecked data collection, raising more questions than answers."
+        ],
+        "sentenceTranslations": [
+          "주요 기업들은 AI 통합으로 인한 효율성 증대와 동시에 직원들의 정신 건강 문제에 대처하려고 애쓰며 위태로운 줄타기를 하고 있습니다.",
+          "하지만 프라이버시 옹호자들은 마이크로소프트의 새로운 AI 웰니스 도구가 무분별한 데이터 수집으로 이어지는 미끄러운 비탈길이 될 수 있다고 우려하며, 해답보다 더 많은 의문을 제기하고 있습니다."
+        ],
+        "translationHighlights": [
+          "위태로운 줄타기를 하고 있습니다",
+          "정신 건강 문제에 대처하려고 애쓰며",
+          "미끄러운 비탈길",
+          "해답보다 더 많은 의문을 제기하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "walking a tightrope",
+            "meaning": "위태로운 상황에서 균형을 잡다, 위험을 무릅쓰고 어려운 상황을 헤쳐나가다",
+            "context": "Major corporations are walking a tightrope, trying to integrate AI..."
+          },
+          {
+            "word": "slippery slope",
+            "meaning": "바람직하지 않은 결과로 이어질 수 있는 경사길/상황",
+            "context": "...could be a slippery slope towards unchecked data collection..."
+          },
+          {
+            "word": "raising more questions than answers",
+            "meaning": "해결책을 제시하기보다 더 많은 의문점/문제점을 낳다",
+            "context": "...raising more questions than answers."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The World Economic Forum's report suggests that while Gen Z professionals are swiftly jumping on the bandwagon of AI for administrative tasks, this integration presents a double-edged sword for workplace dynamics.",
           "HR leaders like Susan Wojcicki are therefore scrambling to strike a balance, determined not to let vital human collaboration fall by the wayside as automation takes center stage."
         ],
@@ -2293,6 +2326,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Microsoft's $15 billion investment in Anthropic truly ups the ante, signaling its intention to go for the jugular in the escalating battle for foundational AI models.",
+          "However, the new U.S. export controls on advanced AI chip manufacturing equipment could throw a wrench in the works, potentially leaving smaller AI innovators out in the cold."
+        ],
+        "sentenceTranslations": [
+          "마이크로소프트의 앤스로픽에 대한 150억 달러 투자는 진정으로 판돈을 올리며, 핵심 AI 모델을 둘러싼 격화되는 경쟁에서 맹공을 퍼부을 의지를 보였습니다.",
+          "하지만 첨단 AI 칩 제조 장비에 대한 미국의 새로운 수출 규제는 상황을 엉망으로 만들 수 있으며, 잠재적으로 소규모 AI 혁신 기업들을 소외시킬 수 있습니다."
+        ],
+        "translationHighlights": [
+          "판돈을 올리며",
+          "맹공을 퍼부을",
+          "상황을 엉망으로 만들",
+          "소외시킬 수 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "ups the ante",
+            "meaning": "경쟁의 판돈을 올리다; 위험이나 경쟁 강도를 높이다.",
+            "context": "truly ups the ante"
+          },
+          {
+            "word": "go for the jugular",
+            "meaning": "상대의 급소를 노리다; 경쟁에서 승리하기 위해 가장 공격적인 전략을 펼치다.",
+            "context": "go for the jugular in the escalating battle"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획이나 진행 중인 일에 예상치 못한 문제나 장애물을 발생시키다.",
+            "context": "could throw a wrench in the works"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Sam Altman's ambitious plan to establish a global AI chip foundry with Saudi Arabia’s PIF suggests he's *betting the farm* on securing a dominant position in the crucial hardware supply chain.",
           "Meanwhile, as G7 ministers *iron out the kinks* in AI regulation, companies like OpenAI will need to carefully *read the tea leaves* to adapt to the evolving competitive landscape and ensure fair play."
         ],
@@ -4481,6 +4547,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Many hopeful vacationers are being caught flat-footed by the newly enforced ETIAS system, causing unexpected snags at major European airports.",
+          "Conversely, while airlines like Lufthansa are making lemonade out of lemons by strategically adjusting their fleets, Saudi Arabia is keen to strike while the iron is hot, bolstering its burgeoning heritage tourism sector."
+        ],
+        "sentenceTranslations": [
+          "새로 시행되는 ETIAS 시스템 때문에 많은 휴가객들이 속수무책으로 당하며 유럽 주요 공항에서 예상치 못한 난관에 부딪히고 있습니다.",
+          "반대로, 루프트한자 같은 항공사들이 고유가 상황에서 기지를 발휘하여 운항 기종을 조정하며 위기를 기회로 삼는 동안, 사우디아라비아는 급성장하는 문화유산 관광 부문을 더욱 강화하기 위해 호기를 놓치지 않고 있습니다."
+        ],
+        "translationHighlights": [
+          "속수무책으로 당하며",
+          "예상치 못한 난관에 부딪히고 있습니다",
+          "위기를 기회로 삼는 동안",
+          "호기를 놓치지 않고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "caught flat-footed",
+            "meaning": "준비 없이 당황하다, 허를 찔리다",
+            "context": "Many hopeful vacationers are being caught flat-footed by the newly enforced ETIAS system..."
+          },
+          {
+            "word": "make lemonade out of lemons",
+            "meaning": "어려운 상황을 최대한 활용하다, 위기를 기회로 삼다",
+            "context": "...airlines like Lufthansa are making lemonade out of lemons by strategically adjusting their fleets..."
+          },
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회를 놓치지 않다, 호기(好機)를 잡다",
+            "context": "...Saudi Arabia is keen to strike while the iron is hot, bolstering its burgeoning heritage tourism sector."
+          }
+        ]
+      },
       {
         "sentences": [
           "The launch of the GCC Schengen-style visa today really rolls out the red carpet for tourists eager to explore the diverse cultures of the Gulf region without bureaucratic hurdles.",
