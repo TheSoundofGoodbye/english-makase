@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While AI tools like Google's Gemini Pro help us **get up to speed** with daily tasks, it's becoming clear that we can't let technology overshadow the human touch in our interactions.",
+          "Indeed, Gen Z's pivot towards experience-based spending and community platforms shows they're not just looking to **keep up with the Joneses**; they're actively seeking richer, more meaningful engagement beyond the screen."
+        ],
+        "sentenceTranslations": [
+          "구글의 제미니 프로와 같은 AI 도구가 일상 업무를 **신속하게 처리하도록** 돕는 동안에도, 기술이 우리의 상호작용에서 인간적인 요소를 가려서는 안 된다는 점이 명확해지고 있습니다.",
+          "실제로 Z세대가 경험 중심의 소비와 커뮤니티 플랫폼으로 전환하는 것은 그들이 단지 **남에게 뒤처지지 않으려고** 하는 것이 아니라, 화면 너머의 더 풍부하고 의미 있는 교류를 적극적으로 추구한다는 것을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "신속하게 처리하도록",
+          "인간적인 요소를 가려서는 안 된다",
+          "남에게 뒤처지지 않으려고",
+          "의미 있는 교류"
+        ],
+        "newWords": [
+          {
+            "word": "get up to speed",
+            "meaning": "어떤 일에 대해 빠르게 파악하고 숙달되다; 신속하게 처리하다",
+            "context": "help us get up to speed with daily tasks"
+          },
+          {
+            "word": "keep up with the Joneses",
+            "meaning": "남들처럼 살려고 애쓰다; 남에게 뒤처지지 않으려고 애쓰다",
+            "context": "not just looking to keep up with the Joneses"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Major corporations are walking a tightrope, trying to integrate AI for efficiency while simultaneously addressing the mental health fallout among their employees.",
           "However, privacy advocates fear that Microsoft's new AI wellness tools could be a slippery slope towards unchecked data collection, raising more questions than answers."
         ],
@@ -2326,6 +2354,33 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Nvidia's 'Blackwell Quantum' success is undeniably a boon for innovation, yet the projected energy surge by 2030 presents a double-edged sword for the industry's sustainable growth.",
+          "As investment pours into data centers, addressing this looming power crisis, which is fast becoming the elephant in the room, is paramount for policymakers."
+        ],
+        "sentenceTranslations": [
+          "엔비디아의 '블랙웰 퀀텀' 성공은 분명 혁신에 큰 이점이지만, 2030년까지 예상되는 에너지 급증은 산업의 지속 가능한 성장에 양날의 검이 됩니다.",
+          "데이터 센터에 투자가 쏟아지는 가운데, 빠르게 모두가 쉬쉬하는 문제가 되어가는 이 임박한 전력 위기를 해결하는 것이 정책 입안자들에게는 가장 중요합니다."
+        ],
+        "translationHighlights": [
+          "양날의 검",
+          "모두가 쉬쉬하는 문제",
+          "가장 중요합니다"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가짐, 이중적인 결과를 초래하는 상황)",
+            "context": "presents a double-edged sword for the industry's sustainable growth"
+          },
+          {
+            "word": "the elephant in the room",
+            "meaning": "모두가 알고 있지만 언급하거나 해결하기 꺼리는 문제, 공공연한 비밀",
+            "context": "fast becoming the elephant in the room"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Microsoft's $15 billion investment in Anthropic truly ups the ante, signaling its intention to go for the jugular in the escalating battle for foundational AI models.",
           "However, the new U.S. export controls on advanced AI chip manufacturing equipment could throw a wrench in the works, potentially leaving smaller AI innovators out in the cold."
         ],
@@ -4547,6 +4602,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With flight bookings for the FIFA World Cup 2026 going through the roof, host cities like Mexico City are truly pulling out all the stops to prepare for the massive influx of international visitors.",
+          "Beyond the games, these destinations are keen for fans to soak up the local color, ensuring the event leaves a lasting positive impression long after the final whistle."
+        ],
+        "sentenceTranslations": [
+          "2026년 FIFA 월드컵 항공권 예약이 하늘 높은 줄 모르고 치솟으면서, 멕시코시티 같은 개최 도시들은 엄청난 수의 해외 방문객을 맞이하기 위해 총력을 기울이고 있습니다.",
+          "경기 외에도, 이들 개최지는 팬들이 현지의 독특한 문화를 만끽하기를 열망하며, 경기가 끝난 후에도 오랫동안 긍정적인 인상을 남기고자 합니다."
+        ],
+        "translationHighlights": [
+          "하늘 높은 줄 모르고 치솟으면서",
+          "총력을 기울이고 있습니다",
+          "현지의 독특한 문화를 만끽하기를",
+          "긍정적인 인상을 남기고자 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "going through the roof",
+            "meaning": "천정부지로 치솟다, 급증하다",
+            "context": "flight bookings... going through the roof"
+          },
+          {
+            "word": "pulling out all the stops",
+            "meaning": "총력을 기울이다, 모든 수단을 동원하다",
+            "context": "truly pulling out all the stops to prepare"
+          },
+          {
+            "word": "soak up the local color",
+            "meaning": "현지 문화를 충분히 경험하다/만끽하다",
+            "context": "for fans to soak up the local color"
+          }
+        ]
+      },
       {
         "sentences": [
           "Many hopeful vacationers are being caught flat-footed by the newly enforced ETIAS system, causing unexpected snags at major European airports.",
