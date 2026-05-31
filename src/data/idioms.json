@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The widespread adoption of GLP-1 medications is bringing the elephant in the room – society's deep-seated anxieties about body image – into public conversation like never before.",
+          "This profound shift is moving the needle not just in individual wellness routines but also in how healthcare providers and tech companies approach patient support."
+        ],
+        "sentenceTranslations": [
+          "GLP-1 약물 보급이 확산되면서, 사회의 뿌리 깊은 신체 이미지에 대한 불안감이라는 모두가 알지만 언급하기 꺼리는 문제가 전례 없이 공개적인 논의의 장으로 나오고 있습니다.",
+          "이러한 중대한 변화는 개인의 건강 관리 방식뿐만 아니라 의료 제공자와 기술 기업이 환자 지원에 접근하는 방식에서도 확실한 진전을 이루고 있습니다."
+        ],
+        "translationHighlights": [
+          "모두가 알지만 언급하기 꺼리는 문제",
+          "뿌리 깊은 불안감",
+          "확실한 진전"
+        ],
+        "newWords": [
+          {
+            "word": "the elephant in the room",
+            "meaning": "모두가 알지만 언급하기 꺼리는 문제",
+            "context": "bringing the elephant in the room ... into public conversation"
+          },
+          {
+            "word": "deep-seated anxieties",
+            "meaning": "뿌리 깊은 불안감",
+            "context": "society's deep-seated anxieties about body image"
+          },
+          {
+            "word": "move the needle",
+            "meaning": "확실한 진전을 이루다; 상당한 영향을 미치다",
+            "context": "moving the needle not just in individual wellness routines"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While AI tools like Google's Gemini Pro help us **get up to speed** with daily tasks, it's becoming clear that we can't let technology overshadow the human touch in our interactions.",
           "Indeed, Gen Z's pivot towards experience-based spending and community platforms shows they're not just looking to **keep up with the Joneses**; they're actively seeking richer, more meaningful engagement beyond the screen."
         ],
@@ -2354,6 +2386,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Sam Altman's bold claims suggest GPT-5 will truly move the needle for enterprise AI, putting current solutions firmly in the rearview mirror.",
+          "While investors are riding the wave of anticipated AI productivity, the IMF warns that trade disputes and supply chain issues could throw a wrench in the works for global growth."
+        ],
+        "sentenceTranslations": [
+          "샘 알트먼의 과감한 발언은 GPT-5가 기업 AI의 판도를 확실히 바꿀 것이며, 현재의 솔루션들을 구시대적인 것으로 만들 것임을 시사합니다.",
+          "투자자들이 예상되는 AI 생산성 향상의 물결을 타고 있지만, IMF는 무역 분쟁과 공급망 문제가 세계 경제 성장에 찬물을 끼얹을 수 있다고 경고합니다."
+        ],
+        "translationHighlights": [
+          "판도를 확실히 바꿀 것",
+          "구시대적인 것으로 만들 것",
+          "물결을 타고 있지만",
+          "찬물을 끼얹을 수 있다고 경고합니다"
+        ],
+        "newWords": [
+          {
+            "word": "move the needle",
+            "meaning": "상황을 크게 변화시키다, 중요한 영향을 미치다",
+            "context": "move the needle for enterprise AI"
+          },
+          {
+            "word": "in the rearview mirror",
+            "meaning": "과거의 일, 중요하지 않게 된 것",
+            "context": "firmly in the rearview mirror"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다, 방해하다",
+            "context": "throw a wrench in the works for global growth"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Nvidia's 'Blackwell Quantum' success is undeniably a boon for innovation, yet the projected energy surge by 2030 presents a double-edged sword for the industry's sustainable growth.",
           "As investment pours into data centers, addressing this looming power crisis, which is fast becoming the elephant in the room, is paramount for policymakers."
         ],
@@ -4602,6 +4667,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Vietnam's extended e-visa program has proven to be a real shot in the arm for its tourism industry, particularly for those looking to dive deep into its ancient heritage.",
+          "As major carriers jump on the bandwagon with new daily routes, local artisans and communities are poised to truly make hay while the sun shines from the projected increase in arrivals."
+        ],
+        "sentenceTranslations": [
+          "베트남의 연장된 전자 비자 프로그램은 특히 고대 유적지에 깊이 빠져들고 싶어 하는 이들에게 관광 산업에 진정한 활력소가 되었습니다.",
+          "주요 항공사들이 새로운 일일 노선을 개설하며 인기 흐름에 합류함에 따라, 현지 장인들과 지역 사회는 예상되는 입국자 증가를 통해 진정으로 황금기를 누릴 것으로 기대됩니다."
+        ],
+        "translationHighlights": [
+          "활력소",
+          "깊이 빠져들고 싶어 하는 이들에게",
+          "인기 흐름에 합류함에 따라",
+          "황금기를 누릴"
+        ],
+        "newWords": [
+          {
+            "word": "shot in the arm",
+            "meaning": "활력소, 큰 힘이 되는 것",
+            "context": "a real shot in the arm for its tourism industry"
+          },
+          {
+            "word": "jump on the bandwagon",
+            "meaning": "인기 흐름에 합류하다, 시류에 편승하다",
+            "context": "As major carriers jump on the bandwagon with new daily routes"
+          },
+          {
+            "word": "make hay while the sun shines",
+            "meaning": "기회를 놓치지 않고 이용하다, 황금기를 누리다",
+            "context": "to truly make hay while the sun shines from the projected increase"
+          }
+        ]
+      },
       {
         "sentences": [
           "With flight bookings for the FIFA World Cup 2026 going through the roof, host cities like Mexico City are truly pulling out all the stops to prepare for the massive influx of international visitors.",
@@ -6860,6 +6958,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Carlos Alcaraz is clearly at the top of his game, consistently outmaneuvering his opponents at the French Open.",
+          "The Mobile Legends semi-final, on the other hand, was a real nail-biter where RRQ Hoshi had to pull out all the stops to clinch their grand final berth."
+        ],
+        "sentenceTranslations": [
+          "카를로스 알카라스는 단연코 최고 기량을 선보이며 프랑스 오픈에서 상대 선수들을 꾸준히 압도하고 있습니다.",
+          "반면, 모바일 레전드 준결승전은 손에 땀을 쥐게 하는 경기였고, RRQ 호시는 결승 진출권을 확보하기 위해 총력을 기울여야 했습니다."
+        ],
+        "translationHighlights": [
+          "최고 기량을 선보이며",
+          "꾸준히 압도하고 있습니다",
+          "손에 땀을 쥐게 하는 경기",
+          "총력을 기울여야 했습니다"
+        ],
+        "newWords": [
+          {
+            "word": "at the top of one's game",
+            "meaning": "최고 기량을 선보이다; 최고의 상태에 있다",
+            "context": "Carlos Alcaraz is clearly at the top of his game"
+          },
+          {
+            "word": "a real nail-biter",
+            "meaning": "손에 땀을 쥐게 하는 아슬아슬한 상황/경기",
+            "context": "was a real nail-biter"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "총력을 기울이다; 모든 수단과 방법을 동원하다",
+            "context": "had to pull out all the stops"
+          }
+        ]
+      },
       {
         "sentences": [
           "While Iga Swiatek breezed through her first match, several seeded players at the French Open found themselves facing an uphill battle, demonstrating that early rounds can often be deceptively challenging.",
