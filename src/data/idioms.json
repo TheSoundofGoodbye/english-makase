@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Microsoft's ambitious \"Copilot Everywhere\" suite undeniably pushes the envelope in workplace efficiency, yet many critics view it as a double-edged sword.",
+          "Consequently, hybrid workers are increasingly feeling the heat to demonstrate tangible value, as the jury is still out on the long-term impact of such widespread AI integration."
+        ],
+        "sentenceTranslations": [
+          "마이크로소프트의 야심 찬 'Copilot Everywhere' 스위트가 업무 효율성 면에서 분명히 한계를 뛰어넘지만, 많은 비평가들은 이를 양날의 검으로 보고 있습니다.",
+          "그 결과, 하이브리드 근무자들은 실질적인 가치를 입증해야 한다는 압박을 점점 더 강하게 느끼고 있으며, 이러한 광범위한 AI 통합의 장기적인 영향에 대해서는 아직 결론이 나지 않았습니다."
+        ],
+        "translationHighlights": [
+          "한계를 뛰어넘지만",
+          "양날의 검으로 보고 있습니다",
+          "압박을 점점 더 강하게 느끼고 있으며",
+          "아직 결론이 나지 않았습니다"
+        ],
+        "newWords": [
+          {
+            "word": "pushes the envelope",
+            "meaning": "(관습이나 한계를) 넘어서다, 혁신적으로 나아가다",
+            "context": "Microsoft's ambitious \"Copilot Everywhere\" suite undeniably **pushes the envelope** in workplace efficiency"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (장점과 단점을 동시에 지닌 것)",
+            "context": "yet many critics view it as **a double-edged sword**."
+          },
+          {
+            "word": "feeling the heat",
+            "meaning": "압박을 느끼다, 곤경에 처하다",
+            "context": "hybrid workers are increasingly **feeling the heat** to demonstrate tangible value"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The widespread adoption of GLP-1 medications is bringing the elephant in the room – society's deep-seated anxieties about body image – into public conversation like never before.",
           "This profound shift is moving the needle not just in individual wellness routines but also in how healthcare providers and tech companies approach patient support."
         ],
@@ -2386,6 +2419,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Microsoft's hefty acquisition of Synaptic Solutions clearly throws down the gauntlet to rivals, setting the stage for an even more intense battle in the corporate AI space.",
+          "Meanwhile, investors are holding their breath ahead of the US CPI data, keenly aware that stubborn inflation could force central banks to take the punch bowl away sooner than expected."
+        ],
+        "sentenceTranslations": [
+          "마이크로소프트의 시냅틱 솔루션 거액 인수는 경쟁사들에게 명백히 도전장을 던지는 격이며, 기업 AI 분야에서 한층 더 치열한 전투의 장을 마련하고 있습니다.",
+          "한편, 투자자들은 미국 소비자물가지수(CPI) 발표를 앞두고 숨죽이며 기다리고 있는데, 고질적인 인플레이션이 중앙은행으로 하여금 예상보다 빨리 잔치 분위기를 걷어치우게 할 수 있음을 예리하게 인지하고 있습니다."
+        ],
+        "translationHighlights": [
+          "도전장을 던지는 격",
+          "숨죽이며 기다리고 있는데",
+          "잔치 분위기를 걷어치우게"
+        ],
+        "newWords": [
+          {
+            "word": "throws down the gauntlet",
+            "meaning": "도전장을 던지다",
+            "context": "Microsoft's ... clearly throws down the gauntlet to rivals..."
+          },
+          {
+            "word": "holding their breath",
+            "meaning": "숨죽이며 기다리다",
+            "context": "investors are holding their breath ahead of the US CPI data..."
+          },
+          {
+            "word": "take the punch bowl away",
+            "meaning": "잔치 분위기를 걷어치우다 / 유동성을 회수하다 (금융 긴축 정책을 펴다)",
+            "context": "force central banks to take the punch bowl away sooner than expected."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Sam Altman's bold claims suggest GPT-5 will truly move the needle for enterprise AI, putting current solutions firmly in the rearview mirror.",
           "While investors are riding the wave of anticipated AI productivity, the IMF warns that trade disputes and supply chain issues could throw a wrench in the works for global growth."
         ],
@@ -4667,6 +4732,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With premium economy cabins chock-a-block and initiatives like Japan's 'slow travel' gaining traction, it's clear we're witnessing a sea change in global tourism patterns.",
+          "Travelers are increasingly voting with their feet, prioritizing impact over indulgence, which gives sustainable tourism packages and efforts to alleviate overtourism a much-needed shot in the arm."
+        ],
+        "sentenceTranslations": [
+          "프리미엄 이코노미 객실이 만원을 이루고 일본의 '느린 여행'과 같은 이니셔티브가 힘을 얻으면서, 글로벌 관광 패턴에 커다란 변화가 일어나고 있음이 분명합니다.",
+          "여행객들은 점점 더 행동으로 자신들의 선호를 보여주며, 사치보다는 영향력을 우선시하고 있으며, 이는 지속 가능한 관광 패키지와 과잉 관광 완화 노력에 큰 활력을 불어넣고 있습니다."
+        ],
+        "translationHighlights": [
+          "만원을 이루고",
+          "커다란 변화",
+          "행동으로 자신들의 선호를 보여주며",
+          "큰 활력을 불어넣고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "sea change",
+            "meaning": "(태도·상황 등의) 큰 변화, 격변",
+            "context": "we're witnessing a sea change in global tourism patterns"
+          },
+          {
+            "word": "vote with their feet",
+            "meaning": "(특정 상황에 대한) 불만이나 선호를 행동으로 보여주다",
+            "context": "Travelers are increasingly voting with their feet"
+          },
+          {
+            "word": "shot in the arm",
+            "meaning": "활력, 고무책 (사기 진작이나 새로운 에너지를 주는 것)",
+            "context": "a much-needed shot in the arm"
+          }
+        ]
+      },
       {
         "sentences": [
           "Vietnam's extended e-visa program has proven to be a real shot in the arm for its tourism industry, particularly for those looking to dive deep into its ancient heritage.",
@@ -6958,6 +7056,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "As Toronto gears up for the FIFA World Cup, officials are clearly pulling out all the stops to ensure every aspect of the event goes off without a hitch, promising an unforgettable experience.",
+          "This dedication mirrors the esports world, where Fnatic, by securing their second international title, has proven they are undeniably a force to be reckoned with, dominating the competitive scene."
+        ],
+        "sentenceTranslations": [
+          "토론토가 FIFA 월드컵을 준비하면서, 관계자들은 행사의 모든 면이 아무런 문제 없이 순조롭게 진행되도록 만반의 노력을 기울이고 있으며, 잊을 수 없는 경험을 약속하고 있습니다.",
+          "이러한 헌신은 e스포츠 세계에서도 찾아볼 수 있는데, Fnatic은 두 번째 국제 타이틀을 확보하며 경쟁 구도에서 지배적인 위치를 차지, 자신들이 확실히 무시할 수 없는 강팀임을 입증했습니다."
+        ],
+        "translationHighlights": [
+          "아무런 문제 없이 순조롭게 진행되도록",
+          "만반의 노력을 기울이고 있으며",
+          "무시할 수 없는 강팀임을 입증했습니다"
+        ],
+        "newWords": [
+          {
+            "word": "pulling out all the stops",
+            "meaning": "만반의 노력을 기울이다, 모든 수단을 동원하다",
+            "context": "officials are clearly pulling out all the stops"
+          },
+          {
+            "word": "goes off without a hitch",
+            "meaning": "아무런 문제 없이 순조롭게 진행되다",
+            "context": "event goes off without a hitch"
+          },
+          {
+            "word": "a force to be reckoned with",
+            "meaning": "무시할 수 없는 강자/세력",
+            "context": "proven they are undeniably a force to be reckoned with"
+          }
+        ]
+      },
       {
         "sentences": [
           "Carlos Alcaraz is clearly at the top of his game, consistently outmaneuvering his opponents at the French Open.",
