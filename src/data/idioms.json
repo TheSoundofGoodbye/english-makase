@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "As generative AI platforms take the bull by the horns in personal finance management, users are increasingly trusting them to stay on top of their complex spending habits.",
+          "For financial advisors, the writing on the wall is clear: they must turn over a new leaf, focusing on emotional intelligence and ethical oversight rather than mere number-crunching."
+        ],
+        "sentenceTranslations": [
+          "생성형 AI 플랫폼이 개인 재무 관리에 적극적으로 뛰어들면서, 사용자들은 복잡한 지출 습관을 잘 파악하기 위해 AI를 점점 더 신뢰하고 있습니다.",
+          "재무 상담사들에게는 상황이 명확합니다: 그들은 숫자 계산보다는 감성 지능과 AI 기반 계획의 윤리적 감독에 집중하며 새로운 전환점을 맞이해야 합니다."
+        ],
+        "translationHighlights": [
+          "적극적으로 뛰어들면서",
+          "잘 파악하기 위해",
+          "상황이 명확합니다",
+          "새로운 전환점을 맞이해야 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "take the bull by the horns",
+            "meaning": "어려운 상황에 정면으로 맞서다, 과감하게 대처하다",
+            "context": "AI platforms take the bull by the horns"
+          },
+          {
+            "word": "the writing on the wall",
+            "meaning": "다가올 (주로 좋지 않은) 상황에 대한 명백한 징후",
+            "context": "the writing on the wall is clear"
+          },
+          {
+            "word": "turn over a new leaf",
+            "meaning": "새로운 시작을 하다, 과거의 방식을 버리고 새로운 태도나 행동을 시작하다",
+            "context": "they must turn over a new leaf"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Microsoft's ambitious \"Copilot Everywhere\" suite undeniably pushes the envelope in workplace efficiency, yet many critics view it as a double-edged sword.",
           "Consequently, hybrid workers are increasingly feeling the heat to demonstrate tangible value, as the jury is still out on the long-term impact of such widespread AI integration."
         ],
@@ -2419,6 +2452,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Google DeepMind's unveiling of Gemini Pro-Max has truly thrown down the gauntlet, forcing competitors like OpenAI to recalibrate their strategies and accelerate their next-gen releases.",
+          "Despite the tech sector's usual resilience, the persistent economic headwinds, highlighted by the ECB's cautious stance, mean that securing funding is now a tougher row to hoe for many startups."
+        ],
+        "sentenceTranslations": [
+          "구글 딥마인드가 제미니 프로-맥스를 공개하면서 확실히 도전장을 던졌고, 이는 OpenAI 같은 경쟁사들이 전략을 재조정하고 차세대 모델 출시를 가속화하도록 압박하고 있습니다.",
+          "기술 부문의 통상적인 회복력에도 불구하고, 유럽중앙은행의 신중한 입장에서 강조된 지속적인 경제 역풍은 이제 많은 스타트업에게 자금 확보가 더 어려운 과제가 되었음을 의미합니다."
+        ],
+        "translationHighlights": [
+          "도전장을 던졌고",
+          "경제 역풍",
+          "더 어려운 과제가"
+        ],
+        "newWords": [
+          {
+            "word": "throw down the gauntlet",
+            "meaning": "공개적으로 도전하다, 대결을 신청하다",
+            "context": "has truly thrown down the gauntlet"
+          },
+          {
+            "word": "economic headwinds",
+            "meaning": "경제 역풍 (성장을 방해하는 부정적인 경제 요인)",
+            "context": "the persistent economic headwinds"
+          },
+          {
+            "word": "a tougher row to hoe",
+            "meaning": "더 어려운 과제/상황",
+            "context": "is now a tougher row to hoe"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Microsoft's hefty acquisition of Synaptic Solutions clearly throws down the gauntlet to rivals, setting the stage for an even more intense battle in the corporate AI space.",
           "Meanwhile, investors are holding their breath ahead of the US CPI data, keenly aware that stubborn inflation could force central banks to take the punch bowl away sooner than expected."
         ],
@@ -4732,6 +4797,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The European Travel Commission's push for cities like Amsterdam and Kyoto to adopt Venice's visitor fee highlights the urgent need to stem the tide of overtourism before it overwhelms these cultural gems.",
+          "Concurrently, airlines are walking a tightrope, balancing robust demand against the persistent aviation fuel price volatility that leaves their Q3 projections up in the air."
+        ],
+        "sentenceTranslations": [
+          "유럽여행위원회(ETC)가 암스테르담과 교토 같은 도시에 베네치아의 방문객 요금 제도를 도입하라고 촉구한 것은, 과잉 관광이 이 문화 유산들을 압도하기 전에 그 흐름을 막아야 할 시급한 필요성을 강조합니다.",
+          "동시에 항공사들은 견조한 수요와 지속적인 항공유 가격 변동성 사이에서 줄타기를 하고 있으며, 이는 3분기 실적 전망을 불확실하게 만듭니다."
+        ],
+        "translationHighlights": [
+          "그 흐름을 막아야 할",
+          "줄타기를 하고 있으며",
+          "불확실하게 만듭니다"
+        ],
+        "newWords": [
+          {
+            "word": "stem the tide",
+            "meaning": "증가하거나 확산되는 것을 막다",
+            "context": "to stem the tide of overtourism"
+          },
+          {
+            "word": "walking a tightrope",
+            "meaning": "매우 어렵거나 위험한 상황에 처해 있다",
+            "context": "airlines are walking a tightrope"
+          },
+          {
+            "word": "up in the air",
+            "meaning": "불확실한, 미정인",
+            "context": "projections up in the air"
+          }
+        ]
+      },
       {
         "sentences": [
           "With premium economy cabins chock-a-block and initiatives like Japan's 'slow travel' gaining traction, it's clear we're witnessing a sea change in global tourism patterns.",
@@ -7056,6 +7153,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "After Jayson Tatum's stellar 38-point game, the Boston Celtics are now firmly in the driver's seat with a 2-1 lead in the NBA Finals, making a championship title feel within reach.",
+          "Meanwhile, popular national parks anticipate being bursting at the seams with visitors this summer, necessitating new reservation systems to better manage the influx and ensure sustainable tourism."
+        ],
+        "sentenceTranslations": [
+          "제이슨 테이텀의 38점 활약 덕분에 보스턴 셀틱스는 NBA 결승에서 2대1로 앞서며 이제 확실히 유리한 고지를 점했고, 우승이 손에 잡힐 듯합니다.",
+          "한편, 유명 국립공원들은 이번 여름 방문객들로 발 디딜 틈 없을 것으로 예상되어, 유입 인원을 더 잘 관리하고 지속 가능한 관광을 보장하기 위한 새로운 예약 시스템이 필수적입니다."
+        ],
+        "translationHighlights": [
+          "유리한 고지를 점했고",
+          "우승이 손에 잡힐 듯합니다",
+          "발 디딜 틈 없을 것으로 예상되어",
+          "새로운 예약 시스템이 필수적입니다"
+        ],
+        "newWords": [
+          {
+            "word": "in the driver's seat",
+            "meaning": "주도권을 잡고 있는, 유리한 고지를 점한",
+            "context": "the Boston Celtics are now firmly in the driver's seat"
+          },
+          {
+            "word": "bursting at the seams",
+            "meaning": "사람이나 물건으로 가득 찬, 발 디딜 틈 없이 붐비는",
+            "context": "anticipate being bursting at the seams with visitors"
+          }
+        ]
+      },
       {
         "sentences": [
           "As Toronto gears up for the FIFA World Cup, officials are clearly pulling out all the stops to ensure every aspect of the event goes off without a hitch, promising an unforgettable experience.",
