@@ -3,6 +3,40 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The WEF report clearly shows that the hybrid work model is tipping the scales against fully remote staff, highlighting a significant equity concern in career progression.",
+          "To ensure AI truly augments human potential and to level the playing field for all, professionals must quickly get up to speed on AI literacy."
+        ],
+        "sentenceTranslations": [
+          "WEF 보고서는 하이브리드 근무 모델이 전적으로 재택근무하는 직원들에게 불리하게 작용하여, 경력 발전에서의 상당한 형평성 문제를 명확히 부각시키고 있음을 보여줍니다.",
+          "AI가 진정으로 인간의 잠재력을 증진시키고 모두에게 동등한 기회를 제공하도록 하려면, 전문가들은 AI 리터러시에 대해 빠르게 익숙해져야 합니다."
+        ],
+        "translationHighlights": [
+          "불리하게 작용하여",
+          "상당한 형평성 문제를",
+          "진정으로 인간의 잠재력을 증진시키고",
+          "동등한 기회를 제공하도록",
+          "빠르게 익숙해져야 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "tipping the scales",
+            "meaning": "(저울추를 기울게 하여) 불리하게 작용하다, 균형을 깨뜨리다",
+            "context": "hybrid work model is tipping the scales against fully remote staff"
+          },
+          {
+            "word": "level the playing field",
+            "meaning": "공평한 기회를 제공하다, 동등한 경쟁 환경을 만들다",
+            "context": "to level the playing field for all"
+          },
+          {
+            "word": "get up to speed",
+            "meaning": "(정보나 지식 등을) 빠르게 익히다, 최신 정보를 알다",
+            "context": "must quickly get up to speed on AI literacy"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As generative AI platforms take the bull by the horns in personal finance management, users are increasingly trusting them to stay on top of their complex spending habits.",
           "For financial advisors, the writing on the wall is clear: they must turn over a new leaf, focusing on emotional intelligence and ethical oversight rather than mere number-crunching."
         ],
@@ -2452,6 +2486,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "In a high-stakes battle for AI dominance, Google and Microsoft are putting all their chips on the table in the SynapseTech bidding war, clearly signaling their intent to secure an early lead.",
+          "Yet, as the IMF revises growth forecasts downwards and new US export controls emerge, these tech giants must now walk a tightrope to avoid being caught in the crosshairs of geopolitical friction and economic uncertainty."
+        ],
+        "sentenceTranslations": [
+          "AI 주도권을 차지하기 위한 고위험 전투에서, 구글과 마이크로소프트는 시냅스텍 인수 경쟁에 모든 것을 걸고 초기 우위를 확보하려는 의도를 분명히 보여주고 있습니다.",
+          "하지만 IMF가 성장 전망치를 하향 조정하고 새로운 미국 수출 통제가 시행되면서, 이들 기술 대기업은 지정학적 마찰과 경제 불확실성의 포화 속에 휘말리지 않기 위해 이제 줄타기를 하듯 신중하게 움직여야 합니다."
+        ],
+        "translationHighlights": [
+          "모든 것을 걸고",
+          "초기 우위를 확보하려는 의도를 분명히 보여주고 있습니다",
+          "줄타기를 하듯",
+          "포화 속에"
+        ],
+        "newWords": [
+          {
+            "word": "put all one's chips on the table",
+            "meaning": "모든 것을 걸다, 가진 자원/노력을 전부 쏟아붓다",
+            "context": "Google and Microsoft are **putting all their chips on the table** in the SynapseTech bidding war..."
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "위험한 상황에서 매우 신중하게 행동하다, 줄타기하듯 위태롭게 균형을 잡다",
+            "context": "...these tech giants must now **walk a tightrope** to avoid being caught in the crosshairs..."
+          },
+          {
+            "word": "caught in the crosshairs",
+            "meaning": "집중적인 공격/비판의 대상이 되다, 포화 속에 휘말리다",
+            "context": "...avoid being **caught in the crosshairs** of geopolitical friction and economic uncertainty."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Google DeepMind's unveiling of Gemini Pro-Max has truly thrown down the gauntlet, forcing competitors like OpenAI to recalibrate their strategies and accelerate their next-gen releases.",
           "Despite the tech sector's usual resilience, the persistent economic headwinds, highlighted by the ECB's cautious stance, mean that securing funding is now a tougher row to hoe for many startups."
         ],
@@ -4797,6 +4864,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "By expanding its e-visa program and launching new international flights, Saudi Arabia is undeniably putting itself on the map as a major travel destination.",
+          "This strategic move is expected to open the floodgates for global travelers keen to experience authentic cultural immersion, offering a breath of fresh air to the traditional tourism landscape."
+        ],
+        "sentenceTranslations": [
+          "이비자 프로그램 확대와 새로운 국제선 취항을 통해 사우디아라비아가 주요 여행지로서 확실히 두각을 나타내고 있습니다.",
+          "이러한 전략적 움직임은 진정한 문화 체험을 갈망하는 전 세계 여행객들을 대거 유치하여, 기존 관광 산업에 신선한 활력을 불어넣을 것으로 기대됩니다."
+        ],
+        "translationHighlights": [
+          "두각을 나타내고 있습니다",
+          "대거 유치하여",
+          "신선한 활력을 불어넣을 것"
+        ],
+        "newWords": [
+          {
+            "word": "put itself on the map",
+            "meaning": "유명해지다, 두각을 나타내다",
+            "context": "Saudi Arabia is undeniably putting itself on the map"
+          },
+          {
+            "word": "open the floodgates",
+            "meaning": "봇물이 터지듯 많은 것이 쏟아져 나오게 하다, 대거 유치하다",
+            "context": "expected to open the floodgates for global travelers"
+          },
+          {
+            "word": "a breath of fresh air",
+            "meaning": "새로운 활력, 신선한 바람",
+            "context": "offering a breath of fresh air to the traditional tourism landscape"
+          }
+        ]
+      },
       {
         "sentences": [
           "The European Travel Commission's push for cities like Amsterdam and Kyoto to adopt Venice's visitor fee highlights the urgent need to stem the tide of overtourism before it overwhelms these cultural gems.",
@@ -7153,6 +7252,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "G2 Esports truly threw a curveball at the VCT Masters Shanghai, demonstrating their mastery by defeating the reigning champions.",
+          "This stunning victory proves their dedication paid dividends, with the event's viewership figures also going through the roof."
+        ],
+        "sentenceTranslations": [
+          "G2 Esports는 VCT Masters Shanghai에서 진정으로 예상을 뒤엎었고, 현 챔피언을 꺾으며 그들의 기량을 입증했습니다.",
+          "이 놀라운 승리는 그들의 헌신이 결실을 맺었음을 증명하며, 대회 시청률 또한 하늘 높은 줄 모르고 치솟았습니다."
+        ],
+        "translationHighlights": [
+          "예상을 뒤엎었고",
+          "결실을 맺었음을",
+          "하늘 높은 줄 모르고 치솟았습니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw a curveball",
+            "meaning": "예상을 뒤엎다, 예상 밖의 상황을 만들다",
+            "context": "G2 Esports truly threw a curveball at the VCT Masters Shanghai"
+          },
+          {
+            "word": "pay dividends",
+            "meaning": "결실을 맺다, 성과를 내다",
+            "context": "their dedication paid dividends"
+          },
+          {
+            "word": "go through the roof",
+            "meaning": "하늘 높은 줄 모르고 치솟다, 급증하다",
+            "context": "viewership figures also going through the roof"
+          }
+        ]
+      },
       {
         "sentences": [
           "After Jayson Tatum's stellar 38-point game, the Boston Celtics are now firmly in the driver's seat with a 2-1 lead in the NBA Finals, making a championship title feel within reach.",
