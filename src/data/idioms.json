@@ -3,6 +3,33 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With AI co-pilots helping 70% of employees, many are finding it easier to stay ahead of the curve in their demanding hybrid roles.",
+          "This embrace of technology aligns with a broader sea change among younger generations, who now prefer curated experiences to material possessions."
+        ],
+        "sentenceTranslations": [
+          "AI 코파일럿의 도움을 받는 직원이 70%에 달하면서, 많은 이들이 힘든 하이브리드 업무 환경에서 시대의 흐름에 앞서 나가는 것이 더 쉬워졌다고 생각합니다.",
+          "이러한 기술의 수용은 물질적 소유보다는 엄선된 경험을 선호하는 젊은 세대 사이의 광범위한 사회적 대변혁과 궤를 같이 합니다."
+        ],
+        "translationHighlights": [
+          "시대의 흐름에 앞서 나가다",
+          "사회적 대변혁",
+          "엄선된 경험을 선호하는"
+        ],
+        "newWords": [
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "시대의 흐름에 뒤처지지 않고 앞서나가다, 최신 트렌드를 파악하고 대비하다",
+            "context": "easier to stay ahead of the curve in their demanding hybrid roles"
+          },
+          {
+            "word": "sea change",
+            "meaning": "대변혁, 근본적인 변화",
+            "context": "a broader sea change among younger generations"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The WEF report clearly shows that the hybrid work model is tipping the scales against fully remote staff, highlighting a significant equity concern in career progression.",
           "To ensure AI truly augments human potential and to level the playing field for all, professionals must quickly get up to speed on AI literacy."
         ],
@@ -2486,6 +2513,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Despite the Federal Reserve holding its ground on interest rates due to persistent inflationary pressures, major venture capital firms are going all in on AI-native startups, anticipating significant returns from the sector's rapid advancements.",
+          "This aggressive investment comes as G7 nations vow to level the playing field against economic coercion, implicitly putting a spotlight on the secure supply chains for the rare-earth elements essential to AI chip production."
+        ],
+        "sentenceTranslations": [
+          "연방준비제도 이사회가 지속적인 인플레이션 압력으로 금리 인상에 대한 기존 입장을 고수하는 와중에도, 주요 벤처 캐피털 회사들은 이 분야의 빠른 발전에서 상당한 수익을 기대하며 AI 기반 스타트업에 전력을 다해 투자하고 있습니다.",
+          "이러한 공격적인 투자는 G7 국가들이 경제적 강압에 맞서 공정한 경쟁의 장을 마련하겠다고 선언하면서, AI 칩 생산에 필수적인 희토류 원소의 안정적인 공급망에 주목하게 만들고 있습니다."
+        ],
+        "translationHighlights": [
+          "기존 입장을 고수",
+          "전력을 다해 투자",
+          "공정한 경쟁의 장을 마련",
+          "주목하게 만들고"
+        ],
+        "newWords": [
+          {
+            "word": "holding its ground",
+            "meaning": "기존 입장을 고수하다, 물러서지 않고 버티다",
+            "context": "Federal Reserve holding its ground on interest rates"
+          },
+          {
+            "word": "going all in",
+            "meaning": "전력을 다하다, 모든 것을 걸다 (투자 등에)",
+            "context": "firms are going all in on AI-native startups"
+          },
+          {
+            "word": "level the playing field",
+            "meaning": "공정한 경쟁 환경을 조성하다",
+            "context": "vow to level the playing field against economic coercion"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "In a high-stakes battle for AI dominance, Google and Microsoft are putting all their chips on the table in the SynapseTech bidding war, clearly signaling their intent to secure an early lead.",
           "Yet, as the IMF revises growth forecasts downwards and new US export controls emerge, these tech giants must now walk a tightrope to avoid being caught in the crosshairs of geopolitical friction and economic uncertainty."
         ],
@@ -4864,6 +4924,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Kazakhstan's dramatic visa-free expansion is poised to open the floodgates for a surge in international tourism, marking a true game-changer for its historic Silk Road appeal.",
+          "With their infrastructure and services reportedly having their ducks in a row, they are clearly ready to welcome a new era of global visitors."
+        ],
+        "sentenceTranslations": [
+          "카자흐스탄의 극적인 비자 면제 확대는 국제 관광객 급증의 물꼬를 틀 준비가 되어 있으며, 이는 유서 깊은 실크로드 매력에 진정한 판도를 바꾸는 계기가 될 것입니다.",
+          "인프라와 서비스가 철저히 준비된 것으로 알려진 만큼, 카자흐스탄은 새로운 시대의 전 세계 방문객을 맞이할 준비가 확실히 되어 있습니다."
+        ],
+        "translationHighlights": [
+          "물꼬를 틀 준비",
+          "판도를 바꾸는 계기",
+          "철저히 준비된"
+        ],
+        "newWords": [
+          {
+            "word": "open the floodgates",
+            "meaning": "물꼬를 트다, 대량으로 유입되게 하다",
+            "context": "poised to open the floodgates for a surge"
+          },
+          {
+            "word": "game-changer",
+            "meaning": "판도를 바꾸는 계기, 상황을 완전히 뒤바꾸는 것",
+            "context": "marking a true game-changer for its historic Silk Road appeal"
+          },
+          {
+            "word": "have one's ducks in a row",
+            "meaning": "만반의 준비를 갖추다, 모든 것을 깔끔하게 정리하다",
+            "context": "having their ducks in a row"
+          }
+        ]
+      },
       {
         "sentences": [
           "By expanding its e-visa program and launching new international flights, Saudi Arabia is undeniably putting itself on the map as a major travel destination.",
@@ -7252,6 +7344,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With a commanding 3-1 lead, the writing is on the wall for the Boston Celtics to hoist their record-setting 18th championship trophy.",
+          "Beyond the court, urban cycling is rapidly picking up steam as commuters look to turn a new leaf towards greener and more efficient travel."
+        ],
+        "sentenceTranslations": [
+          "3-1로 압도적인 우위를 점하면서, 보스턴 셀틱스가 사상 18번째 우승 트로피를 들어 올릴 것이라는 것은 이미 확실해 보입니다.",
+          "농구 코트 밖에서는, 통근자들이 더 친환경적이고 효율적인 이동 수단으로 새롭게 변화를 꾀하면서 도심 사이클링이 빠르게 인기를 얻고 있습니다."
+        ],
+        "translationHighlights": [
+          "압도적인 우위를 점하면서",
+          "이미 확실해 보입니다",
+          "새롭게 변화를 꾀하다",
+          "빠르게 인기를 얻고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "the writing is on the wall",
+            "meaning": "어떤 일이 분명히 일어날 것이라는 명백한 징조가 있다; 결과가 뻔하다",
+            "context": "the writing is on the wall for the Boston Celtics to hoist their record-setting 18th championship trophy"
+          },
+          {
+            "word": "picking up steam",
+            "meaning": "점점 더 활기를 얻거나 인기를 얻다, 가속이 붙다",
+            "context": "urban cycling is rapidly picking up steam"
+          },
+          {
+            "word": "turn a new leaf",
+            "meaning": "새 출발하다, 새로운 태도를 취하다, (긍정적으로) 변화를 꾀하다",
+            "context": "commuters look to turn a new leaf towards greener and more efficient travel"
+          }
+        ]
+      },
       {
         "sentences": [
           "G2 Esports truly threw a curveball at the VCT Masters Shanghai, demonstrating their mastery by defeating the reigning champions.",
