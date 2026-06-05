@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "As AI integration rapidly advances, many professionals are realizing they need to bite the bullet and embrace upskilling.",
+          "They're now making a concerted effort to double down on human-centric skills, aiming to bring something new to the table that AI cannot."
+        ],
+        "sentenceTranslations": [
+          "AI 통합이 빠르게 진전됨에 따라, 많은 전문가들은 이제 어려운 상황을 감내하고 역량 강화에 나서야 한다는 것을 깨닫고 있습니다.",
+          "그들은 AI가 모방할 수 없는 새로운 가치를 제공하기 위해 인간 중심 기술에 대한 노력을 배가하고 있습니다."
+        ],
+        "translationHighlights": [
+          "어려운 상황을 감내하고",
+          "역량 강화에 나서야 한다는 것을",
+          "노력을 배가하고 있습니다",
+          "새로운 가치를 제공하기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "bite the bullet",
+            "meaning": "어려운 상황을 감내하다, 이를 악물고 참다",
+            "context": "they need to bite the bullet and embrace upskilling"
+          },
+          {
+            "word": "double down on",
+            "meaning": "~에 대한 노력을 배가하다, ~에 더욱 집중하다",
+            "context": "to double down on human-centric skills"
+          },
+          {
+            "word": "bring something new to the table",
+            "meaning": "새로운 가치를 제공하다, 새로운 기여를 하다",
+            "context": "to bring something new to the table that AI cannot"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With AI co-pilots helping 70% of employees, many are finding it easier to stay ahead of the curve in their demanding hybrid roles.",
           "This embrace of technology aligns with a broader sea change among younger generations, who now prefer curated experiences to material possessions."
         ],
@@ -2513,6 +2546,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "NVIDIA's 'Blackwell Ultra' AI accelerators are going gangbusters, driving massive revenue and reshaping the AI infrastructure landscape.",
+          "However, with such a dominant market position, regulators across the globe are understandably putting the company under the microscope to ensure fair competition."
+        ],
+        "sentenceTranslations": [
+          "엔비디아의 '블랙웰 울트라' AI 가속기는 엄청난 성공을 거두며 막대한 수익을 창출하고 AI 인프라 지형을 재편하고 있습니다.",
+          "그러나 이렇게 압도적인 시장 지위를 차지하면서, 전 세계 규제 당국은 공정한 경쟁을 보장하기 위해 당연히 그 회사를 면밀히 주시하고 있습니다."
+        ],
+        "translationHighlights": [
+          "엄청난 성공을 거두며",
+          "AI 인프라 지형을 재편하고 있습니다",
+          "압도적인 시장 지위를",
+          "면밀히 주시하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "go gangbusters",
+            "meaning": "엄청난 성공을 거두다, 매우 빠르게 나아가다",
+            "context": "NVIDIA's 'Blackwell Ultra' AI accelerators are going gangbusters"
+          },
+          {
+            "word": "under the microscope",
+            "meaning": "면밀한 조사를 받다, 정밀하게 검토되다",
+            "context": "putting the company under the microscope"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Despite the Federal Reserve holding its ground on interest rates due to persistent inflationary pressures, major venture capital firms are going all in on AI-native startups, anticipating significant returns from the sector's rapid advancements.",
           "This aggressive investment comes as G7 nations vow to level the playing field against economic coercion, implicitly putting a spotlight on the secure supply chains for the rare-earth elements essential to AI chip production."
         ],
@@ -4924,6 +4985,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Thanks to the smooth ETIAS system, Europe is currently riding the crest of a wave for international tourism, with airlines struggling to keep up with demand.",
+          "Despite rising fuel costs, carriers know they must put their money where their mouth is regarding Sustainable Aviation Fuel, as it's the only way to keep the show on the road for future travel."
+        ],
+        "sentenceTranslations": [
+          "순조로운 ETIAS 시스템 덕분에 유럽은 현재 국제 관광 분야에서 절정기를 맞고 있으며, 항공사들은 늘어나는 수요를 맞추느라 고군분투하고 있습니다.",
+          "유가 상승에도 불구하고, 항공사들은 지속 가능한 항공유에 관해 말만이 아닌 행동으로 투자해야 한다는 것을 알고 있습니다. 그것이 미래 여행의 지속적인 운영을 가능하게 하는 유일한 방법이기 때문입니다."
+        ],
+        "translationHighlights": [
+          "절정기를 맞고 있으며",
+          "고군분투하고 있습니다",
+          "말만이 아닌 행동으로 투자해야 한다는",
+          "지속적인 운영을 가능하게 하는"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "최고조의 인기를 누리다, 절정기를 맞다",
+            "context": "Europe is currently riding the crest of a wave for international tourism"
+          },
+          {
+            "word": "put their money where their mouth is",
+            "meaning": "말뿐만 아니라 행동으로 보여주다, 공언한 대로 투자하다",
+            "context": "carriers know they must put their money where their mouth is regarding Sustainable Aviation Fuel"
+          },
+          {
+            "word": "keep the show on the road",
+            "meaning": "계속 진행하다, 지속적인 운영을 가능하게 하다",
+            "context": "it's the only way to keep the show on the road for future travel"
+          }
+        ]
+      },
       {
         "sentences": [
           "Kazakhstan's dramatic visa-free expansion is poised to open the floodgates for a surge in international tourism, marking a true game-changer for its historic Silk Road appeal.",
@@ -7344,6 +7438,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With the 2026 FIFA World Cup officially getting off to the races today, concerns over USMNT star Christian Pulisic's fitness are already proving to be a fly in the ointment for the host nation's early prospects.",
+          "This uncertainty has millions of fans on tenterhooks, hoping his condition doesn't throw a wrench in the works for the team's aspirations right out of the gate."
+        ],
+        "sentenceTranslations": [
+          "2026 FIFA 월드컵이 오늘 공식적으로 화려하게 시작되는 가운데, 미국 축구 국가대표팀 스타 크리스천 풀리식 선수의 건강 문제는 개최국의 초기 전망에 벌써부터 옥에 티로 작용하고 있습니다.",
+          "이러한 불확실성 때문에 수많은 팬들이 초조하게 기다리고 있으며, 그의 컨디션이 팀의 시작부터 계획에 차질을 주지 않기를 바라고 있습니다."
+        ],
+        "translationHighlights": [
+          "화려하게 시작되는 가운데",
+          "옥에 티로 작용하고 있습니다",
+          "초조하게 기다리고 있으며",
+          "계획에 차질을 주지 않기를"
+        ],
+        "newWords": [
+          {
+            "word": "getting off to the races",
+            "meaning": "빠르게 시작하다, 화려하게 시작하다",
+            "context": "officially getting off to the races today"
+          },
+          {
+            "word": "a fly in the ointment",
+            "meaning": "옥에 티, 작은 흠, 사소하지만 모든 것을 망치는 문제",
+            "context": "proving to be a fly in the ointment"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다, 방해하다",
+            "context": "doesn't throw a wrench in the works"
+          }
+        ]
+      },
       {
         "sentences": [
           "With a commanding 3-1 lead, the writing is on the wall for the Boston Celtics to hoist their record-setting 18th championship trophy.",
