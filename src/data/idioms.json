@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With inflation continuing to move the goalposts for homeownership, many young adults are finding it increasingly difficult to keep their heads above water financially.",
+          "Consequently, rather than giving up entirely, this generation is learning to roll with the punches, embracing flexible living arrangements and new investment strategies to navigate a new era of economic adaptability."
+        ],
+        "sentenceTranslations": [
+          "인플레이션이 계속해서 내 집 마련의 목표를 변경시키면서, 많은 젊은이들이 재정적으로 허우적대지 않고 버티는 것이 점점 더 어려워지고 있습니다.",
+          "결과적으로, 완전히 포기하기보다는, 이 세대는 변화에 적응하며 유연한 주거 방식과 새로운 투자 전략을 받아들여 새로운 경제 적응 시대를 헤쳐나가고 있습니다."
+        ],
+        "translationHighlights": [
+          "내 집 마련의 목표를 변경시키면서",
+          "재정적으로 허우적대지 않고 버티는 것이",
+          "변화에 적응하며",
+          "새로운 경제 적응 시대를 헤쳐나가고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "move the goalposts",
+            "meaning": "규칙이나 목표를 바꿔 달성하기 어렵게 만들다",
+            "context": "inflation continuing to move the goalposts for homeownership"
+          },
+          {
+            "word": "keep one's head above water",
+            "meaning": "재정적으로 파산하지 않고 버티다, 겨우 생계를 유지하다",
+            "context": "difficult to keep their heads above water financially"
+          },
+          {
+            "word": "roll with the punches",
+            "meaning": "변화나 어려움에 유연하게 대처하다, 적응하다",
+            "context": "learning to roll with the punches"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As AI integration rapidly advances, many professionals are realizing they need to bite the bullet and embrace upskilling.",
           "They're now making a concerted effort to double down on human-centric skills, aiming to bring something new to the table that AI cannot."
         ],
@@ -2546,6 +2579,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "While the ECB's potential rate cuts are giving some a reason to be optimistic, geopolitical tensions surrounding advanced AI semiconductors remain a fly in the ointment for stable supply chains.",
+          "Despite these underlying concerns, NVIDIA is clearly striking while the iron is hot, pouring billions into its new supercomputing cluster to capitalize on the AI boom."
+        ],
+        "sentenceTranslations": [
+          "유럽중앙은행(ECB)의 잠재적인 금리 인하 가능성이 일부에게는 낙관적인 기대를 주지만, 첨단 AI 반도체를 둘러싼 지정학적 긴장은 안정적인 공급망에 걸림돌로 남아 있습니다.",
+          "이러한 근본적인 우려에도 불구하고, 엔비디아는 AI 붐을 활용하기 위해 새로운 슈퍼컴퓨팅 클러스터에 수십억 달러를 쏟아부으며 명확하게 기회를 놓치지 않고 있습니다."
+        ],
+        "translationHighlights": [
+          "걸림돌",
+          "기회를 놓치지 않고 있습니다",
+          "잠재적인 금리 인하",
+          "첨단 AI 반도체"
+        ],
+        "newWords": [
+          {
+            "word": "a fly in the ointment",
+            "meaning": "옥에 티, 걸림돌, 흥을 깨는 것",
+            "context": "remain a fly in the ointment"
+          },
+          {
+            "word": "striking while the iron is hot",
+            "meaning": "기회를 놓치지 않고 행동하다, 적절한 때를 놓치지 않다",
+            "context": "clearly striking while the iron is hot"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "NVIDIA's 'Blackwell Ultra' AI accelerators are going gangbusters, driving massive revenue and reshaping the AI infrastructure landscape.",
           "However, with such a dominant market position, regulators across the globe are understandably putting the company under the microscope to ensure fair competition."
         ],
@@ -4985,6 +5046,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The digital nomad influx has been a real shot in the arm for secondary Thai cities like Chiang Mai, which are now seeing their local economies truly flourish.",
+          "This shift towards extended stays allows visitors to truly get under the skin of the culture, moving beyond the fleeting glimpses of traditional tourism."
+        ],
+        "sentenceTranslations": [
+          "디지털 노마드들의 유입은 치앙마이와 같은 태국의 중소 도시들에게 진정한 활력소가 되어주었으며, 이제 이들 도시의 지역 경제는 실질적인 번영을 누리고 있습니다.",
+          "이러한 장기 체류 경향은 방문객들이 전통적인 단기 관광으로는 얻을 수 없는, 그 지역 문화의 진정한 면모를 깊이 있게 경험할 수 있도록 해줍니다."
+        ],
+        "translationHighlights": [
+          "활력소",
+          "실질적인 번영을 누리고 있습니다",
+          "장기 체류 경향",
+          "문화의 진정한 면모를 깊이 있게 경험할 수 있도록 해줍니다"
+        ],
+        "newWords": [
+          {
+            "word": "a shot in the arm",
+            "meaning": "큰 활력소, 기운을 북돋아 주는 것",
+            "context": "has been a real shot in the arm for secondary Thai cities"
+          },
+          {
+            "word": "get under the skin of (a place/culture)",
+            "meaning": "(장소나 문화를) 깊이 이해하다/경험하다, 진수를 파악하다",
+            "context": "to truly get under the skin of the culture"
+          }
+        ]
+      },
       {
         "sentences": [
           "Thanks to the smooth ETIAS system, Europe is currently riding the crest of a wave for international tourism, with airlines struggling to keep up with demand.",
@@ -7438,6 +7527,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Argentina's tense 1-0 victory, secured by Messi's late assist, was a nail-biter right to the end, underscoring coach Scaloni's point that every score could make or break their campaign.",
+          "This global football fever is not only driving World Cup viewership but also seeing the EA Sports FC Pro Qualifiers take off like a rocket, mirroring the influx of outdoor enthusiasts flocking in droves to national parks for summer."
+        ],
+        "sentenceTranslations": [
+          "메시의 막판 어시스트로 아르헨티나가 1대0으로 힘들게 거둔 승리는 마지막까지 손에 땀을 쥐게 하는 경기였으며, 스칼로니 감독의 말처럼 모든 득점이 그들의 캠페인의 성패를 좌우할 수 있음을 강조합니다.",
+          "이러한 전 세계적인 축구 열기는 월드컵 시청률을 견인할 뿐만 아니라, EA 스포츠 FC 프로 예선전도 로켓처럼 급성장하게 하고 있으며, 이는 여름을 맞아 국립공원으로 수많은 야외 활동 애호가들이 떼를 지어 몰려드는 현상과도 같습니다."
+        ],
+        "translationHighlights": [
+          "손에 땀을 쥐게 하는 경기",
+          "성패를 좌우할 수 있음을",
+          "로켓처럼 급성장하게 하고 있으며"
+        ],
+        "newWords": [
+          {
+            "word": "nail-biter",
+            "meaning": "손에 땀을 쥐게 하는 경기/상황",
+            "context": "was a nail-biter right to the end"
+          },
+          {
+            "word": "make or break",
+            "meaning": "성패를 좌우하다",
+            "context": "could make or break their campaign"
+          },
+          {
+            "word": "take off like a rocket",
+            "meaning": "급속도로 성공하다/인기를 얻다",
+            "context": "take off like a rocket"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the 2026 FIFA World Cup officially getting off to the races today, concerns over USMNT star Christian Pulisic's fitness are already proving to be a fly in the ointment for the host nation's early prospects.",
