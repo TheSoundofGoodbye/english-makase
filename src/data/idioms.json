@@ -3,6 +3,33 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The WHO's push for urban greening initiatives aims to help cities **get ahead of the curve** in tackling severe heatwaves, as proven by the 15% reduction in ER visits.",
+          "Indeed, integrating personal health tech with policy isn't just a suggestion; it's crucial to **nip potential crises in the bud** before they overwhelm our healthcare systems."
+        ],
+        "sentenceTranslations": [
+          "세계보건기구(WHO)가 도시 녹화 사업을 추진하는 것은, 응급실 방문 15% 감소에서 입증되었듯이, 도시들이 심각한 폭염에 **선제적으로 대응**하도록 돕는 것을 목표로 합니다.",
+          "실제로, 개인 건강 기술을 정책과 통합하는 것은 단순한 제안이 아니라, 잠재적인 위기가 의료 시스템을 마비시키기 전에 **미리 싹을 잘라내는** 데 매우 중요합니다."
+        ],
+        "translationHighlights": [
+          "선제적으로 대응",
+          "미리 싹을 잘라내는",
+          "응급실 방문 15% 감소"
+        ],
+        "newWords": [
+          {
+            "word": "get ahead of the curve",
+            "meaning": "선제적으로 대응하다, 최신 동향을 앞서가다",
+            "context": "help cities **get ahead of the curve**"
+          },
+          {
+            "word": "nip in the bud",
+            "meaning": "문제의 싹을 자르다, 초기에 해결하다",
+            "context": "crucial to **nip potential crises in the bud**"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With inflation continuing to move the goalposts for homeownership, many young adults are finding it increasingly difficult to keep their heads above water financially.",
           "Consequently, rather than giving up entirely, this generation is learning to roll with the punches, embracing flexible living arrangements and new investment strategies to navigate a new era of economic adaptability."
         ],
@@ -2579,6 +2606,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Despite the Federal Reserve's resolve to **hold the line** on interest rates, major tech firms like Microsoft are clearly **reading the tea leaves**, adjusting their investment outlooks amidst persistent market volatility.",
+          "Such caution suggests that even industry giants are keenly aware that it's crucial to **batten down the hatches** as economic headwinds continue to gather strength."
+        ],
+        "sentenceTranslations": [
+          "미 연준이 금리 동결 기조를 **유지하려는 확고한 의지**에도 불구하고, 마이크로소프트와 같은 주요 기술 기업들은 지속적인 시장 변동성 속에서 분명히 **미래를 예의주시하며**, 투자 전망을 조정하고 있습니다.",
+          "이러한 신중함은 경제적 역풍이 계속 거세지는 상황에서 업계 거물들조차도 **철저히 대비하는 것**이 중요하다고 깊이 인식하고 있음을 시사합니다."
+        ],
+        "translationHighlights": [
+          "유지하려는 확고한 의지",
+          "미래를 예의주시하며",
+          "경제적 역풍이 계속 거세지는 상황에서",
+          "철저히 대비하는 것"
+        ],
+        "newWords": [
+          {
+            "word": "hold the line",
+            "meaning": "현상을 유지하다, 특정 기준을 고수하다",
+            "context": "Federal Reserve's resolve to hold the line on interest rates"
+          },
+          {
+            "word": "read the tea leaves",
+            "meaning": "미래를 예측하다, 불확실한 징조를 해석하다",
+            "context": "major tech firms like Microsoft are clearly reading the tea leaves"
+          },
+          {
+            "word": "batten down the hatches",
+            "meaning": "만반의 준비를 하다, 비상사태에 대비하다",
+            "context": "it's crucial to batten down the hatches as economic headwinds continue to gather strength"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While the ECB's potential rate cuts are giving some a reason to be optimistic, geopolitical tensions surrounding advanced AI semiconductors remain a fly in the ointment for stable supply chains.",
           "Despite these underlying concerns, NVIDIA is clearly striking while the iron is hot, pouring billions into its new supercomputing cluster to capitalize on the AI boom."
         ],
@@ -5046,6 +5106,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The newly launched 'ASEAN Green Visa' program is poised to set the stage for unparalleled regional exploration, with travelers clearly chomping at the bit to experience diverse Southeast Asian cultures.",
+          "However, industry analysts caution that while the visa simplifies entry, its long-term success isn't a slam dunk and hinges on dedicated efforts to iron out the kinks of sustainable development and community-led tourism."
+        ],
+        "sentenceTranslations": [
+          "오늘 새로 시작된 '아세안 그린 비자' 프로그램은 비할 데 없는 역내 여행을 위한 발판을 마련할 것으로 기대되며, 여행객들은 이미 다양한 동남아시아 문화를 경험하기 위해 몹시 기다리고 있는 듯합니다.",
+          "하지만 업계 분석가들은 비자가 입국을 간소화하더라도 장기적인 성공이 확실한 일은 아니며, 과잉 관광을 방지하기 위한 지속 가능한 개발과 지역 사회 주도형 관광 이니셔티브의 문제점을 해결하기 위한 헌신적인 노력이 중요하다고 경고합니다."
+        ],
+        "translationHighlights": [
+          "발판을 마련할",
+          "몹시 기다리고 있는",
+          "확실한 일은 아니며",
+          "문제점을 해결하기 위한"
+        ],
+        "newWords": [
+          {
+            "word": "set the stage for",
+            "meaning": "~을 위한 발판을 마련하다, ~의 조건을 만들다",
+            "context": "poised to set the stage for unparalleled regional exploration"
+          },
+          {
+            "word": "chomping at the bit",
+            "meaning": "몹시 안달하다, 무언가를 간절히 바라다",
+            "context": "clearly chomping at the bit to experience diverse Southeast Asian cultures"
+          },
+          {
+            "word": "iron out the kinks",
+            "meaning": "문제점을 해결하다, 난관을 없애다",
+            "context": "dedicated efforts to iron out the kinks of sustainable development"
+          }
+        ]
+      },
       {
         "sentences": [
           "The digital nomad influx has been a real shot in the arm for secondary Thai cities like Chiang Mai, which are now seeing their local economies truly flourish.",
@@ -7527,6 +7620,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Saudi Arabia truly managed to upset the applecart in Group D, securing an unexpected victory against a team widely expected to dominate.",
+          "For the Belgian squad, this early defeat is certainly a bitter pill to swallow, especially with De Bruyne stressing the criticality of every single point."
+        ],
+        "sentenceTranslations": [
+          "사우디아라비아는 D조에서 정말 예상을 뒤엎는 이변을 연출하며, 압도적인 우세가 점쳐졌던 팀을 상대로 예상 밖의 승리를 거뒀습니다.",
+          "벨기에 팀에게 이른 패배는 분명 쓰디쓴 현실일 것이며, 특히 데 브라위너가 모든 승점의 중요성을 강조했기에 더욱 그럴 것입니다."
+        ],
+        "translationHighlights": [
+          "예상을 뒤엎는 이변을 연출하며",
+          "압도적인 우세가 점쳐졌던 팀",
+          "쓰디쓴 현실",
+          "중요성을 강조했기에"
+        ],
+        "newWords": [
+          {
+            "word": "upset the applecart",
+            "meaning": "예상이나 계획을 뒤엎다, 이변을 연출하다",
+            "context": "managed to upset the applecart in Group D"
+          },
+          {
+            "word": "a bitter pill to swallow",
+            "meaning": "받아들이기 힘든 불쾌한 사실/경험 (쓰디쓴 현실/경험)",
+            "context": "this early defeat is certainly a bitter pill to swallow"
+          }
+        ]
+      },
       {
         "sentences": [
           "Argentina's tense 1-0 victory, secured by Messi's late assist, was a nail-biter right to the end, underscoring coach Scaloni's point that every score could make or break their campaign.",
