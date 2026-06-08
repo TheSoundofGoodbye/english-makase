@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "This cutting-edge AI diagnostic model, leveraging everyday wearables, could truly help individuals nip potential Type 2 Diabetes in the bud years before its onset.",
+          "Such a breakthrough is undoubtedly a game changer for personalized medicine, empowering people to take matters into their own hands regarding their long-term health."
+        ],
+        "sentenceTranslations": [
+          "일상적인 웨어러블 기기를 활용하는 이 최첨단 AI 진단 모델은 사람들이 잠재적인 제2형 당뇨병을 발병 몇 년 전에 초기에 미리 막는 데 진정으로 도움을 줄 수 있습니다.",
+          "이러한 혁신은 개인 맞춤형 의학 분야에서 의심할 여지 없이 획기적인 전환점이며, 사람들이 장기적인 건강에 대해 주도적으로 대처할 수 있도록 힘을 실어줍니다."
+        ],
+        "translationHighlights": [
+          "초기에 미리 막는 데",
+          "획기적인 전환점",
+          "주도적으로 대처할"
+        ],
+        "newWords": [
+          {
+            "word": "nip something in the bud",
+            "meaning": "초기에 미리 막다, 싹부터 자르다",
+            "context": "nip potential Type 2 Diabetes in the bud"
+          },
+          {
+            "word": "a game changer",
+            "meaning": "판도를 바꾸는 것, 획기적인 전환점",
+            "context": "is undoubtedly a game changer"
+          },
+          {
+            "word": "take matters into their own hands",
+            "meaning": "주도적으로 대처하다, 스스로 해결하다",
+            "context": "take matters into their own hands"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The WHO's push for urban greening initiatives aims to help cities **get ahead of the curve** in tackling severe heatwaves, as proven by the 15% reduction in ER visits.",
           "Indeed, integrating personal health tech with policy isn't just a suggestion; it's crucial to **nip potential crises in the bud** before they overwhelm our healthcare systems."
         ],
@@ -2606,6 +2638,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "While Nvidia has long been a dominant force, the analyst's warning that its formidable moat is \"not impenetrable\" suggests they can't afford to rest on their laurels.",
+          "With new competitors rapidly gaining traction, it appears others are starting to give them a run for their money in the fiercely competitive AI accelerator market."
+        ],
+        "sentenceTranslations": [
+          "엔비디아가 오랫동안 지배적인 위치에 있었지만, 그들의 막강한 해자가 \"뚫을 수 없는 것이 아니다\"라는 분석가의 경고는 그들이 현재의 성공에 안주할 여유가 없음을 시사합니다.",
+          "새로운 경쟁자들이 빠르게 입지를 굳히면서, 다른 기업들이 치열한 AI 가속기 시장에서 엔비디아에게 진정한 경쟁 상대가 되기 시작한 것으로 보입니다."
+        ],
+        "translationHighlights": [
+          "현재의 성공에 안주할 여유가 없음을 시사합니다",
+          "새로운 경쟁자들이 빠르게 입지를 굳히면서",
+          "진정한 경쟁 상대가 되기 시작한 것으로 보입니다",
+          "치열한 AI 가속기 시장"
+        ],
+        "newWords": [
+          {
+            "word": "rest on one's laurels",
+            "meaning": "현재의 성공에 안주하다",
+            "context": "they can't afford to rest on their laurels"
+          },
+          {
+            "word": "gain traction",
+            "meaning": "인기를 얻다, 지지를 얻다, 추진력을 얻다 (여기서는 '입지를 굳히다')",
+            "context": "new competitors rapidly gaining traction"
+          },
+          {
+            "word": "give (someone) a run for one's money",
+            "meaning": "(~에게) 강력한 경쟁 상대가 되다; 힘든 싸움을 안겨주다",
+            "context": "others are starting to give them a run for their money"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Despite the Federal Reserve's resolve to **hold the line** on interest rates, major tech firms like Microsoft are clearly **reading the tea leaves**, adjusting their investment outlooks amidst persistent market volatility.",
           "Such caution suggests that even industry giants are keenly aware that it's crucial to **batten down the hatches** as economic headwinds continue to gather strength."
         ],
@@ -5106,6 +5171,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With Japan's tourism sector truly **hitting its stride** thanks to the favorable exchange rate, airlines like ANA are **seizing the moment** by significantly expanding their international routes to meet the surging demand.",
+          "This reflects a broader trend of travelers wanting to **scratch beneath the surface** of Japanese culture in lesser-known regions, moving **beyond the usual suspects** of major cities."
+        ],
+        "sentenceTranslations": [
+          "일본 관광 부문이 유리한 환율 덕분에 진정으로 **본격적인 궤도에 오르면서**, ANA와 같은 항공사들은 급증하는 수요를 충족시키기 위해 국제 노선을 대폭 확장하며 **이 기회를 포착하고 있습니다**.",
+          "이는 여행객들이 주요 도시의 **뻔한 관광지들을 넘어**, 잘 알려지지 않은 지역에서 일본 문화의 **표면 아래를 깊이 탐구하고 싶어 하는** 더 폭넓은 경향을 반영합니다."
+        ],
+        "translationHighlights": [
+          "본격적인 궤도에 오르면서",
+          "이 기회를 포착하고 있습니다",
+          "뻔한 관광지들을 넘어",
+          "표면 아래를 깊이 탐구하고 싶어 하는"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "본격적으로 제 속도를 내다, 전성기를 맞다",
+            "context": "Japan's tourism sector truly **hitting its stride**"
+          },
+          {
+            "word": "seizing the moment",
+            "meaning": "기회를 포착하다, 지금 이 순간을 잡다",
+            "context": "ANA are **seizing the moment** by significantly expanding"
+          },
+          {
+            "word": "scratch beneath the surface",
+            "meaning": "표면 아래를 깊이 탐구하다, 속속들이 알아보다",
+            "context": "wanting to **scratch beneath the surface** of Japanese culture"
+          }
+        ]
+      },
       {
         "sentences": [
           "The newly launched 'ASEAN Green Visa' program is poised to set the stage for unparalleled regional exploration, with travelers clearly chomping at the bit to experience diverse Southeast Asian cultures.",
@@ -7620,6 +7718,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With Game 4 of the NBA Finals tonight, both the Boston Celtics and Dallas Mavericks will need to pull out all the stops to avoid falling further behind or letting their lead slip.",
+          "The anticipated record engagement suggests these finals are truly taking the world by storm, quickly becoming the talk of the town among sports enthusiasts."
+        ],
+        "sentenceTranslations": [
+          "오늘 밤 NBA 챔피언 결정전 4차전을 앞두고, 보스턴 셀틱스와 댈러스 매버릭스 양 팀은 뒤처지거나 리드를 놓치지 않기 위해 모든 역량을 쏟아부어야 할 것입니다.",
+          "예상되는 기록적인 시청률은 이번 챔피언 결정전이 진정 전 세계를 휩쓸고 있음을 보여주며, 스포츠 팬들 사이에서 가장 뜨거운 화제가 되고 있습니다."
+        ],
+        "translationHighlights": [
+          "모든 역량을 쏟아부어야",
+          "전 세계를 휩쓸고 있음",
+          "가장 뜨거운 화제"
+        ],
+        "newWords": [
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 노력을 다하다, 최대한 역량을 쏟아붓다",
+            "context": "need to pull out all the stops"
+          },
+          {
+            "word": "take the world by storm",
+            "meaning": "전 세계를 휩쓸다, 선풍적인 인기를 얻다",
+            "context": "truly taking the world by storm"
+          },
+          {
+            "word": "the talk of the town",
+            "meaning": "화제의 중심, 모두의 입에 오르내리는 이야기",
+            "context": "becoming the talk of the town"
+          }
+        ]
+      },
       {
         "sentences": [
           "Saudi Arabia truly managed to upset the applecart in Group D, securing an unexpected victory against a team widely expected to dominate.",
