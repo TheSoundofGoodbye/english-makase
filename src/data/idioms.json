@@ -2638,6 +2638,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Even as enterprise AI adoption allows tech giants to catch a tailwind in productivity gains, the wider economy looks to be in for a bumpy ride as persistent inflation proves stubbornly sticky.",
+          "This dichotomy is particularly pronounced in the startup ecosystem; while overall venture capital flows have put the brakes on, specialized AI firms are remarkably bucking the trend by securing substantial Series B funding."
+        ],
+        "sentenceTranslations": [
+          "기업들이 AI 도입으로 생산성 향상에 순풍을 달고 있음에도 불구하고, 고질적인 인플레이션이 완강히 지속되면서 더 넓은 경제는 험난한 길을 겪을 것으로 보입니다.",
+          "이러한 양극화는 스타트업 생태계에서 특히 두드러지는데, 전반적인 벤처 캐피탈 자금 유입이 속도를 늦추었음에도 불구하고, 전문 AI 기업들은 막대한 시리즈 B 투자를 유치하며 놀랍게도 대세를 거스르고 있습니다."
+        ],
+        "translationHighlights": [
+          "순풍을 달고",
+          "험난한 길을 겪을 것으로",
+          "속도를 늦추었음에도 불구하고",
+          "대세를 거스르고"
+        ],
+        "newWords": [
+          {
+            "word": "catch a tailwind",
+            "meaning": "순풍을 달다, 유리한 상황으로 추진력을 얻다",
+            "context": "catch a tailwind in productivity gains"
+          },
+          {
+            "word": "in for a bumpy ride",
+            "meaning": "험난한 시기를 겪을 예정이다",
+            "context": "in for a bumpy ride as persistent inflation"
+          },
+          {
+            "word": "bucking the trend",
+            "meaning": "대세를 거스르다, 유행에 역행하다",
+            "context": "bucking the trend by securing substantial Series B funding"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While Nvidia has long been a dominant force, the analyst's warning that its formidable moat is \"not impenetrable\" suggests they can't afford to rest on their laurels.",
           "With new competitors rapidly gaining traction, it appears others are starting to give them a run for their money in the fiercely competitive AI accelerator market."
         ],
