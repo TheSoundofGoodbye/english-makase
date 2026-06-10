@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The rapid embrace of AI financial advisors has emerged as a double-edged sword, offering unprecedented efficiency while simultaneously placing algorithmic bias and data privacy squarely in the spotlight.",
+          "Now, regulatory bodies must get their ducks in a row to build genuine trust, as the industry might otherwise be skating on thin ice concerning ethical dilemmas and investor confidence."
+        ],
+        "sentenceTranslations": [
+          "AI 재무 자문 서비스의 빠른 도입은 양날의 검이 되어, 전례 없는 효율성을 제공하는 동시에 알고리즘 편향과 데이터 프라이버시 문제를 집중 조명하고 있습니다.",
+          "이제 규제 당국은 진정한 신뢰를 구축하기 위해 만반의 준비를 갖춰야 하며, 그렇지 않으면 업계는 윤리적 딜레마와 투자자의 신뢰 문제로 아슬아슬한 상황에 놓일 수 있습니다."
+        ],
+        "translationHighlights": [
+          "양날의 검",
+          "집중 조명하고 있습니다",
+          "만반의 준비를 갖춰야",
+          "아슬아슬한 상황에 놓일 수"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (장점과 단점을 동시에 지닌 것)",
+            "context": "has emerged as a double-edged sword"
+          },
+          {
+            "word": "get their ducks in a row",
+            "meaning": "만반의 준비를 하다, 모든 것을 잘 정리하다",
+            "context": "must get their ducks in a row"
+          },
+          {
+            "word": "skating on thin ice",
+            "meaning": "위험한 상황에 처하다, 아슬아슬한 줄타기를 하다",
+            "context": "be skating on thin ice"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "This cutting-edge AI diagnostic model, leveraging everyday wearables, could truly help individuals nip potential Type 2 Diabetes in the bud years before its onset.",
           "Such a breakthrough is undoubtedly a game changer for personalized medicine, empowering people to take matters into their own hands regarding their long-term health."
         ],
@@ -2638,6 +2671,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The AI sector is clearly riding the crest of a wave with Aura's unprecedented multimodal capabilities, compelling tech giants to double down on their integration strategies.",
+          "However, heightened geopolitical competition for rare earth supplies and persistent inflation could throw a wrench in the works, making the path forward anything but a smooth sail."
+        ],
+        "sentenceTranslations": [
+          "OpenAI의 Aura 모델이 전례 없는 멀티모달 역량을 선보이면서 AI 부문은 명백히 승승장구하며, 거대 기술 기업들이 통합 전략에 더욱 집중하도록 만들고 있습니다.",
+          "하지만 희토류 공급을 둘러싼 지정학적 경쟁 심화와 고질적인 인플레이션은 계획에 차질을 줄 수 있으며, 앞으로의 길을 결코 순탄치 않게 만들 것입니다."
+        ],
+        "translationHighlights": [
+          "승승장구하며",
+          "더욱 집중하도록 만들고 있습니다",
+          "계획에 차질을 줄 수 있으며",
+          "결코 순탄치 않게"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "승승장구하다, 전성기를 누리다",
+            "context": "The AI sector is clearly riding the crest of a wave..."
+          },
+          {
+            "word": "double down",
+            "meaning": "더욱 집중하다, 노력을 배가하다",
+            "context": "...compelling tech giants to double down on their integration strategies."
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다, 방해하다",
+            "context": "...could throw a wrench in the works..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Even as enterprise AI adoption allows tech giants to catch a tailwind in productivity gains, the wider economy looks to be in for a bumpy ride as persistent inflation proves stubbornly sticky.",
           "This dichotomy is particularly pronounced in the startup ecosystem; while overall venture capital flows have put the brakes on, specialized AI firms are remarkably bucking the trend by securing substantial Series B funding."
         ],
@@ -5206,6 +5272,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Global air travel is undeniably hitting its stride, with Southeast Asia truly coming into its own as a top destination amidst robust demand and increased flight capacities.",
+          "However, the EU's impending ETIAS implementation threatens to throw a wrench in the works, potentially making visa-exempt visits a bitter pill to swallow for many American tourists."
+        ],
+        "sentenceTranslations": [
+          "전 세계 항공 여행이 확실히 활기를 띠고 있으며, 동남아시아는 강력한 수요와 늘어난 항공편 덕분에 최고의 여행지로서 진가를 발휘하고 있습니다.",
+          "하지만 EU의 곧 시행될 ETIAS 시스템은 계획에 찬물을 끼얹을 수 있으며, 많은 미국인 관광객들에게 비자 면제 방문을 받아들이기 힘든 현실로 만들 가능성이 있습니다."
+        ],
+        "translationHighlights": [
+          "활기를 띠고 있으며",
+          "진가를 발휘하고 있습니다",
+          "찬물을 끼얹을",
+          "받아들이기 힘든 현실"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "활기를 띠다, 전성기에 접어들다",
+            "context": "Global air travel is undeniably hitting its stride"
+          },
+          {
+            "word": "coming into its own",
+            "meaning": "진가를 발휘하다, 제 역할/능력을 발휘하다",
+            "context": "Southeast Asia truly coming into its own as a top destination"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 지장을 주다, 방해하다",
+            "context": "threatens to throw a wrench in the works"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With Japan's tourism sector truly **hitting its stride** thanks to the favorable exchange rate, airlines like ANA are **seizing the moment** by significantly expanding their international routes to meet the surging demand.",
           "This reflects a broader trend of travelers wanting to **scratch beneath the surface** of Japanese culture in lesser-known regions, moving **beyond the usual suspects** of major cities."
         ],
@@ -7751,6 +7850,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With the FIFA World Cup 2026 officially kicking off today, the stakes couldn't be higher for the host nations, especially the US Men's National Team.",
+          "Christian Pulisic's confident declaration shows they're ready to hit it out of the park and truly make a splash on the global stage."
+        ],
+        "sentenceTranslations": [
+          "2026년 FIFA 월드컵이 오늘 공식적으로 시작되면서, 개최국들, 특히 미국 남자 대표팀에게는 그 어느 때보다 중대한 일전이 될 것입니다.",
+          "크리스천 풀리식 선수의 자신감 있는 선언은 그들이 전 세계 무대에서 대성공을 거두고 진정으로 이목을 집중시킬 준비가 되어 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "그 어느 때보다 중대한 일전",
+          "대성공을 거두고",
+          "이목을 집중시킬"
+        ],
+        "newWords": [
+          {
+            "word": "the stakes couldn't be higher",
+            "meaning": "성패가 달려있다, 매우 중요하다",
+            "context": "the stakes couldn't be higher for the host nations"
+          },
+          {
+            "word": "hit it out of the park",
+            "meaning": "크게 성공하다, 엄청나게 잘 해내다",
+            "context": "ready to hit it out of the park"
+          },
+          {
+            "word": "make a splash",
+            "meaning": "세간의 이목을 끌다, 큰 반향을 일으키다",
+            "context": "truly make a splash on the global stage"
+          }
+        ]
+      },
       {
         "sentences": [
           "With Game 4 of the NBA Finals tonight, both the Boston Celtics and Dallas Mavericks will need to pull out all the stops to avoid falling further behind or letting their lead slip.",
