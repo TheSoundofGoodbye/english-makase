@@ -7852,6 +7852,38 @@
     "스포츠 및 취미 (Sports & Hobbies)": [
       {
         "sentences": [
+          "With their 3-1 series lead, the Boston Celtics are firmly in the driver's seat heading into Game 5 at home.",
+          "The Dallas Mavericks, on the other hand, will need to pull a rabbit out of a hat to emulate Team Liquid's recent upset and turn the tide of the NBA Finals."
+        ],
+        "sentenceTranslations": [
+          "3대 1로 시리즈에서 앞서고 있는 보스턴 셀틱스는 홈에서 열리는 5차전을 앞두고 확실히 유리한 고지를 점하고 있습니다.",
+          "반면, 댈러스 매버릭스는 최근 팀 리퀴드의 이변을 본받아 NBA 파이널의 흐름을 바꾸려면 뭔가 놀라운 묘책을 강구해야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "확실히 유리한 고지를 점하고 있습니다",
+          "뭔가 놀라운 묘책을 강구해야 할 것입니다",
+          "NBA 파이널의 흐름을 바꾸려면"
+        ],
+        "newWords": [
+          {
+            "word": "in the driver's seat",
+            "meaning": "주도권을 쥐고 있는, 유리한 고지에 있는",
+            "context": "the Boston Celtics are firmly in the driver's seat"
+          },
+          {
+            "word": "pull a rabbit out of a hat",
+            "meaning": "묘책을 강구하다, 예기치 않은 해결책을 내놓다",
+            "context": "will need to pull a rabbit out of a hat"
+          },
+          {
+            "word": "turn the tide",
+            "meaning": "흐름을 바꾸다, 전세를 역전시키다",
+            "context": "turn the tide of the NBA Finals"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With the FIFA World Cup 2026 officially kicking off today, the stakes couldn't be higher for the host nations, especially the US Men's National Team.",
           "Christian Pulisic's confident declaration shows they're ready to hit it out of the park and truly make a splash on the global stage."
         ],
