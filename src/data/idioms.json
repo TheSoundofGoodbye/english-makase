@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "As AI personal assistants become ubiquitous, many users are finding it increasingly difficult to draw a line in the sand between professional duties and personal tasks.",
+          "While these tools offer undeniable convenience, privacy watchdogs are warning that such deep integration could open a Pandora's box of data security issues, making digital boundaries harder to maintain."
+        ],
+        "sentenceTranslations": [
+          "AI 개인 비서들이 보편화되면서, 많은 사용자들이 직무와 개인 업무 사이에 명확한 경계를 설정하는 것이 점점 더 어려워지고 있습니다.",
+          "이러한 도구들이 부인할 수 없는 편리함을 제공하지만, 사생활 감시 단체들은 이러한 깊은 통합이 데이터 보안 문제의 판도라의 상자를 열 수도 있다고 경고하며, 디지털 경계를 유지하기가 더 어려워질 것이라고 말합니다."
+        ],
+        "translationHighlights": [
+          "명확한 경계를 설정하는 것",
+          "판도라의 상자를 열 수도 있다",
+          "데이터 보안 문제",
+          "디지털 경계를 유지하기"
+        ],
+        "newWords": [
+          {
+            "word": "draw a line in the sand",
+            "meaning": "명확한 경계를 설정하다, 분명한 한계를 긋다",
+            "context": "difficult to draw a line in the sand between professional duties and personal tasks"
+          },
+          {
+            "word": "open a Pandora's box",
+            "meaning": "판도라의 상자를 열다 (예상치 못한 온갖 문제들을 일으키다)",
+            "context": "could open a Pandora's box of data security issues"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "FinTech startups are certainly on shaky ground as the Federal Reserve explores a national digital currency, forcing them to quickly adapt to a potentially new financial landscape.",
           "This rapid technological shift, much like the 'connection paradox,' highlights how society often has to come to grips with unintended consequences."
         ],
@@ -2731,6 +2759,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Even as the eurozone economy seems to be facing significant headwinds, casting a shadow over the upcoming ECB meeting, the AI industry, exemplified by NVIDIA's booming GPU orders, is clearly firing on all cylinders.",
+          "This stark contrast puts central bankers on the horns of a dilemma, trying to navigate economic instability while the escalating tech trade war between the US and China threatens to throw a wrench in the works of global supply chains."
+        ],
+        "sentenceTranslations": [
+          "유로존 경제가 상당한 역풍에 직면하며 다가오는 ECB 회의에 그림자를 드리우고 있는 가운데에서도, 엔비디아의 폭증하는 GPU 주문으로 대표되는 AI 산업은 확실히 전성기를 누리고 있습니다.",
+          "이러한 극명한 대조는 중앙은행가들을 진퇴양난의 상황에 빠뜨리고 있으며, 경제적 불안정성을 헤쳐나가려는 가운데 미국과 중국 간의 고조되는 기술 무역 전쟁이 글로벌 공급망에 돌발적인 장애물을 던질 위험이 있습니다."
+        ],
+        "translationHighlights": [
+          "역풍에 직면하며",
+          "전성기를 누리고 있습니다",
+          "진퇴양난의 상황에 빠뜨리고 있으며",
+          "돌발적인 장애물을 던질 위험이 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "headwinds",
+            "meaning": "역풍; (경제 상황의) 난관",
+            "context": "facing significant headwinds"
+          },
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고조로 작동하다; 전성기를 누리다",
+            "context": "is clearly firing on all cylinders"
+          },
+          {
+            "word": "on the horns of a dilemma",
+            "meaning": "진퇴양난에 빠지다; 딜레마에 처하다",
+            "context": "puts central bankers on the horns of a dilemma"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With its multi-billion dollar acquisition of Qubit Nexus, NVIDIA is clearly pulling out all the stops to stay ahead of the curve in the cutthroat race for AI dominance.",
           "This proactive approach is crucial, as G7 trade ministers are keen to nip fragmentation in the bud and ensure global standards are established before the industry gets too far down the road."
         ],
@@ -5397,6 +5458,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Thanks to its streamlined e-visa system, Saudi Arabia's Red Sea Project is definitely hitting its stride, preparing to roll out the red carpet for millions this quarter.",
+          "This unique blend of sustainable luxury and deep cultural immersion aims to set the bar high, distinguishing itself as a truly global game changer in travel."
+        ],
+        "sentenceTranslations": [
+          "간소화된 전자 비자 시스템 덕분에 사우디아라비아의 홍해 프로젝트는 확실히 본궤도에 오르고 있으며, 이번 분기 수백만 명의 방문객을 극진히 맞이할 준비를 하고 있습니다.",
+          "지속 가능한 럭셔리와 깊이 있는 문화 체험의 독특한 조화는 여행 분야에서 진정한 글로벌 판도를 바꾸는 역할을 하며, 기준을 높이 설정하는 것을 목표로 합니다."
+        ],
+        "translationHighlights": [
+          "본궤도에 오르고 있으며",
+          "극진히 맞이할 준비를",
+          "판도를 바꾸는 역할을",
+          "기준을 높이 설정하는 것을"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "본격적인 궤도에 오르다, 순조롭게 진행되다",
+            "context": "Red Sea Project is definitely hitting its stride"
+          },
+          {
+            "word": "roll out the red carpet",
+            "meaning": "극진히 대접하다, 환영하다",
+            "context": "preparing to roll out the red carpet"
+          },
+          {
+            "word": "game changer",
+            "meaning": "판도를 바꾸는 것, 결정적인 변화를 가져오는 것",
+            "context": "a truly global game changer"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The extension of Malaysia's visa-free program, echoing Thailand's success, looks set to give the regional tourism sector a real shot in the arm, propelling the current post-recovery growth.",
           "This momentum, coupled with Emirates' added flights to Lisbon, suggests that the industry is adept at reading the room regarding strong demand, while also catering to the sea change in Gen Z's preference for immersive cultural experiences."
         ],
@@ -8036,6 +8130,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The U.S. Open's thrilling final round kept golf enthusiasts guessing until the very end, proving that even a strong lead can go right down to the wire.",
+          "Meanwhile, FNATIC, clearly operating at the top of their game, continued to run away with the VCT Masters Shanghai, cementing their status as a true force to be reckoned with in esports."
+        ],
+        "sentenceTranslations": [
+          "U.S. 오픈의 스릴 넘치는 최종 라운드는 막판까지 골프 팬들을 애태웠고, 강력한 선두조차도 마지막 순간까지 결과를 알 수 없게 만들 수 있다는 것을 증명했습니다.",
+          "한편, FNATIC은 확실히 최고의 기량을 발휘하며 VCT 마스터스 상하이를 압도적으로 우승했고, e스포츠에서 진정한 강자로서의 위상을 굳혔습니다."
+        ],
+        "translationHighlights": [
+          "막판까지 애태웠고",
+          "마지막 순간까지 결과를 알 수 없게 만들 수 있다는 것을",
+          "최고의 기량을 발휘하며",
+          "진정한 강자로서의 위상을 굳혔습니다"
+        ],
+        "newWords": [
+          {
+            "word": "go down to the wire",
+            "meaning": "결과를 마지막 순간까지 알 수 없는, 막상막하의 상황이 되다",
+            "context": "can go right down to the wire"
+          },
+          {
+            "word": "at the top of their game",
+            "meaning": "최고의 기량을 발휘하는, 전성기의",
+            "context": "clearly operating at the top of their game"
+          },
+          {
+            "word": "a force to be reckoned with",
+            "meaning": "무시할 수 없는 강력한 존재, 만만치 않은 상대",
+            "context": "a true force to be reckoned with"
+          }
+        ]
+      },
       {
         "sentences": [
           "With their Game 5 victory, the Boston Celtics are now firmly in the driver's seat, and it looks like they're ready to seal the deal on the championship title.",
