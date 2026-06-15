@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Amidst the push for proactive wellness and new health tech like Bio-Predict, people are increasingly taking matters into their own hands to manage their well-being.",
+          "This shift towards self-reliance is also reflected in family life, where multi-generational households are killing two birds with one stone by offering both economic relief and vital emotional support."
+        ],
+        "sentenceTranslations": [
+          "바이오프레딕트 같은 새로운 건강 기술과 능동적인 웰니스 추세 속에서, 사람들은 자신들의 건강을 관리하기 위해 점점 더 스스로 해결책을 찾아 나서고 있습니다.",
+          "이러한 자립적인 태도는 가족 생활에도 나타나는데, 여러 세대가 함께 사는 가구들이 경제적 부담을 줄이고 중요한 정서적 지원까지 제공하며 일석이조의 효과를 보고 있습니다."
+        ],
+        "translationHighlights": [
+          "스스로 해결책을 찾아 나서고 있습니다",
+          "자립적인 태도",
+          "경제적 부담을 줄이고",
+          "일석이조의 효과"
+        ],
+        "newWords": [
+          {
+            "word": "taking matters into their own hands",
+            "meaning": "스스로 해결책을 찾다, 직접 나서서 처리하다",
+            "context": "people are increasingly taking matters into their own hands to manage their well-being"
+          },
+          {
+            "word": "killing two birds with one stone",
+            "meaning": "일석이조, 한 번의 노력으로 두 가지 목표를 달성하다",
+            "context": "multi-generational households are killing two birds with one stone by offering both economic relief and vital emotional support"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As AI personal assistants become ubiquitous, many users are finding it increasingly difficult to draw a line in the sand between professional duties and personal tasks.",
           "While these tools offer undeniable convenience, privacy watchdogs are warning that such deep integration could open a Pandora's box of data security issues, making digital boundaries harder to maintain."
         ],
@@ -2759,6 +2787,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Google's imminent acquisition of Synthetica Dynamics is poised to move the needle significantly, giving the tech giant a formidable edge in the cutthroat enterprise automation market.",
+          "As the AI industry continues its rapid consolidation, many investors are keeping their ear to the ground, trying to discern which startups might be on the block next."
+        ],
+        "sentenceTranslations": [
+          "구글의 신테티카 다이내믹스 인수 임박 소식은 기업 자동화 시장에 상당한 영향력을 행사할 것으로 보이며, 이 기술 대기업에 치열한 경쟁 속에서 막강한 우위를 제공할 것입니다.",
+          "AI 산업이 급속도로 통합되는 가운데, 많은 투자자들은 다음에 어떤 스타트업이 매물로 나올지 파악하기 위해 동향을 예의주시하고 있습니다."
+        ],
+        "translationHighlights": [
+          "상당한 영향력을 행사할",
+          "치열한 경쟁 속에서",
+          "동향을 예의주시하고",
+          "매물로 나올지"
+        ],
+        "newWords": [
+          {
+            "word": "move the needle",
+            "meaning": "상황에 큰 변화를 주거나 상당한 영향을 미치다",
+            "context": "poised to move the needle significantly"
+          },
+          {
+            "word": "keep one's ear to the ground",
+            "meaning": "정보를 얻기 위해 상황이나 동향을 예의주시하다",
+            "context": "are keeping their ear to the ground"
+          },
+          {
+            "word": "on the block",
+            "meaning": "(경매 등으로) 매물로 나온, 팔릴 예정인",
+            "context": "might be on the block next"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Even as the eurozone economy seems to be facing significant headwinds, casting a shadow over the upcoming ECB meeting, the AI industry, exemplified by NVIDIA's booming GPU orders, is clearly firing on all cylinders.",
           "This stark contrast puts central bankers on the horns of a dilemma, trying to navigate economic instability while the escalating tech trade war between the US and China threatens to throw a wrench in the works of global supply chains."
         ],
@@ -5458,6 +5519,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With significant SAF surcharges and new ETIAS requirements, travelers heading to Europe might have to bite the bullet and accept that greener journeys now often come with a steeper price tag.",
+          "To ensure smooth sailing during the upcoming summer peak, it's crucial for visitors to get up to speed on all evolving travel mandates, from digital visas to eco-fees, well in advance."
+        ],
+        "sentenceTranslations": [
+          "상당한 SAF 추가 요금과 새로운 ETIAS 요건으로 인해 유럽으로 향하는 여행자들은 이제 더 친환경적인 여행이 더 비싼 대가를 치르게 된다는 것을 감수해야 할지도 모릅니다.",
+          "다가오는 여름 성수기에 순조로운 여행을 위해, 방문객들은 디지털 비자부터 환경 부담금까지, 모든 변화하는 여행 규정에 대해 미리 충분히 파악해두는 것이 매우 중요합니다."
+        ],
+        "translationHighlights": [
+          "감수해야 할지도 모릅니다",
+          "더 비싼 대가를 치르게 된다는 것을",
+          "순조로운 여행을 위해",
+          "미리 충분히 파악해두는 것이"
+        ],
+        "newWords": [
+          {
+            "word": "bite the bullet",
+            "meaning": "어려운 상황을 감수하다 / 총대를 메다",
+            "context": "might have to bite the bullet"
+          },
+          {
+            "word": "smooth sailing",
+            "meaning": "순조로운 진행 / 탈 없는 항해",
+            "context": "ensure smooth sailing"
+          },
+          {
+            "word": "get up to speed",
+            "meaning": "최신 정보를 파악하다 / 숙지하다",
+            "context": "to get up to speed on all evolving travel mandates"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Thanks to its streamlined e-visa system, Saudi Arabia's Red Sea Project is definitely hitting its stride, preparing to roll out the red carpet for millions this quarter.",
           "This unique blend of sustainable luxury and deep cultural immersion aims to set the bar high, distinguishing itself as a truly global game changer in travel."
         ],
@@ -8130,6 +8224,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Canada truly punched above their weight with that stunning upset against Belgium, sparking nationwide jubilation.",
+          "Concurrently, LeBron James's retirement officially signals the end of an era for basketball, leaving an indelible legacy."
+        ],
+        "sentenceTranslations": [
+          "캐나다는 벨기에를 상대로 놀라운 이변을 연출하며 그야말로 기대 이상의 실력을 보여주었고, 이는 전국적인 환호를 불러일으켰습니다.",
+          "한편, 르브론 제임스의 은퇴는 농구계에 한 시대의 종말을 공식적으로 알리며, 지울 수 없는 유산을 남겼습니다."
+        ],
+        "translationHighlights": [
+          "기대 이상의 실력을 보여주었고",
+          "전국적인 환호를 불러일으켰습니다",
+          "한 시대의 종말을 공식적으로 알리며",
+          "지울 수 없는 유산을 남겼습니다"
+        ],
+        "newWords": [
+          {
+            "word": "punch above their weight",
+            "meaning": "자신의 능력이나 지위보다 훨씬 더 좋은 성과를 내다, 기대 이상의 실력을 발휘하다",
+            "context": "Canada truly punched above their weight with that stunning upset..."
+          },
+          {
+            "word": "the end of an era",
+            "meaning": "한 시대의 종말, 중요한 시기의 끝",
+            "context": "signals the end of an era for basketball"
+          }
+        ]
+      },
       {
         "sentences": [
           "The U.S. Open's thrilling final round kept golf enthusiasts guessing until the very end, proving that even a strong lead can go right down to the wire.",
