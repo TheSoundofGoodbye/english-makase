@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The World Economic Forum's report highlights that with AI set to automate financial advisory roles, many white-collar professionals will need to get ahead of the curve to remain relevant.",
+          "Economists are urging reskilling initiatives now, stressing that it's crucial to level the playing field for future generations, preventing a widening of economic disparities."
+        ],
+        "sentenceTranslations": [
+          "세계경제포럼 보고서는 AI가 재무 자문 역할을 자동화할 예정이므로, 많은 화이트칼라 전문가들이 경쟁력을 유지하기 위해 미리 앞서나가야 할 필요가 있음을 강조합니다.",
+          "경제학자들은 현 세대의 경제적 격차가 심화되지 않도록 미래 세대를 위해 공정한 기회를 제공하는 것이 중요하다고 강조하며, 지금 당장 재교육 프로그램을 촉구하고 있습니다."
+        ],
+        "translationHighlights": [
+          "미리 앞서나가야 할 필요가 있음을 강조합니다",
+          "경쟁력을 유지하기 위해",
+          "공정한 기회를 제공하는 것이 중요하다고 강조하며",
+          "경제적 격차가 심화되지 않도록"
+        ],
+        "newWords": [
+          {
+            "word": "get ahead of the curve",
+            "meaning": "변화에 앞서나가다, 선제적으로 대비하다",
+            "context": "will need to get ahead of the curve to remain relevant"
+          },
+          {
+            "word": "level the playing field",
+            "meaning": "모두에게 공정한 기회를 제공하다, 균등한 경쟁 환경을 만들다",
+            "context": "crucial to level the playing field for future generations"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Amidst the push for proactive wellness and new health tech like Bio-Predict, people are increasingly taking matters into their own hands to manage their well-being.",
           "This shift towards self-reliance is also reflected in family life, where multi-generational households are killing two birds with one stone by offering both economic relief and vital emotional support."
         ],
@@ -2787,6 +2815,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Microsoft has truly thrown down the gauntlet with its Azure Synapse AI, clearly raising the stakes in the enterprise AI race.",
+          "However, with eurozone inflation slightly above forecasts and venture funding for green tech taking a hit, many feel the global economy is still in the doldrums, making bold investments a tough sell."
+        ],
+        "sentenceTranslations": [
+          "마이크로소프트가 Azure Synapse AI를 공개하며 엔터프라이즈 AI 경쟁에 확실히 도전장을 내밀었고, 판돈을 올린 격이 되었습니다.",
+          "하지만 유로존 인플레이션이 예상치를 상회하고 그린 테크 벤처 투자가 타격을 입으면서, 많은 이들이 여전히 세계 경제가 침체기에 있다고 느끼고 있어, 과감한 투자는 설득하기 어려운 상황입니다."
+        ],
+        "translationHighlights": [
+          "도전장을 내밀었고",
+          "판돈을 올린 격이 되었습니다",
+          "침체기에 있다고 느끼고 있어",
+          "설득하기 어려운 상황입니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw down the gauntlet",
+            "meaning": "도전장을 내밀다, 싸움을 걸다",
+            "context": "Microsoft has truly **thrown down the gauntlet**"
+          },
+          {
+            "word": "raise the stakes",
+            "meaning": "판돈을 올리다, 위험이나 중요성을 더 높이다",
+            "context": "clearly **raising the stakes**"
+          },
+          {
+            "word": "in the doldrums",
+            "meaning": "침체기인, 부진한, 의기소침한",
+            "context": "global economy is still **in the doldrums**"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Google's imminent acquisition of Synthetica Dynamics is poised to move the needle significantly, giving the tech giant a formidable edge in the cutthroat enterprise automation market.",
           "As the AI industry continues its rapid consolidation, many investors are keeping their ear to the ground, trying to discern which startups might be on the block next."
         ],
@@ -5517,6 +5578,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The global travel sector, hitting its stride with robust recovery, is seeing passenger traffic surge and a fundamental shift in demand.",
+          "Consequently, travellers are increasingly venturing off the beaten path, seeking authentic cultural immersion in lesser-known destinations rather than conventional mass tourism hubs."
+        ],
+        "sentenceTranslations": [
+          "전 세계 여행 분야는 강력한 회복세를 보이며 본격적인 궤도에 올랐고, 승객 수가 급증하며 수요에도 근본적인 변화가 나타나고 있습니다.",
+          "그 결과, 여행객들은 기존의 대중 관광 중심지 대신, 잘 알려지지 않은 곳으로 점점 더 모험을 떠나 진정한 문화 체험을 추구하고 있습니다."
+        ],
+        "translationHighlights": [
+          "본격적인 궤도에 올랐고",
+          "승객 수가 급증하며",
+          "잘 알려지지 않은 곳으로 모험을 떠나",
+          "진정한 문화 체험"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "본격적인 궤도에 오르다, 제 속도를 내다",
+            "context": "The global travel sector, hitting its stride with robust recovery..."
+          },
+          {
+            "word": "off the beaten path",
+            "meaning": "사람들의 발길이 닿지 않는, 잘 알려지지 않은",
+            "context": "travellers are increasingly venturing off the beaten path..."
+          }
+        ]
+      },
       {
         "sentences": [
           "With significant SAF surcharges and new ETIAS requirements, travelers heading to Europe might have to bite the bullet and accept that greener journeys now often come with a steeper price tag.",
