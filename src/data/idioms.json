@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Nexus Dynamics' AuraLens smart glasses are poised to be a game changer, fundamentally blurring the lines between our digital and physical worlds.",
+          "This reflects a broader trend where individuals, especially younger demographics, are keen to get a handle on daily challenges by leaning into advanced AI solutions."
+        ],
+        "sentenceTranslations": [
+          "넥서스 다이내믹스의 아우라렌즈 스마트 안경은 디지털과 물리적 세계의 경계를 근본적으로 허물면서 판도를 완전히 바꿀 것입니다.",
+          "이는 특히 젊은 층을 중심으로 개개인들이 첨단 AI 솔루션에 적극적으로 의지하여 일상적인 어려움을 해결하려는 더 폭넓은 경향을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "판도를 완전히 바꿀 것입니다",
+          "경계를 근본적으로 허물면서",
+          "어려움을 해결하려는",
+          "첨단 AI 솔루션에 적극적으로 의지하여"
+        ],
+        "newWords": [
+          {
+            "word": "a game changer",
+            "meaning": "판도를 바꾸는 것; 상황을 완전히 변화시키는 것",
+            "context": "AuraLens smart glasses are poised to be a game changer"
+          },
+          {
+            "word": "get a handle on",
+            "meaning": "~을 이해하고 통제하다; ~을 다루는 방법을 찾다",
+            "context": "keen to get a handle on daily challenges"
+          },
+          {
+            "word": "leaning into",
+            "meaning": "~을 적극적으로 받아들이다/의지하다; ~에 기대다",
+            "context": "by leaning into advanced AI solutions"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The World Economic Forum's report highlights that with AI set to automate financial advisory roles, many white-collar professionals will need to get ahead of the curve to remain relevant.",
           "Economists are urging reskilling initiatives now, stressing that it's crucial to level the playing field for future generations, preventing a widening of economic disparities."
         ],
@@ -2815,6 +2848,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Google DeepMind's Orion-7 has definitely raised the bar for multimodal AI, making it clear that businesses not investing in this rapidly evolving sector will soon be playing catch-up.",
+          "Yet, as the IMF warns of persistent inflation and EthosAI pivots to ethical safeguards, it's evident that innovation alone won't suffice; companies must also walk the talk on responsible growth to stay relevant."
+        ],
+        "sentenceTranslations": [
+          "구글 딥마인드의 오리온-7은 멀티모달 AI의 기준을 확실히 높였으며, 빠르게 발전하는 이 분야에 투자하지 않는 기업들은 곧 뒤처진 것을 따라잡으려 애쓰게 될 것이 분명합니다.",
+          "하지만 IMF가 지속적인 인플레이션을 경고하고 EthosAI가 윤리적 안전장치로 전략을 전환함에 따라, 혁신만으로는 충분하지 않다는 것이 명백합니다. 기업들은 경쟁력을 유지하기 위해 책임감 있는 성장에 대해서도 말한 대로 행동해야 합니다."
+        ],
+        "translationHighlights": [
+          "기준을 확실히 높였으며",
+          "뒤처진 것을 따라잡으려 애쓰게 될",
+          "말한 대로 행동해야 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "raise the bar",
+            "meaning": "기준을 높이다, 수준을 끌어올리다",
+            "context": "raised the bar for multimodal AI"
+          },
+          {
+            "word": "playing catch-up",
+            "meaning": "뒤처진 것을 따라잡으려 애쓰다, 뒤늦게 따라가다",
+            "context": "will soon be playing catch-up"
+          },
+          {
+            "word": "walk the talk",
+            "meaning": "말한 대로 행동하다, 실천하다",
+            "context": "must also walk the talk on responsible growth"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Microsoft has truly thrown down the gauntlet with its Azure Synapse AI, clearly raising the stakes in the enterprise AI race.",
           "However, with eurozone inflation slightly above forecasts and venture funding for green tech taking a hit, many feel the global economy is still in the doldrums, making bold investments a tough sell."
         ],
@@ -5580,6 +5645,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With the European Commission's findings showing a 15% surge in non-EU remote workers, destinations like Portugal are definitely \"cashing in on\" the digital nomad boom, leveraging favorable visa policies.",
+          "However, as Dr. Schmidt highlighted, striking a balance requires authorities to \"walk a fine line\" to prevent these cultural gems from being \"loved to death\" by overtourism."
+        ],
+        "sentenceTranslations": [
+          "유럽 위원회의 비EU 원격 근무자 15% 증가 보고서에 따르면, 포르투갈과 같은 목적지들은 우호적인 비자 정책을 활용하여 디지털 노마드 붐을 확실히 '이용해 돈을 벌고' 있습니다.",
+          "하지만 슈미트 박사가 강조했듯이, 균형을 맞추기 위해 당국은 이러한 문화유산들이 과도한 관광으로 인해 '너무 많은 사랑을 받아 망가지는 것'을 막기 위해 '아슬아슬한 줄타기를' 해야 합니다."
+        ],
+        "translationHighlights": [
+          "이용해 돈을 벌고",
+          "아슬아슬한 줄타기를",
+          "너무 많은 사랑을 받아 망가지는 것"
+        ],
+        "newWords": [
+          {
+            "word": "cash in on",
+            "meaning": "~을 이용하여 돈을 벌다, 이득을 취하다",
+            "context": "are definitely \"cashing in on\" the digital nomad boom"
+          },
+          {
+            "word": "walk a fine line",
+            "meaning": "아슬아슬한 줄타기를 하다, 미묘한 균형을 유지하다",
+            "context": "authorities to \"walk a fine line\" to prevent"
+          },
+          {
+            "word": "loved to death",
+            "meaning": "너무 많은 관심이나 사랑으로 인해 손상되다/파괴되다",
+            "context": "from being \"loved to death\" by overtourism"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The global travel sector, hitting its stride with robust recovery, is seeing passenger traffic surge and a fundamental shift in demand.",
           "Consequently, travellers are increasingly venturing off the beaten path, seeking authentic cultural immersion in lesser-known destinations rather than conventional mass tourism hubs."
         ],
@@ -8313,6 +8410,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "England's surprising defeat to Jamaica certainly threw a wrench in their World Cup campaign plans, putting immediate pressure on the team.",
+          "Meanwhile, Valorant esports continues to go from strength to strength, proving itself a true force to be reckoned with in the competitive gaming world."
+        ],
+        "sentenceTranslations": [
+          "잉글랜드가 자메이카에게 예상치 못한 패배를 당하면서 월드컵 캠페인 계획에 분명히 차질이 생겼고, 팀은 즉각적인 압박을 받고 있습니다.",
+          "한편, 발로란트 e스포츠는 계속해서 승승장구하며 경쟁 게임 세계에서 진정으로 무시할 수 없는 강자임을 입증하고 있습니다."
+        ],
+        "translationHighlights": [
+          "차질이 생겼고",
+          "즉각적인 압박을 받고 있습니다",
+          "승승장구하며",
+          "무시할 수 없는 강자임을 입증하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in (one's) plans",
+            "meaning": "(계획에) 차질을 만들다, 방해하다",
+            "context": "certainly threw a wrench in their World Cup campaign plans"
+          },
+          {
+            "word": "go from strength to strength",
+            "meaning": "점점 더 강력해지다, 승승장구하다",
+            "context": "continues to go from strength to strength"
+          },
+          {
+            "word": "a force to be reckoned with",
+            "meaning": "무시할 수 없는 강자, 강력한 존재",
+            "context": "a true force to be reckoned with"
+          }
+        ]
+      },
       {
         "sentences": [
           "Canada truly punched above their weight with that stunning upset against Belgium, sparking nationwide jubilation.",
