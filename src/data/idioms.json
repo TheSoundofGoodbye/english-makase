@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "It's clear from the new report that those embracing advanced AI tools are getting a leg up, enjoying both heightened job satisfaction and increased earning potential.",
+          "For others, the message is clear: to truly stay ahead of the curve, they need to proactively upskill and avoid missing the boat on effective AI integration into their workflows."
+        ],
+        "sentenceTranslations": [
+          "새 보고서에 따르면, 고급 AI 도구를 적극적으로 활용하는 사람들이 직무 만족도와 소득 잠재력 면에서 확실히 우위를 점하고 있음이 분명합니다.",
+          "다른 사람들에게 전하는 메시지는 분명합니다. 진정으로 시대의 흐름을 앞서가려면, 적극적으로 개인 역량을 강화하고 업무 흐름에 AI를 효과적으로 통합할 기회를 놓치지 않아야 합니다."
+        ],
+        "translationHighlights": [
+          "우위를 점하고 있음이 분명합니다",
+          "진정으로 시대의 흐름을 앞서가려면",
+          "적극적으로 개인 역량을 강화하고",
+          "기회를 놓치지 않아야 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "get a leg up",
+            "meaning": "우위를 점하다, 유리한 위치를 차지하다",
+            "context": "are getting a leg up"
+          },
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "시대의 흐름을 앞서가다, 최신 동향을 주도하다",
+            "context": "to truly stay ahead of the curve"
+          },
+          {
+            "word": "miss the boat",
+            "meaning": "기회를 놓치다",
+            "context": "avoid missing the boat"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Lisbon's new restrictions have thrown a wrench in the works for the 'work from anywhere' movement, putting the global digital nomad trend in a tricky spot.",
           "Many long-term residents, who have been left out in the cold regarding affordable housing, hope this move will help level the playing field and restore some semblance of normalcy."
         ],
@@ -2881,6 +2914,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "While Google DeepMind's 'Gemini Phoenix' is setting the enterprise AI sector ablaze, the Federal Reserve's hawkish stance on inflation has effectively thrown a wet blanket on market exuberance.",
+          "Consequently, cross-border tech investments, particularly US-China AI startup funding, are now truly hitting the skids amidst tightening export controls."
+        ],
+        "sentenceTranslations": [
+          "구글 딥마인드의 '제미니 피닉스'가 기업 AI 분야를 뜨겁게 달구고 있지만, 연방준비제도 이사회의 인플레이션에 대한 매파적 입장은 시장의 과열된 분위기에 찬물을 끼얹었습니다.",
+          "그 결과, 강화되는 수출 통제 속에서 특히 미중 AI 스타트업 자금 조달을 포함한 해외 기술 투자는 현재 급격히 침체하고 있습니다."
+        ],
+        "translationHighlights": [
+          "뜨겁게 달구고 있지만",
+          "찬물을 끼얹었습니다",
+          "급격히 침체하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "set something ablaze",
+            "meaning": "~에 열풍을 일으키다, ~를 뜨겁게 달구다",
+            "context": "setting the enterprise AI sector ablaze"
+          },
+          {
+            "word": "throw a wet blanket on",
+            "meaning": "~에 찬물을 끼얹다, 김을 빼다",
+            "context": "thrown a wet blanket on market exuberance"
+          },
+          {
+            "word": "hit the skids",
+            "meaning": "급격히 나빠지다, 쇠퇴하다",
+            "context": "now truly hitting the skids"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The U.S. Commerce Department's potential broadening of AI chip export controls is undoubtedly going to throw a wrench in the works for Chinese tech giants' global expansion plans.",
           "This climate of tech restrictions and trade tensions further prompts European leaders to pursue digital sovereignty, unwilling to be left high and dry by shifting geopolitical winds."
         ],
@@ -5711,6 +5776,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With inbound flights to Phuket bursting at the seams, major airlines are facing a real juggling act to hit sustainability targets amidst such unprecedented demand.",
+          "Therefore, new environmental levies are a crucial step for destinations like Phi Phi to thread the needle between satisfying tourists and preserving their delicate ecosystems."
+        ],
+        "sentenceTranslations": [
+          "푸켓으로 향하는 항공편들이 만석을 넘어 북새통을 이루면서, 유례없는 수요 속에서 주요 항공사들은 지속가능성 목표를 달성하기 위해 진정한 줄타기 곡예를 펼치고 있습니다.",
+          "따라서 피피섬과 같은 인기 여행지에서 부과되는 새로운 환경세는 관광객 만족과 섬의 섬세한 생태계 보존 사이에서 아슬아슬한 균형을 잡기 위한 중요한 단계입니다."
+        ],
+        "translationHighlights": [
+          "북새통을 이루면서",
+          "줄타기 곡예를 펼치고 있습니다",
+          "유례없는 수요",
+          "아슬아슬한 균형을 잡기 위한"
+        ],
+        "newWords": [
+          {
+            "word": "bursting at the seams",
+            "meaning": "매우 붐비는, 만석을 넘어선",
+            "context": "flights to Phuket bursting at the seams"
+          },
+          {
+            "word": "juggling act",
+            "meaning": "(여러 힘든 일을 동시에 처리하는) 줄타기 곡예",
+            "context": "facing a real juggling act"
+          },
+          {
+            "word": "thread the needle",
+            "meaning": "(상반되는 요구사항들 사이에서) 아슬아슬한 균형을 잡다, 신중하게 문제를 해결하다",
+            "context": "to thread the needle between"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Japan's newly launched Digital Nomad Visa program is expected to open the floodgates, turning many aspirational long-term stays into a reality.",
           "Consequently, popular destinations like Kyoto and Fukuoka are poised to ride the wave, with local tourism boards reporting inquiries for co-working spaces going through the roof."
         ],
@@ -8509,6 +8607,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Canada's stunning upset victory over Argentina truly shows they punched above their weight, silencing doubters and electrifying their home crowd.",
+          "This dramatic win has turned the tables in Group D, making Argentina's upcoming match against Poland a make-or-break moment for their progression in the tournament."
+        ],
+        "sentenceTranslations": [
+          "캐나다가 아르헨티나를 꺾은 충격적인 승리는 그들이 정말 체급 이상을 해냈음을 보여주며, 회의론자들을 침묵시키고 홈 관중들을 열광시켰습니다.",
+          "이 극적인 승리는 D조의 판도를 뒤집었으며, 아르헨티나의 다음 폴란드전은 토너먼트 진출을 위한 성패가 달린 순간이 될 것입니다."
+        ],
+        "translationHighlights": [
+          "체급 이상을 해냈음",
+          "판도를 뒤집었으며",
+          "성패가 달린 순간"
+        ],
+        "newWords": [
+          {
+            "word": "punch above their weight",
+            "meaning": "자신의 능력이나 예상보다 훨씬 뛰어난 성과를 내거나 더 강한 상대에게 이기다",
+            "context": "they *punched above their weight*"
+          },
+          {
+            "word": "turn the tables",
+            "meaning": "상황을 완전히 역전시키거나 유리하게 만들다",
+            "context": "has *turned the tables* in Group D"
+          },
+          {
+            "word": "make-or-break",
+            "meaning": "성공하거나 실패할 결정적인 순간이나 상황; 성패가 달린",
+            "context": "a *make-or-break* moment"
+          }
+        ]
+      },
       {
         "sentences": [
           "Christian Pulisic's late goal not only gave the US team a dramatic victory but also helped them hit their stride early in the World Cup group stage.",
