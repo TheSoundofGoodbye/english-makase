@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "As AI platforms become an active partner in daily routines, they are taking a load off hybrid workers' minds by streamlining complex schedules and mitigating digital fatigue.",
+          "However, this increasing reliance is proving to be a double-edged sword, as discussions about data privacy and the blurring of work-life boundaries come to the fore."
+        ],
+        "sentenceTranslations": [
+          "AI 플랫폼이 일상생활의 적극적인 파트너가 되면서, 하이브리드 근무자들은 복잡한 일정을 간소화하고 디지털 피로를 줄임으로써 마음의 짐을 덜고 있습니다.",
+          "하지만 이러한 의존도 증가는 데이터 프라이버시와 업무-생활 경계의 모호함에 대한 논의가 전면에 부상하면서 양날의 검이 되고 있음을 입증합니다."
+        ],
+        "translationHighlights": [
+          "마음의 짐을 덜고 있습니다",
+          "양날의 검",
+          "업무-생활 경계의 모호함",
+          "전면에 부상하면서"
+        ],
+        "newWords": [
+          {
+            "word": "take a load off (someone's) mind",
+            "meaning": "~의 마음의 짐을 덜어주다, 걱정을 덜어주다",
+            "context": "taking a load off hybrid workers' minds"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (장점과 단점을 동시에 가짐)",
+            "context": "proving to be a double-edged sword"
+          },
+          {
+            "word": "blur the lines",
+            "meaning": "경계를 모호하게 하다, 구분을 흐리게 하다",
+            "context": "the blurring of work-life boundaries"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "It's clear from the new report that those embracing advanced AI tools are getting a leg up, enjoying both heightened job satisfaction and increased earning potential.",
           "For others, the message is clear: to truly stay ahead of the curve, they need to proactively upskill and avoid missing the boat on effective AI integration into their workflows."
         ],
@@ -2914,6 +2947,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "While OpenAI's 'Prometheus-X' promises to push the envelope in creative AI capabilities, the company must now walk a tightrope between rapid innovation and increasing regulatory scrutiny, especially from the EU.",
+          "With regulatory discussions intensifying on data privacy and deepfake generation, the writing is on the wall for tech giants to prioritize robust safety protocols or risk significant backlash."
+        ],
+        "sentenceTranslations": [
+          "OpenAI의 'Prometheus-X'가 창의적인 AI 역량을 한층 끌어올릴 것을 약속하는 한편, 회사는 급속한 혁신과 특히 EU로부터의 증가하는 규제 감시 사이에서 위태로운 균형을 잡아야 합니다.",
+          "데이터 프라이버시 및 딥페이크 생성에 대한 규제 논의가 심화되면서, 기술 대기업들이 강력한 안전 프로토콜을 우선시하지 않으면 상당한 역풍을 맞을 것이라는 분명한 경고가 있습니다."
+        ],
+        "translationHighlights": [
+          "한층 끌어올릴 것을 약속하는",
+          "위태로운 균형을 잡아야 합니다",
+          "규제 논의가 심화되면서",
+          "분명한 경고가 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "push the envelope",
+            "meaning": "한계를 뛰어넘다, 혁신하다",
+            "context": "promises to push the envelope in creative AI capabilities"
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다, 위태로운 균형을 잡다",
+            "context": "must now walk a tightrope between rapid innovation and increasing regulatory scrutiny"
+          },
+          {
+            "word": "the writing is on the wall",
+            "meaning": "불길한 징조가 보이다, 상황이 분명히 드러나다 (보통 좋지 않은 상황을 암시)",
+            "context": "the writing is on the wall for tech giants to prioritize robust safety protocols"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While Google DeepMind's 'Gemini Phoenix' is setting the enterprise AI sector ablaze, the Federal Reserve's hawkish stance on inflation has effectively thrown a wet blanket on market exuberance.",
           "Consequently, cross-border tech investments, particularly US-China AI startup funding, are now truly hitting the skids amidst tightening export controls."
         ],
@@ -5774,6 +5840,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "European tourism bodies are undoubtedly riding the crest of a wave this summer, with early bookings through the roof and the new ETIAS system helping to grease the wheels for incoming visitors.",
+          "Simultaneously, major airlines are putting their money where their mouth is by investing heavily in Sustainable Aviation Fuel, accelerating their path to a greener future."
+        ],
+        "sentenceTranslations": [
+          "유럽 관광 업계는 올해 여름 분명히 최고의 전성기를 누리고 있으며, 초반 예약률이 폭등하고 새로운 ETIAS 시스템이 방문객들의 입국 절차를 더욱 원활하게 만드는 데 기여하고 있습니다.",
+          "동시에, 주요 항공사들은 친환경 미래를 향한 길을 가속화하기 위해 지속 가능한 항공 연료에 대규모 투자를 함으로써 말뿐이 아니라 행동으로 보여주고 있습니다."
+        ],
+        "translationHighlights": [
+          "최고의 전성기를 누리고 있으며",
+          "더욱 원활하게 만드는 데 기여하고 있습니다",
+          "말뿐이 아니라 행동으로 보여주고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "최고의 전성기를 누리다, 한창 성공가도를 달리다",
+            "context": "European tourism bodies are undoubtedly *riding the crest of a wave* this summer"
+          },
+          {
+            "word": "grease the wheels",
+            "meaning": "일을 원활하게 하다, 수월하게 하다",
+            "context": "the new ETIAS system helping to *grease the wheels* for incoming visitors"
+          },
+          {
+            "word": "putting their money where their mouth is",
+            "meaning": "말만 하는 것이 아니라 행동(특히 투자)으로 보여주다",
+            "context": "major airlines are *putting their money where their mouth is* by investing heavily"
+          }
+        ]
+      },
       {
         "sentences": [
           "With inbound flights to Phuket bursting at the seams, major airlines are facing a real juggling act to hit sustainability targets amidst such unprecedented demand.",
