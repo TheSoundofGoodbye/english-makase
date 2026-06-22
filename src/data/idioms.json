@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The rising \"AI-anxiety\" among Gen Z shows they are clearly reading the writing on the wall about how technology will reshape future job markets.",
+          "To navigate this evolving landscape, many are now making a concerted effort to get ahead of the curve by mastering human-centric soft skills like emotional intelligence."
+        ],
+        "sentenceTranslations": [
+          "Z세대 사이에서 고조되는 'AI 불안감'은 기술이 미래 직업 시장을 어떻게 재편할지에 대한 분명한 조짐을 읽고 있음을 보여줍니다.",
+          "이러한 변화하는 환경에 대처하기 위해, 많은 이들이 감성 지능과 같은 인간 중심의 소프트 스킬을 익힘으로써 미리 대비하려는 노력을 기울이고 있습니다."
+        ],
+        "translationHighlights": [
+          "고조되는 'AI 불안감'",
+          "분명한 조짐을 읽고 있음",
+          "변화하는 환경에 대처하기 위해",
+          "미리 대비하려는 노력"
+        ],
+        "newWords": [
+          {
+            "word": "read the writing on the wall",
+            "meaning": "다가올 상황을 명확히 이해하다, 분명한 조짐을 읽다",
+            "context": "they are clearly reading the writing on the wall about how technology will reshape future job markets"
+          },
+          {
+            "word": "get ahead of the curve",
+            "meaning": "최신 동향이나 변화에 앞서나가다, 미리 대비하다",
+            "context": "making a concerted effort to get ahead of the curve by mastering human-centric soft skills"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As AI platforms become an active partner in daily routines, they are taking a load off hybrid workers' minds by streamlining complex schedules and mitigating digital fatigue.",
           "However, this increasing reliance is proving to be a double-edged sword, as discussions about data privacy and the blurring of work-life boundaries come to the fore."
         ],
@@ -2947,6 +2975,33 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Alphabet's unveiling of Gemini Ultra 2 has effectively thrown down the gauntlet, escalating the generative AI arms race with OpenAI and Microsoft.",
+          "This fierce innovation is expected to move the needle significantly, with economists predicting substantial global corporate profit growth over the next five years."
+        ],
+        "sentenceTranslations": [
+          "알파벳의 제미니 울트라 2 공개는 오픈AI 및 마이크로소프트와의 생성형 AI 경쟁에서 사실상 도전장을 내민 셈이며, 경쟁을 격화시켰습니다.",
+          "이러한 치열한 혁신은 향후 5년간 전 세계 기업 이익이 크게 성장할 것이라는 경제학자들의 예측처럼 상당한 변화를 가져올 것으로 기대됩니다."
+        ],
+        "translationHighlights": [
+          "도전장을 내민 셈",
+          "경쟁을 격화시켰습니다",
+          "상당한 변화를 가져올"
+        ],
+        "newWords": [
+          {
+            "word": "throw down the gauntlet",
+            "meaning": "도전장을 내밀다, (경쟁) 시작을 알리다",
+            "context": "has effectively **thrown down the gauntlet**"
+          },
+          {
+            "word": "move the needle",
+            "meaning": "상당한 영향을 미치다, 큰 변화를 가져오다",
+            "context": "expected to **move the needle** significantly"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While OpenAI's 'Prometheus-X' promises to push the envelope in creative AI capabilities, the company must now walk a tightrope between rapid innovation and increasing regulatory scrutiny, especially from the EU.",
           "With regulatory discussions intensifying on data privacy and deepfake generation, the writing is on the wall for tech giants to prioritize robust safety protocols or risk significant backlash."
         ],
@@ -5842,6 +5897,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The travel industry's strong pivot towards regenerative tourism and digital nomad frameworks clearly indicates the writing on the wall: travelers are increasingly seeking authentic, meaningful engagement over superficial experiences.",
+          "This fundamental shift is further evidenced by Singapore Airlines making inroads into untapped Central Asian markets, demonstrating their foresight in getting off the beaten track to meet evolving demands for cultural depth."
+        ],
+        "sentenceTranslations": [
+          "여행 산업이 재생 관광 및 디지털 노마드 체계로 강력하게 전환하는 것은 분명히 예견된 일입니다. 여행자들이 피상적인 경험보다는 진정성 있고 의미 있는 참여를 점점 더 추구하고 있기 때문입니다.",
+          "이러한 근본적인 변화는 싱가포르 항공이 미개척 중앙아시아 시장에 성공적으로 진출하며, 문화적 깊이에 대한 변화하는 수요를 충족시키기 위해 남들이 잘 가지 않는 길을 택하는 그들의 선견지명을 보여주는 것에서도 잘 드러납니다."
+        ],
+        "translationHighlights": [
+          "예견된 일",
+          "성공적으로 진출",
+          "남들이 잘 가지 않는 길을 택하는"
+        ],
+        "newWords": [
+          {
+            "word": "the writing on the wall",
+            "meaning": "미래에 일어날 일에 대한 분명한 징후, 예견된 일",
+            "context": "clearly indicates the writing on the wall"
+          },
+          {
+            "word": "making inroads",
+            "meaning": "영향력을 확대하다, 성공적으로 진출하다",
+            "context": "making inroads into untapped Central Asian markets"
+          },
+          {
+            "word": "getting off the beaten track",
+            "meaning": "잘 알려지지 않은 곳을 방문하다, 남들이 잘 가지 않는 길을 택하다",
+            "context": "in getting off the beaten track"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "European tourism bodies are undoubtedly riding the crest of a wave this summer, with early bookings through the roof and the new ETIAS system helping to grease the wheels for incoming visitors.",
           "Simultaneously, major airlines are putting their money where their mouth is by investing heavily in Sustainable Aviation Fuel, accelerating their path to a greener future."
         ],
@@ -8705,6 +8792,33 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Canada's crucial 2-0 victory against Cameroon certainly puts them in the driver's seat for a spot in the knockout stages.",
+          "Meanwhile, tournament organizers have truly raised the bar for fan engagement, reporting record-breaking ticket sales that exceeded all expectations."
+        ],
+        "sentenceTranslations": [
+          "카메룬을 상대로 거둔 캐나다의 중요한 2대0 승리는 16강 진출에 유리한 고지를 확실히 점하게 했습니다.",
+          "한편, 대회 조직위원회는 모든 예상을 뛰어넘는 역대급 티켓 판매량을 기록하며 팬 참여의 수준을 한층 끌어올렸습니다."
+        ],
+        "translationHighlights": [
+          "유리한 고지를 확실히 점하게 했습니다",
+          "역대급 티켓 판매량을 기록하며",
+          "팬 참여의 수준을 한층 끌어올렸습니다"
+        ],
+        "newWords": [
+          {
+            "word": "in the driver's seat",
+            "meaning": "유리한 고지를 점하다, 주도권을 쥐다",
+            "context": "puts them in the driver's seat for a spot"
+          },
+          {
+            "word": "raise the bar",
+            "meaning": "기준을 높이다, 수준을 끌어올리다",
+            "context": "have truly raised the bar for fan engagement"
+          }
+        ]
+      },
       {
         "sentences": [
           "Canada's stunning upset victory over Argentina truly shows they punched above their weight, silencing doubters and electrifying their home crowd.",
