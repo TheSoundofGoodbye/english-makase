@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The much-anticipated Gemini Aura update from Google, while promising hyper-personalized AI assistance, is proving to be a double-edged sword for many users.",
+          "This deep integration into daily life, however, also opens a can of worms regarding data privacy, forcing us to weigh convenience against digital surveillance."
+        ],
+        "sentenceTranslations": [
+          "구글의 많은 기대를 모았던 Gemini Aura 업데이트는 초개인화된 AI 지원을 약속하지만, 많은 사용자들에게 양날의 검이 되고 있습니다.",
+          "하지만 일상생활에 이렇게 깊이 통합되는 것은 데이터 프라이버시에 관한 판도라의 상자를 열어젖히는 것이기도 하여, 우리는 편리함과 디지털 감시 사이에서 저울질해야 합니다."
+        ],
+        "translationHighlights": [
+          "양날의 검",
+          "초개인화된 AI 지원",
+          "판도라의 상자를 열어젖히는 것",
+          "저울질해야 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검; 이점과 단점을 동시에 가진 것",
+            "context": "is proving to be a double-edged sword"
+          },
+          {
+            "word": "open a can of worms",
+            "meaning": "판도라의 상자를 열다; 복잡하고 골치 아픈 문제를 야기하다",
+            "context": "also opens a can of worms"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The rising \"AI-anxiety\" among Gen Z shows they are clearly reading the writing on the wall about how technology will reshape future job markets.",
           "To navigate this evolving landscape, many are now making a concerted effort to get ahead of the curve by mastering human-centric soft skills like emotional intelligence."
         ],
@@ -5895,6 +5923,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The persistent air traffic control staffing shortages across European hubs, coupled with ETIAS delays, are truly throwing a wrench in the works for this summer's travel plans.",
+          "Despite these issues, travelers are keen to go off the beaten path, opting for longer, more authentic stays that give them a real taste of local culture and eco-friendly options."
+        ],
+        "sentenceTranslations": [
+          "유럽 주요 공항의 지속적인 항공 교통 관제 인력 부족 문제와 ETIAS 지연이 이번 여름 여행 계획에 진정으로 방해를 놓고 있습니다.",
+          "이러한 문제에도 불구하고, 여행객들은 흔하지 않은 곳을 찾아가며, 현지 문화의 진정한 맛을 느끼고 친환경적인 선택을 할 수 있는 더 길고 진정성 있는 숙박을 선호하고 있습니다."
+        ],
+        "translationHighlights": [
+          "방해를 놓고 있습니다",
+          "흔하지 않은 곳을 찾아가며",
+          "진정한 맛을 느끼고"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획이나 진행에 문제를 일으키다, 방해하다",
+            "context": "throwing a wrench in the works for this summer's travel plans"
+          },
+          {
+            "word": "go off the beaten path",
+            "meaning": "사람들이 잘 가지 않는 길을 가다, 흔하지 않은 곳을 방문하다",
+            "context": "keen to go off the beaten path"
+          },
+          {
+            "word": "a real taste of",
+            "meaning": "~의 진정한 경험을 하다, ~의 진면목을 맛보다",
+            "context": "give them a real taste of local culture"
+          }
+        ]
+      },
       {
         "sentences": [
           "The travel industry's strong pivot towards regenerative tourism and digital nomad frameworks clearly indicates the writing on the wall: travelers are increasingly seeking authentic, meaningful engagement over superficial experiences.",
