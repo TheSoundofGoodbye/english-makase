@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With global health organizations issuing stern guidelines, the writing's clearly on the wall regarding the long-term health implications of excessive digital engagement, especially for younger generations.",
+          "If we don't nip these emerging health issues in the bud now, the societal cost down the line could be astronomical, making proactive measures from tech giants all the more critical."
+        ],
+        "sentenceTranslations": [
+          "전 세계 보건 기구들이 강력한 지침을 발표하면서, 특히 젊은 세대의 과도한 디지털 기기 사용이 장기적으로 건강에 미칠 영향에 대한 명확한 경고가 왔습니다.",
+          "만약 우리가 이러한 새로운 건강 문제들을 초기에 바로잡지 못한다면, 장기적으로 사회에 미치는 비용은 천문학적일 것이고, 이는 기술 대기업들의 선제적인 조치를 더욱 중요하게 만듭니다."
+        ],
+        "translationHighlights": [
+          "명확한 경고가 왔습니다",
+          "초기에 바로잡지 못한다면",
+          "천문학적일 것이고",
+          "선제적인 조치"
+        ],
+        "newWords": [
+          {
+            "word": "the writing's on the wall",
+            "meaning": "미래에 나쁜 일이 생길 것이라는 분명한 징조, 경고",
+            "context": "the writing's clearly on the wall regarding the long-term health implications"
+          },
+          {
+            "word": "nip something in the bud",
+            "meaning": "문제를 싹트자마자 처리하다, 초기에 바로잡다",
+            "context": "If we don't nip these emerging health issues in the bud now"
+          },
+          {
+            "word": "down the line",
+            "meaning": "나중에, 장기적으로, 미래에",
+            "context": "the societal cost down the line could be astronomical"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The much-anticipated Gemini Aura update from Google, while promising hyper-personalized AI assistance, is proving to be a double-edged sword for many users.",
           "This deep integration into daily life, however, also opens a can of worms regarding data privacy, forcing us to weigh convenience against digital surveillance."
         ],
@@ -3003,6 +3036,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Amidst the relentless expansion of the AI industry, enterprises are racing to integrate multimodal solutions to **get a leg up** on the competition, yet the cautious global economic sentiment means many are beginning to **feel the pinch**.",
+          "This duality is particularly evident in venture capital, where funding for early-stage generative AI has cooled, with investors now demanding startups prove they have **skin in the game** through immediate monetization paths, rather than purely speculative innovation."
+        ],
+        "sentenceTranslations": [
+          "AI 산업의 끊임없는 확장 속에서 전 세계 기업들은 경쟁에서 **우위를 점하기** 위해 멀티모달 솔루션 통합에 박차를 가하고 있지만, 신중한 글로벌 경제 심리 탓에 많은 기업들이 이미 **경제적인 어려움을 느끼기** 시작했습니다.",
+          "이러한 양면성은 벤처 캐피털 분야에서 특히 두드러지는데, 초기 단계 생성형 AI 스타트업에 대한 투자가 식으면서 투자자들은 이제 순전히 투기적인 혁신보다는 즉각적인 수익화 경로를 통해 스타트업이 **직접적인 이해관계와 책임감**을 가지고 있음을 증명하라고 요구하고 있습니다."
+        ],
+        "translationHighlights": [
+          "우위를 점하기",
+          "경제적인 어려움을 느끼기",
+          "직접적인 이해관계와 책임감"
+        ],
+        "newWords": [
+          {
+            "word": "get a leg up",
+            "meaning": "경쟁에서 우위를 차지하다",
+            "context": "to **get a leg up** on the competition"
+          },
+          {
+            "word": "feel the pinch",
+            "meaning": "경제적인 어려움을 겪다",
+            "context": "many are beginning to **feel the pinch**"
+          },
+          {
+            "word": "skin in the game",
+            "meaning": "직접적인 이해관계나 위험을 감수하다 (책임감을 가지고 참여하다)",
+            "context": "prove they have **skin in the game**"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Alphabet's unveiling of Gemini Ultra 2 has effectively thrown down the gauntlet, escalating the generative AI arms race with OpenAI and Microsoft.",
           "This fierce innovation is expected to move the needle significantly, with economists predicting substantial global corporate profit growth over the next five years."
         ],
@@ -5923,6 +5988,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The airline industry is definitely between a rock and a hard place, needing massive Sustainable Aviation Fuel (SAF) investment to hit net-zero targets while grappling with soaring operational costs.",
+          "Meanwhile, 'regenerative tourism' seems to be riding the crest of a wave, offering a breath of fresh air for travelers looking to truly give back to communities like Vietnam's Mekong Delta."
+        ],
+        "sentenceTranslations": [
+          "항공업계는 치솟는 운영 비용과 씨름하는 동시에 탄소 중립 목표 달성을 위한 막대한 SAF(지속가능 항공유) 투자가 필요하다는 점에서 분명히 진퇴양난에 빠져 있습니다.",
+          "한편, '재생 관광'은 베트남 메콩델타와 같은 지역 사회에 진정으로 기여하고자 하는 여행객들에게 신선한 바람을 불어넣으며 큰 인기를 얻고 있는 것으로 보입니다."
+        ],
+        "translationHighlights": [
+          "진퇴양난에 빠져 있습니다",
+          "치솟는 운영 비용",
+          "큰 인기를 얻고 있는",
+          "신선한 바람을 불어넣으며"
+        ],
+        "newWords": [
+          {
+            "word": "between a rock and a hard place",
+            "meaning": "진퇴양난에 처한, 딜레마에 빠진",
+            "context": "is definitely between a rock and a hard place"
+          },
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "큰 인기를 얻고 있는, 절정에 달한",
+            "context": "seems to be riding the crest of a wave"
+          },
+          {
+            "word": "a breath of fresh air",
+            "meaning": "신선한 활력소, 새로운 변화",
+            "context": "offering a breath of fresh air"
+          }
+        ]
+      },
       {
         "sentences": [
           "The persistent air traffic control staffing shortages across European hubs, coupled with ETIAS delays, are truly throwing a wrench in the works for this summer's travel plans.",
@@ -8852,6 +8950,33 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Today's Group G clash between France and Germany is a real make or break moment for both teams, as the outcome could significantly shape their World Cup journey.",
+          "Mbappé's declaration that 'every match is a final' signals that players are prepared to leave it all on the pitch to secure their advancement."
+        ],
+        "sentenceTranslations": [
+          "오늘 프랑스와 독일의 그룹 G 경기는 양 팀에게 성패를 좌우하는 중요한 순간이며, 그 결과가 월드컵 여정을 크게 바꿀 수 있습니다.",
+          "음바페의 '모든 경기가 결승전'이라는 선언은 선수들이 다음 단계 진출을 위해 경기장에서 모든 것을 쏟아부을 준비가 되어있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "성패를 좌우하는 중요한 순간",
+          "월드컵 여정을 크게 바꿀 수 있습니다",
+          "경기장에서 모든 것을 쏟아부을"
+        ],
+        "newWords": [
+          {
+            "word": "make or break",
+            "meaning": "성공 또는 실패를 결정하는 중대한 (순간)",
+            "context": "a real make or break moment"
+          },
+          {
+            "word": "leave it all on the pitch",
+            "meaning": "경기장에서 모든 것을 쏟아붓다, 최선을 다하다",
+            "context": "prepared to leave it all on the pitch"
+          }
+        ]
+      },
       {
         "sentences": [
           "Canada's crucial 2-0 victory against Cameroon certainly puts them in the driver's seat for a spot in the knockout stages.",
