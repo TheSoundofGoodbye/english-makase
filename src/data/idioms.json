@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With AI rapidly integrating into professional tasks, the writing is on the wall for many entry-level positions that face automation.",
+          "To stay relevant and truly thrive, it's essential for individuals to get ahead of the curve by embracing reskilling initiatives."
+        ],
+        "sentenceTranslations": [
+          "AI가 전문 업무에 빠르게 통합되면서, 자동화에 직면한 많은 초급 직무들의 미래는 이미 분명하게 예고되고 있습니다.",
+          "관련성을 유지하고 진정으로 성장하려면, 개인이 재교육 프로그램을 적극적으로 받아들여 시대의 흐름을 앞서 나가는 것이 필수적입니다."
+        ],
+        "translationHighlights": [
+          "미래는 이미 분명하게 예고되고 있습니다",
+          "관련성을 유지하고 진정으로 성장하려면",
+          "시대의 흐름을 앞서 나가는 것이 필수적입니다"
+        ],
+        "newWords": [
+          {
+            "word": "the writing is on the wall",
+            "meaning": "미래가 분명하게 예고되다, 상황이 명확해지다",
+            "context": "the writing is on the wall for many entry-level positions"
+          },
+          {
+            "word": "stay relevant",
+            "meaning": "유효성을 유지하다, 시대에 뒤처지지 않다",
+            "context": "To stay relevant and truly thrive"
+          },
+          {
+            "word": "get ahead of the curve",
+            "meaning": "시대의 흐름을 앞서 나가다, 남들보다 먼저 준비하다",
+            "context": "get ahead of the curve by embracing reskilling initiatives"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "JPMorgan's aggressive move to retrain staff for AI roles shows they're keen to get ahead of the curve in leveraging new tech for efficiency.",
           "However, with Gen Z professionals feeling pressure to keep their heads above water by rapidly upskilling, organizations must also address the looming threat of 'digital burnout'."
         ],
@@ -3069,6 +3101,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "NVIDIA is certainly riding the crest of a wave with its Blackwell Ultra, but analysts are quick to point out that it's not all clear sailing for the broader tech sector.",
+          "The ongoing US-China tech restrictions could still throw a monkey wrench in the works for global supply chains, despite the immediate market euphoria."
+        ],
+        "sentenceTranslations": [
+          "엔비디아는 블랙웰 울트라 덕분에 분명 성공의 정점에 올라있지만, 분석가들은 더 넓은 기술 부문에서는 마냥 순탄하지만은 않을 것이라고 재빨리 지적합니다.",
+          "미중 기술 제재가 계속되면 단기적인 시장의 낙관론에도 불구하고 여전히 글로벌 공급망에 문제를 일으킬 수 있습니다."
+        ],
+        "translationHighlights": [
+          "성공의 정점에 올라있지만",
+          "마냥 순탄하지만은 않을 것",
+          "문제를 일으킬 수 있다",
+          "단기적인 시장의 낙관론"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "성공의 정점에 오르다, 최고의 성공을 누리다",
+            "context": "NVIDIA is certainly riding the crest of a wave"
+          },
+          {
+            "word": "not all clear sailing",
+            "meaning": "마냥 순탄하지만은 않다, 어려움이 있을 수 있다",
+            "context": "it's not all clear sailing"
+          },
+          {
+            "word": "throw a monkey wrench in the works",
+            "meaning": "계획이나 과정에 문제를 일으키다, 방해하다",
+            "context": "could still throw a monkey wrench in the works"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Microsoft is throwing down the gauntlet to competitors in the AI sector, betting big on its \"Copilot Pro for Enterprise\" to redefine efficiency.",
           "Their strategy is clearly to move the needle for corporate developers, hoping this innovation will solidify their leading edge in the intense platform battle."
         ],
@@ -6053,6 +6118,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Amidst the World Cup frenzy, air travel demand across North America is hitting a fever pitch, leaving many routes bursting at the seams.",
+          "Consequently, fans eager to catch the games are having to pay through the nose for tickets and accommodations, making a trip quite an investment."
+        ],
+        "sentenceTranslations": [
+          "월드컵 열기 속에서 북미 전역의 항공 여행 수요가 최고조에 달하면서, 많은 노선이 만석으로 터져나가고 있습니다.",
+          "결과적으로, 경기를 관람하려는 열정적인 팬들은 항공권과 숙소에 엄청난 비용을 지불해야 하며, 이는 여행을 상당한 투자로 만들고 있습니다."
+        ],
+        "translationHighlights": [
+          "최고조에 달하면서",
+          "만석으로 터져나가고 있습니다",
+          "엄청난 비용을 지불해야 하며",
+          "상당한 투자로 만들고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "hitting a fever pitch",
+            "meaning": "최고조에 달하다, 열기가 극에 달하다",
+            "context": "demand ... is hitting a fever pitch"
+          },
+          {
+            "word": "bursting at the seams",
+            "meaning": "만석이다, 꽉 차다, 터질 듯하다",
+            "context": "many routes bursting at the seams"
+          },
+          {
+            "word": "pay through the nose",
+            "meaning": "엄청난 비용을 지불하다, 바가지를 쓰다",
+            "context": "having to pay through the nose"
+          }
+        ]
+      },
       {
         "sentences": [
           "With ETIAS approval now averaging 48 hours for peak season, the writing on the wall is clear: securing your authorization well in advance is paramount to avoid any last-minute snags.",
@@ -9048,6 +9146,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The stunning World Cup upset truly threw a wrench in the works for Portugal's campaign, casting doubt on whether this is indeed Ronaldo's swan song.",
+          "This unexpected drama also caused esports streams of 'EA Sports FC 26' to catch fire, with fans eagerly simulating outcomes and staying glued to their screens."
+        ],
+        "sentenceTranslations": [
+          "충격적인 월드컵 이변은 포르투갈의 캠페인에 예상치 못한 큰 차질을 초래했고, 이로 인해 과연 이것이 호날두의 마지막 불꽃일지에 대한 의구심을 더했습니다.",
+          "이러한 예상치 못한 드라마는 'EA 스포츠 FC 26' e스포츠 스트리밍의 인기에 불을 지폈고, 팬들은 결과를 시뮬레이션하고 화면에 몰입하며 열광했습니다."
+        ],
+        "translationHighlights": [
+          "큰 차질을 초래했고",
+          "마지막 불꽃일지",
+          "인기에 불을 지폈고"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "예상치 못한 문제나 장애물을 일으키다, 계획을 방해하다",
+            "context": "truly threw a wrench in the works for Portugal's campaign"
+          },
+          {
+            "word": "swan song",
+            "meaning": "마지막 작품, 마지막 공연/활동",
+            "context": "Ronaldo's swan song"
+          },
+          {
+            "word": "catch fire",
+            "meaning": "빠르게 인기를 얻거나 성공하다",
+            "context": "esports streams of 'EA Sports FC 26' to catch fire"
+          }
+        ]
+      },
       {
         "sentences": [
           "Jayson Tatum's MVP performance in the NBA Finals has definitely raised the bar for future contenders, a testament to the Celtics' ability to go the extra mile in a grueling seven-game series.",
