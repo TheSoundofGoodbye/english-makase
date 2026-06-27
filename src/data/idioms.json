@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "As AI assistants like Gemini and Iris become ubiquitous, the growing public discourse indicates that data privacy has truly become the elephant in the room, an unaddressed issue that chips away at consumer trust.",
+          "To navigate this landscape, authorities need to walk a fine line between fostering innovation and putting a premium on user autonomy, ensuring regulations aren't merely corporate window dressing."
+        ],
+        "sentenceTranslations": [
+          "제미니나 아이리스 같은 AI 비서들이 보편화되면서, 데이터 프라이버시는 정말로 외면할 수 없는 핵심 문제가 되어 소비자 신뢰를 조금씩 갉아먹고 있다는 여론이 커지고 있습니다.",
+          "이러한 상황을 헤쳐나가기 위해, 당국은 혁신을 장려하는 것과 사용자 자율성을 최우선으로 여기는 것 사이에서 신중하게 균형을 잡아야 하며, 규제가 단순히 기업의 보여주기식 조치가 되지 않도록 해야 합니다."
+        ],
+        "translationHighlights": [
+          "외면할 수 없는 핵심 문제",
+          "신중하게 균형을 잡아야 하며",
+          "최우선으로 여기는 것",
+          "기업의 보여주기식 조치"
+        ],
+        "newWords": [
+          {
+            "word": "the elephant in the room",
+            "meaning": "모두가 알고 있지만 언급하기 꺼리는 핵심 문제",
+            "context": "data privacy has truly become the elephant in the room"
+          },
+          {
+            "word": "walk a fine line",
+            "meaning": "아슬아슬하게 균형을 유지하다, 신중하게 처신하다",
+            "context": "authorities need to walk a fine line"
+          },
+          {
+            "word": "corporate window dressing",
+            "meaning": "기업의 보여주기식 조치, 눈가림용 대책",
+            "context": "regulations aren't merely corporate window dressing"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With AI rapidly integrating into professional tasks, the writing is on the wall for many entry-level positions that face automation.",
           "To stay relevant and truly thrive, it's essential for individuals to get ahead of the curve by embracing reskilling initiatives."
         ],
@@ -3101,6 +3134,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Whispers of GPT-5.5's impending launch are creating such a frenzy that major corporations are eager to strike while the iron is hot, actively looking to acquire smaller AI startups.",
+          "However, this optimism faces headwinds, as the unexpected Eurozone inflation data and looming U.S. export controls on semiconductors could throw a wrench in the works for broader market recovery."
+        ],
+        "sentenceTranslations": [
+          "GPT-5.5 출시 임박 소문이 엄청난 열풍을 일으키면서, 주요 기업들은 호기를 놓치지 않고 소규모 AI 스타트업 인수에 적극적으로 나서고 있습니다.",
+          "하지만, 예상을 뛰어넘는 유로존 인플레이션 데이터와 임박한 미국 반도체 수출 통제 조치는 더 넓은 시장 회복에 걸림돌이 될 수 있어 이러한 낙관론은 역풍을 맞고 있습니다."
+        ],
+        "translationHighlights": [
+          "호기를 놓치지 않고",
+          "걸림돌이 될 수 있다",
+          "역풍을 맞고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "호기를 놓치지 않고 행동하다, 기회를 잡다",
+            "context": "eager to strike while the iron is hot, actively looking to acquire smaller AI startups"
+          },
+          {
+            "word": "face headwinds",
+            "meaning": "역풍을 맞다, 어려움에 직면하다",
+            "context": "this optimism faces headwinds, as the unexpected Eurozone inflation data"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획/진행에 차질을 주다, 방해하다",
+            "context": "could throw a wrench in the works for broader market recovery"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "NVIDIA is certainly riding the crest of a wave with its Blackwell Ultra, but analysts are quick to point out that it's not all clear sailing for the broader tech sector.",
           "The ongoing US-China tech restrictions could still throw a monkey wrench in the works for global supply chains, despite the immediate market euphoria."
         ],
@@ -6118,6 +6183,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Argentina's new Digital Nomad Visa has truly hit the ground running, proving to be a game-changer for remote workers eyeing Patagonia.",
+          "Major carriers, seeing the writing on the wall regarding extended stays, are riding the crest of a wave by significantly ramping up frequencies to Buenos Aires."
+        ],
+        "sentenceTranslations": [
+          "아르헨티나의 새로운 디지털 노마드 비자는 그야말로 출발부터 순조롭게 진행되어, 파타고니아를 눈여겨보던 원격 근무자들에게 판도를 바꾸는 존재가 되고 있습니다.",
+          "주요 항공사들은 장기 체류에 대한 분명한 조짐을 읽고, 부에노스아이레스 노선 운항 횟수를 대폭 늘리며 이러한 인기 흐름을 타고 있습니다."
+        ],
+        "translationHighlights": [
+          "출발부터 순조롭게 진행되어",
+          "판도를 바꾸는 존재",
+          "분명한 조짐을 읽고",
+          "인기 흐름을 타고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "hit the ground running",
+            "meaning": "바로 성공적으로 시작하다, 순조롭게 진행하다",
+            "context": "has truly hit the ground running"
+          },
+          {
+            "word": "the writing on the wall",
+            "meaning": "다가올 일의 분명한 징조, 불길한 조짐",
+            "context": "seeing the writing on the wall"
+          },
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "최고의 인기나 성공을 누리다, 흐름을 타다",
+            "context": "are riding the crest of a wave"
+          }
+        ]
+      },
       {
         "sentences": [
           "Amidst the World Cup frenzy, air travel demand across North America is hitting a fever pitch, leaving many routes bursting at the seams.",
@@ -9146,6 +9244,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "As the FIFA World Cup 2026 enters its high-stakes Round of 16, every single match is make or break for the competing nations; they can't afford to drop the ball.",
+          "Meanwhile, visiting fans are killing two birds with one stone by enjoying local outdoor activities, allowing them to recharge their batteries before the next intense clash."
+        ],
+        "sentenceTranslations": [
+          "FIFA 월드컵 2026이 고비의 16강전에 돌입하면서, 각 참가국에게 모든 경기는 성패를 가르는 중요한 순간이며, 결정적인 실수를 저지를 여유가 없습니다.",
+          "한편, 방문 팬들은 현지 야외 활동을 즐기면서 일석이조의 효과를 누리고 있으며, 다음 치열한 경기를 앞두고 에너지를 재충전하고 있습니다."
+        ],
+        "translationHighlights": [
+          "성패를 가르는",
+          "결정적인 실수를 저지를",
+          "일석이조의 효과를 누리고",
+          "에너지를 재충전하고"
+        ],
+        "newWords": [
+          {
+            "word": "make or break",
+            "meaning": "성패를 가르는, 매우 중요한",
+            "context": "every single match is make or break for the competing nations"
+          },
+          {
+            "word": "drop the ball",
+            "meaning": "실수를 저지르다, 중요한 기회를 놓치다",
+            "context": "they can't afford to drop the ball"
+          },
+          {
+            "word": "kill two birds with one stone",
+            "meaning": "일석이조의 효과를 얻다, 한 번에 두 가지 목표를 달성하다",
+            "context": "visiting fans are killing two birds with one stone by enjoying local outdoor activities"
+          }
+        ]
+      },
       {
         "sentences": [
           "The stunning World Cup upset truly threw a wrench in the works for Portugal's campaign, casting doubt on whether this is indeed Ronaldo's swan song.",
