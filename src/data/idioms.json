@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With advanced AI health monitoring devices now widespread, it's clear the genie is out of the bottle when it comes to leveraging personal biometric data.",
+          "This makes treading a fine line between unlocking powerful health insights and safeguarding digital privacy absolutely critical for tech companies and global regulators alike."
+        ],
+        "sentenceTranslations": [
+          "첨단 AI 건강 모니터링 기기가 널리 보급되면서, 개인 생체 데이터를 활용하는 문제에 있어서는 이미 되돌릴 수 없는 상황이 되었습니다.",
+          "따라서 강력한 건강 정보 활용과 디지털 프라이버시 보호 사이에서 신중하게 균형을 잡는 것이 기술 기업과 전 세계 규제 당국 모두에게 절대적으로 중요합니다."
+        ],
+        "translationHighlights": [
+          "되돌릴 수 없는 상황",
+          "개인 생체 데이터를 활용하는 문제에 있어서는",
+          "신중하게 균형을 잡는 것",
+          "절대적으로 중요합니다"
+        ],
+        "newWords": [
+          {
+            "word": "the genie is out of the bottle",
+            "meaning": "이미 시작되어 되돌릴 수 없게 된 상황",
+            "context": "it's clear the genie is out of the bottle when it comes to leveraging personal biometric data."
+          },
+          {
+            "word": "treading a fine line",
+            "meaning": "(두 가지 상반된 것 사이에서) 신중하게 균형을 잡다, 아슬아슬한 줄타기를 하다",
+            "context": "This makes treading a fine line between unlocking powerful health insights and safeguarding digital privacy..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As AI assistants like Gemini and Iris become ubiquitous, the growing public discourse indicates that data privacy has truly become the elephant in the room, an unaddressed issue that chips away at consumer trust.",
           "To navigate this landscape, authorities need to walk a fine line between fostering innovation and putting a premium on user autonomy, ensuring regulations aren't merely corporate window dressing."
         ],
@@ -3134,6 +3162,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With generative AI deployments lighting a fire under the tech sector, firms are scrambling to acquire specialized startups at an unprecedented pace.",
+          "This aggressive M&A strategy, however, might only be half the battle if equitable access to critical semiconductor fabrication remains a bottleneck for broader innovation."
+        ],
+        "sentenceTranslations": [
+          "생성형 AI 배포가 기술 부문에 활력을 불어넣으면서, 기업들은 전례 없는 속도로 전문 스타트업을 확보하기 위해 치열하게 경쟁하고 있습니다.",
+          "하지만 이러한 공격적인 M&A 전략은, 필수 반도체 제조에 대한 공정한 접근이 더 넓은 혁신에 병목 현상으로 남아있다면, 단지 싸움의 절반에 불과할 수 있습니다."
+        ],
+        "translationHighlights": [
+          "활력을 불어넣으면서",
+          "확보하기 위해 치열하게 경쟁하고 있습니다",
+          "단지 싸움의 절반에 불과할 수 있습니다",
+          "혁신에 병목 현상으로 남아있다면"
+        ],
+        "newWords": [
+          {
+            "word": "lighting a fire under (something/someone)",
+            "meaning": "활력을 불어넣다, 가속화하다, ~에 불씨를 지피다 (무언가나 누군가가 더 빨리, 더 활발하게 움직이도록 만들다)",
+            "context": "lighting a fire under the tech sector"
+          },
+          {
+            "word": "half the battle",
+            "meaning": "전투의 절반, 가장 중요한 부분 중 하나이기는 하지만, 성공에 필요한 전체 중 일부일 뿐인 것",
+            "context": "might only be half the battle"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Whispers of GPT-5.5's impending launch are creating such a frenzy that major corporations are eager to strike while the iron is hot, actively looking to acquire smaller AI startups.",
           "However, this optimism faces headwinds, as the unexpected Eurozone inflation data and looming U.S. export controls on semiconductors could throw a wrench in the works for broader market recovery."
         ],
@@ -6183,6 +6239,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The introduction of ETIAS has made many travelers read the tea leaves, prompting them to increasingly seek out destinations that offer a more convenient entry and unique experiences.",
+          "Consequently, tourism boards are now striving to encourage visitors to go off the beaten path, leveraging digital tools to disperse foot traffic and discover authentic local gems."
+        ],
+        "sentenceTranslations": [
+          "ETIAS 도입은 많은 여행자들에게 변화의 조짐을 읽게 했고, 그 결과 더욱 편리한 입국과 독특한 경험을 제공하는 목적지를 점점 더 찾게 만들었습니다.",
+          "결과적으로 관광청들은 이제 디지털 도구를 활용하여 인파를 분산시키고 진정한 현지 보석 같은 장소들을 발견하도록 여행객들이 잘 알려지지 않은 곳을 찾아 나서도록 독려하고 있습니다."
+        ],
+        "translationHighlights": [
+          "변화의 조짐을 읽게 했고",
+          "잘 알려지지 않은 곳을 찾아 나서도록",
+          "인파를 분산시키고",
+          "진정한 현지 보석 같은 장소들"
+        ],
+        "newWords": [
+          {
+            "word": "read the tea leaves",
+            "meaning": "변화의 조짐을 읽다, 미래를 예측하다",
+            "context": "many travelers read the tea leaves"
+          },
+          {
+            "word": "off the beaten path",
+            "meaning": "잘 알려지지 않은, 외딴, 색다른",
+            "context": "to go off the beaten path"
+          }
+        ]
+      },
       {
         "sentences": [
           "Argentina's new Digital Nomad Visa has truly hit the ground running, proving to be a game-changer for remote workers eyeing Patagonia.",
@@ -9244,6 +9328,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Mbappé's strong remarks on VAR consistency certainly threw a wrench in the works for the perception of fairness in the World Cup's crucial moments.",
+          "Meanwhile, Team Liquid knocked it out of the park with their decisive Valorant Masters win, proving they were a cut above the rest in the esports arena."
+        ],
+        "sentenceTranslations": [
+          "음바페가 VAR 판정의 일관성에 대해 강하게 비판하면서 월드컵의 중요한 순간들에 대한 공정성 인식에 확실히 찬물을 끼얹었습니다.",
+          "한편, 팀 리퀴드는 발로란트 마스터스에서 압도적인 승리를 거두며, e스포츠 분야에서 그들이 단연 최고임을 입증했습니다."
+        ],
+        "translationHighlights": [
+          "찬물을 끼얹었습니다",
+          "압도적인 승리를 거두며",
+          "단연 최고임을 입증했습니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획이나 진행에 문제를 일으키다, 찬물을 끼얹다",
+            "context": "certainly threw a wrench in the works for the perception of fairness"
+          },
+          {
+            "word": "knock it out of the park",
+            "meaning": "매우 성공적으로 해내다, 대성공하다",
+            "context": "Team Liquid knocked it out of the park with their decisive Valorant Masters win"
+          },
+          {
+            "word": "a cut above the rest",
+            "meaning": "다른 사람들/것들보다 훨씬 뛰어나다, 한 수 위다",
+            "context": "proving they were a cut above the rest in the esports arena"
+          }
+        ]
+      },
       {
         "sentences": [
           "As the FIFA World Cup 2026 enters its high-stakes Round of 16, every single match is make or break for the competing nations; they can't afford to drop the ball.",
