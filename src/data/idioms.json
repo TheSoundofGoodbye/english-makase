@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Amidst rising interest rates, FinMind AI is helping younger generations to finally get a handle on their impulse spending habits.",
+          "These proactive tools are proving to be a real shot in the arm for those looking to effectively manage their debt and investments."
+        ],
+        "sentenceTranslations": [
+          "금리가 오르는 가운데, FinMind AI는 젊은 세대가 마침내 그들의 충동적 소비 습관을 제대로 관리할 수 있도록 돕고 있습니다.",
+          "이러한 선제적인 도구들은 부채와 투자를 효과적으로 관리하려는 사람들에게 정말 큰 힘이 되어주고 있습니다."
+        ],
+        "translationHighlights": [
+          "제대로 관리할 수 있도록",
+          "충동적 소비 습관",
+          "선제적인 도구들",
+          "큰 힘이 되어주고"
+        ],
+        "newWords": [
+          {
+            "word": "get a handle on",
+            "meaning": "~을 제대로 관리하다/파악하다/통제하다",
+            "context": "to finally get a handle on their impulse spending habits"
+          },
+          {
+            "word": "a shot in the arm",
+            "meaning": "(사업이나 조직 등에) 활기를 불어넣는 것, 큰 힘/격려가 되는 것",
+            "context": "to be a real shot in the arm for those looking to effectively manage"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With advanced AI health monitoring devices now widespread, it's clear the genie is out of the bottle when it comes to leveraging personal biometric data.",
           "This makes treading a fine line between unlocking powerful health insights and safeguarding digital privacy absolutely critical for tech companies and global regulators alike."
         ],
@@ -3162,6 +3190,33 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Google DeepMind's 'Gemini Delta' unveiling is expected to raise the stakes in the AI race, inevitably putting further strain on already stretched global chip supply chains.",
+          "Meanwhile, central banks are walking a tightrope, trying to balance growth with price stability while the IMF warns of persistent inflationary pressures and ongoing trade tensions."
+        ],
+        "sentenceTranslations": [
+          "구글 딥마인드의 '제미니 델타' 공개는 AI 경쟁의 판돈을 키울 것으로 예상되며, 이미 한계에 다다른 글로벌 칩 공급망에 더 큰 부담을 줄 것입니다.",
+          "한편, IMF가 지속적인 인플레이션 압력과 무역 긴장을 경고하는 가운데, 중앙은행들은 성장과 물가 안정을 동시에 달성하기 위해 외줄타기를 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "판돈을 키울 것으로 예상되며",
+          "이미 한계에 다다른",
+          "외줄타기를 하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "raise the stakes",
+            "meaning": "판돈을 키우다, (경쟁 등에서) 위험을 높이다/중요성을 더하다",
+            "context": "expected to raise the stakes in the AI race"
+          },
+          {
+            "word": "walking a tightrope",
+            "meaning": "외줄타기를 하다, 매우 어렵고 위태로운 상황에서 균형을 잡으려 애쓰다",
+            "context": "central banks are walking a tightrope"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With generative AI deployments lighting a fire under the tech sector, firms are scrambling to acquire specialized startups at an unprecedented pace.",
           "This aggressive M&A strategy, however, might only be half the battle if equitable access to critical semiconductor fabrication remains a bottleneck for broader innovation."
         ],
@@ -6239,6 +6294,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "While the initial ETIAS processing delays at major hubs might give some travelers pause, the sustained surge in demand for eco-lodges indicates that sustainable tourism is truly hitting its stride.",
+          "Airlines like Cathay Pacific are clearly pulling out all the stops with SAF initiatives, realizing they need to walk the talk to align with increasingly carbon-conscious travelers."
+        ],
+        "sentenceTranslations": [
+          "주요 거점 공항에서의 ETIAS 초기 처리 지연이 일부 여행객들에게 망설임을 줄 수 있지만, 친환경 숙소에 대한 수요의 지속적인 증가는 지속 가능한 관광이 진정으로 전성기를 맞이하고 있음을 보여줍니다.",
+          "캐세이퍼시픽과 같은 항공사들은 SAF(지속 가능한 항공 연료) 이니셔티브에 총력을 기울이며, 점점 더 탄소 배출에 민감한 여행객들의 기대를 충족시키기 위해 말과 행동이 일치해야 한다는 것을 깨닫고 있습니다."
+        ],
+        "translationHighlights": [
+          "망설임을 줄 수 있지만",
+          "전성기를 맞이하고 있음을",
+          "말과 행동이 일치해야 한다는 것을"
+        ],
+        "newWords": [
+          {
+            "word": "give (someone) pause",
+            "meaning": "~에게 잠시 멈추고 생각하게 하다, 망설이게 하다",
+            "context": "might give some travelers pause"
+          },
+          {
+            "word": "hitting its stride",
+            "meaning": "본격적으로 제 실력을 발휘하다, 전성기를 맞이하다",
+            "context": "is truly hitting its stride"
+          },
+          {
+            "word": "walk the talk",
+            "meaning": "말한 대로 실천하다, 말과 행동이 일치하다",
+            "context": "they need to walk the talk"
+          }
+        ]
+      },
       {
         "sentences": [
           "The introduction of ETIAS has made many travelers read the tea leaves, prompting them to increasingly seek out destinations that offer a more convenient entry and unique experiences.",
@@ -9328,6 +9415,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "After a minor quad strain scare, defending champion Jannik Sinner is clearly chomping at the bit to start his Wimbledon campaign, ready to push for another title.",
+          "The atmosphere at the All England Club is electric, with organizers already cashing in on unprecedented demand, evident in record attendance and soaring premium ticket sales."
+        ],
+        "sentenceTranslations": [
+          "경미한 대퇴사두근 부상 우려에도 불구하고, 디펜딩 챔피언 야닉 시너는 또 다른 타이틀을 향해 나아갈 준비가 된 채 윔블던 캠페인을 시작하기 위해 안달하고 있습니다.",
+          "올 잉글랜드 클럽의 분위기는 전기가 흐르는 듯하며, 주최 측은 기록적인 참석률과 치솟는 프리미엄 티켓 판매에서 볼 수 있듯이 전례 없는 수요를 이미 한껏 활용하고 있습니다."
+        ],
+        "translationHighlights": [
+          "안달하고 있습니다",
+          "전기가 흐르는 듯하며",
+          "한껏 활용하고 있습니다",
+          "전례 없는 수요"
+        ],
+        "newWords": [
+          {
+            "word": "chomping at the bit",
+            "meaning": "매우 간절히 바라거나 애타게 기다리다, 안달하다",
+            "context": "Sinner is clearly chomping at the bit to start his Wimbledon campaign"
+          },
+          {
+            "word": "cashing in on",
+            "meaning": "기회나 상황을 활용하여 이득을 얻다, 한껏 활용하다",
+            "context": "organizers already cashing in on unprecedented demand"
+          }
+        ]
+      },
       {
         "sentences": [
           "Mbappé's strong remarks on VAR consistency certainly threw a wrench in the works for the perception of fairness in the World Cup's crucial moments.",
