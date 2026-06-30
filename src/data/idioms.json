@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While AI promises increased productivity, its rapid integration into office roles is proving to be a double-edged sword, demanding significant upskilling to keep pace.",
+          "Considering the continued wage stagnation and the looming threat of job displacement, many believe a universal basic income pilot could help people weather the storm during this economic transition."
+        ],
+        "sentenceTranslations": [
+          "AI가 생산성 향상을 약속하지만, 사무직 역할에 빠르게 통합되면서 양날의 검으로 작용하여, 시대에 발맞추기 위한 상당한 수준의 기술 향상을 요구하고 있습니다.",
+          "지속적인 임금 정체와 임박한 일자리 상실 위협을 고려할 때, 많은 이들은 보편적 기본 소득 시범 사업이 이러한 경제적 전환기에 사람들이 폭풍을 헤쳐나가는 데 도움이 될 수 있다고 믿습니다."
+        ],
+        "translationHighlights": [
+          "양날의 검으로 작용하여",
+          "시대에 발맞추기 위한",
+          "임박한 일자리 상실 위협",
+          "폭풍을 헤쳐나가는 데"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가진 상황이나 해결책)",
+            "context": "its rapid integration into office roles is proving to be a double-edged sword"
+          },
+          {
+            "word": "keep pace",
+            "meaning": "보조를 맞추다, 뒤처지지 않다",
+            "context": "demanding significant upskilling to keep pace."
+          },
+          {
+            "word": "weather the storm",
+            "meaning": "폭풍을 헤쳐나가다, (어려운 시기를) 잘 극복하다",
+            "context": "could help people weather the storm during this economic transition."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Amidst rising interest rates, FinMind AI is helping younger generations to finally get a handle on their impulse spending habits.",
           "These proactive tools are proving to be a real shot in the arm for those looking to effectively manage their debt and investments."
         ],
@@ -3190,6 +3223,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Google DeepMind's multi-billion dollar acquisition, while certainly **stealing a march on** rivals in the bio-AI space, unfolded as the market found itself **on a razor's edge** following Chair Powell's stern inflation warnings.",
+          "Indeed, escalating US-China trade discussions over chip manufacturing have become a significant **sticking point**, threatening a **ripple effect** that could see global GDP growth **in a holding pattern** for the foreseeable future."
+        ],
+        "sentenceTranslations": [
+          "구글 딥마인드의 수십억 달러 규모 인수는 바이오-AI 분야에서 경쟁사들을 확실히 **앞질러 나가는** 움직임이었지만, 파월 의장의 엄중한 인플레이션 경고 이후 시장은 **살얼음판을 걷는 듯한** 상황에 처했습니다.",
+          "실제로, 첨단 칩 제조를 둘러싼 미국-중국 무역 논의가 중요한 **걸림돌**이 되면서, 전 세계 GDP 성장이 당분간 **정체 상태에 머무르게 할 수 있는** **파급 효과**를 위협하고 있습니다."
+        ],
+        "translationHighlights": [
+          "앞질러 나가는",
+          "살얼음판을 걷는 듯한",
+          "걸림돌",
+          "파급 효과"
+        ],
+        "newWords": [
+          {
+            "word": "stealing a march on",
+            "meaning": "~을 앞지르다, ~보다 한 발 앞서다 (남보다 빨리 행동하여 이점을 얻다)",
+            "context": "stealing a march on rivals"
+          },
+          {
+            "word": "on a razor's edge",
+            "meaning": "위태로운 상황에 처한, 살얼음판을 걷는 듯한 (매우 불안정하거나 위험한 상태에 있는)",
+            "context": "market found itself on a razor's edge"
+          },
+          {
+            "word": "sticking point",
+            "meaning": "난항을 겪는 쟁점, 걸림돌 (합의에 도달하기 어려운 핵심 문제)",
+            "context": "become a significant sticking point"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Google DeepMind's 'Gemini Delta' unveiling is expected to raise the stakes in the AI race, inevitably putting further strain on already stretched global chip supply chains.",
           "Meanwhile, central banks are walking a tightrope, trying to balance growth with price stability while the IMF warns of persistent inflationary pressures and ongoing trade tensions."
         ],
@@ -6294,6 +6360,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With record visitor numbers pushing Venice to its limits, city officials are threading the needle by introducing an entry fee to balance economic recovery with preserving its cultural integrity.",
+          "This delicate balancing act reflects a broader sea change in tourism, with many travelers now eager to get off the beaten path and truly soak it all in, rather than just tick boxes."
+        ],
+        "sentenceTranslations": [
+          "기록적인 방문객 수로 인해 베네치아가 한계에 다다르자, 시 당국은 경제 회복과 문화적 온전성 보존 사이에서 아슬아슬한 균형을 잡기 위해 입장료를 도입하고 있습니다.",
+          "이러한 섬세한 균형 잡기 노력은 관광업계의 광범위한 변화를 반영하는데, 이제 많은 여행객들이 단순히 체크리스트를 채우기보다는 덜 알려진 곳을 찾아가 진정으로 모든 것을 음미하려 합니다."
+        ],
+        "translationHighlights": [
+          "한계에 다다르자",
+          "아슬아슬한 균형을 잡기 위해",
+          "광범위한 변화",
+          "덜 알려진 곳을 찾아가"
+        ],
+        "newWords": [
+          {
+            "word": "threading the needle",
+            "meaning": "아슬아슬한 균형을 잡다, 아주 어려운 일을 해내다",
+            "context": "officials are threading the needle by introducing an entry fee"
+          },
+          {
+            "word": "a sea change",
+            "meaning": "근본적인 변화, 격변",
+            "context": "reflects a broader sea change in tourism"
+          },
+          {
+            "word": "get off the beaten path",
+            "meaning": "관광객이 적은 곳으로 가다, 덜 알려진 곳을 찾아가다",
+            "context": "eager to get off the beaten path"
+          }
+        ]
+      },
       {
         "sentences": [
           "While the initial ETIAS processing delays at major hubs might give some travelers pause, the sustained surge in demand for eco-lodges indicates that sustainable tourism is truly hitting its stride.",
@@ -9415,6 +9514,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The FIFA World Cup 2026 has certainly thrown a curveball with its string of upsets, proving that even top-seeded teams can be sent packing unexpectedly.",
+          "Meanwhile, the esports arena, powered by rising stars and championship wins, is truly hitting its stride, captivating a massive audience."
+        ],
+        "sentenceTranslations": [
+          "2026 FIFA 월드컵은 연이은 이변으로 예상 밖의 상황을 연출하며, 상위 시드 팀들도 예상치 못하게 탈락할 수 있음을 보여주었습니다.",
+          "한편, 떠오르는 스타들과 챔피언십 우승에 힘입어 e스포츠는 진정으로 본 궤도에 오르며 엄청난 관중을 사로잡고 있습니다."
+        ],
+        "translationHighlights": [
+          "예상 밖의 상황을 연출하며",
+          "예상치 못하게 탈락할 수 있음",
+          "본 궤도에 오르며"
+        ],
+        "newWords": [
+          {
+            "word": "thrown a curveball",
+            "meaning": "예상 밖의 문제나 상황을 만들어내다",
+            "context": "The FIFA World Cup 2026 has certainly thrown a curveball..."
+          },
+          {
+            "word": "sent packing",
+            "meaning": "(예상 밖으로) 탈락시키다; 떠나게 하다",
+            "context": "...even top-seeded teams can be sent packing unexpectedly."
+          },
+          {
+            "word": "hitting its stride",
+            "meaning": "본 궤도에 오르다; 제대로 된 속도를 내기 시작하다",
+            "context": "...the esports arena...is truly hitting its stride..."
+          }
+        ]
+      },
       {
         "sentences": [
           "After a minor quad strain scare, defending champion Jannik Sinner is clearly chomping at the bit to start his Wimbledon campaign, ready to push for another title.",
