@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The ongoing dietary shift driven by GLP-1 drugs represents a veritable sea change, requiring food and beverage companies to completely rethink their product strategies.",
+          "Companies that fail to read the room and adapt to these evolving consumer preferences risk their bottom line taking a hit in the long run."
+        ],
+        "sentenceTranslations": [
+          "GLP-1 약물로 인한 지속적인 식습관 변화는 진정한 대격변을 의미하며, 식음료 회사들은 제품 전략을 완전히 재고해야 합니다.",
+          "이러한 변화하는 소비자 선호도를 읽지 못하고 적응하지 못하는 기업들은 장기적으로 수익에 타격을 입을 위험이 있습니다."
+        ],
+        "translationHighlights": [
+          "진정한 대격변",
+          "재고해야 합니다",
+          "읽지 못하고",
+          "수익에 타격을 입을"
+        ],
+        "newWords": [
+          {
+            "word": "a veritable sea change",
+            "meaning": "진정한 대격변, 완전한 변화 (매우 큰 변화를 강조할 때 사용)",
+            "context": "represents a veritable sea change"
+          },
+          {
+            "word": "read the room",
+            "meaning": "상황/분위기를 파악하다, 눈치껏 행동하다 (주변 환경이나 사람들의 반응을 이해하고 적절히 대응한다는 의미)",
+            "context": "fail to read the room"
+          },
+          {
+            "word": "their bottom line taking a hit",
+            "meaning": "수익에 타격을 입다, 순이익이 줄어들다 (기업의 최종 이익이 부정적인 영향을 받는다는 비즈니스 표현)",
+            "context": "risk their bottom line taking a hit"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While AI promises increased productivity, its rapid integration into office roles is proving to be a double-edged sword, demanding significant upskilling to keep pace.",
           "Considering the continued wage stagnation and the looming threat of job displacement, many believe a universal basic income pilot could help people weather the storm during this economic transition."
         ],
@@ -3223,6 +3256,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "NVIDIA is certainly making a killing with its 'Blackwell Ultra' chips, a clear indication of the market's insatiable appetite for cutting-edge AI technology.",
+          "However, with growing calls for sustainability, savvy investors are already reading the writing on the wall, increasingly putting their money where their mouth is for 'Green AI' ventures."
+        ],
+        "sentenceTranslations": [
+          "엔비디아는 '블랙웰 울트라' 칩으로 엄청난 돈을 벌고 있으며, 이는 최첨단 AI 기술에 대한 시장의 끊임없는 욕구를 명확히 보여줍니다.",
+          "하지만 지속 가능성에 대한 요구가 커지면서, 영리한 투자자들은 이미 다가올 미래를 예측하고 있으며, '그린 AI' 벤처에 투자를 아끼지 않고 있습니다."
+        ],
+        "translationHighlights": [
+          "엄청난 돈을 벌고 있으며",
+          "이미 다가올 미래를 예측하고 있으며",
+          "투자를 아끼지 않고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "making a killing",
+            "meaning": "엄청난 돈을 벌다, 큰 수익을 올리다",
+            "context": "NVIDIA is certainly making a killing with its 'Blackwell Ultra' chips"
+          },
+          {
+            "word": "reading the writing on the wall",
+            "meaning": "닥쳐올 일을 예측하다, 미래를 내다보다",
+            "context": "savvy investors are already reading the writing on the wall"
+          },
+          {
+            "word": "putting their money where their mouth is",
+            "meaning": "말만 하는 것이 아니라 실제 행동(투자)으로 보여주다, 약속한 것을 실천하다",
+            "context": "putting their money where their mouth is for 'Green AI' ventures"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Google DeepMind's multi-billion dollar acquisition, while certainly **stealing a march on** rivals in the bio-AI space, unfolded as the market found itself **on a razor's edge** following Chair Powell's stern inflation warnings.",
           "Indeed, escalating US-China trade discussions over chip manufacturing have become a significant **sticking point**, threatening a **ripple effect** that could see global GDP growth **in a holding pattern** for the foreseeable future."
         ],
@@ -6360,6 +6425,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Aegean Airlines' booming international arrivals show the region is firing on all cylinders, but Santorini's timed entry system aims to nip over-tourism in the bud before it overwhelms the island.",
+          "This proactive approach reflects a wider commitment to threading the needle between economic prosperity and preserving the Cyclades' fragile beauty, setting a precedent for sustainable travel."
+        ],
+        "sentenceTranslations": [
+          "아에게안 항공의 급증하는 국제선 도착은 이 지역이 전력을 다해 활기 넘치게 돌아가고 있음을 보여주지만, 산토리니의 시간제 입장 시스템은 섬이 감당하기 전에 과잉 관광 문제를 초기에 차단하려는 목적을 가지고 있습니다.",
+          "이러한 선제적인 접근 방식은 경제적 번영과 키클라데스 제도의 연약한 아름다움을 보존하는 것 사이에서 절묘한 균형을 찾으려는 더 폭넓은 의지를 반영하며, 지속 가능한 여행의 선례를 만들고 있습니다."
+        ],
+        "translationHighlights": [
+          "전력을 다해 활기 넘치게",
+          "초기에 차단하려는",
+          "절묘한 균형을 찾으려는",
+          "지속 가능한 여행의 선례를"
+        ],
+        "newWords": [
+          {
+            "word": "firing on all cylinders",
+            "meaning": "전력을 다해/최대한으로 작동하는; 활기 넘치게 돌아가는",
+            "context": "the region is firing on all cylinders"
+          },
+          {
+            "word": "nip something in the bud",
+            "meaning": "(문제 등을) 싹부터 잘라내다/미리 막다",
+            "context": "aims to nip over-tourism in the bud"
+          },
+          {
+            "word": "thread the needle",
+            "meaning": "(두 가지 어려운 목표 사이에서) 절묘한 균형을 찾다/정교하게 해내다",
+            "context": "commitment to threading the needle between economic prosperity and preserving"
+          }
+        ]
+      },
       {
         "sentences": [
           "With record visitor numbers pushing Venice to its limits, city officials are threading the needle by introducing an entry fee to balance economic recovery with preserving its cultural integrity.",
@@ -9514,6 +9612,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The major upset at Wimbledon, seeing Ons Jabeur surprisingly defeated, truly threw a wrench into the works for many pundits' predictions.",
+          "Yet, this unpredictable turn of events seems to fuel the overall excitement, much like the record demand for National Parks suggests people are keen to get in on the action and enjoy outdoor recreation."
+        ],
+        "sentenceTranslations": [
+          "윔블던에서 온스 자베르 선수가 예상치 못하게 패배한 대형 이변은 많은 전문가들의 예측에 제대로 찬물을 끼얹었습니다.",
+          "하지만 이러한 예측 불가능한 전개는 전반적인 흥미를 더욱 고조시키는 듯하며, 국립공원에 대한 기록적인 수요가 사람들이 야외 활동에 적극적으로 참여하고 싶어 한다는 것을 시사하는 것과도 같습니다."
+        ],
+        "translationHighlights": [
+          "대형 이변",
+          "예측에 제대로 찬물을 끼얹었습니다",
+          "예측 불가능한 전개",
+          "적극적으로 참여하고 싶어 한다"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench into the works",
+            "meaning": "계획이나 진행 중인 일에 예상치 못한 문제를 일으켜 방해하다, 찬물을 끼얹다",
+            "context": "truly threw a wrench into the works for many pundits' predictions"
+          },
+          {
+            "word": "get in on the action",
+            "meaning": "흥미로운 활동이나 사건에 참여하다, 동참하다",
+            "context": "people are keen to get in on the action and enjoy outdoor recreation"
+          }
+        ]
+      },
       {
         "sentences": [
           "The FIFA World Cup 2026 has certainly thrown a curveball with its string of upsets, proving that even top-seeded teams can be sent packing unexpectedly.",
