@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The personalized wellness market, fueled by advanced at-home diagnostic kits, is truly catching on like wildfire as consumers embrace tailored health solutions.",
+          "This sea change in preventative care is empowering individuals to take a proactive stance on their well-being, rather than reacting to health issues."
+        ],
+        "sentenceTranslations": [
+          "고도화된 자가 진단 키트에 힘입은 맞춤형 웰니스 시장은 소비자들이 맞춤형 건강 솔루션을 받아들이면서 정말 들불처럼 번지고 있습니다.",
+          "이러한 예방적 건강 관리의 거대한 변화는 개개인이 건강 문제에 사후 대응하기보다는 자신의 웰빙에 대해 주도적인 입장을 취하도록 힘을 실어주고 있습니다."
+        ],
+        "translationHighlights": [
+          "들불처럼 번지고 있습니다",
+          "고도화된 자가 진단 키트",
+          "거대한 변화",
+          "주도적인 입장을 취하도록 힘을 실어주고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "catching on like wildfire",
+            "meaning": "들불처럼 빠르게 유행하거나 확산되는 것",
+            "context": "is truly catching on like wildfire as consumers embrace tailored health solutions"
+          },
+          {
+            "word": "sea change",
+            "meaning": "크고 근본적인 변화 (보통 상황, 태도 등에 대한 것)",
+            "context": "This sea change in preventative care is empowering individuals..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The ongoing dietary shift driven by GLP-1 drugs represents a veritable sea change, requiring food and beverage companies to completely rethink their product strategies.",
           "Companies that fail to read the room and adapt to these evolving consumer preferences risk their bottom line taking a hit in the long run."
         ],
@@ -3256,6 +3284,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Despite the AI industry **riding the crest of a wave** with significant investments like QuantumFlow AI's Series C, overall market sentiment remains cautious.",
+          "However, the renewed U.S.-China trade friction over critical AI chip minerals could quickly **throw a wrench in the works**, leading to higher costs and major supply chain disruptions."
+        ],
+        "sentenceTranslations": [
+          "퀀텀플로우 AI의 시리즈 C 투자 유치와 같은 대규모 투자로 AI 산업이 **승승장구하고 있음에도 불구하고**, 전반적인 시장 심리는 여전히 신중합니다.",
+          "하지만 AI 칩의 핵심 광물에 대한 미·중 무역 마찰이 재개되면서, 이는 곧 **계획에 큰 차질을 빚게 할 수 있으며**, 결국 비용 상승과 주요 공급망 혼란으로 이어질 것입니다."
+        ],
+        "translationHighlights": [
+          "승승장구하고 있음에도 불구하고",
+          "전반적인 시장 심리는 여전히 신중합니다",
+          "계획에 큰 차질을 빚게 할 수 있으며",
+          "주요 공급망 혼란"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "승승장구하다, 큰 성공을 거두다, 최고의 전성기를 누리다",
+            "context": "Despite the AI industry **riding the crest of a wave**"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 빚게 하다, 일을 망치다, 방해하다",
+            "context": "could quickly **throw a wrench in the works**"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "NVIDIA is certainly making a killing with its 'Blackwell Ultra' chips, a clear indication of the market's insatiable appetite for cutting-edge AI technology.",
           "However, with growing calls for sustainability, savvy investors are already reading the writing on the wall, increasingly putting their money where their mouth is for 'Green AI' ventures."
         ],
@@ -6425,6 +6481,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With Kyoto's cultural treasures almost bursting at the seams from the sheer volume of visitors, the new preservation levy aims to alleviate the pressure and fund essential maintenance.",
+          "This strategic move allows the city to play the long game, ensuring that its authenticity and tranquility don't take a beating from the constant influx of visitors."
+        ],
+        "sentenceTranslations": [
+          "교토의 문화유산들이 엄청난 수의 방문객들로 인해 터져나갈 지경에 이르자, 새로운 보존세는 이러한 압박을 완화하고 필수적인 유지보수 비용을 조달하는 것을 목표로 합니다.",
+          "이러한 전략적인 조치는 도시가 장기적인 안목으로 접근하여, 끊임없는 방문객 유입으로 인해 도시의 진정성과 평온함이 심하게 훼손되지 않도록 보호합니다."
+        ],
+        "translationHighlights": [
+          "터져나갈 지경",
+          "장기적인 안목으로 접근",
+          "심하게 훼손되지 않도록"
+        ],
+        "newWords": [
+          {
+            "word": "bursting at the seams",
+            "meaning": "터져나갈 지경으로 가득 찬, 매우 붐비는",
+            "context": "cultural treasures almost bursting at the seams"
+          },
+          {
+            "word": "play the long game",
+            "meaning": "장기적인 안목으로 접근하다, 장기적인 전략을 세우다",
+            "context": "allows the city to play the long game"
+          },
+          {
+            "word": "take a beating",
+            "meaning": "심한 손상을 입다, 몹시 시달리다",
+            "context": "don't take a beating from the constant influx"
+          }
+        ]
+      },
       {
         "sentences": [
           "Aegean Airlines' booming international arrivals show the region is firing on all cylinders, but Santorini's timed entry system aims to nip over-tourism in the bud before it overwhelms the island.",
@@ -9612,6 +9700,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Even top players like Coco Gauff face a dog-eat-dog world at Wimbledon, where every match demands everything they've got.",
+          "Nevertheless, DRX's dominant performance at the Valorant Champions Tour Masters Shanghai proves that with enough grit, it's possible to come out on top even in the most cutthroat competitions."
+        ],
+        "sentenceTranslations": [
+          "코코 가우프와 같은 최고 선수들도 윔블던에서는 모든 경기가 모든 것을 쏟아부어야 하는 살벌한 경쟁의 장에 직면합니다.",
+          "그럼에도 불구하고, DRX가 발로란트 챔피언스 투어 마스터스 상하이에서 보여준 압도적인 활약은 충분한 투지가 있다면 가장 치열한 경쟁에서도 승리할 수 있다는 것을 증명합니다."
+        ],
+        "translationHighlights": [
+          "살벌한 경쟁의 장",
+          "모든 것을 쏟아부어야 하는",
+          "압도적인 활약",
+          "승리할 수 있다"
+        ],
+        "newWords": [
+          {
+            "word": "a dog-eat-dog world",
+            "meaning": "치열한 경쟁이 벌어지는 세상; 약육강식의 세상",
+            "context": "a dog-eat-dog world at Wimbledon"
+          },
+          {
+            "word": "come out on top",
+            "meaning": "승리하다; 우위를 점하다",
+            "context": "possible to come out on top"
+          }
+        ]
+      },
       {
         "sentences": [
           "The major upset at Wimbledon, seeing Ons Jabeur surprisingly defeated, truly threw a wrench into the works for many pundits' predictions.",
