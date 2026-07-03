@@ -3284,6 +3284,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "As corporate giants continue to double down on generative AI solutions, the tech sector is clearly making hay while the sun shines, with significant investment pouring in.",
+          "Yet, for many startups, navigating the EU AI Act's initial enforcement means they must walk a tightrope, especially given IMF warnings that the global economy is still on thin ice."
+        ],
+        "sentenceTranslations": [
+          "거대 기업들이 생성형 AI 솔루션에 계속해서 집중적으로 투자하면서, 기술 부문은 분명히 좋은 기회를 활용하며 막대한 투자를 유치하고 있습니다.",
+          "하지만 많은 스타트업에게 EU AI 법안의 초기 시행을 헤쳐나가는 것은 아슬아슬한 줄타기를 하는 것과 같으며, 특히 IMF가 세계 경제가 여전히 불안정한 상태라고 경고한 점을 고려하면 더욱 그렇습니다."
+        ],
+        "translationHighlights": [
+          "집중적으로 투자",
+          "좋은 기회를 활용",
+          "아슬아슬한 줄타기",
+          "불안정한 상태"
+        ],
+        "newWords": [
+          {
+            "word": "double down on",
+            "meaning": "집중적으로 투자하다, 더욱 공을 들이다",
+            "context": "continue to double down on generative AI solutions"
+          },
+          {
+            "word": "make hay while the sun shines",
+            "meaning": "좋은 기회를 놓치지 않고 이용하다, 호기(好機)를 잡다",
+            "context": "the tech sector is clearly making hay while the sun shines"
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다, 위험한 상황을 조심스럽게 헤쳐나가다",
+            "context": "means they must walk a tightrope"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Despite the AI industry **riding the crest of a wave** with significant investments like QuantumFlow AI's Series C, overall market sentiment remains cautious.",
           "However, the renewed U.S.-China trade friction over critical AI chip minerals could quickly **throw a wrench in the works**, leading to higher costs and major supply chain disruptions."
         ],
@@ -6481,6 +6514,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Increasingly, travelers are voting with their feet, opting for emerging cultural destinations over traditional tourist traps in search of more authentic experiences.",
+          "This shift is proving to be a breath of fresh air for the industry, as off-the-beaten-path locations like the Philippines begin to gain traction among those eager to explore."
+        ],
+        "sentenceTranslations": [
+          "점점 더 많은 여행객들이 더 진정한 경험을 찾아 전통적인 관광 명소 대신 떠오르는 문화적 목적지를 선택하며 발길을 옮기고 있습니다.",
+          "이러한 변화는 업계에 신선한 바람을 불어넣고 있으며, 필리핀과 같은 숨겨진 명소들이 탐험을 갈망하는 사람들 사이에서 빠르게 주목받기 시작하고 있습니다."
+        ],
+        "translationHighlights": [
+          "발길을 옮기고 있습니다",
+          "더 진정한 경험을 찾아",
+          "신선한 바람",
+          "주목받기 시작하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "vote with their feet",
+            "meaning": "발길을 옮기다 (어떤 선택이나 불만을 행동으로 보여주다)",
+            "context": "travelers are voting with their feet"
+          },
+          {
+            "word": "a breath of fresh air",
+            "meaning": "신선한 바람 (새롭고 상쾌한 경험이나 존재)",
+            "context": "proving to be a breath of fresh air"
+          },
+          {
+            "word": "gain traction",
+            "meaning": "주목받다/인기를 얻다 (점점 더 많은 지지나 인기를 얻다)",
+            "context": "begin to gain traction"
+          }
+        ]
+      },
       {
         "sentences": [
           "With Kyoto's cultural treasures almost bursting at the seams from the sheer volume of visitors, the new preservation levy aims to alleviate the pressure and fund essential maintenance.",
