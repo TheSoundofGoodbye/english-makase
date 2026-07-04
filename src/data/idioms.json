@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The personalized health tech boom, especially with non-diabetics adopting CGMs, is really helping people turn over a new leaf in their approach to diet and energy.",
+          "This move beyond generic advice toward truly individualized well-being marks a sea change in how we understand and manage our health, allowing us to have our finger on the pulse of our own bodies."
+        ],
+        "sentenceTranslations": [
+          "개인 맞춤형 건강 기술의 급증, 특히 비당뇨병 환자들의 CGM 채택은 식단과 에너지 관리에 대한 접근 방식에서 많은 사람들이 새롭게 시작하도록 정말 돕고 있습니다.",
+          "일반적인 조언을 넘어 진정으로 개별화된 웰빙으로 향하는 이러한 변화는 건강을 이해하고 관리하는 방식에 있어서 엄청난 변화를 가져오며, 우리 스스로가 자기 몸의 상태를 정확히 파악할 수 있게 해줍니다."
+        ],
+        "translationHighlights": [
+          "새롭게 시작하도록",
+          "엄청난 변화",
+          "상태를 정확히 파악할 수 있게 해줍니다"
+        ],
+        "newWords": [
+          {
+            "word": "turn over a new leaf",
+            "meaning": "새로운 시작을 하다, (안 좋은 습관을 버리고) 새롭게 마음먹다",
+            "context": "helping people turn over a new leaf in their approach to diet and energy"
+          },
+          {
+            "word": "a sea change",
+            "meaning": "엄청난 변화, 대변혁",
+            "context": "marks a sea change in how we understand and manage our health"
+          },
+          {
+            "word": "have your finger on the pulse",
+            "meaning": "(상황이나 트렌드를) 정확히 파악하다, 통찰하고 있다",
+            "context": "allowing us to have our finger on the pulse of our own bodies"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The personalized wellness market, fueled by advanced at-home diagnostic kits, is truly catching on like wildfire as consumers embrace tailored health solutions.",
           "This sea change in preventative care is empowering individuals to take a proactive stance on their well-being, rather than reacting to health issues."
         ],
@@ -3284,6 +3316,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Despite the European Central Bank's cautious stance on persistent core inflation, tech investors are clearly riding the crest of a wave as AI continues its transformative ascent, with companies like NVIDIA leading the charge.",
+          "However, as the G7 gears up to discuss ethical governance, regulators will need to tread a fine line between fostering innovation and implementing necessary safeguards for next-gen models."
+        ],
+        "sentenceTranslations": [
+          "유럽중앙은행이 고착화된 근원 인플레이션에 대해 신중한 입장을 보였음에도 불구하고, 엔비디아와 같은 기업들이 선두에 서면서 AI가 변혁적인 성장을 계속함에 따라 기술 투자자들은 분명히 성공의 정점에 있습니다.",
+          "하지만 G7이 윤리적 거버넌스 논의를 준비하는 가운데, 규제 당국은 혁신을 장려하는 것과 차세대 모델에 필요한 안전장치를 구현하는 것 사이에서 미묘한 균형을 유지해야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "성공의 정점에 있습니다",
+          "미묘한 균형을 유지해야 할 것입니다",
+          "고착화된 근원 인플레이션",
+          "변혁적인 성장"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "성공의 정점에 있다, 최고의 성공을 누리다 (가장 성공적인 시기를 보내다)",
+            "context": "tech investors are clearly riding the crest of a wave"
+          },
+          {
+            "word": "tread a fine line",
+            "meaning": "미묘한 균형을 유지하다, 아슬아슬한 줄타기를 하다 (두 가지 대립적인 것 사이에서 조심스럽게 행동하다)",
+            "context": "regulators will need to tread a fine line"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As corporate giants continue to double down on generative AI solutions, the tech sector is clearly making hay while the sun shines, with significant investment pouring in.",
           "Yet, for many startups, navigating the EU AI Act's initial enforcement means they must walk a tightrope, especially given IMF warnings that the global economy is still on thin ice."
         ],
@@ -6514,6 +6574,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "While the new ETIAS system is causing some initial growing pains for travelers heading to Europe, most experts anticipate these administrative hurdles will be ironed out soon.",
+          "Despite these minor inconveniences, people are clearly champing at the bit to explore destinations like the Amalfi Coast, proving that Europe's allure remains as strong as ever."
+        ],
+        "sentenceTranslations": [
+          "새로운 ETIAS 시스템이 유럽으로 향하는 여행객들에게 일부 초기 성장통을 야기하고 있지만, 대부분의 전문가들은 이러한 행정적 난관들이 곧 해결될 것으로 예상합니다.",
+          "이러한 작은 불편함에도 불구하고, 사람들은 아말피 해안과 같은 목적지를 탐험하기 위해 분명히 안달이 나 있으며, 이는 유럽의 매력이 여전히 강력하다는 것을 증명합니다."
+        ],
+        "translationHighlights": [
+          "성장통",
+          "해결될",
+          "안달이 나 있으며",
+          "유럽의 매력이 여전히 강력하다는 것을 증명합니다"
+        ],
+        "newWords": [
+          {
+            "word": "growing pains",
+            "meaning": "초기 단계에서 겪는 어려움/문제",
+            "context": "causing some initial growing pains"
+          },
+          {
+            "word": "ironed out",
+            "meaning": "해결되다, 정리되다",
+            "context": "will be ironed out soon"
+          },
+          {
+            "word": "champing at the bit",
+            "meaning": "(무언가를 시작하고 싶어) 안달이 나다, 몹시 초조해하다",
+            "context": "clearly champing at the bit"
+          }
+        ]
+      },
       {
         "sentences": [
           "Increasingly, travelers are voting with their feet, opting for emerging cultural destinations over traditional tourist traps in search of more authentic experiences.",
@@ -9766,6 +9859,33 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "After the stunning upset earlier this week, teams like Brazil and Portugal know the gloves are truly off in this Quarter-Final stage.",
+          "To advance to the next round, both squads will need to be firing on all cylinders, embodying the squad unity Bruno Fernandes highlighted."
+        ],
+        "sentenceTranslations": [
+          "이번 주 초 충격적인 이변 이후, 브라질과 포르투갈 같은 팀들은 이번 8강전부터는 진정한 각축전이 벌어진다는 것을 알고 있습니다.",
+          "다음 라운드로 진출하기 위해서는 양 팀 모두 최고의 컨디션으로 전력을 다해야 할 것이며, 이는 브루노 페르난데스가 강조한 팀워크를 보여주는 것입니다."
+        ],
+        "translationHighlights": [
+          "진정한 각축전이 벌어진다는 것을 알고 있습니다",
+          "최고의 컨디션으로 전력을 다해야 할 것이며",
+          "팀워크를 보여주는 것입니다"
+        ],
+        "newWords": [
+          {
+            "word": "the gloves are off",
+            "meaning": "격렬한 싸움/경쟁이 시작되다, 진정한 각축전이 벌어지다",
+            "context": "the gloves are truly off in this Quarter-Final stage"
+          },
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고의 효율로 작동하다, 전력을 다하다, 최고의 컨디션을 유지하다",
+            "context": "need to be firing on all cylinders"
+          }
+        ]
+      },
       {
         "sentences": [
           "Even top players like Coco Gauff face a dog-eat-dog world at Wimbledon, where every match demands everything they've got.",
