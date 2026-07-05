@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "BioSense's breakthrough with VitalPulse is proving to be a game changer, helping people stay ahead of the curve in preventative health.",
+          "With major insurers now offering premium discounts, it’s a win-win situation for those who proactively manage their well-being."
+        ],
+        "sentenceTranslations": [
+          "바이오센스의 VitalPulse 혁신은 예방 건강 분야에서 사람들이 앞서 나갈 수 있도록 돕는 '게임 체인저'가 되고 있습니다.",
+          "주요 보험사들이 이제 보험료 할인을 제공함에 따라, 자신의 건강을 적극적으로 관리하는 사람들에게는 상호 이득이 되는 상황입니다."
+        ],
+        "translationHighlights": [
+          "'게임 체인저'가 되고 있습니다",
+          "앞서 나갈 수 있도록 돕는",
+          "상호 이득이 되는 상황입니다"
+        ],
+        "newWords": [
+          {
+            "word": "a game changer",
+            "meaning": "판도를 바꾸는 결정적 요인, 혁신적인 변화를 가져오는 것",
+            "context": "proving to be a game changer"
+          },
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "(변화나 유행에) 뒤처지지 않고 앞서나가다",
+            "context": "helping people stay ahead of the curve"
+          },
+          {
+            "word": "a win-win situation",
+            "meaning": "모두에게 이득이 되는 상황, 상호 이득",
+            "context": "it’s a win-win situation"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The personalized health tech boom, especially with non-diabetics adopting CGMs, is really helping people turn over a new leaf in their approach to diet and energy.",
           "This move beyond generic advice toward truly individualized well-being marks a sea change in how we understand and manage our health, allowing us to have our finger on the pulse of our own bodies."
         ],
@@ -3316,6 +3348,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With immediate rate cuts now off the table due to persistent inflation, global investors are trying to read the tea leaves on where the volatile AI sector will head next.",
+          "TSMC's ambitious third plant in Arizona clearly shows them playing a long game to future-proof their supply chains, even if reaching the 2028 operational target means going out on a limb with aggressive timelines."
+        ],
+        "sentenceTranslations": [
+          "지속적인 인플레이션으로 인해 즉각적인 금리 인하는 이제 논의 대상에서 벗어나면서, 글로벌 투자자들은 변동성이 큰 AI 부문이 앞으로 어떻게 될지 미래를 예측하려 애쓰고 있습니다.",
+          "TSMC의 야심 찬 세 번째 애리조나 공장 건설은 공급망을 미래에 대비하기 위해 장기적인 관점에서 접근하고 있음을 명확히 보여줍니다. 비록 2028년 운영 목표 달성이 공격적인 일정으로 모험을 감수하는 일일지라도 말이죠."
+        ],
+        "translationHighlights": [
+          "논의 대상에서 벗어나면서",
+          "미래를 예측하려 애쓰고 있습니다",
+          "장기적인 관점에서 접근하고 있음",
+          "모험을 감수하는 일"
+        ],
+        "newWords": [
+          {
+            "word": "off the table",
+            "meaning": "논의 대상에서 제외된, 고려 대상이 아닌",
+            "context": "immediate rate cuts now off the table"
+          },
+          {
+            "word": "read the tea leaves",
+            "meaning": "미래를 예측하다, 징후를 살피다",
+            "context": "trying to read the tea leaves on where the volatile AI sector will head next"
+          },
+          {
+            "word": "playing a long game",
+            "meaning": "장기적인 전략을 펼치다, 긴 안목으로 접근하다",
+            "context": "shows them playing a long game to future-proof their supply chains"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Despite the European Central Bank's cautious stance on persistent core inflation, tech investors are clearly riding the crest of a wave as AI continues its transformative ascent, with companies like NVIDIA leading the charge.",
           "However, as the G7 gears up to discuss ethical governance, regulators will need to tread a fine line between fostering innovation and implementing necessary safeguards for next-gen models."
         ],
@@ -6574,6 +6639,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With authentic, 'off-the-beaten-path' experiences now a hot ticket, many travelers are jumping on the bandwagon to explore the historic Silk Road cities in Uzbekistan and Kazakhstan.",
+          "However, for air carriers striving to meet this surge in demand, persistent supply chain delays for new aircraft are proving to be a bitter pill to swallow, limiting their capacity."
+        ],
+        "sentenceTranslations": [
+          "이제 진정성 있고 '사람들이 잘 찾지 않는' 경험들이 대세가 되면서, 많은 여행객들이 우즈베키스탄과 카자흐스탄의 유서 깊은 실크로드 도시들을 탐험하기 위해 이러한 흐름에 동참하고 있습니다.",
+          "하지만 이러한 폭발적인 수요를 충족시키려 노력하는 항공사들에게는, 신규 항공기 공급망 지연 문제가 감내해야 할 쓰디쓴 현실로 다가오며 운송 능력을 제한하고 있습니다."
+        ],
+        "translationHighlights": [
+          "대세",
+          "이러한 흐름에 동참하고 있습니다",
+          "감내해야 할 쓰디쓴 현실"
+        ],
+        "newWords": [
+          {
+            "word": "a hot ticket",
+            "meaning": "아주 인기 있는 것; 대세",
+            "context": "experiences now a hot ticket"
+          },
+          {
+            "word": "jump on the bandwagon",
+            "meaning": "인기 있는 유행이나 활동에 동참하다",
+            "context": "are jumping on the bandwagon"
+          },
+          {
+            "word": "a bitter pill to swallow",
+            "meaning": "받아들이기 힘든 불쾌한 사실이나 상황",
+            "context": "a bitter pill to swallow"
+          }
+        ]
+      },
       {
         "sentences": [
           "While the new ETIAS system is causing some initial growing pains for travelers heading to Europe, most experts anticipate these administrative hurdles will be ironed out soon.",
@@ -9859,6 +9956,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The upcoming Brazil-Germany quarter-final is undoubtedly the talk of the town, with football enthusiasts across the globe eagerly anticipating which powerhouse will advance.",
+          "Following France's nail-biting victory, every remaining team will surely pull out all the stops to secure their spot, refusing to throw in the towel until the final whistle."
+        ],
+        "sentenceTranslations": [
+          "다가오는 브라질 대 독일 8강전은 전 세계 축구 팬들의 뜨거운 관심사이며, 어떤 강팀이 다음 라운드로 진출할지 모두가 손꼽아 기다리고 있습니다.",
+          "프랑스의 손에 땀을 쥐게 하는 승리 이후, 남은 모든 팀들은 결승 진출을 위해 분명 모든 노력을 다할 것이며, 마지막 휘슬이 울릴 때까지 절대 포기하지 않을 것입니다."
+        ],
+        "translationHighlights": [
+          "뜨거운 관심사",
+          "손꼽아 기다리고 있습니다",
+          "모든 노력을 다할 것이며",
+          "절대 포기하지 않을 것입니다"
+        ],
+        "newWords": [
+          {
+            "word": "the talk of the town",
+            "meaning": "뜨거운 관심사 / 온 동네의 화젯거리",
+            "context": "is undoubtedly the talk of the town"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 노력을 다하다 / 총력을 기울이다",
+            "context": "will surely pull out all the stops"
+          },
+          {
+            "word": "throw in the towel",
+            "meaning": "포기하다 / 항복하다",
+            "context": "refusing to throw in the towel"
+          }
+        ]
+      },
       {
         "sentences": [
           "After the stunning upset earlier this week, teams like Brazil and Portugal know the gloves are truly off in this Quarter-Final stage.",
