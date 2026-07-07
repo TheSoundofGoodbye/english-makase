@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With global inflation concerns, many Gen Z and Millennial consumers are turning to AI financial tools like PocketPal AI to keep their financial ducks in a row, yet it remains a delicate balancing act to prevent digital overload.",
+          "As such, the latest iOS 19 'Focus Mode' features from Apple aim to help users truly unplug and prevent them from feeling like a cog in the machine of constant connectivity, echoing health experts' call for a balanced approach."
+        ],
+        "sentenceTranslations": [
+          "전 세계적인 인플레이션 우려 속에서, 많은 Z세대와 밀레니얼 소비자들이 재정 관리를 철저히 하기 위해 PocketPal AI 같은 AI 금융 도구를 활용하고 있지만, 디지털 과부하를 막기 위해서는 여전히 신중한 균형 잡기가 필요합니다.",
+          "이에 따라, 애플의 최신 iOS 19 '집중 모드' 기능은 사용자들이 진정으로 디지털 연결에서 벗어나 끊임없는 연결성이라는 기계의 부품처럼 느껴지는 것을 방지하도록 돕는 것을 목표로 하며, 건강 전문가들의 균형 잡힌 접근 방식 요구에 부응하고 있습니다."
+        ],
+        "translationHighlights": [
+          "재정 관리를 철저히 하기",
+          "신중한 균형 잡기",
+          "디지털 연결에서 벗어나",
+          "기계의 부품처럼 느껴지는 것을 방지하도록"
+        ],
+        "newWords": [
+          {
+            "word": "keep one's financial ducks in a row",
+            "meaning": "재정 관리를 철저히 하다; 돈 관리를 잘하다",
+            "context": "to keep their financial ducks in a row"
+          },
+          {
+            "word": "unplug",
+            "meaning": "디지털 연결에서 벗어나다; 휴식을 취하다",
+            "context": "to help users truly unplug"
+          },
+          {
+            "word": "a cog in the machine",
+            "meaning": "거대한 시스템의 작은 부품; 미미하고 중요하지 않은 존재",
+            "context": "feeling like a cog in the machine"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "BioSense's breakthrough with VitalPulse is proving to be a game changer, helping people stay ahead of the curve in preventative health.",
           "With major insurers now offering premium discounts, it’s a win-win situation for those who proactively manage their well-being."
         ],
@@ -3348,6 +3381,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "OpenAI's acquisition of Atlas Compute certainly suggests they're aiming to get ahead of the curve in vertical integration, especially before their anticipated Q3 product roadmap update.",
+          "While buoyant tech earnings have allowed the NASDAQ Composite to ride the crest of a wave, new chip export controls threaten to throw a wrench in the works for global tech supply chains, creating an immediate ripple effect."
+        ],
+        "sentenceTranslations": [
+          "OpenAI가 Atlas Compute를 인수한 것은 그들이 다가오는 3분기 제품 로드맵 업데이트에 앞서 수직 통합 분야에서 확실히 선수를 치려는 의도를 보여줍니다.",
+          "기술 부문 실적 호조로 나스닥 종합지수가 최고조에 달했지만, 새로운 칩 수출 규제는 글로벌 기술 공급망에 차질을 초래하여 즉각적인 파급 효과를 일으킬 수 있습니다."
+        ],
+        "translationHighlights": [
+          "선수를 치려는 의도를 보여줍니다",
+          "수직 통합 분야에서",
+          "최고조에 달했지만",
+          "차질을 초래하여"
+        ],
+        "newWords": [
+          {
+            "word": "get ahead of the curve",
+            "meaning": "미래를 예측하여 한 발 앞서 나가다, 선수를 치다",
+            "context": "aiming to get ahead of the curve in vertical integration"
+          },
+          {
+            "word": "ride the crest of a wave",
+            "meaning": "성공의 최고조에 달하다, 전성기를 누리다",
+            "context": "allowed the NASDAQ Composite to ride the crest of a wave"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획이나 진행에 갑작스러운 방해나 문제를 일으키다",
+            "context": "threaten to throw a wrench in the works for global tech supply chains"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With immediate rate cuts now off the table due to persistent inflation, global investors are trying to read the tea leaves on where the volatile AI sector will head next.",
           "TSMC's ambitious third plant in Arizona clearly shows them playing a long game to future-proof their supply chains, even if reaching the 2028 operational target means going out on a limb with aggressive timelines."
         ],
@@ -6639,6 +6705,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The ongoing air traffic controller strikes across Europe have truly thrown a wrench in the works for thousands of summer travelers, leaving many stranded and uncertain.",
+          "While Japan is riding the crest of a wave with its recent tourism boom, consistent operational hiccups like these can quickly eat away at global traveler confidence."
+        ],
+        "sentenceTranslations": [
+          "유럽 전역의 계속되는 항공 관제사 파업은 수많은 여름 여행객들의 계획에 제대로 찬물을 끼얹었고, 많은 이들을 발이 묶인 채 불안하게 만들었습니다.",
+          "일본이 최근 관광 붐으로 최고의 전성기를 누리고 있지만, 이와 같은 잦은 운영상의 차질은 전 세계 여행객들의 신뢰를 빠르게 갉아먹을 수 있습니다."
+        ],
+        "translationHighlights": [
+          "제대로 찬물을 끼얹었고",
+          "발이 묶인 채",
+          "최고의 전성기를 누리고 있지만",
+          "신뢰를 빠르게 갉아먹을 수 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다, 방해하다",
+            "context": "have truly thrown a wrench in the works for thousands of summer travelers"
+          },
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "최고의 전성기를 누리다, 승승장구하다",
+            "context": "Japan is riding the crest of a wave with its recent tourism boom"
+          },
+          {
+            "word": "eat away at",
+            "meaning": "서서히 좀먹다, 갉아먹다",
+            "context": "can quickly eat away at global traveler confidence"
+          }
+        ]
+      },
       {
         "sentences": [
           "With authentic, 'off-the-beaten-path' experiences now a hot ticket, many travelers are jumping on the bandwagon to explore the historic Silk Road cities in Uzbekistan and Kazakhstan.",
