@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Google's latest AI advancements for financial management, though promising enhanced productivity, are proving to be a double-edged sword, as they simultaneously raise red flags for data privacy advocates.",
+          "Given that 68% of Americans are uncomfortable sharing sensitive financial data with AI, tech giants like Google must walk a tightrope to build trust, or they risk opening a Pandora's box of ethical dilemmas."
+        ],
+        "sentenceTranslations": [
+          "구글의 최신 AI 기술은 재정 관리에 있어 생산성 향상을 약속하지만, 동시에 데이터 프라이버시 옹호자들에게는 양날의 검으로 작용하며 위험 신호를 보내고 있습니다.",
+          "미국인 68%가 민감한 금융 데이터를 AI와 공유하는 것을 불편해한다는 점을 감안할 때, 구글과 같은 거대 기술 기업들은 신뢰를 구축하기 위해 줄타기를 해야 합니다. 그렇지 않으면 윤리적 딜레마의 판도라의 상자를 열 위험이 있습니다."
+        ],
+        "translationHighlights": [
+          "양날의 검",
+          "위험 신호를 보내고 있습니다",
+          "줄타기를 해야 합니다",
+          "판도라의 상자를 열 위험"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가짐)",
+            "context": "proving to be a double-edged sword"
+          },
+          {
+            "word": "raise red flags",
+            "meaning": "위험 신호를 보내다, 경고하다",
+            "context": "raise red flags for data privacy advocates"
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "아슬아슬한 상황을 헤쳐나가다, 줄타기하다",
+            "context": "must walk a tightrope to build trust"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With global inflation concerns, many Gen Z and Millennial consumers are turning to AI financial tools like PocketPal AI to keep their financial ducks in a row, yet it remains a delicate balancing act to prevent digital overload.",
           "As such, the latest iOS 19 'Focus Mode' features from Apple aim to help users truly unplug and prevent them from feeling like a cog in the machine of constant connectivity, echoing health experts' call for a balanced approach."
         ],
@@ -3381,6 +3414,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Nvidia's astounding 35% revenue surge confirms the company is truly **riding the crest of a wave** in the AI sector, reflecting robust enterprise adoption and a strong market position.",
+          "However, as geopolitical tensions between Washington and China are **coming to a head** over chip technology, major manufacturers like TSMC are keen to avoid **putting all their eggs in one basket** by diversifying their production."
+        ],
+        "sentenceTranslations": [
+          "엔비디아의 놀라운 35% 매출 급증은 회사가 AI 분야에서 진정으로 **절정기를 누리고 있음**을 확인시켜 주며, 이는 기업들의 견고한 채택과 강력한 시장 지위를 반영합니다.",
+          "하지만, 워싱턴과 중국 간의 지정학적 긴장이 반도체 기술을 두고 **정점에 달하면서**, TSMC와 같은 주요 제조업체들은 생산을 다변화하여 **모든 것을 한곳에 집중하는 것**을 피하려 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "놀라운 35% 매출 급증",
+          "절정기를 누리고 있음",
+          "지정학적 긴장이 정점에 달하면서",
+          "모든 것을 한곳에 집중하는 것"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "절정기를 누리다, 한창 잘 나가다",
+            "context": "Nvidia is truly **riding the crest of a wave** in the AI sector"
+          },
+          {
+            "word": "coming to a head",
+            "meaning": "정점에 달하다, 위기 국면에 이르다",
+            "context": "geopolitical tensions ... are **coming to a head** over chip technology"
+          },
+          {
+            "word": "putting all their eggs in one basket",
+            "meaning": "모든 것을 한곳에 집중하다, 한 가지에 모든 것을 걸다",
+            "context": "avoid **putting all their eggs in one basket** by diversifying their production"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "OpenAI's acquisition of Atlas Compute certainly suggests they're aiming to get ahead of the curve in vertical integration, especially before their anticipated Q3 product roadmap update.",
           "While buoyant tech earnings have allowed the NASDAQ Composite to ride the crest of a wave, new chip export controls threaten to throw a wrench in the works for global tech supply chains, creating an immediate ripple effect."
         ],
@@ -6705,6 +6771,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Thai Airways, keen to get ahead of the curve in the sustainable travel movement, is wisely investing in premium economy to less-trafficked destinations like Luang Prabang and Bhutan.",
+          "This pivot toward authentic cultural immersion, particularly in places off the beaten track, is expected to pay dividends as travelers increasingly seek unique experiences over crowded resorts."
+        ],
+        "sentenceTranslations": [
+          "지속 가능한 여행 트렌드에서 선두를 차지하려는 타이항공은 루앙프라방이나 부탄과 같이 사람들이 덜 찾는 목적지의 프리미엄 이코노미에 현명하게 투자하고 있습니다.",
+          "특히 사람들이 잘 가지 않는 곳에서 진정한 문화 체험을 추구하는 이러한 전환은 여행자들이 붐비는 리조트 대신 독특한 경험을 점차 찾게 되면서 큰 이득을 가져올 것으로 예상됩니다."
+        ],
+        "translationHighlights": [
+          "선두를 차지하려는",
+          "사람들이 덜 찾는 목적지",
+          "사람들이 잘 가지 않는 곳",
+          "큰 이득을 가져올 것"
+        ],
+        "newWords": [
+          {
+            "word": "get ahead of the curve",
+            "meaning": "추세나 변화에 앞서 나가다, 선두를 차지하다",
+            "context": "keen to get ahead of the curve in the sustainable travel movement"
+          },
+          {
+            "word": "off the beaten track",
+            "meaning": "잘 알려지지 않은 곳에, 사람이 드문 곳에",
+            "context": "particularly in places off the beaten track"
+          },
+          {
+            "word": "pay dividends",
+            "meaning": "좋은 결과를 가져오다, 수익을 내다, 이득이 되다",
+            "context": "is expected to pay dividends"
+          }
+        ]
+      },
       {
         "sentences": [
           "The ongoing air traffic controller strikes across Europe have truly thrown a wrench in the works for thousands of summer travelers, leaving many stranded and uncertain.",
@@ -10055,6 +10154,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Uruguay's shocking victory over favored France yesterday truly came out of left field, leaving many fans absolutely flabbergasted.",
+          "Now, with the USA facing Senegal, anticipation is through the roof as everyone waits to see if the home team can ride the wave of this tournament's unpredictable nature."
+        ],
+        "sentenceTranslations": [
+          "우루과이가 어제 강팀으로 꼽히던 프랑스를 상대로 거둔 충격적인 승리는 정말 예상 밖이었고, 많은 팬들을 완전히 깜짝 놀라게 했습니다.",
+          "이제 미국이 세네갈과 맞붙는 가운데, 홈팀이 이번 토너먼트의 예측 불가능한 흐름을 탈 수 있을지 모두가 기대감으로 하늘을 찌르고 있습니다."
+        ],
+        "translationHighlights": [
+          "예상 밖이었고",
+          "깜짝 놀라게 했습니다",
+          "기대감으로 하늘을 찌르고 있습니다",
+          "예측 불가능한 흐름을 탈 수 있을지"
+        ],
+        "newWords": [
+          {
+            "word": "come out of left field",
+            "meaning": "전혀 예상치 못하게 발생하다; 뜬금없이 나타나다",
+            "context": "Uruguay's shocking victory over favored France yesterday truly came out of left field"
+          },
+          {
+            "word": "through the roof",
+            "meaning": "매우 높은, 최고조에 달한 (특히 가격이나 감정 등이)",
+            "context": "anticipation is through the roof"
+          },
+          {
+            "word": "ride the wave",
+            "meaning": "어떤 흐름이나 추세를 타다; 기세를 이어가다",
+            "context": "if the home team can ride the wave of this tournament's unpredictable nature"
+          }
+        ]
+      },
       {
         "sentences": [
           "The upcoming Brazil-Germany quarter-final is undoubtedly the talk of the town, with football enthusiasts across the globe eagerly anticipating which powerhouse will advance.",
