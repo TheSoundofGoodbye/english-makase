@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Modern investors, especially Gen Z and younger millennials, are increasingly putting their money where their mouth is, favoring ESG funds over chasing every last penny of short-term profit.",
+          "This significant shift represents a genuine sea change in investment philosophy, allowing niche fintech platforms to quickly gain traction by aligning portfolios with societal values."
+        ],
+        "sentenceTranslations": [
+          "현대 투자자들, 특히 Z세대와 젊은 밀레니얼 세대는 단기적인 이윤의 쥐꼬리만한 돈까지 쫓기보다는 ESG 펀드를 선호하며 점점 더 자신들의 신념을 행동으로 보여주고 있습니다.",
+          "이러한 중요한 변화는 투자 철학에 있어 진정한 격변을 나타내며, 틈새 핀테크 플랫폼들이 사회적 가치에 포트폴리오를 맞추며 빠르게 추진력을 얻을 수 있게 해줍니다."
+        ],
+        "translationHighlights": [
+          "신념을 행동으로 보여주고 있습니다",
+          "쥐꼬리만한 돈까지 쫓기보다는",
+          "진정한 격변",
+          "빠르게 추진력을 얻을 수 있게 해줍니다"
+        ],
+        "newWords": [
+          {
+            "word": "put one's money where one's mouth is",
+            "meaning": "말한 대로 행동하다; 자신의 신념을 행동으로 보여주다 (특히 돈을 들여서)",
+            "context": "putting their money where their mouth is"
+          },
+          {
+            "word": "sea change",
+            "meaning": "근본적인 변화, 격변",
+            "context": "a genuine sea change"
+          },
+          {
+            "word": "gain traction",
+            "meaning": "인기를 얻다, 지지를 얻다; 추진력을 얻다",
+            "context": "quickly gain traction"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Google's latest AI advancements for financial management, though promising enhanced productivity, are proving to be a double-edged sword, as they simultaneously raise red flags for data privacy advocates.",
           "Given that 68% of Americans are uncomfortable sharing sensitive financial data with AI, tech giants like Google must walk a tightrope to build trust, or they risk opening a Pandora's box of ethical dilemmas."
         ],
@@ -3414,6 +3447,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The IMF's latest report, citing persistent inflation and sluggish manufacturing, indicates the global economy is starting to lose its luster heading into 2027.",
+          "Conversely, the AI sector continues to buck the trend, with NVIDIA's multi-billion dollar deal demonstrating it's still full steam ahead for innovation in that space."
+        ],
+        "sentenceTranslations": [
+          "IMF의 최신 보고서에 따르면, 지속적인 인플레이션과 부진한 제조업 지표로 인해 세계 경제는 2027년으로 향하면서 광채를 잃어가고 있는 것으로 보입니다.",
+          "반대로, AI 분야는 이러한 추세에 역행하며 엔비디아의 수십억 달러 규모 계약이 해당 분야의 혁신이 여전히 전속력으로 진행 중임을 보여주고 있습니다."
+        ],
+        "translationHighlights": [
+          "광채를 잃어가고 있는",
+          "추세에 역행하며",
+          "전속력으로 진행 중임을"
+        ],
+        "newWords": [
+          {
+            "word": "lose its luster",
+            "meaning": "광채를 잃다, 매력을 잃다 (원래의 매력이나 중요성을 잃어가다)",
+            "context": "global economy is starting to lose its luster"
+          },
+          {
+            "word": "buck the trend",
+            "meaning": "추세에 역행하다, 대세를 거스르다 (일반적인 경향이나 흐름과 반대되는 행동을 하다)",
+            "context": "the AI sector continues to buck the trend"
+          },
+          {
+            "word": "full steam ahead",
+            "meaning": "전속력으로, 최고 속도로 진행하다 (어떤 일을 최대한의 에너지와 속도로 추진하다)",
+            "context": "it's still full steam ahead for innovation"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Nvidia's astounding 35% revenue surge confirms the company is truly **riding the crest of a wave** in the AI sector, reflecting robust enterprise adoption and a strong market position.",
           "However, as geopolitical tensions between Washington and China are **coming to a head** over chip technology, major manufacturers like TSMC are keen to avoid **putting all their eggs in one basket** by diversifying their production."
         ],
@@ -6771,6 +6836,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With its relaxed e-Visa and Vision 2030 initiatives, Saudi Arabia's tourism sector is finally **turning the tide**, attracting a diverse range of summer bookings.",
+          "This surge aligns with a broader **sea change** in traveler priorities, as many now prefer to **get under the skin of** local cultures rather than just scratching the surface with traditional sightseeing."
+        ],
+        "sentenceTranslations": [
+          "사우디아라비아의 완화된 전자 비자 정책과 비전 2030 계획 덕분에 관광 부문이 드디어 **흐름을 바꾸며**, 다양한 여름 예약들을 끌어들이고 있습니다.",
+          "이러한 급증은 여행객 선호도의 더 큰 **대변화**와 궤를 같이하는데, 많은 이들이 이제 전통적인 관광으로 **겉만 훑기보다는** 현지 문화를 **깊이 경험하기**를 선호하기 때문입니다."
+        ],
+        "translationHighlights": [
+          "흐름을 바꾸며",
+          "대변화",
+          "깊이 경험하기",
+          "겉만 훑기보다는"
+        ],
+        "newWords": [
+          {
+            "word": "turning the tide",
+            "meaning": "상황이나 흐름을 완전히 바꾸다, 판세를 뒤집다",
+            "context": "Saudi Arabia's tourism sector is finally **turning the tide**"
+          },
+          {
+            "word": "sea change",
+            "meaning": "엄청난 변화, 대변혁",
+            "context": "a broader **sea change** in traveler priorities"
+          },
+          {
+            "word": "get under the skin of",
+            "meaning": "~의 진면목을 알다, 속속들이 이해하다, 깊이 경험하다",
+            "context": "prefer to **get under the skin of** local cultures"
+          }
+        ]
+      },
       {
         "sentences": [
           "Thai Airways, keen to get ahead of the curve in the sustainable travel movement, is wisely investing in premium economy to less-trafficked destinations like Luang Prabang and Bhutan.",
@@ -10154,6 +10252,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "As two football titans prepare to lock horns, fans worldwide are undoubtedly on the edge of their seats, knowing this semi-final could truly go down to the wire.",
+          "With Mbappé aiming to make his mark and secure a spot in the final, both teams will certainly pull out all the stops, ready to leave it all on the field."
+        ],
+        "sentenceTranslations": [
+          "두 축구 강팀이 맞붙을 준비를 하면서, 전 세계 팬들은 이번 준결승전이 마지막까지 손에 땀을 쥐게 할 경기라는 것을 알기에 틀림없이 초조하게 기다리고 있을 것입니다.",
+          "음바페가 자신의 존재감을 각인시키고 결승 진출을 확정 지으려 하는 만큼, 양 팀 모두 모든 노력을 다해 경기장에서 모든 것을 쏟아부을 것입니다."
+        ],
+        "translationHighlights": [
+          "맞붙을 준비를 하면서",
+          "초조하게 기다리고 있을 것입니다",
+          "마지막까지 손에 땀을 쥐게 할 경기",
+          "모든 노력을 다해"
+        ],
+        "newWords": [
+          {
+            "word": "lock horns",
+            "meaning": "서로 격렬하게 맞붙다, 대결하다",
+            "context": "As two football titans prepare to lock horns"
+          },
+          {
+            "word": "on the edge of their seats",
+            "meaning": "초조하게, 손에 땀을 쥐고 (흥분해서)",
+            "context": "fans worldwide are undoubtedly on the edge of their seats"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 노력을 다하다, 총력을 기울이다",
+            "context": "both teams will certainly pull out all the stops"
+          }
+        ]
+      },
       {
         "sentences": [
           "Uruguay's shocking victory over favored France yesterday truly came out of left field, leaving many fans absolutely flabbergasted.",
