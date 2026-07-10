@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The ECB's digital Euro pilot program appears to be greasing the wheels for cross-border transactions, significantly boosting efficiency and aligning with the global push for sovereign digital currencies.",
+          "Conversely, as remote teams risk burning the candle at both ends with increased digital presence, businesses are bringing in AI well-being coaches to foster healthier work-life boundaries."
+        ],
+        "sentenceTranslations": [
+          "유럽중앙은행의 디지털 유로 시범 프로그램은 국경 간 거래를 원활하게 진행하는 데 도움이 되고 있으며, 효율성을 크게 높여 국가 디지털 통화에 대한 전 세계적인 움직임과 보조를 맞추는 것으로 보입니다.",
+          "반대로, 원격 근무 팀이 디지털 업무 증가로 과로할 위험에 처하면서, 기업들은 더 건강한 일과 삶의 균형을 조성하기 위해 AI 웰빙 코치를 도입하고 있습니다."
+        ],
+        "translationHighlights": [
+          "원활하게 진행하는 데 도움이 되고 있으며",
+          "보조를 맞추는 것으로 보입니다",
+          "과로할 위험에 처하면서",
+          "일과 삶의 균형을 조성하기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "greasing the wheels",
+            "meaning": "일이 순조롭게 진행되도록 돕다, 원활하게 하다",
+            "context": "appears to be greasing the wheels for cross-border transactions"
+          },
+          {
+            "word": "burning the candle at both ends",
+            "meaning": "과로하다, 몸을 혹사하다",
+            "context": "risk burning the candle at both ends with increased digital presence"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Modern investors, especially Gen Z and younger millennials, are increasingly putting their money where their mouth is, favoring ESG funds over chasing every last penny of short-term profit.",
           "This significant shift represents a genuine sea change in investment philosophy, allowing niche fintech platforms to quickly gain traction by aligning portfolios with societal values."
         ],
@@ -3447,6 +3475,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Powell's cautionary stance on persistent core inflation means businesses might have to tighten their belts for longer than anticipated, directly impacting growth projections.",
+          "Concurrently, the AI sector, now fully under the EU Act, must dot every 'i' and cross every 't' in compliance, while EV battery makers are forced to scramble for alternatives to critical mineral sourcing."
+        ],
+        "sentenceTranslations": [
+          "파월 의장의 지속적인 근원 인플레이션에 대한 신중한 입장은 기업들이 예상보다 더 오랫동안 허리띠를 졸라매야 할 수도 있다는 것을 의미하며, 이는 성장 전망에 직접적인 영향을 미칩니다.",
+          "동시에, 이제 EU AI 법의 전적인 영향 아래 있는 AI 부문은 규제 준수에 있어 모든 세부 사항을 꼼꼼히 챙겨야 하며, 전기차 배터리 제조업체들은 핵심 광물 조달을 위한 대안을 필사적으로 찾아야 합니다."
+        ],
+        "translationHighlights": [
+          "허리띠를 졸라매야",
+          "모든 세부 사항을 꼼꼼히 챙겨야",
+          "대안을 필사적으로 찾아야"
+        ],
+        "newWords": [
+          {
+            "word": "tighten their belts",
+            "meaning": "지출을 줄이다, 허리띠를 졸라매다",
+            "context": "businesses might have to tighten their belts"
+          },
+          {
+            "word": "dot every 'i' and cross every 't'",
+            "meaning": "모든 세부 사항을 꼼꼼히 챙기다, 철저히 하다",
+            "context": "must dot every 'i' and cross every 't' in compliance"
+          },
+          {
+            "word": "scramble for alternatives",
+            "meaning": "대안을 필사적으로 찾다, 허둥지둥 대안을 구하다",
+            "context": "forced to scramble for alternatives"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The IMF's latest report, citing persistent inflation and sluggish manufacturing, indicates the global economy is starting to lose its luster heading into 2027.",
           "Conversely, the AI sector continues to buck the trend, with NVIDIA's multi-billion dollar deal demonstrating it's still full steam ahead for innovation in that space."
         ],
@@ -6836,6 +6896,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The announcement of Qatar Airways' direct flights to Luang Prabang clearly puts this UNESCO city on the map for travelers eager to dive into authentic Southeast Asian culture.",
+          "This development, coupled with streamlined e-visa processes, is perfectly poised to open the floodgates for a surge in visitors looking to truly go off the beaten path."
+        ],
+        "sentenceTranslations": [
+          "카타르항공의 루앙프라방 직항 발표는 진정한 동남아시아 문화를 깊이 경험하고 싶은 여행객들에게 이 유네스코 도시를 확실히 알리게 될 것입니다.",
+          "이러한 발전은 간소화된 전자비자 절차와 더불어, 진정으로 남들이 잘 가지 않는 길을 택하려는 방문객들의 물결을 끌어낼 완벽한 태세를 갖추었습니다."
+        ],
+        "translationHighlights": [
+          "알리게 될 것입니다",
+          "진정한 동남아시아 문화",
+          "물결을 끌어낼 완벽한 태세를 갖추었습니다",
+          "남들이 잘 가지 않는 길을 택하려는"
+        ],
+        "newWords": [
+          {
+            "word": "on the map",
+            "meaning": "유명하게 하다, 널리 알리다",
+            "context": "puts this UNESCO city on the map"
+          },
+          {
+            "word": "open the floodgates",
+            "meaning": "물꼬를 트다, 봇물 터지듯 쏟아지게 하다",
+            "context": "perfectly poised to open the floodgates"
+          },
+          {
+            "word": "go off the beaten path",
+            "meaning": "남들이 잘 가지 않는 길을 택하다, 한적한 곳을 가다",
+            "context": "looking to truly go off the beaten path"
+          }
+        ]
+      },
       {
         "sentences": [
           "With its relaxed e-Visa and Vision 2030 initiatives, Saudi Arabia's tourism sector is finally **turning the tide**, attracting a diverse range of summer bookings.",
@@ -10252,6 +10345,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "As perennial rivals Brazil and France prepare to lock horns in the quarter-finals, they know it's all or nothing for a coveted spot in the semi-finals.",
+          "Meanwhile, Julián Álvarez, having already knocked it out of the park with his stunning hat-trick, will undoubtedly have to rise to the occasion again to keep Argentina's title hopes alive."
+        ],
+        "sentenceTranslations": [
+          "숙명의 라이벌 브라질과 프랑스가 8강에서 맞붙을 준비를 하는 가운데, 그들은 준결승이라는 귀한 자리를 위해 모 아니면 도라는 것을 잘 알고 있습니다.",
+          "한편, 이미 놀라운 해트트릭으로 완벽한 활약을 펼친 훌리안 알바레스는 아르헨티나의 우승 희망을 이어가기 위해 다시 한번 중요한 순간에 제 실력을 발휘해야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "숙명의 라이벌",
+          "모 아니면 도",
+          "완벽한 활약을 펼친",
+          "중요한 순간에 제 실력을 발휘하다"
+        ],
+        "newWords": [
+          {
+            "word": "lock horns",
+            "meaning": "싸우다, 격렬하게 경쟁하다",
+            "context": "Brazil and France prepare to lock horns"
+          },
+          {
+            "word": "all or nothing",
+            "meaning": "모 아니면 도, 전부 아니면 전무",
+            "context": "they know it's all or nothing"
+          },
+          {
+            "word": "knocked it out of the park",
+            "meaning": "완벽하게 해내다, 대성공하다",
+            "context": "having already knocked it out of the park"
+          }
+        ]
+      },
       {
         "sentences": [
           "As two football titans prepare to lock horns, fans worldwide are undoubtedly on the edge of their seats, knowing this semi-final could truly go down to the wire.",
