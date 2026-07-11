@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The WHO's preliminary guidance suggests AI-assisted mental wellness could be a game-changer for tackling loneliness, yet it urges developers to tread carefully.",
+          "This cautious approach is understandable, as privacy concerns stemming from biometric sensors are already prompting the EU to nip potential data misuse in the bud with its Digital Wellbeing Act."
+        ],
+        "sentenceTranslations": [
+          "WHO의 예비 지침은 AI 기반 정신 건강 지원이 외로움 해소에 획기적인 변화를 가져올 수 있다고 시사하지만, 개발자들에게 신중하게 접근할 것을 촉구합니다.",
+          "이러한 신중한 접근 방식은 이해할 만합니다. 생체 인식 센서에서 비롯된 개인 정보 보호 문제가 이미 EU가 디지털 웰빙 법안을 통해 잠재적인 데이터 오용을 조기에 차단하도록 촉구하고 있기 때문입니다."
+        ],
+        "translationHighlights": [
+          "획기적인 변화를 가져올 수 있다",
+          "신중하게 접근할 것을 촉구합니다",
+          "조기에 차단하도록",
+          "잠재적인 데이터 오용"
+        ],
+        "newWords": [
+          {
+            "word": "a game-changer",
+            "meaning": "판도를 바꾸는 것, 획기적인 변화를 가져오는 것",
+            "context": "could be a game-changer for tackling loneliness"
+          },
+          {
+            "word": "tread carefully",
+            "meaning": "신중하게 행동하다, 조심스럽게 나아가다",
+            "context": "it urges developers to tread carefully"
+          },
+          {
+            "word": "nip (something) in the bud",
+            "meaning": "(나쁜 것을) 싹부터 자르다, 문제가 커지기 전에 해결하다",
+            "context": "to nip potential data misuse in the bud"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The ECB's digital Euro pilot program appears to be greasing the wheels for cross-border transactions, significantly boosting efficiency and aligning with the global push for sovereign digital currencies.",
           "Conversely, as remote teams risk burning the candle at both ends with increased digital presence, businesses are bringing in AI well-being coaches to foster healthier work-life boundaries."
         ],
@@ -3475,6 +3508,33 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With growing concerns about large language models' massive energy consumption, tech giants like Microsoft are seeing the writing on the wall and moving to invest heavily in sustainable AI infrastructure.",
+          "Meanwhile, the EU's Carbon Border Adjustment Mechanism is already shaking things up in global supply chains, prompting businesses to recalibrate their strategies for covered goods."
+        ],
+        "sentenceTranslations": [
+          "대규모 언어 모델의 막대한 에너지 소비에 대한 우려가 커지면서, 마이크로소프트와 같은 거대 기술 기업들은 곧 닥칠 변화를 감지하고 지속 가능한 AI 인프라에 막대한 투자를 하고 있습니다.",
+          "한편, 유럽 연합의 탄소국경조정제도(CBAM)는 이미 글로벌 공급망의 판도를 뒤흔들고 있으며, 기업들이 대상 품목에 대한 전략을 재조정하도록 유도하고 있습니다."
+        ],
+        "translationHighlights": [
+          "곧 닥칠 변화를 감지하고",
+          "판도를 뒤흔들고 있으며",
+          "전략을 재조정하도록 유도하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "the writing on the wall",
+            "meaning": "미래의 불길한 징조, 곧 닥칠 위험/변화의 조짐",
+            "context": "seeing the writing on the wall"
+          },
+          {
+            "word": "shaking things up",
+            "meaning": "큰 변화를 일으키다, 판도를 뒤흔들다",
+            "context": "already shaking things up"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Powell's cautionary stance on persistent core inflation means businesses might have to tighten their belts for longer than anticipated, directly impacting growth projections.",
           "Concurrently, the AI sector, now fully under the EU Act, must dot every 'i' and cross every 't' in compliance, while EV battery makers are forced to scramble for alternatives to critical mineral sourcing."
         ],
@@ -6896,6 +6956,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Brazil, seeing the success of its European counterparts, has wisely decided to jump on the bandwagon of digital nomad visas.",
+          "This strategic move is expected to be a significant shot in the arm for its tourism sector and local economies, much like it has been for Portugal and Croatia."
+        ],
+        "sentenceTranslations": [
+          "유럽 경쟁국들의 성공을 목격한 브라질은 현명하게도 디지털 노마드 비자 대열에 합류하기로 결정했습니다.",
+          "이러한 전략적 움직임은 포르투갈과 크로아티아처럼 브라질의 관광 부문과 지역 경제에 상당한 활력소가 될 것으로 기대됩니다."
+        ],
+        "translationHighlights": [
+          "합류하기로 결정했습니다",
+          "활력소가 될 것으로 기대됩니다",
+          "유럽 경쟁국들의 성공을 목격한"
+        ],
+        "newWords": [
+          {
+            "word": "jump on the bandwagon",
+            "meaning": "대세에 합류하다, 유행에 편승하다",
+            "context": "decided to **jump on the bandwagon** of digital nomad visas."
+          },
+          {
+            "word": "a shot in the arm",
+            "meaning": "새로운 활력, (경제 등에) 큰 격려",
+            "context": "expected to be a significant **shot in the arm** for its tourism sector"
+          },
+          {
+            "word": "European counterparts",
+            "meaning": "유럽의 경쟁국들 또는 유사한 위치에 있는 국가들",
+            "context": "success of its **European counterparts**"
+          }
+        ]
+      },
       {
         "sentences": [
           "The announcement of Qatar Airways' direct flights to Luang Prabang clearly puts this UNESCO city on the map for travelers eager to dive into authentic Southeast Asian culture.",
@@ -10345,6 +10437,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The upcoming Argentina-France semi-final has fans across the globe on the edge of their seats, eagerly anticipating which football giant will secure a spot in the final.",
+          "Meanwhile, speculation about Kylian Mbappé's blockbuster summer transfer suggests it could truly break the bank for any prospective club, potentially changing the landscape of European football."
+        ],
+        "sentenceTranslations": [
+          "다가오는 아르헨티나와 프랑스의 준결승전은 전 세계 팬들을 자리에서 엉덩이를 들썩이게 하며, 어느 축구 강팀이 결승 진출권을 확보할지 간절히 기대하게 만들고 있습니다.",
+          "한편, 킬리안 음바페의 블록버스터급 여름 이적에 대한 추측은 어느 구단이든 엄청난 재정을 쏟아붓게 할 수 있으며, 잠재적으로 유럽 축구의 판도를 바꿔놓을 수 있음을 시사합니다."
+        ],
+        "translationHighlights": [
+          "자리에서 엉덩이를 들썩이게 하며",
+          "엄청난 재정을 쏟아붓게 할 수 있으며",
+          "축구의 판도를 바꿔놓을 수 있음을 시사합니다"
+        ],
+        "newWords": [
+          {
+            "word": "on the edge of one's seat",
+            "meaning": "너무 기대되어 자리에 가만히 앉아있지 못하는, 매우 흥분한",
+            "context": "...has fans across the globe on the edge of their seats..."
+          },
+          {
+            "word": "break the bank",
+            "meaning": "엄청난 돈을 쓰다, 파산시키다",
+            "context": "...it could truly break the bank for any prospective club..."
+          },
+          {
+            "word": "change the landscape",
+            "meaning": "상황/환경을 완전히 바꾸다, 판도를 뒤집다",
+            "context": "...potentially changing the landscape of European football."
+          }
+        ]
+      },
       {
         "sentences": [
           "As perennial rivals Brazil and France prepare to lock horns in the quarter-finals, they know it's all or nothing for a coveted spot in the semi-finals.",
