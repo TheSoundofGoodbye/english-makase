@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With over 60% of young generations now leveraging generative AI for supplementary income, it's clear the genie is out of the bottle, fundamentally changing the landscape of work.",
+          "While this new paradigm offers flexibility, cities like Lisbon and Austin are scrambling to play catch-up with the influx of digital nomads, a situation that truly hits a nerve regarding housing affordability."
+        ],
+        "sentenceTranslations": [
+          "60%가 넘는 젊은 세대가 이제 보조 수입을 위해 생성형 AI를 활용하면서, 판도라의 상자는 이미 열렸고 이는 일의 풍경을 근본적으로 변화시키고 있음이 분명합니다.",
+          "이 새로운 패러다임이 유연성을 제공하는 반면, 리스본과 오스틴 같은 도시들은 디지털 노마드의 유입에 뒤늦게 허둥지둥 따라잡으려 애쓰고 있으며, 이는 주택 구매 가능성 문제에 대해 정말로 역린을 건드리는 상황입니다."
+        ],
+        "translationHighlights": [
+          "판도라의 상자는 이미 열렸고",
+          "일의 풍경을 근본적으로 변화시키고 있음이 분명합니다",
+          "뒤늦게 허둥지둥 따라잡으려 애쓰고 있으며",
+          "정말로 역린을 건드리는 상황입니다"
+        ],
+        "newWords": [
+          {
+            "word": "the genie is out of the bottle",
+            "meaning": "(어떤 상황이 시작되면) 되돌릴 수 없는 상황, 판도라의 상자가 열리다",
+            "context": "it's clear the genie is out of the bottle"
+          },
+          {
+            "word": "scrambling to play catch-up",
+            "meaning": "뒤늦게 허둥지둥 따라잡으려 애쓰다",
+            "context": "cities like Lisbon and Austin are scrambling to play catch-up"
+          },
+          {
+            "word": "hits a nerve",
+            "meaning": "(민감한 문제에 대해) 역린을 건드리다, 심기를 건드리다, 아픈 곳을 찌르다",
+            "context": "a situation that truly hits a nerve"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The WHO's preliminary guidance suggests AI-assisted mental wellness could be a game-changer for tackling loneliness, yet it urges developers to tread carefully.",
           "This cautious approach is understandable, as privacy concerns stemming from biometric sensors are already prompting the EU to nip potential data misuse in the bud with its Digital Wellbeing Act."
         ],
@@ -3506,6 +3539,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "The G7's concerns over U.S.-China trade friction highlight how geopolitical tensions can throw a wrench in the works for global business strategies, especially for companies navigating complex supply chains.",
+          "However, the simultaneous boom in quantum-AI and sustainable AgTech investments suggests many firms are striking while the iron is hot in emerging sectors, marking a significant sea change in where capital is being allocated."
+        ],
+        "sentenceTranslations": [
+          "미국과 중국 간 무역 마찰에 대한 G7의 우려는 지정학적 긴장이 글로벌 비즈니스 전략에 어떻게 찬물을 끼얹을 수 있는지 보여주며, 특히 복잡한 공급망을 다루는 기업들에게 큰 영향을 미칩니다.",
+          "하지만 동시에 양자-AI와 지속 가능한 농업 기술 투자 급증은 많은 기업들이 떠오르는 분야에서 적극적으로 기회를 잡고 있으며, 이는 자본 배분에 있어 상당한 대변혁이 있음을 시사합니다."
+        ],
+        "translationHighlights": [
+          "찬물을 끼얹을 수 있는지",
+          "지정학적 긴장",
+          "적극적으로 기회를 잡고",
+          "대변혁"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획이나 진행에 문제를 일으키다, 훼방 놓다",
+            "context": "geopolitical tensions can throw a wrench in the works"
+          },
+          {
+            "word": "striking while the iron is hot",
+            "meaning": "기회가 있을 때 즉시 행동하다, 때를 놓치지 않고 실행하다",
+            "context": "many firms are striking while the iron is hot"
+          },
+          {
+            "word": "sea change",
+            "meaning": "크고 중요한 변화, 격변",
+            "context": "marking a significant sea change"
+          }
+        ]
+      },
       {
         "sentences": [
           "With growing concerns about large language models' massive energy consumption, tech giants like Microsoft are seeing the writing on the wall and moving to invest heavily in sustainable AI infrastructure.",
@@ -10437,6 +10503,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The Argentina-Italy quarter-final yesterday truly came down to the wire, leaving millions of fans worldwide on the edge of their seats as the match went into extra time.",
+          "Enzo Fernández's decisive goal undeniably stole the show, becoming a highlight in what is already shaping up to be a tremendously successful tournament."
+        ],
+        "sentenceTranslations": [
+          "어제 아르헨티나와 이탈리아의 8강전은 정말 막판까지 승부를 알 수 없었으며, 연장전으로 돌입하면서 전 세계 수백만 팬들을 초조하게 만들었습니다.",
+          "엔조 페르난데스의 결정적인 골은 단연 이목을 집중시켰고, 이미 엄청난 성공을 거두고 있는 이번 대회의 하이라이트가 되었습니다."
+        ],
+        "translationHighlights": [
+          "막판까지 승부를 알 수 없었으며",
+          "초조하게 만들었습니다",
+          "단연 이목을 집중시켰고"
+        ],
+        "newWords": [
+          {
+            "word": "came down to the wire",
+            "meaning": "막판까지 승부를 알 수 없었다 (결과가 마지막 순간까지 불확실했음을 의미)",
+            "context": "The Argentina-Italy quarter-final yesterday truly came down to the wire..."
+          },
+          {
+            "word": "on the edge of their seats",
+            "meaning": "초조해하며, 손에 땀을 쥐고 (흥분이나 불안감으로 인해 매우 집중한 상태)",
+            "context": "...leaving millions of fans worldwide on the edge of their seats..."
+          },
+          {
+            "word": "stole the show",
+            "meaning": "단연 이목을 집중시켰다, 가장 큰 관심을 받았다 (다른 모든 것을 압도하고 주목을 받다)",
+            "context": "Enzo Fernández's decisive goal undeniably stole the show..."
+          }
+        ]
+      },
       {
         "sentences": [
           "The upcoming Argentina-France semi-final has fans across the globe on the edge of their seats, eagerly anticipating which football giant will secure a spot in the final.",
