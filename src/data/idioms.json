@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "As Gen Z professionals leverage AI mentors to sharpen their skills, it's clear that companies must move the needle on flexible work policies to stay competitive.",
+          "Yet, the rise of deepfake-induced anxiety reminds us that digital innovation, while groundbreaking, can often be a double-edged sword."
+        ],
+        "sentenceTranslations": [
+          "Z세대 직장인들이 AI 멘토를 활용하여 역량을 강화하는 만큼, 기업들은 경쟁력을 유지하기 위해 유연한 근무 정책에 진전을 보여야 함이 분명합니다.",
+          "하지만 딥페이크로 인한 불안감의 증가는 디지털 혁신이 아무리 획기적일지라도 양날의 검이 될 수 있음을 상기시켜 줍니다."
+        ],
+        "translationHighlights": [
+          "진전을 보여야 함이 분명합니다",
+          "경쟁력을 유지하기 위해",
+          "획기적일지라도",
+          "양날의 검이 될 수 있음"
+        ],
+        "newWords": [
+          {
+            "word": "move the needle",
+            "meaning": "상황이나 결과에 눈에 띄는 변화나 진전을 가져오다",
+            "context": "companies must move the needle on flexible work policies"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "좋은 점과 나쁜 점을 동시에 지니는 것; 양면성이 있는 것",
+            "context": "can often be a double-edged sword"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With over 60% of young generations now leveraging generative AI for supplementary income, it's clear the genie is out of the bottle, fundamentally changing the landscape of work.",
           "While this new paradigm offers flexibility, cities like Lisbon and Austin are scrambling to play catch-up with the influx of digital nomads, a situation that truly hits a nerve regarding housing affordability."
         ],
@@ -3541,6 +3569,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Microsoft's bold acquisition of Figure AI signals they are truly doubling down on advanced AI, giving the Nasdaq Composite a much-needed shot in the arm.",
+          "However, IMF's recent warning highlights persistent geopolitical conflicts that could still throw a wrench in the works for the global growth outlook, despite the tech sector's bullish momentum."
+        ],
+        "sentenceTranslations": [
+          "마이크로소프트의 과감한 Figure AI 인수는 그들이 첨단 AI에 총력을 기울이고 있음을 보여주며, 이는 나스닥 종합지수에 필요한 활력소가 되었습니다.",
+          "하지만, IMF의 최근 경고는 기술 부문의 강세에도 불구하고, 지속적인 지정학적 갈등이 글로벌 성장 전망에 여전히 걸림돌이 될 수 있음을 강조합니다."
+        ],
+        "translationHighlights": [
+          "총력을 기울이고 있음을",
+          "활력소가 되었습니다",
+          "걸림돌이 될 수 있음을",
+          "강세에도 불구하고"
+        ],
+        "newWords": [
+          {
+            "word": "doubling down on",
+            "meaning": "한층 더 노력하다, 총력을 기울이다, (위험을 무릅쓰고) ~에 전력하다",
+            "context": "truly doubling down on advanced AI"
+          },
+          {
+            "word": "a shot in the arm",
+            "meaning": "활력소, 기운을 북돋우는 것",
+            "context": "a much-needed shot in the arm"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다, 방해하다, 망치다",
+            "context": "could still throw a wrench in the works"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The G7's concerns over U.S.-China trade friction highlight how geopolitical tensions can throw a wrench in the works for global business strategies, especially for companies navigating complex supply chains.",
           "However, the simultaneous boom in quantum-AI and sustainable AgTech investments suggests many firms are striking while the iron is hot in emerging sectors, marking a significant sea change in where capital is being allocated."
         ],
@@ -7024,6 +7085,33 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The unprecedented surge in World Cup travel is truly putting the host nations' tourism infrastructure through its paces.",
+          "This intense pressure means many services are bursting at the seams, underscoring the urgent need for sustainable transport solutions."
+        ],
+        "sentenceTranslations": [
+          "월드컵 여행의 전례 없는 급증은 개최국들의 관광 인프라를 제대로 시험하고 있습니다.",
+          "이러한 극심한 압박으로 인해 많은 서비스들이 수용 한계를 넘어서고 있으며, 이는 지속 가능한 운송 솔루션의 시급한 필요성을 강조합니다."
+        ],
+        "translationHighlights": [
+          "제대로 시험하고 있습니다",
+          "수용 한계를 넘어서고",
+          "시급한 필요성"
+        ],
+        "newWords": [
+          {
+            "word": "put through its paces",
+            "meaning": "~을 시험하다, ~의 능력이나 성능을 확인하다",
+            "context": "truly putting the host nations' tourism infrastructure *through its paces*"
+          },
+          {
+            "word": "bursting at the seams",
+            "meaning": "수용 한계를 넘어서다, (사람이나 물건으로) 터져나가다",
+            "context": "many services are *bursting at the seams*"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Brazil, seeing the success of its European counterparts, has wisely decided to jump on the bandwagon of digital nomad visas.",
           "This strategic move is expected to be a significant shot in the arm for its tourism sector and local economies, much like it has been for Portugal and Croatia."
         ],
@@ -10503,6 +10591,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "While the football world was still buzzing from Argentina's dramatic victory, the esports scene truly seems to be coming into its own, drawing record viewership and engagement.",
+          "This growing digital engagement, coupled with the noticeable dip in July park bookings, suggests that traditional outdoor pastimes might be taking a back seat as a sign of the times for summer leisure."
+        ],
+        "sentenceTranslations": [
+          "축구계가 아르헨티나의 극적인 승리로 여전히 들떠 있는 와중에도, 이스포츠 분야는 기록적인 시청률과 참여율을 기록하며 진정으로 전성기를 맞이하는 듯합니다.",
+          "이러한 디지털 참여의 증가는 7월 국립공원 예약 감소와 맞물려, 전통적인 야외 활동이 여름 여가 트렌드의 변화를 보여주듯 뒷전으로 밀리고 있음을 시사합니다."
+        ],
+        "translationHighlights": [
+          "전성기를 맞이하는 듯합니다",
+          "뒷전으로 밀리고 있음을",
+          "여가 트렌드의 변화를 보여주듯"
+        ],
+        "newWords": [
+          {
+            "word": "coming into its own",
+            "meaning": "완전한 역량/발전을 발휘하다, 전성기를 맞이하다",
+            "context": "the esports scene truly seems to be coming into its own"
+          },
+          {
+            "word": "taking a back seat",
+            "meaning": "덜 중요해지다, 뒷전으로 밀리다",
+            "context": "traditional outdoor pastimes might be taking a back seat"
+          },
+          {
+            "word": "a sign of the times",
+            "meaning": "시대의 흐름/경향을 보여주는 것",
+            "context": "as a sign of the times for summer leisure"
+          }
+        ]
+      },
       {
         "sentences": [
           "The Argentina-Italy quarter-final yesterday truly came down to the wire, leaving millions of fans worldwide on the edge of their seats as the match went into extra time.",
