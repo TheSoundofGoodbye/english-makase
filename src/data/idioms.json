@@ -3,6 +3,33 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With lives potentially extending past a century, financial planning has become a whole new ball game, moving beyond simple retirement strategies.",
+          "Institutions are responding by designing portfolios that help individuals truly play the long game, integrating health data to secure finances for an extended future."
+        ],
+        "sentenceTranslations": [
+          "인생이 100세를 넘어설 가능성이 커지면서, 재정 계획은 단순한 은퇴 전략을 넘어 완전히 새로운 판이 되었습니다.",
+          "기관들은 건강 데이터를 통합하여 개인이 진정으로 장기적인 관점에서 재정을 확보할 수 있도록 돕는 포트폴리오를 설계하며 이에 대응하고 있습니다."
+        ],
+        "translationHighlights": [
+          "새로운 판이 되었습니다",
+          "장기적인 관점에서",
+          "재정을 확보할 수 있도록"
+        ],
+        "newWords": [
+          {
+            "word": "a whole new ball game",
+            "meaning": "완전히 새로운 상황/판",
+            "context": "financial planning has become a whole new ball game"
+          },
+          {
+            "word": "play the long game",
+            "meaning": "장기적인 전략을 세우다 / 장기적인 관점에서 접근하다",
+            "context": "help individuals truly play the long game"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As Gen Z professionals leverage AI mentors to sharpen their skills, it's clear that companies must move the needle on flexible work policies to stay competitive.",
           "Yet, the rise of deepfake-induced anxiety reminds us that digital innovation, while groundbreaking, can often be a double-edged sword."
         ],
@@ -3569,6 +3596,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Despite some sectors like AI going gangbusters, Powell's caution on inflation has investors reading the tea leaves for future Fed moves.",
+          "Simultaneously, the EU's anti-dumping investigation into Chinese EV batteries promises to throw a curveball into already strained trade relations."
+        ],
+        "sentenceTranslations": [
+          "AI와 같은 일부 섹터가 맹렬한 기세로 성장하고 있음에도 불구하고, 파월 의장의 인플레이션에 대한 신중한 발언은 투자자들이 연준의 향후 움직임을 조심스럽게 예측하게 만들고 있습니다.",
+          "동시에, 중국산 전기차 배터리에 대한 EU의 반덤핑 조사는 이미 긴장된 무역 관계에 예상치 못한 변수를 던질 것으로 보입니다."
+        ],
+        "translationHighlights": [
+          "맹렬한 기세로 성장하고 있음에도 불구하고",
+          "조심스럽게 예측하게 만들고 있습니다",
+          "예상치 못한 변수를 던질 것으로"
+        ],
+        "newWords": [
+          {
+            "word": "going gangbusters",
+            "meaning": "급성장하다, 맹렬한 기세로 나아가다",
+            "context": "AI going gangbusters"
+          },
+          {
+            "word": "reading the tea leaves",
+            "meaning": "(미래를) 예측하려 하다, 미묘한 징후를 읽으려 하다",
+            "context": "investors reading the tea leaves"
+          },
+          {
+            "word": "throw a curveball",
+            "meaning": "예상치 못한 난관/문제를 일으키다, 허를 찌르다",
+            "context": "throw a curveball into already strained trade relations"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Microsoft's bold acquisition of Figure AI signals they are truly doubling down on advanced AI, giving the Nasdaq Composite a much-needed shot in the arm.",
           "However, IMF's recent warning highlights persistent geopolitical conflicts that could still throw a wrench in the works for the global growth outlook, despite the tech sector's bullish momentum."
         ],
@@ -7085,6 +7144,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With new aircraft deliveries from Boeing perpetually behind the curve, Emirates is pulling out all the stops to accommodate surging demand for European routes this summer.",
+          "This reflects the writing on the wall for the travel industry, as destinations like Oaxaca, Mexico, are finding huge success by offering deep dives into local culture."
+        ],
+        "sentenceTranslations": [
+          "보잉사의 신규 항공기 인도가 계속해서 지연되면서 에미레이트 항공은 올여름 유럽 노선의 급증하는 수요를 맞추기 위해 모든 노력을 기울이고 있습니다.",
+          "멕시코 오악사카와 같은 여행지들이 현지 문화에 대한 깊이 있는 경험을 제공하며 큰 성공을 거두고 있는 것을 보면, 이는 여행 산업의 미래에 대한 분명한 신호입니다."
+        ],
+        "translationHighlights": [
+          "계속해서 지연되면서",
+          "모든 노력을 기울이고 있습니다",
+          "미래에 대한 분명한 신호입니다",
+          "깊이 있는 경험을 제공하며"
+        ],
+        "newWords": [
+          {
+            "word": "behind the curve",
+            "meaning": "시대에 뒤떨어지거나 다른 사람들/경쟁사보다 뒤처지다; (기술, 트렌드, 일정 등에서) 뒤처지다",
+            "context": "Boeing perpetually behind the curve"
+          },
+          {
+            "word": "pulling out all the stops",
+            "meaning": "모든 노력을 기울이다; 최선을 다하다",
+            "context": "Emirates is pulling out all the stops"
+          },
+          {
+            "word": "the writing on the wall",
+            "meaning": "어떤 좋지 않은 일이나 피할 수 없는 변화가 일어날 것이라는 분명한 징조",
+            "context": "reflects the writing on the wall"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The unprecedented surge in World Cup travel is truly putting the host nations' tourism infrastructure through its paces.",
           "This intense pressure means many services are bursting at the seams, underscoring the urgent need for sustainable transport solutions."
         ],
@@ -10591,6 +10683,33 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Romain Bardet truly pulled it out of the bag with his spectacular solo victory on Bastille Day, giving the delighted home crowds an unforgettable performance.",
+          "Meanwhile, with the NBA's unofficial trade window set to close next week, the Giannis Antetokounmpo speculation is clearly coming down to the wire."
+        ],
+        "sentenceTranslations": [
+          "로맹 바르데는 바스티유의 날에 펼쳐진 멋진 단독 승리로 정말 어려운 상황을 극복해냈고, 기뻐하는 자국 팬들에게 잊지 못할 경기를 선사했습니다.",
+          "한편, 다음 주 NBA 비공식 트레이드 창구가 닫힐 예정이어서 야니스 안테토쿤보에 대한 추측은 이제 정말 막바지에 다다랐습니다."
+        ],
+        "translationHighlights": [
+          "어려운 상황을 극복해냈고",
+          "잊지 못할 경기를 선사했습니다",
+          "막바지에 다다랐습니다"
+        ],
+        "newWords": [
+          {
+            "word": "pull it out of the bag",
+            "meaning": "어려운 상황을 극복하고 성공하다, (예상치 못하게) 성공시키다",
+            "context": "pulled it out of the bag with his spectacular solo victory"
+          },
+          {
+            "word": "coming down to the wire",
+            "meaning": "막바지에 이르다, 마지막 순간까지 승패를 알 수 없다",
+            "context": "speculation is clearly coming down to the wire"
+          }
+        ]
+      },
       {
         "sentences": [
           "While the football world was still buzzing from Argentina's dramatic victory, the esports scene truly seems to be coming into its own, drawing record viewership and engagement.",
