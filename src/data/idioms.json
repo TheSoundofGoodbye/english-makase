@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With persistent inflation pushing living costs sky-high, many Gen Z and younger Millennials are now working micro-side hustles just to keep their heads above water.",
+          "This strategic move shows they're not just weathering the storm, but proactively rolling with the punches to secure their financial future."
+        ],
+        "sentenceTranslations": [
+          "지속적인 인플레이션으로 생활비가 치솟으면서, 많은 Z세대와 젊은 밀레니얼 세대는 겨우 재정적으로 버티기 위해 마이크로 부업을 하고 있습니다.",
+          "이러한 전략적 움직임은 그들이 단순히 경제적 어려움을 견디는 것을 넘어, 재정적 미래를 확보하기 위해 적극적으로 상황에 대처하고 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "겨우 재정적으로 버티기 위해",
+          "경제적 어려움을 견디는 것을 넘어",
+          "적극적으로 상황에 대처하고 있음을"
+        ],
+        "newWords": [
+          {
+            "word": "keep one's head above water",
+            "meaning": "겨우 재정적으로 버티다, 빚지지 않고 살아가다",
+            "context": "to keep their heads above water"
+          },
+          {
+            "word": "weather the storm",
+            "meaning": "경제적 어려움을 견디다, 위기를 극복하다",
+            "context": "weathering the storm"
+          },
+          {
+            "word": "roll with the punches",
+            "meaning": "상황에 대처하다, 어려움에 유연하게 적응하다",
+            "context": "rolling with the punches"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With lives potentially extending past a century, financial planning has become a whole new ball game, moving beyond simple retirement strategies.",
           "Institutions are responding by designing portfolios that help individuals truly play the long game, integrating health data to secure finances for an extended future."
         ],
@@ -3596,6 +3628,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With the S&P 500 struggling to maintain yesterday's gains, investors are on tenterhooks, trying to discern if robust Q2 tech earnings can truly offset persistent inflation concerns.",
+          "Concurrently, as the EU's AI Act sparks a feeding frenzy for AI governance solutions, escalating US-China trade tensions threaten to throw a wrench in the works for advanced semiconductor manufacturers."
+        ],
+        "sentenceTranslations": [
+          "S&P 500 지수가 어제의 상승세를 유지하기 위해 고군분투하면서, 투자자들은 탄탄한 2분기 기술 기업 실적이 지속적인 인플레이션 우려를 정말로 상쇄할 수 있을지 파악하기 위해 매우 초조해하고 있습니다.",
+          "동시에, 유럽연합의 AI 법안이 AI 거버넌스 솔루션 시장에서 치열한 경쟁을 유발하는 가운데, 고조되는 미중 무역 긴장은 첨단 반도체 제조업체들의 사업에 큰 차질을 빚을 위협이 되고 있습니다."
+        ],
+        "translationHighlights": [
+          "매우 초조해하고 있습니다",
+          "탄탄한 2분기 기술 기업 실적",
+          "치열한 경쟁을 유발하는",
+          "큰 차질을 빚을"
+        ],
+        "newWords": [
+          {
+            "word": "on tenterhooks",
+            "meaning": "매우 불안해하는, 초조해하는",
+            "context": "investors are on tenterhooks"
+          },
+          {
+            "word": "feeding frenzy",
+            "meaning": "치열한 경쟁, 열광적인 활동",
+            "context": "sparks a feeding frenzy"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획이나 진행에 차질을 주다, 방해하다",
+            "context": "threaten to throw a wrench in the works"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Despite some sectors like AI going gangbusters, Powell's caution on inflation has investors reading the tea leaves for future Fed moves.",
           "Simultaneously, the EU's anti-dumping investigation into Chinese EV batteries promises to throw a curveball into already strained trade relations."
         ],
@@ -7144,6 +7209,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Venice's controversial access fee appears to be moving the needle significantly, marking a tangible shift in its long-standing battle against overtourism.",
+          "Other overtourism-burdened cities like Barcelona are now watching with bated breath, pondering if they should take a leaf out of Venice's book to manage their own visitor numbers."
+        ],
+        "sentenceTranslations": [
+          "베네치아의 논란 많은 입장료는 관광객 흐름 균형 잡기에 드디어 눈에 띄는 변화를 가져오는 것으로 보이며, 오랜 오버투어리즘과의 싸움에서 실질적인 전환점을 만들고 있습니다.",
+          "바르셀로나와 같은 다른 과잉 관광으로 몸살을 앓는 도시들은 이제 숨죽이며 지켜보고 있으며, 자신들의 방문객 수를 관리하기 위해 베네치아의 방식을 따라야 할지 고심하고 있습니다."
+        ],
+        "translationHighlights": [
+          "눈에 띄는 변화를 가져오는",
+          "오버투어리즘과의 싸움에서 실질적인 전환점",
+          "숨죽이며 지켜보고 있으며",
+          "방식을 따라야 할지"
+        ],
+        "newWords": [
+          {
+            "word": "move the needle",
+            "meaning": "눈에 띄는 변화를 가져오다, 상황을 크게 바꾸다",
+            "context": "appears to be moving the needle significantly"
+          },
+          {
+            "word": "watch with bated breath",
+            "meaning": "숨죽이며 지켜보다, 조마조마하며 기다리다",
+            "context": "are now watching with bated breath"
+          },
+          {
+            "word": "take a leaf out of someone's book",
+            "meaning": "~의 방식을 따라 하다, ~를 본받다",
+            "context": "should take a leaf out of Venice's book"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With new aircraft deliveries from Boeing perpetually behind the curve, Emirates is pulling out all the stops to accommodate surging demand for European routes this summer.",
           "This reflects the writing on the wall for the travel industry, as destinations like Oaxaca, Mexico, are finding huge success by offering deep dives into local culture."
         ],
@@ -10683,6 +10781,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "After another dominant performance in the Pyrenees, Tadej Pogačar is clearly on a roll, making it seem like his Tour de France victory is a forgone conclusion.",
+          "Despite Jonas Vingegaard's valiant efforts to fight an uphill battle on the iconic Col du Tourmalet, Pogačar's relentless attack effectively took the wind out of his sails, leaving his rival with an even bigger deficit."
+        ],
+        "sentenceTranslations": [
+          "피레네 산맥에서 또 한 번 압도적인 활약을 펼친 타데이 포가차르는 확실히 승승장구하고 있으며, 그의 투르 드 프랑스 우승은 기정사실처럼 보입니다.",
+          "요나스 빙에가르드가 상징적인 콜 뒤 투르말레에서 힘든 싸움을 벌이며 용감하게 노력했음에도 불구하고, 포가차르의 맹렬한 공격은 효과적으로 그의 기세를 꺾어버렸고, 그의 라이벌에게 더 큰 격차를 남겼습니다."
+        ],
+        "translationHighlights": [
+          "승승장구하고 있으며",
+          "기정사실처럼 보입니다",
+          "힘든 싸움을 벌이며",
+          "그의 기세를 꺾어버렸고"
+        ],
+        "newWords": [
+          {
+            "word": "on a roll",
+            "meaning": "승승장구하다, 잘 나가다; 계속해서 성공하거나 좋은 성과를 내는 상태",
+            "context": "Tadej Pogačar is clearly **on a roll**"
+          },
+          {
+            "word": "fight an uphill battle",
+            "meaning": "힘든 싸움을 하다, 고전하다; 큰 어려움이나 역경에 직면하여 목표를 달성하기 위해 분투하다",
+            "context": "valiant efforts to **fight an uphill battle**"
+          },
+          {
+            "word": "take the wind out of someone's sails",
+            "meaning": "기세를 꺾다, 김을 빼다; 상대방의 자신감이나 열정, 기대를 약화시키거나 완전히 없애 버리다",
+            "context": "attack effectively **took the wind out of his sails**"
+          }
+        ]
+      },
       {
         "sentences": [
           "Romain Bardet truly pulled it out of the bag with his spectacular solo victory on Bastille Day, giving the delighted home crowds an unforgettable performance.",
