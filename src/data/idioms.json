@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With AI poised to automate a significant chunk of administrative roles, the writing is on the wall for individuals solely relying on routine tasks.",
+          "Governments are urging workers to pivot and sharpen human-centric competencies, aiming to help them stay ahead of the curve in this evolving job market."
+        ],
+        "sentenceTranslations": [
+          "AI가 상당수의 행정 업무를 자동화할 태세인 만큼, 단순 반복 업무에만 의존하는 개인들에게는 미래에 대한 경고 신호가 뚜렷합니다.",
+          "정부들은 근로자들이 변화하는 고용 시장에서 앞서 나갈 수 있도록, 인간 중심 역량을 전환하고 강화할 것을 촉구하고 있습니다."
+        ],
+        "translationHighlights": [
+          "미래에 대한 경고 신호가 뚜렷합니다",
+          "단순 반복 업무에만 의존하는 개인들",
+          "앞서 나갈 수 있도록",
+          "인간 중심 역량"
+        ],
+        "newWords": [
+          {
+            "word": "the writing is on the wall",
+            "meaning": "미래에 대한 안 좋은 징조가 뚜렷이 보이다, 피할 수 없는 결과가 명백하다",
+            "context": "the writing is on the wall for individuals solely relying on routine tasks"
+          },
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "변화에 앞서 나가다, 최신 트렌드를 앞서가다",
+            "context": "help them stay ahead of the curve"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With persistent inflation pushing living costs sky-high, many Gen Z and younger Millennials are now working micro-side hustles just to keep their heads above water.",
           "This strategic move shows they're not just weathering the storm, but proactively rolling with the punches to secure their financial future."
         ],
@@ -3628,6 +3656,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "While the AI sector continues to go gangbusters, pushing the S&P 500 ever higher, IMF warnings about trade fragmentation suggest executives should still keep their ear to the ground.",
+          "In response, major firms like Siemens AG are wisely choosing to hedge their bets by investing in regional robotics, aiming to future-proof their supply chains against geopolitical turbulence."
+        ],
+        "sentenceTranslations": [
+          "AI 부문이 계속해서 맹렬한 기세로 성장하며 S&P 500 지수를 사상 최고치로 밀어 올리고 있지만, IMF의 무역 분절화 경고는 경영진들이 여전히 상황을 주시해야 함을 시사합니다.",
+          "이에 대응하여, 지멘스 AG와 같은 주요 기업들은 지역 내 로봇 공학에 투자하며 현명하게 위험을 분산하고, 지정학적 격변에 대비해 공급망을 미래에 대비시키고자 합니다."
+        ],
+        "translationHighlights": [
+          "맹렬한 기세로 성장하며",
+          "상황을 주시해야 함을",
+          "위험을 분산하고",
+          "미래에 대비시키고자 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "go gangbusters",
+            "meaning": "맹렬한 기세로 나아가다/성공하다",
+            "context": "While the AI sector continues to go gangbusters"
+          },
+          {
+            "word": "keep one's ear to the ground",
+            "meaning": "상황/동향을 주시하다, 정보를 파악하다",
+            "context": "should still keep their ear to the ground"
+          },
+          {
+            "word": "hedge one's bets",
+            "meaning": "위험을 분산하다, 여러 선택지를 두다",
+            "context": "wisely choosing to hedge their bets"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With the S&P 500 struggling to maintain yesterday's gains, investors are on tenterhooks, trying to discern if robust Q2 tech earnings can truly offset persistent inflation concerns.",
           "Concurrently, as the EU's AI Act sparks a feeding frenzy for AI governance solutions, escalating US-China trade tensions threaten to throw a wrench in the works for advanced semiconductor manufacturers."
         ],
@@ -7207,6 +7268,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The move by platforms like Expedia to integrate AI concierge services is truly a game-changer, setting the stage for travelers to experience unprecedented levels of personalized planning.",
+          "Meanwhile, as digital nomad visas are catching the wave of demand and airlines like Singapore Airlines raise the bar for sustainable travel, it's clear the future of global exploration is in full swing."
+        ],
+        "sentenceTranslations": [
+          "익스피디아 같은 플랫폼이 AI 컨시어지 서비스를 통합하는 움직임은 그야말로 판도를 바꾸는 혁신이며, 여행객들이 전례 없는 수준의 맞춤형 계획을 경험할 수 있도록 발판을 마련하고 있습니다.",
+          "한편, 디지털 노마드 비자가 엄청난 수요를 타고 인기를 얻고 싱가포르 항공 같은 항공사들이 지속 가능한 여행의 기준을 높이면서, 전 세계 탐험의 미래는 이미 활짝 열려 있음을 알 수 있습니다."
+        ],
+        "translationHighlights": [
+          "판도를 바꾸는 혁신",
+          "~할 수 있도록 발판을 마련하고 있습니다",
+          "수요를 타고 인기를 얻고",
+          "기준을 높이면서"
+        ],
+        "newWords": [
+          {
+            "word": "a game-changer",
+            "meaning": "판도를 바꾸는 혁신 (상황을 완전히 뒤바꾸는 중대한 변화)",
+            "context": "AI concierge services is truly a game-changer"
+          },
+          {
+            "word": "setting the stage for",
+            "meaning": "~을 위한 발판을 마련하다",
+            "context": "setting the stage for travelers to experience unprecedented levels of personalized planning"
+          },
+          {
+            "word": "catching the wave",
+            "meaning": "(특정 트렌드나 기회를) 타다, 활용하다",
+            "context": "digital nomad visas are catching the wave of demand"
+          }
+        ]
+      },
       {
         "sentences": [
           "Venice's controversial access fee appears to be moving the needle significantly, marking a tangible shift in its long-standing battle against overtourism.",
