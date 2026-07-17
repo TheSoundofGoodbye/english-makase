@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The new Apple Watches and Samsung Galaxy Rings, with their advanced biometric tracking, are proving to be a game changer in proactive health, enabling users to truly nip potential issues in the bud.",
+          "This shift towards 'predictive wellness' is already catching on like wildfire, with adoption rates skyrocketing as people realize the value of personalized, data-driven health insights."
+        ],
+        "sentenceTranslations": [
+          "첨단 생체 인식 추적 기능을 갖춘 새로운 애플 워치와 삼성 갤럭시 링은 사전 예방적 건강 관리의 판도를 바꾸고 있으며, 사용자들이 잠재적인 건강 문제를 조기에 해결할 수 있도록 해줍니다.",
+          "'예측적 건강 관리'로의 이러한 전환은 이미 불티나게 퍼지고 있으며, 사람들이 개인화된 데이터 기반 건강 통찰력의 가치를 깨달으면서 채택률이 급증하고 있습니다."
+        ],
+        "translationHighlights": [
+          "판도를 바꾸고 있으며",
+          "조기에 해결할 수 있도록 해줍니다",
+          "불티나게 퍼지고 있으며"
+        ],
+        "newWords": [
+          {
+            "word": "game changer",
+            "meaning": "판도를 바꾸는 것; 상황을 완전히 뒤바꾸는 중대한 변화나 사건",
+            "context": "are proving to be a game changer"
+          },
+          {
+            "word": "nip potential issues in the bud",
+            "meaning": "(문제 등이) 싹트기 전에 막다/해결하다; 문제가 커지기 전에 초기에 대처하다",
+            "context": "truly nip potential issues in the bud"
+          },
+          {
+            "word": "catching on like wildfire",
+            "meaning": "불티나게 번지다; 순식간에 인기를 얻다/널리 퍼지다",
+            "context": "is already catching on like wildfire"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With AI poised to automate a significant chunk of administrative roles, the writing is on the wall for individuals solely relying on routine tasks.",
           "Governments are urging workers to pivot and sharpen human-centric competencies, aiming to help them stay ahead of the curve in this evolving job market."
         ],
@@ -3656,6 +3688,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "As AI development continues to surge with NVIDIA's record highs and Google DeepMind's groundbreaking agents, it seems the industry is truly firing on all cylinders.",
+          "This blistering pace is making regulators nervous, and Commissioner Vestager is determined to get ahead of the curve by pushing for a unified AI governance framework."
+        ],
+        "sentenceTranslations": [
+          "엔비디아의 사상 최고가 기록과 구글 딥마인드의 획기적인 에이전트 출시로 AI 개발이 계속 급증하면서, 이 산업은 진정으로 최고조로 가동되고 있는 것 같습니다.",
+          "이러한 엄청난 속도는 규제 당국을 불안하게 만들고 있으며, 베스타거 집행위원은 통합 AI 거버넌스 프레임워크 추진을 통해 미리 대비하기로 결심했습니다."
+        ],
+        "translationHighlights": [
+          "최고조로 가동되고 있는",
+          "획기적인 에이전트",
+          "엄청난 속도",
+          "미리 대비하기"
+        ],
+        "newWords": [
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고의 효율이나 속도로 작동하다, 전력을 다하다",
+            "context": "the industry is truly firing on all cylinders"
+          },
+          {
+            "word": "get ahead of the curve",
+            "meaning": "(새로운 추세 등에) 미리 대비하다, 앞서 나가다",
+            "context": "determined to get ahead of the curve by pushing for"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While the AI sector continues to go gangbusters, pushing the S&P 500 ever higher, IMF warnings about trade fragmentation suggest executives should still keep their ear to the ground.",
           "In response, major firms like Siemens AG are wisely choosing to hedge their bets by investing in regional robotics, aiming to future-proof their supply chains against geopolitical turbulence."
         ],
@@ -7268,6 +7328,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With its new digital visa portal, Rwanda's tourism industry is clearly going from strength to strength, having already seen a remarkable 40% surge in inquiries.",
+          "This streamlined process and the allure of unique experiences like gorilla trekking are turning heads, firmly establishing Rwanda as a premium destination on the global stage."
+        ],
+        "sentenceTranslations": [
+          "새로운 디지털 비자 포털 덕분에 르완다의 관광 산업은 분명히 나날이 발전하며 강해지고 있으며, 이미 문의가 40%나 급증했습니다.",
+          "이 간소화된 절차와 고릴라 트레킹 같은 독특한 경험의 매력은 많은 사람들의 시선을 사로잡아, 르완다를 세계 무대에서 프리미엄 목적지로 확고히 자리매김하고 있습니다."
+        ],
+        "translationHighlights": [
+          "나날이 발전하며 강해지고",
+          "문의가 40%나 급증했습니다",
+          "많은 사람들의 시선을 사로잡아",
+          "세계 무대에서"
+        ],
+        "newWords": [
+          {
+            "word": "going from strength to strength",
+            "meaning": "점점 더 성공적이거나 강력해지다, 나날이 발전하다",
+            "context": "Rwanda's tourism industry is clearly going from strength to strength"
+          },
+          {
+            "word": "turning heads",
+            "meaning": "많은 사람의 시선을 사로잡다, 큰 주목을 끌다",
+            "context": "experiences like gorilla trekking are turning heads"
+          },
+          {
+            "word": "on the global stage",
+            "meaning": "세계 무대에서, 국제적인 영역에서",
+            "context": "as a premium destination on the global stage"
+          }
+        ]
+      },
       {
         "sentences": [
           "The move by platforms like Expedia to integrate AI concierge services is truly a game-changer, setting the stage for travelers to experience unprecedented levels of personalized planning.",
