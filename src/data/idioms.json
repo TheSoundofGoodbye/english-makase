@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Despite the PwC survey's findings hitting home with knowledge workers valuing autonomy, financial giants like Goldman Sachs are still walking a tightrope in their efforts to balance flexibility with office attendance.",
+          "This tension also extends to the digital realm, as the pre-order rollout of Meta's AR glasses raises questions about how to strike a balance between constant connectivity and much-needed digital well-being."
+        ],
+        "sentenceTranslations": [
+          "PwC 설문조사 결과가 자율성을 중시하는 지식 노동자들에게 깊이 와닿았음에도 불구하고, 골드만삭스와 같은 금융 대기업들은 유연성과 사무실 출근 사이에서 아슬아슬한 줄타기를 계속하고 있습니다.",
+          "이러한 긴장감은 디지털 영역으로도 이어져, 메타 AR 안경의 사전 주문 출시가 끊임없는 연결성과 꼭 필요한 디지털 웰빙 사이에서 어떻게 균형을 잡아야 할지에 대한 의문을 제기하고 있습니다."
+        ],
+        "translationHighlights": [
+          "깊이 와닿았음에도 불구하고",
+          "아슬아슬한 줄타기를 계속하고 있습니다",
+          "균형을 잡아야 할지에 대한 의문을 제기하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "hit home",
+            "meaning": "깊이 와닿다, 큰 영향을 주다",
+            "context": "PwC survey's findings hitting home"
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다, 매우 조심스럽게 행동하다",
+            "context": "still walking a tightrope"
+          },
+          {
+            "word": "strike a balance",
+            "meaning": "균형을 잡다, 타협점을 찾다",
+            "context": "how to strike a balance"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The new Apple Watches and Samsung Galaxy Rings, with their advanced biometric tracking, are proving to be a game changer in proactive health, enabling users to truly nip potential issues in the bud.",
           "This shift towards 'predictive wellness' is already catching on like wildfire, with adoption rates skyrocketing as people realize the value of personalized, data-driven health insights."
         ],
@@ -3688,6 +3720,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "While the EU AI Act's full enforcement might *throw a wrench in the works* for tech giants grappling with compliance, creating significant new hurdles,",
+          "it simultaneously *lays the groundwork* for specialized AI governance startups, positioning Brussels as an emerging hub for innovation."
+        ],
+        "sentenceTranslations": [
+          "EU AI 법이 전면 시행되면서 규제 준수에 씨름하는 거대 기술 기업들에게는 *예기치 않은 걸림돌*이 될 수 있지만, 상당한 새로운 난관을 조성하면서도,",
+          "동시에 전문 AI 거버넌스 스타트업들이 브뤼셀을 혁신을 위한 새로운 중심지로 삼도록 *기반을 마련해 주고 있습니다*."
+        ],
+        "translationHighlights": [
+          "예기치 않은 걸림돌",
+          "규제 준수에 씨름하는",
+          "기반을 마련해 주고 있습니다",
+          "혁신을 위한 새로운 중심지"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획이나 진행을 방해하다, 예기치 않은 걸림돌이 되다",
+            "context": "might *throw a wrench in the works* for tech giants grappling with compliance"
+          },
+          {
+            "word": "grappling with",
+            "meaning": "무엇인가와 씨름하다, 고심하다 (특히 어려운 문제)",
+            "context": "tech giants *grappling with* compliance"
+          },
+          {
+            "word": "lay the groundwork",
+            "meaning": "향후 발전을 위한 기반을 마련하다",
+            "context": "it simultaneously *lays the groundwork* for specialized AI governance startups"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As AI development continues to surge with NVIDIA's record highs and Google DeepMind's groundbreaking agents, it seems the industry is truly firing on all cylinders.",
           "This blistering pace is making regulators nervous, and Commissioner Vestager is determined to get ahead of the curve by pushing for a unified AI governance framework."
         ],
@@ -7330,6 +7395,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The recent surge in bookings for cooler, sustainable destinations signifies a sea change in traveler priorities, moving away from traditional sun-and-beach holidays.",
+          "As airlines bite the bullet on increased SAF investments leading to higher fares, savvy travelers are seeking eco-conscious alternatives to get the most bang for their buck."
+        ],
+        "sentenceTranslations": [
+          "서늘하고 지속 가능한 목적지의 예약이 최근 급증한 것은 여행객들의 우선순위에 있어 근본적인 변화가 있었음을 의미하며, 전통적인 해변 휴가에서 벗어나고 있습니다.",
+          "항공사들이 SAF 투자 증가로 인한 높은 요금을 감수해야 하는 가운데, 현명한 여행객들은 투자 대비 최고의 가치를 얻기 위해 친환경적인 대안을 모색하고 있습니다."
+        ],
+        "translationHighlights": [
+          "근본적인 변화",
+          "감수해야 하는",
+          "투자 대비 최고의 가치를 얻기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "sea change",
+            "meaning": "근본적인 변화, 격변",
+            "context": "signifies a sea change in traveler priorities"
+          },
+          {
+            "word": "bite the bullet",
+            "meaning": "어려움을 감수하다, 이를 악물고 참다",
+            "context": "As airlines bite the bullet on increased SAF investments"
+          },
+          {
+            "word": "get the most bang for their buck",
+            "meaning": "투자 대비 최고의 가치를 얻다, 돈을 가장 효율적으로 쓰다",
+            "context": "to get the most bang for their buck"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With its new digital visa portal, Rwanda's tourism industry is clearly going from strength to strength, having already seen a remarkable 40% surge in inquiries.",
           "This streamlined process and the allure of unique experiences like gorilla trekking are turning heads, firmly establishing Rwanda as a premium destination on the global stage."
         ],
@@ -10968,6 +11065,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With the FIFA World Cup 2026 finale just around the corner, fans worldwide are champing at the bit to see which nation will ultimately clinch the title.",
+          "Simultaneously, the esports community is watching Bjergsen bow out gracefully from competitive play, anticipating his next move as he prepares to move on to greener pastures."
+        ],
+        "sentenceTranslations": [
+          "2026 FIFA 월드컵 결승전이 코앞으로 다가오면서, 전 세계 팬들은 과연 어느 나라가 궁극적으로 우승을 거머쥘지 손꼽아 기다리고 있습니다.",
+          "동시에, 이스포츠 커뮤니티는 비에르그센이 경쟁적인 플레이에서 우아하게 은퇴하는 모습을 지켜보며, 그가 더 나은 기회를 찾아 나설 다음 행보를 기대하고 있습니다."
+        ],
+        "translationHighlights": [
+          "손꼽아 기다리고 있습니다",
+          "우승을 거머쥘지",
+          "우아하게 은퇴하는 모습을 지켜보며",
+          "더 나은 기회를 찾아 나설"
+        ],
+        "newWords": [
+          {
+            "word": "champing at the bit",
+            "meaning": "몹시 안달하며 기다리다, 몹시 초조해하다",
+            "context": "fans worldwide are champing at the bit"
+          },
+          {
+            "word": "clinch the title",
+            "meaning": "우승을 확정하다, (힘든 노력 끝에) 우승을 거머쥐다",
+            "context": "which nation will ultimately clinch the title"
+          },
+          {
+            "word": "bow out gracefully",
+            "meaning": "우아하게 떠나다/은퇴하다, 점잖게 물러나다",
+            "context": "watching Bjergsen bow out gracefully"
+          }
+        ]
+      },
       {
         "sentences": [
           "After another dominant performance in the Pyrenees, Tadej Pogačar is clearly on a roll, making it seem like his Tour de France victory is a forgone conclusion.",
