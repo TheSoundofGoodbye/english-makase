@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "AI platforms deeply embedded in personal finance are creating a sea change in how younger generations manage their money, truly putting them ahead of the curve in prioritizing 'experience investing'.",
+          "This trend of allocating fractional shares towards travel and cultural events shows they are putting their money where their mouth is, valuing immediate enrichment over building a static nest egg for the far future."
+        ],
+        "sentenceTranslations": [
+          "개인 재정에 깊이 통합된 AI 플랫폼은 젊은 세대가 돈을 관리하는 방식에 큰 변화를 일으키며, '경험 투자'를 우선시하는 데 있어 시대를 앞서가게 하고 있습니다.",
+          "여행과 문화 행사에 소액 투자를 하는 이러한 경향은 젊은 세대가 먼 미래를 위한 정적인 자산 축적보다 즉각적인 삶의 풍요로움을 진정으로 소중히 여긴다는 점에서 말로만 그치지 않고 행동으로 보여주는 것을 의미합니다."
+        ],
+        "translationHighlights": [
+          "큰 변화",
+          "시대를 앞서가게",
+          "말로만 그치지 않고 행동으로 보여주는",
+          "즉각적인 삶의 풍요로움"
+        ],
+        "newWords": [
+          {
+            "word": "sea change",
+            "meaning": "큰 변화/획기적인 변화",
+            "context": "creating a sea change in how younger generations manage their money"
+          },
+          {
+            "word": "ahead of the curve",
+            "meaning": "추세를 앞서가는/선두에 서는",
+            "context": "putting them ahead of the curve in prioritizing 'experience investing'"
+          },
+          {
+            "word": "putting their money where their mouth is",
+            "meaning": "말로만 그치지 않고 행동으로/돈으로 증명하다",
+            "context": "shows they are putting their money where their mouth is"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Despite the PwC survey's findings hitting home with knowledge workers valuing autonomy, financial giants like Goldman Sachs are still walking a tightrope in their efforts to balance flexibility with office attendance.",
           "This tension also extends to the digital realm, as the pre-order rollout of Meta's AR glasses raises questions about how to strike a balance between constant connectivity and much-needed digital well-being."
         ],
@@ -3720,6 +3753,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Nvidia's Q2 results, propelled by surging AI demand, are expected to put a spring in Wall Street's step, fueling optimism for the sector's robust growth.",
+          "Yet, Beijing's export controls on crucial rare-earth magnets and the EU's impending AI Act risk throwing a wrench in the works for seamless global supply chains and harmonized tech innovation."
+        ],
+        "sentenceTranslations": [
+          "인공지능 수요 급증에 힘입은 엔비디아의 2분기 실적은 월스트리트에 활력을 불어넣고 업계의 견조한 성장에 대한 낙관론에 불을 지필 것으로 예상됩니다.",
+          "하지만 베이징의 핵심 희토류 자석 수출 통제와 EU의 임박한 AI법은 원활한 글로벌 공급망과 조화로운 기술 혁신에 걸림돌이 될 위험이 있습니다."
+        ],
+        "translationHighlights": [
+          "활력을 불어넣고",
+          "낙관론에 불을 지필 것으로 예상됩니다",
+          "걸림돌이 될 위험이 있습니다",
+          "조화로운 기술 혁신"
+        ],
+        "newWords": [
+          {
+            "word": "put a spring in one's step",
+            "meaning": "누군가에게 활력을 불어넣다, 기분 좋게 만들다",
+            "context": "expected to put a spring in Wall Street's step"
+          },
+          {
+            "word": "fueling optimism",
+            "meaning": "낙관론을 부추기다/불 지피다",
+            "context": "fueling optimism for the sector's robust growth"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다, 방해하다, 망치다",
+            "context": "risk throwing a wrench in the works"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While the EU AI Act's full enforcement might *throw a wrench in the works* for tech giants grappling with compliance, creating significant new hurdles,",
           "it simultaneously *lays the groundwork* for specialized AI governance startups, positioning Brussels as an emerging hub for innovation."
         ],
@@ -7395,6 +7461,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The trend of travelers giving Europe a wide berth this summer, largely due to overtourism, has truly helped Southeast Asian destinations come into their own.",
+          "This isn't just about avoiding crowds; it's about a fundamental shift, as holidaymakers increasingly want to get under the skin of local cultures rather than just skim the surface."
+        ],
+        "sentenceTranslations": [
+          "올여름 여행객들이 과잉 관광 때문에 유럽을 멀리하는 경향이 뚜렷해지면서, 동남아시아의 여행지들이 비로소 진가를 발휘하기 시작했습니다.",
+          "이것은 단순히 인파를 피하는 것을 넘어선 근본적인 변화로, 휴가객들은 표면만 훑는 것이 아니라 현지 문화를 깊이 이해하고 경험하고 싶어 합니다."
+        ],
+        "translationHighlights": [
+          "멀리하는 경향",
+          "진가를 발휘하기 시작했습니다",
+          "깊이 이해하고 경험하고 싶어 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "give (someone/something) a wide berth",
+            "meaning": "(누구/무엇을) 멀리하다, 피하다",
+            "context": "travelers giving Europe a wide berth"
+          },
+          {
+            "word": "come into one's own",
+            "meaning": "(제대로) 진가를 발휘하다, 두각을 나타내다",
+            "context": "Southeast Asian destinations come into their own"
+          },
+          {
+            "word": "get under the skin of (something)",
+            "meaning": "(무엇을) 속속들이 이해하다, 깊이 경험하다",
+            "context": "get under the skin of local cultures"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The recent surge in bookings for cooler, sustainable destinations signifies a sea change in traveler priorities, moving away from traditional sun-and-beach holidays.",
           "As airlines bite the bullet on increased SAF investments leading to higher fares, savvy travelers are seeking eco-conscious alternatives to get the most bang for their buck."
         ],
@@ -11065,6 +11163,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Kylian Mbappé, having already shattered records, is truly leaving it all on the field today to solidify his legacy as one of football's all-time greats.",
+          "Meanwhile, in the esports arena, Sentinels face a make-or-break moment in the Valorant Champions Tour, as they fight tooth and nail for their coveted spot."
+        ],
+        "sentenceTranslations": [
+          "이미 수많은 기록을 경신한 킬리안 음바페는 오늘 모든 것을 쏟아부으며 축구 역사상 최고의 선수 중 한 명으로 자신의 유산을 확고히 하려 합니다.",
+          "한편, e스포츠 경기에서는 센티넬이 발로란트 챔피언스 투어에서 성패가 달린 순간을 맞이하며, 간절히 바라는 그들의 자리를 차지하기 위해 필사적으로 싸우고 있습니다."
+        ],
+        "translationHighlights": [
+          "모든 것을 쏟아부으며",
+          "유산을 확고히 하려 합니다",
+          "성패가 달린 순간을 맞이하며",
+          "필사적으로 싸우고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "leave it all on the field",
+            "meaning": "모든 것을 쏟아붓다, 전력을 다하다",
+            "context": "truly leaving it all on the field today"
+          },
+          {
+            "word": "make-or-break moment",
+            "meaning": "성패가 달린 결정적인 순간",
+            "context": "face a make-or-break moment"
+          },
+          {
+            "word": "fight tooth and nail",
+            "meaning": "필사적으로 싸우다, 전력을 다해 다투다",
+            "context": "as they fight tooth and nail for their coveted spot"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the FIFA World Cup 2026 finale just around the corner, fans worldwide are champing at the bit to see which nation will ultimately clinch the title.",
