@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With Gen Z and millennial professionals running on fumes from post-pandemic burnout, many companies are now stepping up to the plate by integrating AI wellness apps into their employee benefits.",
+          "However, while these AI tools offer a much-needed lifeline, their widespread adoption means data privacy is increasingly becoming a double-edged sword, requiring rigorous ethical oversight."
+        ],
+        "sentenceTranslations": [
+          "포스트 팬데믹 번아웃으로 극심한 피로를 느끼는 Z세대와 밀레니얼 전문가들이 늘어나면서, 많은 기업들이 AI 웰니스 앱을 직원 복지 혜택에 포함시키며 적극적으로 나서고 있습니다.",
+          "하지만 이러한 AI 도구들이 절실한 도움을 제공하는 한편, 광범위한 채택으로 인해 데이터 프라이버시는 점차 양날의 검이 되어가고 있으며, 엄격한 윤리적 감독이 필요합니다."
+        ],
+        "translationHighlights": [
+          "극심한 피로를 느끼는",
+          "적극적으로 나서고 있습니다",
+          "절실한 도움을 제공하는",
+          "양날의 검이 되어가고 있으며"
+        ],
+        "newWords": [
+          {
+            "word": "running on fumes",
+            "meaning": "극도로 지쳐서 에너지가 거의 없는 상태",
+            "context": "professionals running on fumes from post-pandemic burnout"
+          },
+          {
+            "word": "stepping up to the plate",
+            "meaning": "책임을 지고 적극적으로 나서다, 행동을 취하다",
+            "context": "many companies are now stepping up to the plate"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "좋은 점과 나쁜 점을 동시에 가진 것, 양날의 검",
+            "context": "data privacy is increasingly becoming a double-edged sword"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "AI platforms deeply embedded in personal finance are creating a sea change in how younger generations manage their money, truly putting them ahead of the curve in prioritizing 'experience investing'.",
           "This trend of allocating fractional shares towards travel and cultural events shows they are putting their money where their mouth is, valuing immediate enrichment over building a static nest egg for the far future."
         ],
@@ -3753,6 +3786,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Google-backed Anthropic is clearly flexing its muscles with the ScaleForge acquisition, aiming to carve out a significant chunk of the enterprise AI market against Microsoft's OpenAI.",
+          "Yet, Beijing's move to play hardball with rare earth exports throws a wrench in the works for global supply chains, leaving investors to read the tea leaves ahead of the Fed minutes."
+        ],
+        "sentenceTranslations": [
+          "구글이 지원하는 Anthropic은 ScaleForge 인수를 통해 분명히 힘을 과시하며, 마이크로소프트의 OpenAI에 맞서 기업용 AI 시장의 상당 부분을 차지하려 하고 있습니다.",
+          "하지만 중국이 희토류 수출로 강경한 태도를 보이면서 글로벌 공급망에 심각한 차질을 빚게 되었고, 투자자들은 연준 의사록 발표를 앞두고 시장의 미래를 예측하기 위해 촉각을 곤두세우고 있습니다."
+        ],
+        "translationHighlights": [
+          "힘을 과시하며",
+          "강경한 태도를 보이면서",
+          "심각한 차질을 빚게 되었고",
+          "촉각을 곤두세우고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "flexing its muscles",
+            "meaning": "힘을 과시하다, 영향력을 행사하다",
+            "context": "Google-backed Anthropic is clearly flexing its muscles"
+          },
+          {
+            "word": "play hardball",
+            "meaning": "강경책을 쓰다, 강경하게 나오다",
+            "context": "Beijing's move to play hardball with rare earth exports"
+          },
+          {
+            "word": "throws a wrench in the works",
+            "meaning": "계획에 차질을 초래하다, 일을 망치다",
+            "context": "throws a wrench in the works for global supply chains"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Nvidia's Q2 results, propelled by surging AI demand, are expected to put a spring in Wall Street's step, fueling optimism for the sector's robust growth.",
           "Yet, Beijing's export controls on crucial rare-earth magnets and the EU's impending AI Act risk throwing a wrench in the works for seamless global supply chains and harmonized tech innovation."
         ],
@@ -7459,6 +7525,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Saudi Arabia's ambitious tourism drive is truly hitting its stride, positioning the Kingdom as a formidable player in global luxury travel.",
+          "Major carriers are now pulling out all the stops to expand direct flight capacities, eager to get in on the ground floor of this burgeoning market."
+        ],
+        "sentenceTranslations": [
+          "사우디아라비아의 야심 찬 관광 산업이 이제 정말 제대로 자리를 잡아가면서, 전 세계 럭셔리 여행 시장에서 강력한 주자로 자리매김하고 있습니다.",
+          "주요 항공사들은 급성장하는 이 시장에 초기 단계부터 참여하기 위해, 직항편을 늘리려 온갖 노력을 기울이고 있습니다."
+        ],
+        "translationHighlights": [
+          "제대로 자리를 잡아가면서",
+          "강력한 주자로 자리매김하고 있습니다",
+          "온갖 노력을 기울이고 있습니다",
+          "초기 단계부터 참여하기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "본격적으로 제 궤도에 오르다, 제대로 자리를 잡다",
+            "context": "tourism drive is truly hitting its stride"
+          },
+          {
+            "word": "pulling out all the stops",
+            "meaning": "온갖 노력을 다하다, 총력을 기울이다",
+            "context": "Major carriers are now pulling out all the stops"
+          },
+          {
+            "word": "get in on the ground floor",
+            "meaning": "초기 단계부터 참여하다, 선점하다",
+            "context": "eager to get in on the ground floor"
+          }
+        ]
+      },
       {
         "sentences": [
           "The trend of travelers giving Europe a wide berth this summer, largely due to overtourism, has truly helped Southeast Asian destinations come into their own.",
