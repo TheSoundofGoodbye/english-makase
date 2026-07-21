@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While AI-powered financial advisors like Quantum Wealth might seem like a game-changer, their ethical questions about algorithmic bias and data transparency truly make them a double-edged sword for everyday users.",
+          "This scrutiny arrives as Gen Z, feeling digitally fatigued, desperately seeks to unplug and go completely off the grid, hoping to recharge their batteries in tech-free environments."
+        ],
+        "sentenceTranslations": [
+          "퀀텀 웰스 같은 AI 기반 금융 자문가가 판도를 바꾸는 것처럼 보일 수 있지만, 알고리즘 편향과 데이터 투명성에 대한 윤리적 질문은 일상 사용자들에게 양날의 검과 같습니다.",
+          "이러한 감시가 이뤄지는 가운데, 디지털 피로감을 느끼는 Z세대는 기술 없는 환경에서 재충전하기 위해 간절히 디지털 연결을 끊고 완전히 세상과 단절된 곳으로 가려 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "판도를 바꾸는",
+          "양날의 검",
+          "디지털 연결을 끊고",
+          "세상과 단절된"
+        ],
+        "newWords": [
+          {
+            "word": "a game-changer",
+            "meaning": "판도를 바꾸는 것; 획기적인 변화를 가져오는 것",
+            "context": "...might seem like a game-changer..."
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검; 이점과 단점을 모두 가진 것",
+            "context": "...make them a double-edged sword..."
+          },
+          {
+            "word": "unplug and go off the grid",
+            "meaning": "디지털 연결을 끊고 세상과 단절되다; 기술로부터 완전히 벗어나다",
+            "context": "...seeks to unplug and go completely off the grid..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With Gen Z and millennial professionals running on fumes from post-pandemic burnout, many companies are now stepping up to the plate by integrating AI wellness apps into their employee benefits.",
           "However, while these AI tools offer a much-needed lifeline, their widespread adoption means data privacy is increasingly becoming a double-edged sword, requiring rigorous ethical oversight."
         ],
@@ -3786,6 +3819,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "NVIDIA, by unveiling its 'Blackwell Pro' architecture, is clearly **playing a strong hand** in the generative AI market, further cementing its dominant position.",
+          "Meanwhile, major VC firms like Andreessen Horowitz, **reading the tea leaves** of a maturing AI landscape, are strategically shifting their focus to deep tech and AI ethics."
+        ],
+        "sentenceTranslations": [
+          "엔비디아가 '블랙웰 프로' 아키텍처를 공개함으로써, 생성형 AI 시장에서 분명히 **유리한 고지를 점하고 있으며**, 지배적인 위치를 더욱 공고히 하고 있습니다.",
+          "한편, 앤드리슨 호로위츠와 같은 주요 VC 기업들은 성숙해가는 AI 시장의 **미래를 읽어내며**, 딥 테크와 AI 윤리로 전략적인 초점을 옮기고 있습니다."
+        ],
+        "translationHighlights": [
+          "유리한 고지를 점하고 있으며",
+          "지배적인 위치를 더욱 공고히",
+          "미래를 읽어내며",
+          "전략적인 초점을 옮기고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "playing a strong hand",
+            "meaning": "유리한 입지를 활용하다, 강력한 우위를 점하다",
+            "context": "clearly **playing a strong hand** in the generative AI market"
+          },
+          {
+            "word": "reading the tea leaves",
+            "meaning": "미래를 예측하다, 징후를 읽고 상황을 판단하다",
+            "context": "**reading the tea leaves** of a maturing AI landscape"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Google-backed Anthropic is clearly flexing its muscles with the ScaleForge acquisition, aiming to carve out a significant chunk of the enterprise AI market against Microsoft's OpenAI.",
           "Yet, Beijing's move to play hardball with rare earth exports throws a wrench in the works for global supply chains, leaving investors to read the tea leaves ahead of the Fed minutes."
         ],
@@ -7527,6 +7588,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Simplified e-visa platforms are paving the way for a new wave of global tourism, with destinations like Uzbekistan and Georgia truly taking off in popularity.",
+          "This trend signals that many are now keen to dive deep into authentic cultural experiences, seeking out hidden gems off the usual tourist radar."
+        ],
+        "sentenceTranslations": [
+          "간소화된 전자 비자 플랫폼 덕분에 새로운 세계 관광의 물결이 형성되고 있으며, 우즈베키스탄과 조지아 같은 목적지들이 엄청난 인기를 얻고 있습니다.",
+          "이러한 추세는 많은 사람들이 이제 진정한 문화 체험에 깊이 몰입하고, 일반적인 관광객들의 눈에 띄지 않는 숨겨진 보석 같은 곳을 찾고 싶어 한다는 것을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "새로운 세계 관광의 물결이 형성되고 있으며",
+          "엄청난 인기를 얻고 있습니다",
+          "진정한 문화 체험에 깊이 몰입하고",
+          "숨겨진 보석 같은 곳을 찾고"
+        ],
+        "newWords": [
+          {
+            "word": "paving the way",
+            "meaning": "길을 닦다, 발판을 마련하다 (어떤 일이 가능하게 하다)",
+            "context": "are paving the way for a new wave"
+          },
+          {
+            "word": "taking off",
+            "meaning": "급부상하다, 이륙하다, 인기를 얻다",
+            "context": "truly taking off in popularity"
+          },
+          {
+            "word": "hidden gems",
+            "meaning": "숨겨진 보석, 잘 알려지지 않은 명소",
+            "context": "seeking out hidden gems"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Saudi Arabia's ambitious tourism drive is truly hitting its stride, positioning the Kingdom as a formidable player in global luxury travel.",
           "Major carriers are now pulling out all the stops to expand direct flight capacities, eager to get in on the ground floor of this burgeoning market."
         ],
@@ -11262,6 +11356,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "France's World Cup triumph, sealed by Griezmann's MVP performance, truly made waves across the global sports community, securing their legacy.",
+          "Concurrently, the intense VCT Pacific Playoffs, with Gen.G and T1 going at each other's throats, illustrate how esports are increasingly becoming a force to be reckoned with in mainstream entertainment."
+        ],
+        "sentenceTranslations": [
+          "그리즈만의 MVP 활약으로 확정된 프랑스의 월드컵 우승은 전 세계 스포츠계에 진정으로 큰 반향을 일으키며 그들의 유산을 확고히 했습니다.",
+          "동시에, Gen.G와 T1이 서로 맹렬히 맞붙는 치열한 VCT 퍼시픽 플레이오프는 e스포츠가 주류 엔터테인먼트에서 점점 더 무시할 수 없는 존재가 되고 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "큰 반향을 일으키며",
+          "서로 맹렬히 맞붙는",
+          "무시할 수 없는 존재"
+        ],
+        "newWords": [
+          {
+            "word": "make waves",
+            "meaning": "큰 반향을 일으키다, 세간의 이목을 끌다",
+            "context": "truly made waves across the global sports community"
+          },
+          {
+            "word": "at each other's throats",
+            "meaning": "서로 맹렬히 다투다/경쟁하다, 격렬하게 맞붙다",
+            "context": "with Gen.G and T1 going at each other's throats"
+          },
+          {
+            "word": "a force to be reckoned with",
+            "meaning": "무시할 수 없는 세력/존재, 만만치 않은 상대",
+            "context": "becoming a force to be reckoned with in mainstream entertainment"
+          }
+        ]
+      },
       {
         "sentences": [
           "Kylian Mbappé, having already shattered records, is truly leaving it all on the field today to solidify his legacy as one of football's all-time greats.",
