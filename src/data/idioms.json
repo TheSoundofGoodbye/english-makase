@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "To thrive in the shifting gig economy, freelancers are finding they must catch the wave of AI proficiency.",
+          "Otherwise, many risk being left in the dust as demand for traditional content creation continues to decline."
+        ],
+        "sentenceTranslations": [
+          "변화하는 긱 경제에서 성공하려면, 프리랜서들은 AI 능숙도라는 흐름을 타야 한다는 것을 깨닫고 있습니다.",
+          "그렇지 않으면, 전통적인 콘텐츠 제작 수요가 계속 감소함에 따라 많은 이들이 뒤처질 위험에 처할 것입니다."
+        ],
+        "translationHighlights": [
+          "흐름을 타야 한다는 것을 깨닫고 있습니다",
+          "뒤처질 위험에 처할 것입니다",
+          "변화하는 긱 경제",
+          "AI 능숙도"
+        ],
+        "newWords": [
+          {
+            "word": "catch the wave",
+            "meaning": "흐름을 타다, 기회를 잡다",
+            "context": "freelancers are finding they must catch the wave of AI proficiency"
+          },
+          {
+            "word": "left in the dust",
+            "meaning": "뒤처지다, 뒤떨어지다",
+            "context": "many risk being left in the dust"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While AI-powered financial advisors like Quantum Wealth might seem like a game-changer, their ethical questions about algorithmic bias and data transparency truly make them a double-edged sword for everyday users.",
           "This scrutiny arrives as Gen Z, feeling digitally fatigued, desperately seeks to unplug and go completely off the grid, hoping to recharge their batteries in tech-free environments."
         ],
@@ -3819,6 +3847,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The recent $7 billion acquisition of Synapse AI by Google DeepMind clearly illustrates how tech giants are going for broke to secure a dominant position in critical AI verticals.",
+          "This aggressive consolidation highlights the dog-eat-dog nature of the AI industry, where companies are constantly battling to stay ahead of the curve and capture market share."
+        ],
+        "sentenceTranslations": [
+          "구글 딥마인드의 시냅스 AI 70억 달러 인수 소식은 기술 대기업들이 핵심 AI 분야에서 지배적인 위치를 확보하기 위해 모든 것을 걸고 있음을 분명히 보여줍니다.",
+          "이러한 공격적인 통합은 기업들이 혁신과 시장 지배력에서 뒤처지지 않기 위해 끊임없이 경쟁하는 AI 산업의 약육강식적인 특성을 부각시킵니다."
+        ],
+        "translationHighlights": [
+          "모든 것을 걸고 있음을",
+          "약육강식적인 특성",
+          "뒤처지지 않기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "go for broke",
+            "meaning": "모든 것을 걸다, 전력을 다하다",
+            "context": "tech giants are going for broke to secure"
+          },
+          {
+            "word": "dog-eat-dog",
+            "meaning": "약육강식의, 치열한 경쟁의",
+            "context": "highlights the dog-eat-dog nature of the AI industry"
+          },
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "흐름을 앞서가다, 뒤처지지 않다",
+            "context": "battling to stay ahead of the curve and capture market share"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "NVIDIA, by unveiling its 'Blackwell Pro' architecture, is clearly **playing a strong hand** in the generative AI market, further cementing its dominant position.",
           "Meanwhile, major VC firms like Andreessen Horowitz, **reading the tea leaves** of a maturing AI landscape, are strategically shifting their focus to deep tech and AI ethics."
         ],
@@ -7586,6 +7646,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "European destinations are hitting a snag with persistent pilot shortages, leaving many summer travel plans up in the air as major carriers adjust their schedules.",
+          "Conversely, Southeast Asian nations are cleverly catching the wave of digital nomadism, allowing them to cash in on a growing desire for immersive cultural experiences."
+        ],
+        "sentenceTranslations": [
+          "유럽 여행지들은 끊임없는 조종사 부족으로 난관에 부딪히고 있으며, 주요 항공사들의 운항 일정 조정으로 많은 여름 여행 계획들이 불확실한 상태에 놓여 있습니다.",
+          "반대로, 동남아시아 국가들은 디지털 노마드 유행을 영리하게 활용하여, 몰입감 있는 문화 체험에 대한 증가하는 수요를 잘 이용하고 있습니다."
+        ],
+        "translationHighlights": [
+          "난관에 부딪히고 있으며",
+          "불확실한 상태에 놓여 있습니다",
+          "유행을 영리하게 활용하여",
+          "수요를 잘 이용하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "hitting a snag",
+            "meaning": "난관에 부딪히다, 예상치 못한 문제에 직면하다",
+            "context": "European destinations are **hitting a snag** with persistent pilot shortages..."
+          },
+          {
+            "word": "up in the air",
+            "meaning": "미정인, 불확실한",
+            "context": "...leaving many summer travel plans **up in the air**..."
+          },
+          {
+            "word": "catching the wave",
+            "meaning": "(특정 흐름이나 유행을) 잘 타다, 기회를 활용하다",
+            "context": "...Southeast Asian nations are cleverly **catching the wave** of digital nomadism..."
+          }
+        ]
+      },
       {
         "sentences": [
           "Simplified e-visa platforms are paving the way for a new wave of global tourism, with destinations like Uzbekistan and Georgia truly taking off in popularity.",
@@ -11356,6 +11449,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Morocco's stunning victory, coming out of left field for many pundits, proved that the tournament was ripe for a truly historic moment.",
+          "Their incredible run wasn't just a flash in the pan; the team rose to the occasion repeatedly, not only claiming the trophy but also contributing to the tournament's record-breaking attendance."
+        ],
+        "sentenceTranslations": [
+          "많은 전문가들에게 예상 밖의 결과였던 모로코의 놀라운 승리는 이번 대회가 진정으로 역사적인 순간을 맞이할 준비가 되어 있었음을 증명했습니다.",
+          "그들의 믿을 수 없는 선전은 단순히 일시적인 성공이 아니었으며, 팀은 계속해서 위기에 강한 면모를 보이며 트로피를 차지했을 뿐만 아니라 대회 기록적인 관중 수에도 기여했습니다."
+        ],
+        "translationHighlights": [
+          "예상 밖의 결과",
+          "역사적인 순간",
+          "일시적인 성공",
+          "위기에 강한 면모"
+        ],
+        "newWords": [
+          {
+            "word": "come out of left field",
+            "meaning": "예상 밖의 결과로 나타나다, 전혀 예상치 못하게 발생하다",
+            "context": "coming out of left field for many pundits"
+          },
+          {
+            "word": "flash in the pan",
+            "meaning": "일시적인 성공, 반짝하고 사라지는 것",
+            "context": "wasn't just a flash in the pan"
+          },
+          {
+            "word": "rise to the occasion",
+            "meaning": "위기나 어려운 상황에 잘 대처하다, 제 실력을 발휘하다",
+            "context": "the team rose to the occasion repeatedly"
+          }
+        ]
+      },
       {
         "sentences": [
           "France's World Cup triumph, sealed by Griezmann's MVP performance, truly made waves across the global sports community, securing their legacy.",
