@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The ongoing economic headwinds are compelling many digital nomads to *tighten their belts*, prompting a shift from extensive international travel to more budget-conscious local remote work options.",
+          "Paradoxically, this challenge could prove to be a *blessing in disguise* for cities like Barcelona, as it inadvertently fuels a renewed interest in fostering vibrant, hyper-local community building."
+        ],
+        "sentenceTranslations": [
+          "지속되는 경기 역풍으로 인해 많은 디지털 노마드들이 *허리띠를 졸라매고* 있으며, 광범위한 해외여행 대신 비용 효율적인 지역 기반 원격 근무 옵션으로 전환하고 있습니다.",
+          "역설적이게도, 이러한 어려움은 바르셀로나와 같은 도시들에게 *뜻밖의 행운*이 될 수 있는데, 이는 활기찬 초지역 커뮤니티 조성에 대한 새로운 관심을 의도치 않게 불러일으키기 때문입니다."
+        ],
+        "translationHighlights": [
+          "허리띠를 졸라매고",
+          "경기 역풍",
+          "뜻밖의 행운",
+          "초지역 커뮤니티"
+        ],
+        "newWords": [
+          {
+            "word": "tighten their belts",
+            "meaning": "허리띠를 졸라매다 (절약하다)",
+            "context": "compelling many digital nomads to tighten their belts"
+          },
+          {
+            "word": "economic headwinds",
+            "meaning": "경기 역풍 (경제적 어려움이나 방해 요인)",
+            "context": "The ongoing economic headwinds are compelling..."
+          },
+          {
+            "word": "blessing in disguise",
+            "meaning": "뜻밖의 행운/전화위복 (처음에는 불운해 보였지만 결과적으로는 좋은 일)",
+            "context": "could prove to be a blessing in disguise"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "To thrive in the shifting gig economy, freelancers are finding they must catch the wave of AI proficiency.",
           "Otherwise, many risk being left in the dust as demand for traditional content creation continues to decline."
         ],
@@ -3847,6 +3880,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "As investors eagerly read the tea leaves following Powell's hawkish remarks, the anticipation for tomorrow's inflation data is certainly keeping many on edge.",
+          "Simultaneously, the new U.S. export restrictions on advanced AI chips are set to throw a wrench in the works for global supply chains, intensifying trade tensions."
+        ],
+        "sentenceTranslations": [
+          "파월 의장의 매파적 발언 이후 투자자들이 시장의 징후를 읽으려 촉각을 곤두세우면서, 내일 발표될 인플레이션 데이터에 대한 기대감이 시장에 긴장감을 불어넣고 있습니다.",
+          "동시에, 미국의 새로운 첨단 AI 칩 수출 제한 조치는 글로벌 공급망에 심각한 문제를 일으키며 무역 긴장을 심화시킬 것으로 보입니다."
+        ],
+        "translationHighlights": [
+          "촉각을 곤두세우면서",
+          "긴장감을 불어넣고 있습니다",
+          "심각한 문제를 일으키며",
+          "무역 긴장을 심화시킬 것으로 보입니다"
+        ],
+        "newWords": [
+          {
+            "word": "read the tea leaves",
+            "meaning": "미래를 예측하기 위해 징후나 상황을 분석하다",
+            "context": "As investors eagerly read the tea leaves..."
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "어떤 계획이나 과정에 예상치 못한 문제를 발생시키다, 방해하다",
+            "context": "...are set to throw a wrench in the works..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The recent $7 billion acquisition of Synapse AI by Google DeepMind clearly illustrates how tech giants are going for broke to secure a dominant position in critical AI verticals.",
           "This aggressive consolidation highlights the dog-eat-dog nature of the AI industry, where companies are constantly battling to stay ahead of the curve and capture market share."
         ],
@@ -7646,6 +7707,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With unprecedented heatwaves hitting new highs, Kyoto's tourism strategy is clearly reading the room by pivoting towards evening cultural experiences and night markets.",
+          "This nimble approach, much like IATA's game-changing biometric boarding, highlights how the travel industry is always ahead of the curve in adapting to evolving passenger needs."
+        ],
+        "sentenceTranslations": [
+          "전례 없는 폭염이 최고치를 경신하는 가운데, 교토의 관광 전략은 저녁 문화 체험과 야시장을 중심으로 전환하며 분명히 상황을 잘 파악하고 있습니다.",
+          "이러한 민첩한 접근 방식은 IATA의 획기적인 생체 인식 탑승 시스템처럼, 여행 업계가 변화하는 승객의 요구에 항상 미리 대비하고 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "최고치를 경신하는 가운데",
+          "상황을 잘 파악하고 있습니다",
+          "획기적인",
+          "미리 대비하고 있음을"
+        ],
+        "newWords": [
+          {
+            "word": "reading the room",
+            "meaning": "상황을 잘 파악하다, 분위기를 읽다",
+            "context": "Kyoto's tourism strategy is clearly reading the room..."
+          },
+          {
+            "word": "game-changing",
+            "meaning": "획기적인, 판도를 바꾸는",
+            "context": "IATA's game-changing biometric boarding..."
+          },
+          {
+            "word": "ahead of the curve",
+            "meaning": "미리 대비하는, 남들보다 앞서가는",
+            "context": "the travel industry is always ahead of the curve..."
+          }
+        ]
+      },
       {
         "sentences": [
           "European destinations are hitting a snag with persistent pilot shortages, leaving many summer travel plans up in the air as major carriers adjust their schedules.",
@@ -11449,6 +11543,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Argentina's historic World Cup victory truly took the world by storm, and the tournament's overall success blew even the most optimistic forecasts out of the water.",
+          "Consequently, Kylian Mbappé's Golden Boot performance made him a hot commodity in the transfer market, with Real Madrid now willing to bend over backwards to secure him."
+        ],
+        "sentenceTranslations": [
+          "아르헨티나의 역사적인 월드컵 우승은 진정 전 세계를 휩쓸었으며, 대회 전체의 성공은 가장 낙관적인 예측마저 뛰어넘었습니다.",
+          "결과적으로, 킬리안 음바페의 골든 부트 활약은 그를 이적 시장의 뜨거운 감자로 만들었고, 레알 마드리드는 이제 그를 영입하기 위해 온갖 노력을 아끼지 않을 것입니다."
+        ],
+        "translationHighlights": [
+          "전 세계를 휩쓸었으며",
+          "가장 낙관적인 예측마저 뛰어넘었습니다",
+          "뜨거운 감자로 만들었고",
+          "온갖 노력을 아끼지 않을 것입니다"
+        ],
+        "newWords": [
+          {
+            "word": "take the world by storm",
+            "meaning": "큰 인기를 얻다, 선풍적인 인기를 끌다",
+            "context": "truly took the world by storm"
+          },
+          {
+            "word": "blow out of the water",
+            "meaning": "예상/기대를 훨씬 뛰어넘다, 압도하다",
+            "context": "blew even the most optimistic forecasts out of the water"
+          },
+          {
+            "word": "hot commodity",
+            "meaning": "인기 있는 상품/대상, 뜨거운 감자",
+            "context": "made him a hot commodity"
+          }
+        ]
+      },
       {
         "sentences": [
           "Morocco's stunning victory, coming out of left field for many pundits, proved that the tournament was ripe for a truly historic moment.",
