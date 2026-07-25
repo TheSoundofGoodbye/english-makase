@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With persistent inflation, many households are really **feeling the pinch**, making AI-powered tools like Fidelity's SmartBudget crucial for people trying to **stretch every dollar**.",
+          "While companies like Google try to **iron out the kinks** in their hybrid work schedules, the booming demand for accessible 'third spaces' shows that co-working brands are truly **on a roll**."
+        ],
+        "sentenceTranslations": [
+          "지속적인 인플레이션으로 많은 가정이 정말로 **생활고를 겪고 있어서**, Fidelity의 SmartBudget과 같은 AI 기반 도구들이 한 푼이라도 아끼려는 사람들에게 매우 중요해졌습니다.",
+          "Google과 같은 기업들이 하이브리드 근무 일정의 **문제점을 해결하려고 노력하는 동안**, 접근성 좋은 '제3의 공간'에 대한 폭발적인 수요는 코워킹 브랜드들이 진정 **승승장구하고 있음**을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "생활고를 겪고 있어서",
+          "한 푼이라도 아끼려는",
+          "문제점을 해결하려고 노력하는 동안",
+          "승승장구하고 있음"
+        ],
+        "newWords": [
+          {
+            "word": "feeling the pinch",
+            "meaning": "생활고를 겪다, 경제적으로 어려움을 느끼다",
+            "context": "households are really feeling the pinch"
+          },
+          {
+            "word": "iron out the kinks",
+            "meaning": "문제점을 해결하다, (일의) 난관을 해소하다",
+            "context": "try to iron out the kinks in their hybrid work schedules"
+          },
+          {
+            "word": "on a roll",
+            "meaning": "승승장구하다, 잘나가다, 연속적으로 성공하다",
+            "context": "co-working brands are truly on a roll"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With forgotten digital subscriptions causing many households to unknowingly bleed money, FinanciallySavvy.ai's new AI Auditor is a welcome tool designed to help consumers finally get a handle on their spending.",
           "This timely initiative aims to help people pull the plug on unnecessary expenses, turning what used to be passive financial drains into active savings at a time when cost-of-living pressures are really starting to bite."
         ],
@@ -3913,6 +3946,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "While the IMF's revised global growth outlook for 2026 highlights economic headwinds from persistent inflation, tech companies are proving their ability to weather the storm.",
+          "The strong earnings from Salesforce, for instance, are bucking the trend of broader market caution, injecting much-needed confidence into the cloud software sector."
+        ],
+        "sentenceTranslations": [
+          "IMF의 2026년 글로벌 성장률 하향 조정이 지속적인 인플레이션으로 인한 경제적 역풍을 부각시키지만, 기술 기업들은 어려움을 이겨낼 수 있는 능력을 증명하고 있습니다.",
+          "예를 들어, Salesforce의 견고한 실적은 전반적인 시장의 신중한 추세에 역행하며, 클라우드 소프트웨어 부문에 절실한 신뢰를 불어넣고 있습니다."
+        ],
+        "translationHighlights": [
+          "경제적 역풍",
+          "어려움을 이겨낼",
+          "추세에 역행하며"
+        ],
+        "newWords": [
+          {
+            "word": "economic headwinds",
+            "meaning": "경제적 역풍, 경기 침체 요인",
+            "context": "highlights economic headwinds from persistent inflation"
+          },
+          {
+            "word": "weather the storm",
+            "meaning": "역경을 헤쳐나가다, 위기를 극복하다",
+            "context": "proving their ability to weather the storm"
+          },
+          {
+            "word": "bucking the trend",
+            "meaning": "흐름을 거스르다, 대세를 역행하다",
+            "context": "are bucking the trend of broader market caution"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The debut of Google DeepMind's Chronos 1.0 represents a sea change for the tech sector, instantly putting embodied AI applications on everyone's radar.",
           "Though the potential for unlocking trillions in value makes it a potential golden goose, the regulatory landscape, particularly in the EU and US, still feels like uncharted waters."
         ],
@@ -7773,6 +7838,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Japan's new Cultural Immersion Visa is a clear sign that many travelers are now itching to get off the beaten path and truly sink their teeth into local culture rather than just sightsee.",
+          "This strategic move demonstrates the government is riding the coattails of a significant sea change in post-pandemic tourism, where genuine cultural engagement is the new gold standard."
+        ],
+        "sentenceTranslations": [
+          "일본의 새로운 문화 체험 비자는 많은 여행자들이 이제 단순히 관광을 넘어 틀에 박힌 길에서 벗어나 진정으로 현지 문화를 깊이 체험하고 싶어 한다는 분명한 신호입니다.",
+          "이 전략적인 움직임은 정부가 포스트 팬데믹 시대 관광의 중요한 대변혁에 편승하고 있으며, 이제 진정한 문화적 교류가 새로운 기준이 되었음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "틀에 박힌 길에서 벗어나",
+          "깊이 체험하고 싶어 한다는",
+          "대변혁에 편승하고",
+          "새로운 기준"
+        ],
+        "newWords": [
+          {
+            "word": "itching to get off the beaten path",
+            "meaning": "~에서 벗어나고 싶어 안달하다 / 흔한 관광지 말고 특별한 곳을 가고 싶어 하다",
+            "context": "travelers are now itching to get off the beaten path"
+          },
+          {
+            "word": "sink their teeth into",
+            "meaning": "~에 깊이 몰두하다 / 열중하다 (흥미로운 것을 완전히 이해하고 경험하려 노력하다)",
+            "context": "truly sink their teeth into local culture"
+          },
+          {
+            "word": "riding the coattails of",
+            "meaning": "~에 편승하다 / 덕을 보다 (다른 사람이나 어떤 추세의 성공으로 인해 자신도 이득을 얻다)",
+            "context": "government is riding the coattails of a significant sea change"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the ETIAS now fully integrated, spontaneous European trips are a thing of the past; travelers can no longer simply wing it, but must dot the i's and cross the t's on their applications well in advance.",
@@ -11642,6 +11740,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The unprecedented €300 million bid from Real Madrid for Kylian Mbappé has truly **set the cat among the pigeons** in the football world, signaling a new era of high-stakes transfers.",
+          "Concurrently, the Commonwealth Games Federation is finding itself increasingly **up against the ropes** as it struggles to secure a new host nation before time runs out."
+        ],
+        "sentenceTranslations": [
+          "레알 마드리드의 킬리안 음바페에 대한 전례 없는 3억 유로 입찰은 축구계에 진정한 파란을 일으키며, 고액 이적의 새로운 시대를 알리고 있습니다.",
+          "동시에, 영연방 경기 연맹은 시간이 얼마 남지 않은 상황에서 새로운 개최국을 확보하기 위해 고군분투하면서 점점 더 궁지에 몰리고 있습니다."
+        ],
+        "translationHighlights": [
+          "파란을 일으키다",
+          "고액 이적의 새로운 시대를 알리다",
+          "궁지에 몰리고 있습니다",
+          "시간이 얼마 남지 않은 상황에서"
+        ],
+        "newWords": [
+          {
+            "word": "set the cat among the pigeons",
+            "meaning": "논란/소동을 일으키다, 파란을 일으키다",
+            "context": "has truly **set the cat among the pigeons** in the football world"
+          },
+          {
+            "word": "up against the ropes",
+            "meaning": "궁지에 몰리다, 어려운 상황에 처하다 (복싱 용어에서 유래)",
+            "context": "is finding itself increasingly **up against the ropes** as it struggles"
+          }
+        ]
+      },
       {
         "sentences": [
           "Amidst scorching temperatures curtailing outdoor activities, the boom in indoor hobbies, particularly tabletop gaming, demonstrates how companies like Stonemaier Games are effectively striking while the iron's hot.",
