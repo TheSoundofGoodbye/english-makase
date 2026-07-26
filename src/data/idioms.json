@@ -3,6 +3,33 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Aura 3.0's promise of deep emotional intelligence clearly strikes a chord with many young adults who report feeling more understood by AI than their peers.",
+          "However, this growing reliance on AI companionship presents a double-edged sword, potentially addressing loneliness while subtly eroding the fabric of genuine human connection."
+        ],
+        "sentenceTranslations": [
+          "Aura 3.0가 약속하는 깊은 정서적 지능은 친구들보다 AI에게서 더 많은 이해를 받는다고 보고하는 많은 젊은 성인들의 마음에 깊이 울림을 줍니다.",
+          "하지만 AI 동반자에 대한 이러한 의존도 증가는 양날의 검과 같아서 외로움을 해결할 수 있는 동시에 진정한 인간 관계의 기반을 은연중에 침식할 수도 있습니다."
+        ],
+        "translationHighlights": [
+          "깊이 울림을 줍니다",
+          "양날의 검",
+          "진정한 인간 관계"
+        ],
+        "newWords": [
+          {
+            "word": "strike a chord",
+            "meaning": "깊이 공감하게 하다, 감동을 주다",
+            "context": "clearly strikes a chord with many young adults"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가짐)",
+            "context": "presents a double-edged sword"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With persistent inflation, many households are really **feeling the pinch**, making AI-powered tools like Fidelity's SmartBudget crucial for people trying to **stretch every dollar**.",
           "While companies like Google try to **iron out the kinks** in their hybrid work schedules, the booming demand for accessible 'third spaces' shows that co-working brands are truly **on a roll**."
         ],
@@ -3946,6 +3973,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Amidst the ongoing debate, the EU's proposed AI Act is feared by tech giants to throw a wrench in the works of innovation, potentially adding significant compliance burdens.",
+          "Coupled with the revised global GDP forecast and persistent supply chain issues, many companies are now preparing to batten down the hatches for an extended period of economic uncertainty."
+        ],
+        "sentenceTranslations": [
+          "계속되는 논쟁 속에서, EU의 제안된 AI 법안은 막대한 규제 준수 부담을 추가하여 기술 혁신에 제동을 걸 수 있다고 거대 기술 기업들은 우려하고 있습니다.",
+          "수정된 전 세계 GDP 예측과 지속적인 공급망 문제까지 겹치면서, 많은 기업들은 장기적인 경제 불확실성에 대비해 만반의 준비를 갖추고 있습니다."
+        ],
+        "translationHighlights": [
+          "기술 혁신에 제동을 걸 수 있다고",
+          "막대한 규제 준수 부담",
+          "만반의 준비를 갖추고",
+          "장기적인 경제 불확실성"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "(계획, 진행 등에) 제동을 걸다, 방해하다",
+            "context": "feared by tech giants to *throw a wrench in the works* of innovation"
+          },
+          {
+            "word": "batten down the hatches",
+            "meaning": "(어려움에 대비해) 만반의 준비를 하다, 비상사태에 대비하다",
+            "context": "preparing to *batten down the hatches* for an extended period of economic uncertainty"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While the IMF's revised global growth outlook for 2026 highlights economic headwinds from persistent inflation, tech companies are proving their ability to weather the storm.",
           "The strong earnings from Salesforce, for instance, are bucking the trend of broader market caution, injecting much-needed confidence into the cloud software sector."
         ],
@@ -7838,6 +7893,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The unprecedented heatwaves across Southern Europe signal that the writing is on the wall for traditional peak-season tourism in those regions, prompting a significant pivot towards cooler destinations and cultural city breaks.",
+          "Consequently, visionary programs like Costa Rica's new digital nomad visa are poised to offer a fresh shot in the arm for the industry, encouraging travelers to explore exciting new locales off the beaten path."
+        ],
+        "sentenceTranslations": [
+          "남유럽 전역의 전례 없는 폭염은 해당 지역의 전통적인 성수기 관광에 위기의 징후를 보여주며, 더 시원한 목적지나 문화 도시 여행으로의 상당한 전환을 유도하고 있습니다.",
+          "결과적으로, 코스타리카의 새로운 디지털 노마드 비자와 같은 선구적인 프로그램들은 관광 산업에 새로운 활력을 불어넣으며, 여행객들이 잘 알려지지 않은 흥미로운 새로운 장소들을 탐험하도록 장려할 것입니다."
+        ],
+        "translationHighlights": [
+          "위기의 징후",
+          "새로운 활력을 불어넣으며",
+          "잘 알려지지 않은"
+        ],
+        "newWords": [
+          {
+            "word": "the writing is on the wall",
+            "meaning": "위기의 징후가 보이다, 상황이 좋지 않음을 암시하다",
+            "context": "signal that the writing is on the wall for traditional peak-season tourism"
+          },
+          {
+            "word": "a fresh shot in the arm",
+            "meaning": "새로운 활력소, 활성화에 큰 도움",
+            "context": "are poised to offer a fresh shot in the arm for the industry"
+          },
+          {
+            "word": "off the beaten path",
+            "meaning": "잘 알려지지 않은 곳, 한적한 곳",
+            "context": "explore exciting new locales off the beaten path"
+          }
+        ]
+      },
       {
         "sentences": [
           "Japan's new Cultural Immersion Visa is a clear sign that many travelers are now itching to get off the beaten path and truly sink their teeth into local culture rather than just sightsee.",
