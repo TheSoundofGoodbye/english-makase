@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The undeniable convenience of hyper-personalized AI financial advisors is proving to be a double-edged sword, given the mounting data privacy concerns.",
+          "Consumer watchdog groups are urging major banks to pump the brakes on the accelerated rollout until robust regulatory frameworks are firmly in place."
+        ],
+        "sentenceTranslations": [
+          "초개인화된 AI 금융 상담사의 부인할 수 없는 편리함은 늘어나는 데이터 개인 정보 보호 문제 때문에 양날의 검으로 작용하고 있습니다.",
+          "소비자 감시 단체들은 견고한 규제 틀이 확고하게 마련될 때까지 주요 은행들이 가속화된 배포에 속도를 늦추도록 촉구하고 있습니다."
+        ],
+        "translationHighlights": [
+          "양날의 검으로 작용하고 있습니다",
+          "늘어나는 데이터 개인 정보 보호 문제",
+          "속도를 늦추도록 촉구하고 있습니다",
+          "견고한 규제 틀이 확고하게 마련될 때까지"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가진 것)",
+            "context": "is proving to be a **double-edged sword**"
+          },
+          {
+            "word": "pump the brakes",
+            "meaning": "속도를 늦추다, 신중하게 진행하다",
+            "context": "to **pump the brakes** on the accelerated rollout"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Aura 3.0's promise of deep emotional intelligence clearly strikes a chord with many young adults who report feeling more understood by AI than their peers.",
           "However, this growing reliance on AI companionship presents a double-edged sword, potentially addressing loneliness while subtly eroding the fabric of genuine human connection."
         ],
@@ -3973,6 +4001,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The relentless expansion of AI computing power, while offering immense potential, is proving to be a **double-edged sword**, creating unprecedented energy demand and grid stability concerns.",
+          "On top of that, the looming US export controls could **throw a wrench in the works** for major chipmakers, forcing them to completely rethink their global supply chain strategies."
+        ],
+        "sentenceTranslations": [
+          "AI 컴퓨팅 파워의 끊임없는 확장은 막대한 잠재력을 제공하면서도, 전례 없는 에너지 수요와 전력망 안정성 우려를 야기하는 **양날의 검**임이 드러나고 있습니다.",
+          "게다가, 임박한 미국의 수출 통제는 주요 칩 제조업체들에게 **계획에 큰 차질을 초래하여**, 글로벌 공급망 전략을 전면 재고하게 만들 수 있습니다."
+        ],
+        "translationHighlights": [
+          "양날의 검",
+          "전례 없는 에너지 수요",
+          "계획에 큰 차질을 초래하여",
+          "전면 재고하게 만들 수 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가진 것)",
+            "context": "is proving to be a double-edged sword"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획이나 진행을 방해하다, 차질을 초래하다",
+            "context": "could throw a wrench in the works for major chipmakers"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Amidst the ongoing debate, the EU's proposed AI Act is feared by tech giants to throw a wrench in the works of innovation, potentially adding significant compliance burdens.",
           "Coupled with the revised global GDP forecast and persistent supply chain issues, many companies are now preparing to batten down the hatches for an extended period of economic uncertainty."
         ],
@@ -7893,6 +7949,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "To accurately **stem the tide** of overtourism, Venice has prolonged its access fee trial, signaling a global shift in how popular destinations manage visitor influx.",
+          "Meanwhile, Emirates Airlines and the rise in eco-certified bookings demonstrate how companies are effectively **reading the room**, adapting to travelers' growing demand for enhanced comfort and sustainable experiences."
+        ],
+        "sentenceTranslations": [
+          "과잉 관광의 **물결을 정확히 막기 위해**, 베네치아는 입장료 시범 운영을 연장했으며, 이는 인기 있는 관광지들이 방문객 유입을 관리하는 방식에 있어 전 세계적인 변화를 보여줍니다.",
+          "한편, 에미레이트 항공과 친환경 인증 숙소 예약 증가는 기업들이 향상된 편안함과 지속 가능한 경험에 대한 여행객들의 증가하는 수요에 맞춰 **상황을 효과적으로 파악하고 있다**는 것을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "물결을 정확히 막기 위해",
+          "전 세계적인 변화",
+          "상황을 효과적으로 파악하고 있다",
+          "증가하는 수요"
+        ],
+        "newWords": [
+          {
+            "word": "stem the tide",
+            "meaning": "물결을 막다; (증가·악화를) 저지하다",
+            "context": "To accurately stem the tide of overtourism..."
+          },
+          {
+            "word": "read the room",
+            "meaning": "상황을 파악하다; 분위기를 읽다",
+            "context": "...how companies are effectively reading the room..."
+          }
+        ]
+      },
       {
         "sentences": [
           "The unprecedented heatwaves across Southern Europe signal that the writing is on the wall for traditional peak-season tourism in those regions, prompting a significant pivot towards cooler destinations and cultural city breaks.",
