@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The long-term embrace of hybrid work represents a seismic shift in urban planning, prompting cities to adapt at an unprecedented pace.",
+          "Consequently, the 'work-near-home' movement is rapidly gaining traction, leaving many public transport authorities feeling the pinch and questioning traditional funding models."
+        ],
+        "sentenceTranslations": [
+          "하이브리드 근무 방식의 장기적 채택은 도시 계획에 있어 커다란 변화를 의미하며, 도시들이 전례 없는 속도로 적응하도록 만들고 있습니다.",
+          "그 결과, '집 근처 근무' 움직임이 빠르게 탄력을 받고 있으며, 많은 대중교통 당국은 재정적 압박을 느끼며 전통적인 자금 모델에 의문을 제기하고 있습니다."
+        ],
+        "translationHighlights": [
+          "커다란 변화",
+          "탄력을 받고 있으며",
+          "재정적 압박"
+        ],
+        "newWords": [
+          {
+            "word": "seismic shift",
+            "meaning": "커다란 변화 / 지각 변동",
+            "context": "a seismic shift in urban planning"
+          },
+          {
+            "word": "gaining traction",
+            "meaning": "탄력을 받다 / 인기를 얻다",
+            "context": "rapidly gaining traction"
+          },
+          {
+            "word": "feeling the pinch",
+            "meaning": "재정적 압박을 느끼다 / 경제적으로 어렵다",
+            "context": "feeling the pinch"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The undeniable convenience of hyper-personalized AI financial advisors is proving to be a double-edged sword, given the mounting data privacy concerns.",
           "Consumer watchdog groups are urging major banks to pump the brakes on the accelerated rollout until robust regulatory frameworks are firmly in place."
         ],
@@ -4001,6 +4033,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The escalating rhetoric over semiconductor export controls has put many tech firms in a bind, making them walk a tightrope between adhering to regulations and maintaining market share.",
+          "Meanwhile, the rapid pace of AI advancements and consolidation, exemplified by Microsoft's rumored acquisition, shows companies are doubling down on generative AI, which in turn amplifies the call for international leaders to get their ducks in a row regarding ethical frameworks."
+        ],
+        "sentenceTranslations": [
+          "반도체 수출 통제를 둘러싼 수사(修辭) 고조로 많은 기술 기업들이 규정 준수와 시장 점유율 유지 사이에서 줄타기를 해야 하는 곤경에 처했습니다.",
+          "한편, 마이크로소프트의 루머와 같은 인공지능 발전과 통합의 빠른 속도는 기업들이 생성형 AI에 총력을 기울이고 있음을 보여주며, 이는 국제 지도자들이 윤리적 프레임워크에 대해 만반의 준비를 해야 한다는 요구를 더욱 증폭시킵니다."
+        ],
+        "translationHighlights": [
+          "곤경에 처했습니다",
+          "줄타기를 해야 하는",
+          "총력을 기울이고 있음",
+          "만반의 준비를 해야 한다는"
+        ],
+        "newWords": [
+          {
+            "word": "in a bind",
+            "meaning": "곤경에 처한, 난처한 상황에 빠진",
+            "context": "has put many tech firms in a bind"
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "줄타기를 하다, 아슬아슬한 균형을 유지하다",
+            "context": "making them walk a tightrope between adhering to regulations"
+          },
+          {
+            "word": "doubling down",
+            "meaning": "더 많은 노력(자원)을 쏟아붓다, 총력을 기울이다",
+            "context": "companies are doubling down on generative AI"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The relentless expansion of AI computing power, while offering immense potential, is proving to be a **double-edged sword**, creating unprecedented energy demand and grid stability concerns.",
           "On top of that, the looming US export controls could **throw a wrench in the works** for major chipmakers, forcing them to completely rethink their global supply chain strategies."
         ],
@@ -7949,6 +8014,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Venice finds itself walking a tightrope as it attempts to strike a delicate balance between record tourist numbers and preserving its fragile infrastructure.",
+          "Determined to stem the tide of over-tourism, city officials are clearly taking the bull by the horns by implementing stricter entry fees and a reservation system."
+        ],
+        "sentenceTranslations": [
+          "베네치아는 기록적인 관광객 수와 취약한 인프라를 보존하는 것 사이에서 미묘한 균형을 맞추기 위해 노력하며 아슬아슬한 줄타기를 하고 있습니다.",
+          "과잉 관광의 흐름을 막기로 결심한 시 당국은 더 엄격한 입장료와 예약 시스템을 시행함으로써 난관을 정면 돌파하고 있습니다."
+        ],
+        "translationHighlights": [
+          "아슬아슬한 줄타기를 하고 있습니다",
+          "미묘한 균형을 맞추기 위해 노력하며",
+          "흐름을 막기로 결심한",
+          "난관을 정면 돌파하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "walking a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다, 위태로운 균형을 유지하다",
+            "context": "Venice finds itself walking a tightrope as it attempts to strike a delicate balance..."
+          },
+          {
+            "word": "stem the tide",
+            "meaning": "(나쁜 상황이나 강력한 흐름을) 막다, 저지하다",
+            "context": "Determined to stem the tide of over-tourism..."
+          },
+          {
+            "word": "taking the bull by the horns",
+            "meaning": "난관을 정면으로 돌파하다, 문제에 적극적으로 대처하다",
+            "context": "...city officials are clearly taking the bull by the horns by implementing stricter entry fees..."
+          }
+        ]
+      },
       {
         "sentences": [
           "To accurately **stem the tide** of overtourism, Venice has prolonged its access fee trial, signaling a global shift in how popular destinations manage visitor influx.",
@@ -11911,6 +12009,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The 2026 FIFA World Cup truly hit it out of the park for the North American host cities, with the economic impact and viewership numbers going through the roof.",
+          "Even as the dust has barely settled on Brazil's triumphant win, the rumor mill is already grinding full steam ahead regarding Kylian Mbappé's potential record-breaking transfer."
+        ],
+        "sentenceTranslations": [
+          "2026년 FIFA 월드컵은 북미 개최 도시들에게 정말 대성공이었고, 경제적 파급 효과와 시청률 수치는 천정부지로 치솟았습니다.",
+          "브라질의 우승으로 흥분된 분위기가 채 가시기도 전에, 킬리안 음바페의 잠재적인 기록적인 이적에 대한 소문이 벌써부터 파다하게 돌고 있습니다."
+        ],
+        "translationHighlights": [
+          "대성공이었고",
+          "천정부지로 치솟았습니다",
+          "채 가시기도 전에",
+          "소문이 벌써부터 파다하게 돌고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "hit it out of the park",
+            "meaning": "큰 성공을 거두다, 매우 잘하다",
+            "context": "truly hit it out of the park for the North American host cities"
+          },
+          {
+            "word": "going through the roof",
+            "meaning": "급등하다, 최고조에 달하다",
+            "context": "viewership numbers going through the roof"
+          },
+          {
+            "word": "the rumor mill is grinding full steam ahead",
+            "meaning": "소문이 전속력으로 퍼져나가다, 소문이 무성하다",
+            "context": "the rumor mill is already grinding full steam ahead"
+          }
+        ]
+      },
       {
         "sentences": [
           "The unprecedented €300 million bid from Real Madrid for Kylian Mbappé has truly **set the cat among the pigeons** in the football world, signaling a new era of high-stakes transfers.",
