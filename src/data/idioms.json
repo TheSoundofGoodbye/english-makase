@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The rapid expansion of at-home diagnostic tech is undeniably a \"game changer\" for personalized health, offering unprecedented insights into individual well-being.",
+          "However, the WHO's preliminary findings serve as a stark \"wake-up call\" to ensure these advancements don't inadvertently widen the gap for rural and low-income communities."
+        ],
+        "sentenceTranslations": [
+          "자가 진단 기술의 급속한 확장은 개인 맞춤형 건강 관리 분야에서 분명히 '판도를 바꾸는' 기술이며, 개인의 건강 상태에 대한 전례 없는 통찰력을 제공합니다.",
+          "하지만 WHO의 예비 보고서는 이러한 발전이 농촌 및 저소득층 지역사회의 격차를 의도치 않게 확대하지 않도록 해야 한다는 강력한 '경고음' 역할을 합니다."
+        ],
+        "translationHighlights": [
+          "판도를 바꾸는",
+          "전례 없는 통찰력",
+          "강력한 '경고음'",
+          "격차를 확대하지 않도록"
+        ],
+        "newWords": [
+          {
+            "word": "game changer",
+            "meaning": "판도를 바꾸는 것; 획기적인 변화를 가져오는 기술이나 사건",
+            "context": "undeniably a \"game changer\" for personalized health"
+          },
+          {
+            "word": "wake-up call",
+            "meaning": "경고음; 정신이 번쩍 들게 하는 일",
+            "context": "serve as a stark \"wake-up call\" to ensure"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The long-term embrace of hybrid work represents a seismic shift in urban planning, prompting cities to adapt at an unprecedented pace.",
           "Consequently, the 'work-near-home' movement is rapidly gaining traction, leaving many public transport authorities feeling the pinch and questioning traditional funding models."
         ],
@@ -4033,6 +4061,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Given the IMF's revised global growth forecast and rising geopolitical risks, businesses are being urged to batten down the hatches as they navigate this challenging 'new normal' where resilience is key.",
+          "Chipmakers, in particular, find themselves caught in the crossfire of escalating U.S.-China tech export controls, making long-term strategic planning incredibly complex, even as AI advancements like Gemini 2 promise new opportunities."
+        ],
+        "sentenceTranslations": [
+          "IMF의 세계 성장률 전망 하향 조정과 증가하는 지정학적 위험을 감안할 때, 기업들은 회복탄력성이 핵심인 이 도전적인 '새로운 정상'을 헤쳐나가기 위해 만반의 준비를 갖추라는 권고를 받고 있습니다.",
+          "특히 칩 제조업체들은 미국과 중국 간에 고조되는 기술 수출 통제의 교전의 포화에 휘말리면서, 장기적인 전략 계획 수립이 매우 복잡해지고 있으며, 이는 Gemini 2와 같은 AI 발전이 새로운 기회를 약속하는 와중에도 마찬가지입니다."
+        ],
+        "translationHighlights": [
+          "만반의 준비를 갖추라는",
+          "도전적인 '새로운 정상'",
+          "교전의 포화에 휘말리면서",
+          "장기적인 전략 계획 수립이 매우 복잡해지고"
+        ],
+        "newWords": [
+          {
+            "word": "batten down the hatches",
+            "meaning": "(어려운 시기에 대비하여) 만반의 준비를 하다",
+            "context": "businesses are being urged to batten down the hatches"
+          },
+          {
+            "word": "caught in the crossfire",
+            "meaning": "(원치 않게) 곤경에 처하다, 교전의 포화에 휘말리다",
+            "context": "find themselves caught in the crossfire"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The escalating rhetoric over semiconductor export controls has put many tech firms in a bind, making them walk a tightrope between adhering to regulations and maintaining market share.",
           "Meanwhile, the rapid pace of AI advancements and consolidation, exemplified by Microsoft's rumored acquisition, shows companies are doubling down on generative AI, which in turn amplifies the call for international leaders to get their ducks in a row regarding ethical frameworks."
         ],
@@ -8014,6 +8070,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "As luxury travel embraces eco-certified experiences, the industry is clearly turning over a new leaf, realizing that sustainability is no longer just a buzzword but a driving force.",
+          "Yet, for airlines, meeting ambitious decarbonization goals by 2030 with limited SAF production means they truly have their work cut out for them, facing an uphill battle against time and technology."
+        ],
+        "sentenceTranslations": [
+          "고급 여행객들이 환경 인증 경험을 선호하면서, 업계는 지속 가능성이 단순히 유행어가 아니라 원동력임을 깨닫고 분명히 새로운 장을 열고 있습니다.",
+          "하지만 항공사들은 제한적인 SAF 생산량으로 2030년까지 야심찬 탈탄소화 목표를 달성해야 하기에, 시간과 기술에 맞서 정말 많은 난관을 헤쳐나가야 할 것이며, 이는 험난한 싸움이 될 것입니다."
+        ],
+        "translationHighlights": [
+          "새로운 장을 열고 있습니다",
+          "원동력",
+          "정말 많은 난관을 헤쳐나가야 할 것",
+          "험난한 싸움"
+        ],
+        "newWords": [
+          {
+            "word": "turn over a new leaf",
+            "meaning": "새로운 장을 열다, 지난 잘못을 뉘우치고 새롭게 시작하다",
+            "context": "the industry is clearly turning over a new leaf"
+          },
+          {
+            "word": "have one's work cut out for one",
+            "meaning": "~가 처리해야 할 힘든 일/과제가 많다",
+            "context": "they truly have their work cut out for them"
+          },
+          {
+            "word": "uphill battle",
+            "meaning": "고전, 험난한 싸움 (어려운 노력이나 고군분투)",
+            "context": "facing an uphill battle against time and technology"
+          }
+        ]
+      },
       {
         "sentences": [
           "Venice finds itself walking a tightrope as it attempts to strike a delicate balance between record tourist numbers and preserving its fragile infrastructure.",
@@ -12009,6 +12098,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "After Argentina's World Cup triumph, star forward Julian Alvarez has become a hot commodity, with European giants ready to break the bank for his signature.",
+          "This record-shattering tournament truly hit it out of the park, setting an incredibly high bar for future global sporting events."
+        ],
+        "sentenceTranslations": [
+          "아르헨티나의 월드컵 우승 이후, 스타 공격수 줄리안 알바레즈는 그야말로 귀한 몸이 되었고, 유럽 거대 클럽들은 그의 영입을 위해 기꺼이 거액을 쏟아부을 준비가 되어 있습니다.",
+          "이번 기록적인 토너먼트는 정말 엄청난 성공을 거두며, 미래의 글로벌 스포츠 행사에 대한 기대치를 매우 높였습니다."
+        ],
+        "translationHighlights": [
+          "귀한 몸이 되었고",
+          "거액을 쏟아부을",
+          "엄청난 성공을 거두며",
+          "기대치를 매우 높였습니다"
+        ],
+        "newWords": [
+          {
+            "word": "a hot commodity",
+            "meaning": "인기가 많고 수요가 높은 사람이나 물건 (귀한 몸)",
+            "context": "Julian Alvarez has become a hot commodity"
+          },
+          {
+            "word": "break the bank",
+            "meaning": "많은 돈을 쓰다, 거액을 쏟아붓다",
+            "context": "ready to break the bank"
+          },
+          {
+            "word": "hit it out of the park",
+            "meaning": "매우 성공하다, 엄청난 성과를 내다",
+            "context": "truly hit it out of the park"
+          }
+        ]
+      },
       {
         "sentences": [
           "The 2026 FIFA World Cup truly hit it out of the park for the North American host cities, with the economic impact and viewership numbers going through the roof.",
