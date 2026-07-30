@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While Finity AI and similar platforms promise unparalleled convenience in managing finances, their rapid adoption also presents a double-edged sword given the growing concerns over data privacy and algorithmic bias.",
+          "With a significant portion of users still on the fence about fully entrusting AI with their long-term financial decisions, it’s clear that we must walk a fine line to ensure informed human oversight balances this new algorithmic guidance."
+        ],
+        "sentenceTranslations": [
+          "Finity AI와 유사 플랫폼들이 재정 관리에 있어 전례 없는 편리함을 약속하고 있지만, 이들의 빠른 도입은 데이터 프라이버시와 알고리즘 편향에 대한 우려가 커지면서 양날의 검이 되고 있습니다.",
+          "상당수의 사용자들이 장기적인 재정 결정을 AI에 전적으로 맡기는 것에 대해 여전히 결정을 못하고 망설이는 상황에서, 우리는 이러한 새로운 알고리즘 지침과 정보에 입각한 인간의 감독 사이에서 아슬아슬한 균형을 맞춰야 함이 분명합니다."
+        ],
+        "translationHighlights": [
+          "양날의 검",
+          "결정을 못하고 망설이는",
+          "아슬아슬한 균형을 맞춰야",
+          "정보에 입각한 인간의 감독"
+        ],
+        "newWords": [
+          {
+            "word": "double-edged sword",
+            "meaning": "양날의 검 (장점과 단점을 동시에 지닌 것)",
+            "context": "their rapid adoption also presents a double-edged sword given the growing concerns..."
+          },
+          {
+            "word": "on the fence",
+            "meaning": "결정을 못하고 망설이는/중립적인 입장인",
+            "context": "With a significant portion of users still on the fence about fully entrusting AI..."
+          },
+          {
+            "word": "walk a fine line",
+            "meaning": "아슬아슬한 줄타기를 하다/균형을 맞추다",
+            "context": "it’s clear that we must walk a fine line to ensure informed human oversight balances this new algorithmic guidance."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The rapid expansion of at-home diagnostic tech is undeniably a \"game changer\" for personalized health, offering unprecedented insights into individual well-being.",
           "However, the WHO's preliminary findings serve as a stark \"wake-up call\" to ensure these advancements don't inadvertently widen the gap for rural and low-income communities."
         ],
@@ -4061,6 +4094,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The NASDAQ's dip today highlighted how quickly market sentiment can turn on a dime when confronted with unexpected hawkish signals from the Fed.",
+          "Conversely, Intel's aggressive investment in domestic AI manufacturing demonstrates a proactive strategy to keep one's ear to the ground regarding geopolitical shifts and surging demand."
+        ],
+        "sentenceTranslations": [
+          "오늘 나스닥의 하락세는 연준의 예상치 못한 매파적 신호에 직면했을 때 시장 심리가 얼마나 빠르게 급변할 수 있는지 잘 보여주었습니다.",
+          "이와는 대조적으로, 인텔의 국내 AI 제조 분야에 대한 과감한 투자는 지정학적 변화와 급증하는 수요에 대해 늘 촉각을 곤두세우는 선제적 전략을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "급변할 수 있는지",
+          "늘 촉각을 곤두세우는",
+          "매파적 신호",
+          "선제적 전략"
+        ],
+        "newWords": [
+          {
+            "word": "turn on a dime",
+            "meaning": "급변하다, 순식간에 방향을 바꾸다",
+            "context": "how quickly market sentiment can turn on a dime"
+          },
+          {
+            "word": "keep one's ear to the ground",
+            "meaning": "여론에 귀를 기울이다, 정보를 놓치지 않으려 노력하다",
+            "context": "to keep one's ear to the ground regarding geopolitical shifts"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Given the IMF's revised global growth forecast and rising geopolitical risks, businesses are being urged to batten down the hatches as they navigate this challenging 'new normal' where resilience is key.",
           "Chipmakers, in particular, find themselves caught in the crossfire of escalating U.S.-China tech export controls, making long-term strategic planning incredibly complex, even as AI advancements like Gemini 2 promise new opportunities."
         ],
@@ -8070,6 +8131,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With the 2026 FIFA World Cup on the horizon, North American airlines are pulling out all the stops to accommodate the projected 3.5 million international fans.",
+          "The U.S. State Department is burning the midnight oil to process a record number of B-2 visa applications, anticipating an economic windfall for host cities."
+        ],
+        "sentenceTranslations": [
+          "2026년 FIFA 월드컵이 코앞으로 다가오면서, 북미 항공사들은 예상되는 350만 명의 해외 팬들을 수용하기 위해 모든 노력을 기울이고 있습니다.",
+          "미 국무부가 기록적인 B-2 관광 비자 신청을 처리하기 위해 밤샘 작업을 하는 가운데, 개최 도시들에게는 엄청난 경제적 횡재가 예상됩니다."
+        ],
+        "translationHighlights": [
+          "코앞으로 다가오면서",
+          "모든 노력을 기울이고 있습니다",
+          "밤샘 작업을 하는 가운데",
+          "경제적 횡재"
+        ],
+        "newWords": [
+          {
+            "word": "on the horizon",
+            "meaning": "임박한, 곧 일어날",
+            "context": "With the 2026 FIFA World Cup on the horizon"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 노력을 다하다, 총력을 기울이다",
+            "context": "airlines are pulling out all the stops"
+          },
+          {
+            "word": "burning the midnight oil",
+            "meaning": "밤늦게까지 일하다, 밤샘 작업을 하다",
+            "context": "The U.S. State Department is burning the midnight oil"
+          }
+        ]
+      },
       {
         "sentences": [
           "As luxury travel embraces eco-certified experiences, the industry is clearly turning over a new leaf, realizing that sustainability is no longer just a buzzword but a driving force.",
@@ -12098,6 +12192,33 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Team Vitality's third consecutive IEM Cologne title solidified their status as a force to be reckoned with in the competitive CS2 landscape.",
+          "Their record $1.2 million prize pool earnings have undeniably raised the bar, not just for future tournaments but also for player valuations across the board."
+        ],
+        "sentenceTranslations": [
+          "팀 바이탈리티의 IEM 쾰른 3연속 우승은 경쟁이 치열한 CS2 e스포츠 판에서 그들이 무시할 수 없는 세력임을 확고히 했습니다.",
+          "그들의 기록적인 120만 달러 상금은 단순히 미래의 토너먼트뿐 아니라 선수 가치 평가 전반에 걸쳐 기준을 명백히 높였습니다."
+        ],
+        "translationHighlights": [
+          "무시할 수 없는 세력",
+          "기준을 명백히 높였습니다",
+          "선수 가치 평가 전반에 걸쳐"
+        ],
+        "newWords": [
+          {
+            "word": "a force to be reckoned with",
+            "meaning": "무시할 수 없는 세력/강력한 존재",
+            "context": "as a force to be reckoned with in the competitive CS2 landscape"
+          },
+          {
+            "word": "raise the bar",
+            "meaning": "기준을 높이다/기대치를 올리다",
+            "context": "have undeniably raised the bar, not just for future tournaments"
+          }
+        ]
+      },
       {
         "sentences": [
           "After Argentina's World Cup triumph, star forward Julian Alvarez has become a hot commodity, with European giants ready to break the bank for his signature.",
