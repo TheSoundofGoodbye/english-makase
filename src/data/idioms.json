@@ -3,6 +3,33 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The AuraRing Pro, with its real-time analytics, truly allows individuals to stay ahead of the curve when it comes to managing their personal health.",
+          "Yet, this advanced predictive power proves to be a double-edged sword, intensifying public discourse around data privacy."
+        ],
+        "sentenceTranslations": [
+          "오라링 프로와 같은 실시간 분석 장치 덕분에 개인 건강 관리에 있어서는 정말이지 시대의 흐름에 앞서 나갈 수 있게 되었습니다.",
+          "하지만 이렇게 발전된 예측 능력은 양날의 검임이 입증되며, 데이터 프라이버시에 대한 대중의 논의를 심화시키고 있습니다."
+        ],
+        "translationHighlights": [
+          "시대의 흐름에 앞서 나갈 수 있게",
+          "양날의 검",
+          "논의를 심화시키고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "시대의 흐름에 앞서 나가다, 최신 동향을 따라잡다",
+            "context": "allows individuals to stay ahead of the curve"
+          },
+          {
+            "word": "double-edged sword",
+            "meaning": "양날의 검, 이점과 단점을 동시에 가진 것",
+            "context": "proves to be a double-edged sword"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While Finity AI and similar platforms promise unparalleled convenience in managing finances, their rapid adoption also presents a double-edged sword given the growing concerns over data privacy and algorithmic bias.",
           "With a significant portion of users still on the fence about fully entrusting AI with their long-term financial decisions, it’s clear that we must walk a fine line to ensure informed human oversight balances this new algorithmic guidance."
         ],
@@ -4092,6 +4119,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "China's sudden export restrictions on critical materials certainly threw a wrench in the works for semiconductor and EV manufacturers worldwide.",
+          "This geopolitical friction, coupled with the Fed Chair's cautious tone on inflation, means global markets are truly walking on eggshells right now."
+        ],
+        "sentenceTranslations": [
+          "중국이 핵심 원자재에 대한 갑작스러운 수출 제한 조치를 발표하면서 전 세계 반도체 및 전기차 제조업체들의 계획에 큰 차질이 생겼습니다.",
+          "이러한 지정학적 마찰이 인플레이션에 대한 연준 의장의 신중한 발언과 맞물리면서, 현재 전 세계 시장은 매우 조심스러운 분위기입니다."
+        ],
+        "translationHighlights": [
+          "큰 차질이 생겼습니다",
+          "지정학적 마찰",
+          "신중한 발언",
+          "매우 조심스러운 분위기입니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획이나 진행 중인 일에 예상치 못한 큰 방해를 놓다; 차질을 빚게 하다",
+            "context": "certainly threw a wrench in the works for semiconductor and EV manufacturers"
+          },
+          {
+            "word": "walking on eggshells",
+            "meaning": "매우 조심스럽게 행동하다; 극도로 신중을 기하다",
+            "context": "global markets are truly walking on eggshells right now"
+          }
+        ]
+      },
       {
         "sentences": [
           "The NASDAQ's dip today highlighted how quickly market sentiment can turn on a dime when confronted with unexpected hawkish signals from the Fed.",
