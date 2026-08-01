@@ -3,6 +3,33 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Even as corporations *go to great lengths* to implement flexible hybrid work models, fostering strong team cohesion truly remains *an uphill battle*.",
+          "This struggle is a clear challenge for managers trying to maintain productivity and a sense of shared purpose in diverse work arrangements."
+        ],
+        "sentenceTranslations": [
+          "기업들이 유연한 하이브리드 근무 모델을 도입하기 위해 *온갖 노력을 다하고 있음에도*, 강력한 팀 결속력을 다지는 것은 여전히 *넘어야 할 큰 산*으로 남아있습니다.",
+          "이러한 어려움은 다양한 근무 환경 속에서 생산성과 공동의 목표 의식을 유지하려는 관리자들에게 분명한 도전 과제입니다."
+        ],
+        "translationHighlights": [
+          "온갖 노력을 다하고 있음에도",
+          "팀 결속력을 다지는 것은",
+          "넘어야 할 큰 산"
+        ],
+        "newWords": [
+          {
+            "word": "go to great lengths",
+            "meaning": "온갖 노력을 다하다, 심혈을 기울이다",
+            "context": "corporations go to great lengths to implement flexible hybrid work models"
+          },
+          {
+            "word": "an uphill battle",
+            "meaning": "힘든 싸움, 넘어야 할 큰 산",
+            "context": "fostering strong team cohesion truly remains an uphill battle"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The AuraRing Pro, with its real-time analytics, truly allows individuals to stay ahead of the curve when it comes to managing their personal health.",
           "Yet, this advanced predictive power proves to be a double-edged sword, intensifying public discourse around data privacy."
         ],
@@ -4121,6 +4148,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Alphabet appears poised to steal a march on its rivals with Gemini Ultra 2.0's unprecedented multimodal capabilities, intensifying the generative AI race.",
+          "This advancement is expected to raise the bar significantly for enterprise AI solutions, compelling businesses across sectors to accelerate their own integration efforts."
+        ],
+        "sentenceTranslations": [
+          "Alphabet은 Gemini Ultra 2.0의 전례 없는 다중 모드 기능으로 경쟁사들을 앞지를 태세를 갖추면서, 생성형 AI 경쟁을 더욱 뜨겁게 달구고 있습니다.",
+          "이러한 발전은 기업용 AI 솔루션의 기준을 크게 높일 것으로 예상되며, 이는 모든 분야의 기업들이 자체 통합 노력을 가속화하도록 강제할 것입니다."
+        ],
+        "translationHighlights": [
+          "경쟁사들을 앞지를 태세를 갖추면서",
+          "생성형 AI 경쟁을 더욱 뜨겁게 달구고 있습니다",
+          "기준을 크게 높일 것으로 예상되며",
+          "통합 노력을 가속화하도록 강제할 것입니다"
+        ],
+        "newWords": [
+          {
+            "word": "steal a march on",
+            "meaning": "경쟁사보다 먼저 행동하여 이점(우위)을 차지하다",
+            "context": "poised to steal a march on its rivals"
+          },
+          {
+            "word": "raise the bar",
+            "meaning": "기준이나 기대치를 높이다",
+            "context": "expected to raise the bar significantly"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "China's sudden export restrictions on critical materials certainly threw a wrench in the works for semiconductor and EV manufacturers worldwide.",
           "This geopolitical friction, coupled with the Fed Chair's cautious tone on inflation, means global markets are truly walking on eggshells right now."
         ],
@@ -8186,6 +8241,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Instead of sticking to well-trodden routes, a growing number of global travelers are opting to go off the beaten path this summer, exploring unique cultural experiences in places like Uzbekistan and Georgia.",
+          "For the travel industry, the significant demand for eco-certified accommodations and lighter footprints clearly shows the writing on the wall regarding the future of sustainable tourism."
+        ],
+        "sentenceTranslations": [
+          "늘 가던 길 대신, 이번 여름에는 전 세계적으로 점점 더 많은 여행객들이 우즈베키스탄이나 조지아 같은 곳에서 독특한 문화 체험을 찾아 숨겨진 명소를 탐험하고 있습니다.",
+          "여행 업계에게 있어, 친환경 인증 숙소와 환경 부담이 적은 여행에 대한 상당한 수요는 지속 가능한 관광의 미래에 대한 분명한 징조를 보여주고 있습니다."
+        ],
+        "translationHighlights": [
+          "늘 가던 길 대신",
+          "숨겨진 명소를 탐험하고 있습니다",
+          "친환경 인증 숙소",
+          "분명한 징조를 보여주고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "go off the beaten path",
+            "meaning": "잘 알려지지 않은 곳을 여행하다; 남들이 잘 가지 않는 길을 가다",
+            "context": "opting to go off the beaten path this summer"
+          },
+          {
+            "word": "the writing on the wall",
+            "meaning": "피할 수 없는 변화의 징조; 분명한 미래의 방향이나 경고",
+            "context": "clearly shows the writing on the wall"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the 2026 FIFA World Cup on the horizon, North American airlines are pulling out all the stops to accommodate the projected 3.5 million international fans.",
