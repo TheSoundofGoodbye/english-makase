@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Facing the stubborn reality of 18% office vacancy rates, city councils are finally reading the writing on the wall and fast-tracking plans to repurpose underutilized commercial spaces.",
+          "To ensure these ambitious conversions from mere office blocks to dynamic residential and cultural hubs actually come to fruition, local governments are pulling out all the stops with developer incentives and zoning changes."
+        ],
+        "sentenceTranslations": [
+          "18%라는 완강한 사무실 공실률에 직면하면서, 시의회는 마침내 변화의 조짐을 읽고 활용도가 낮은 상업 공간을 용도 변경하는 계획을 신속하게 추진하고 있습니다.",
+          "단순한 사무실 건물에서 역동적인 주거 및 문화 허브로의 이러한 야심찬 전환이 실제로 결실을 맺도록 하기 위해, 지방 정부들은 개발업자 인센티브와 용도 변경을 통해 모든 노력을 다하고 있습니다."
+        ],
+        "translationHighlights": [
+          "변화의 조짐을 읽고",
+          "신속하게 추진하고 있습니다",
+          "결실을 맺도록 하기 위해",
+          "모든 노력을 다하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "read the writing on the wall",
+            "meaning": "다가올 상황(특히 좋지 않은)을 미리 인지하다, 변화의 필요성을 깨닫다",
+            "context": "city councils are finally reading the writing on the wall"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 가능한 수단과 자원을 동원하다, 전력을 다하다",
+            "context": "local governments are pulling out all the stops"
+          },
+          {
+            "word": "come to fruition",
+            "meaning": "결실을 맺다, 실현되다",
+            "context": "actually come to fruition"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Even as corporations *go to great lengths* to implement flexible hybrid work models, fostering strong team cohesion truly remains *an uphill battle*.",
           "This struggle is a clear challenge for managers trying to maintain productivity and a sense of shared purpose in diverse work arrangements."
         ],
@@ -4148,6 +4181,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With the EU's comprehensive AI Act looming, tech giants recognize the writing is on the wall for heightened regulatory scrutiny, compelling them to heavily invest in compliance solutions.",
+          "Concurrently, cleantech startups in Southeast Asia are striking while the iron is hot, capitalizing on robust funding and a strategic pivot towards regional supply chain resilience."
+        ],
+        "sentenceTranslations": [
+          "EU의 포괄적인 AI 법안이 임박함에 따라, 거대 기술 기업들은 더 엄격한 규제 감시가 불가피하다는 것을 인식하고 규제 준수 솔루션에 막대한 투자를 하고 있습니다.",
+          "동시에, 동남아시아의 클린테크 스타트업들은 풍부한 자금과 지역 공급망 탄력성으로의 전략적 전환을 활용하며 기회를 놓치지 않고 있습니다."
+        ],
+        "translationHighlights": [
+          "더 엄격한 규제 감시가 불가피하다는 것을 인식하고",
+          "막대한 투자를 하고 있습니다",
+          "기회를 놓치지 않고 있습니다",
+          "전략적 전환"
+        ],
+        "newWords": [
+          {
+            "word": "the writing is on the wall",
+            "meaning": "(나쁜 일 등이) 불가피하다는 명백한 징후가 보이다, 상황이 명확하다",
+            "context": "tech giants recognize the writing is on the wall for heightened regulatory scrutiny"
+          },
+          {
+            "word": "striking while the iron is hot",
+            "meaning": "(좋은) 기회를 놓치지 않고 잡다, 때를 놓치지 않고 행동하다",
+            "context": "cleantech startups in Southeast Asia are striking while the iron is hot"
+          },
+          {
+            "word": "heightened regulatory scrutiny",
+            "meaning": "강화된 규제 감시/조사",
+            "context": "the writing is on the wall for heightened regulatory scrutiny"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Alphabet appears poised to steal a march on its rivals with Gemini Ultra 2.0's unprecedented multimodal capabilities, intensifying the generative AI race.",
           "This advancement is expected to raise the bar significantly for enterprise AI solutions, compelling businesses across sectors to accelerate their own integration efforts."
         ],
@@ -8243,6 +8309,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Following the record-breaking summer driven by the World Cup, the global tourism sector is truly going from strength to strength, with major carriers seeing transatlantic and trans-Pacific demand continue to soar.",
+          "This robust growth isn't just about volume; destinations like Italy's Puglia are also seeing travelers eager to get off the beaten path and truly immerse themselves in local cultural experiences."
+        ],
+        "sentenceTranslations": [
+          "월드컵으로 기록적인 여름을 보낸 후, 전 세계 관광 부문은 정말 나날이 발전하며, 주요 항공사들은 대서양 횡단 및 태평양 횡단 노선 수요가 계속 치솟는 것을 보고 있습니다.",
+          "이러한 견고한 성장은 단순히 양적인 증가만을 의미하는 것이 아닙니다; 이탈리아의 풀리아 같은 목적지들도 사람들이 흔히 가지 않는 길을 택하고 현지 문화 경험에 진정으로 몰입하려는 여행객들을 맞이하고 있습니다."
+        ],
+        "translationHighlights": [
+          "나날이 발전하며",
+          "수요가 치솟는 것을",
+          "흔히 가지 않는 길을 택하고",
+          "진정으로 몰입하려는"
+        ],
+        "newWords": [
+          {
+            "word": "going from strength to strength",
+            "meaning": "나날이 발전하다, 점점 더 강해지다",
+            "context": "the global tourism sector is truly going from strength to strength"
+          },
+          {
+            "word": "get off the beaten path",
+            "meaning": "사람들이 흔히 가지 않는 길을 택하다, 잘 알려지지 않은 곳을 찾아가다",
+            "context": "travelers eager to get off the beaten path"
+          },
+          {
+            "word": "immerse themselves in",
+            "meaning": "~에 푹 빠져들다, 몰두하다",
+            "context": "truly immerse themselves in local cultural experiences"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Instead of sticking to well-trodden routes, a growing number of global travelers are opting to go off the beaten path this summer, exploring unique cultural experiences in places like Uzbekistan and Georgia.",
           "For the travel industry, the significant demand for eco-certified accommodations and lighter footprints clearly shows the writing on the wall regarding the future of sustainable tourism."
         ],
@@ -12330,6 +12429,44 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "After Brazil's historic win, speculation around Kylian Mbappé's future suggests he might be looking to **turn over a new leaf**, with a potential move to Al-Hilal poised to **send ripples through the entire football world**.",
+          "Indeed, the record-breaking viewership, especially through virtual stadiums and concurrent streams, clearly indicates that digital engagement is no longer a novelty but is quickly becoming **par for the course** in major sporting events, marking a true **game-changer** for fan interaction."
+        ],
+        "sentenceTranslations": [
+          "브라질의 역사적인 우승 후, 킬리안 음바페의 미래에 대한 추측은 그가 새로운 시작을 모색하고 있음을 시사하며, 알힐랄로의 잠재적인 이적은 축구계 전반에 큰 파장을 불러일으킬 태세입니다.",
+          "실제로, 가상 경기장과 동시 스트리밍을 통한 기록적인 시청률은 디지털 참여가 더 이상 새로운 것이 아니라 주요 스포츠 행사에서 당연한 일이 되고 있음을 명확히 보여주며, 팬 상호작용의 진정한 판도를 바꾸는 계기가 되고 있습니다."
+        ],
+        "translationHighlights": [
+          "새로운 시작을 모색하고 있음을 시사하며",
+          "큰 파장을 불러일으킬 태세입니다",
+          "당연한 일이 되고 있음을",
+          "판도를 바꾸는 계기가 되고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "turn over a new leaf",
+            "meaning": "새로운 시작을 하다, 과거를 청산하고 새 사람이 되다",
+            "context": "he might be looking to turn over a new leaf"
+          },
+          {
+            "word": "send ripples through",
+            "meaning": "~에 큰 파급 효과(파장)를 일으키다",
+            "context": "poised to send ripples through the entire football world"
+          },
+          {
+            "word": "par for the course",
+            "meaning": "당연한 일, 흔한 일 (원래 골프 용어)",
+            "context": "is quickly becoming par for the course"
+          },
+          {
+            "word": "game-changer",
+            "meaning": "판도를 바꾸는 결정적 요인, 게임 체인저",
+            "context": "marking a true game-changer for fan interaction"
+          }
+        ]
+      },
       {
         "sentences": [
           "Team Vitality's third consecutive IEM Cologne title solidified their status as a force to be reckoned with in the competitive CS2 landscape.",
