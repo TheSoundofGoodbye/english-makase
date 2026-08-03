@@ -4181,6 +4181,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Microsoft is clearly riding the crest of a wave with its Azure CoderX launch, which analysts expect to keep them in the driver's seat for enterprise AI innovation.",
+          "However, the European Commission's push for new AI data regulations could throw a wrench in the works, forcing global tech firms to walk a tightrope regarding cross-border data sovereignty."
+        ],
+        "sentenceTranslations": [
+          "마이크로소프트는 Azure CoderX 출시로 분명 승승장구하고 있으며, 분석가들은 이를 통해 기업 AI 혁신 분야에서 계속 주도권을 잡을 것으로 예상합니다.",
+          "하지만 유럽연합 집행위원회의 새로운 AI 데이터 규제 추진은 계획에 차질을 줄 수 있어, 글로벌 기술 기업들이 국경 간 데이터 주권과 관련하여 아슬아슬한 줄타기를 해야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "승승장구하고 있으며",
+          "계획에 차질을 줄 수 있어",
+          "아슬아슬한 줄타기를 해야 할 것입니다"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "승승장구하다, 최고의 시기를 보내다",
+            "context": "Microsoft is clearly riding the crest of a wave..."
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다, 방해하다",
+            "context": "...could throw a wrench in the works..."
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다, 매우 신중한 태도를 취하다",
+            "context": "...forcing global tech firms to walk a tightrope..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With the EU's comprehensive AI Act looming, tech giants recognize the writing is on the wall for heightened regulatory scrutiny, compelling them to heavily invest in compliance solutions.",
           "Concurrently, cleantech startups in Southeast Asia are striking while the iron is hot, capitalizing on robust funding and a strategic pivot towards regional supply chain resilience."
         ],
@@ -8307,6 +8339,44 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Indonesia's new 'Digital Nomad Plus' visa is expected to be a real shot in the arm for its eastern provinces, aiming to put destinations like Lombok and Raja Ampat squarely on the map for long-stay visitors.",
+          "This strategic move not only offers a chance for remote workers to truly lay down roots and integrate but also ensures a rising tide lifts all boats for local economies and cultural exchange."
+        ],
+        "sentenceTranslations": [
+          "인도네시아의 새로운 '디지털 노마드 플러스' 비자는 동부 지역에 진정한 활력소가 될 것으로 기대되며, 롬복이나 라자 암팟 같은 목적지를 장기 방문객들에게 제대로 알리는 것을 목표로 하고 있습니다.",
+          "이 전략적인 움직임은 원격 근무자들이 진정으로 정착하고 통합될 기회를 제공할 뿐만 아니라, 지역 경제와 문화 교류 전반에 걸쳐 모든 이에게 혜택이 돌아가도록 할 것입니다."
+        ],
+        "translationHighlights": [
+          "진정한 활력소",
+          "제대로 알리는 것을 목표로",
+          "진정으로 정착하고 통합될",
+          "모든 이에게 혜택이 돌아가도록 할 것입니다"
+        ],
+        "newWords": [
+          {
+            "word": "a real shot in the arm",
+            "meaning": "활력소, 큰 격려",
+            "context": "a real shot in the arm for its eastern provinces"
+          },
+          {
+            "word": "put X squarely on the map",
+            "meaning": "(장소 등을) 유명하게 만들다, 제대로 알리다",
+            "context": "put destinations like Lombok and Raja Ampat squarely on the map"
+          },
+          {
+            "word": "lay down roots",
+            "meaning": "정착하다, 뿌리내리다",
+            "context": "to truly lay down roots and integrate"
+          },
+          {
+            "word": "a rising tide lifts all boats",
+            "meaning": "전반적인 개선이 모두에게 혜택을 주다",
+            "context": "a rising tide lifts all boats for local economies"
+          }
+        ]
+      },
       {
         "sentences": [
           "Following the record-breaking summer driven by the World Cup, the global tourism sector is truly going from strength to strength, with major carriers seeing transatlantic and trans-Pacific demand continue to soar.",
