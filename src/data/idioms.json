@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The news highlights how pervasive, algorithm-driven online content is starting to take its toll on young adults' mental well-being, pushing daily screen time to alarming levels.",
+          "Therefore, empowering users to proactively get a handle on their digital consumption is crucial to foster higher quality engagement, as the WHO recommends."
+        ],
+        "sentenceTranslations": [
+          "뉴스에 따르면, 만연한 알고리즘 기반 온라인 콘텐츠가 젊은 성인들의 정신 건강에 악영향을 미치기 시작하며, 일일 스크린 시간을 우려스러운 수준으로 끌어올리고 있습니다.",
+          "그러므로, WHO가 권고하듯이, 사용자들이 능동적으로 디지털 소비를 관리하고 통제하도록 돕는 것은 더 높은 품질의 참여를 유도하는 데 매우 중요합니다."
+        ],
+        "translationHighlights": [
+          "악영향을 미치기 시작하며",
+          "우려스러운 수준으로",
+          "관리하고 통제하도록 돕는 것",
+          "더 높은 품질의 참여를 유도하는 데"
+        ],
+        "newWords": [
+          {
+            "word": "take its toll",
+            "meaning": "악영향을 미치다, 피해를 주다",
+            "context": "starting to take its toll on young adults' mental well-being"
+          },
+          {
+            "word": "get a handle on",
+            "meaning": "~을 통제하다, ~을 다루는 법을 배우다/이해하다",
+            "context": "get a handle on their digital consumption"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Facing the stubborn reality of 18% office vacancy rates, city councils are finally reading the writing on the wall and fast-tracking plans to repurpose underutilized commercial spaces.",
           "To ensure these ambitious conversions from mere office blocks to dynamic residential and cultural hubs actually come to fruition, local governments are pulling out all the stops with developer incentives and zoning changes."
         ],
@@ -4181,6 +4209,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "NVIDIA's 'Blackwell-V' architecture has truly allowed it to steal a march on its competitors, further intensifying its market lead in AI.",
+          "While the global economy faces a projected slowdown, the AI sector seems to be bucking the trend, though EU regulators are ready to keep a tight rein on market monopolization."
+        ],
+        "sentenceTranslations": [
+          "NVIDIA의 'Blackwell-V' 아키텍처는 경쟁사들보다 확실히 한발 앞서 나가며, AI 시장에서의 주도권을 더욱 공고히 했습니다.",
+          "글로벌 경제가 예상되는 둔화에 직면했음에도 불구하고, AI 부문은 이러한 추세에 역행하는 모습을 보이지만, EU 규제 당국은 시장 독점을 막기 위해 엄격하게 통제할 준비가 되어 있습니다."
+        ],
+        "translationHighlights": [
+          "한발 앞서 나가며",
+          "주도권을 더욱 공고히 했습니다",
+          "추세에 역행하는 모습을 보이지만",
+          "엄격하게 통제할 준비가 되어 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "steal a march on",
+            "meaning": "~보다 한발 앞서 나가다, ~보다 우위를 점하다",
+            "context": "allowed it to steal a march on its competitors"
+          },
+          {
+            "word": "bucking the trend",
+            "meaning": "추세에 역행하다, 대세를 거스르다",
+            "context": "AI sector seems to be bucking the trend"
+          },
+          {
+            "word": "keep a tight rein on",
+            "meaning": "~을 엄격하게 통제하다/관리하다",
+            "context": "ready to keep a tight rein on market monopolization"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Microsoft is clearly riding the crest of a wave with its Azure CoderX launch, which analysts expect to keep them in the driver's seat for enterprise AI innovation.",
           "However, the European Commission's push for new AI data regulations could throw a wrench in the works, forcing global tech firms to walk a tightrope regarding cross-border data sovereignty."
         ],
@@ -8341,6 +8402,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Despite the promising commitment from airlines like Lufthansa to accelerate SAF programs, the glaring lack of robust public sector investment in production remains *the elephant in the room* for achieving net-zero.",
+          "Indeed, as travel to destinations like Thailand and Vietnam truly *hits its stride*, the call from IATA for governments to *put their money where their mouth is* by investing in SAF production becomes deafeningly clear."
+        ],
+        "sentenceTranslations": [
+          "루프트한자 같은 항공사들이 SAF 프로그램 가속화에 대한 유망한 의지를 보이고 있음에도 불구하고, 공공 부문의 강력한 생산 투자가 현저히 부족한 점은 넷제로 달성에 있어 *모두가 알지만 언급하기 꺼리는 문제*로 남아있습니다.",
+          "실제로 태국과 베트남 같은 여행지들이 여름 성수기를 맞아 *본격적인 활기*를 띠면서, IATA가 각국 정부에 SAF 생산에 *실질적인 투자를 하라고 촉구*하는 목소리는 더욱 분명해지고 있습니다."
+        ],
+        "translationHighlights": [
+          "모두가 알지만 언급하기 꺼리는 문제",
+          "본격적인 활기",
+          "실질적인 투자를 하라고 촉구"
+        ],
+        "newWords": [
+          {
+            "word": "the elephant in the room",
+            "meaning": "모두가 알지만 언급하기 꺼리는 문제 (크고 중요한 문제)",
+            "context": "remains *the elephant in the room* for achieving net-zero"
+          },
+          {
+            "word": "hit its stride",
+            "meaning": "본격적인 궤도에 오르다, 활기를 띠다",
+            "context": "as travel to destinations like Thailand and Vietnam truly *hits its stride*"
+          },
+          {
+            "word": "put their money where their mouth is",
+            "meaning": "말한 것을 행동이나 돈으로 증명하다, 실질적인 투자를 하다",
+            "context": "for governments to *put their money where their mouth is* by investing"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Indonesia's new 'Digital Nomad Plus' visa is expected to be a real shot in the arm for its eastern provinces, aiming to put destinations like Lombok and Raja Ampat squarely on the map for long-stay visitors.",
           "This strategic move not only offers a chance for remote workers to truly lay down roots and integrate but also ensures a rising tide lifts all boats for local economies and cultural exchange."
         ],
@@ -12499,6 +12592,40 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "As the World Cup Quarter-Finals hit full swing, the dramatic penalty shootout where France edged out England truly showed how every match comes down to the wire.",
+          "Legendary Iniesta's observation about the immense pressure on young talents perfectly captures the 'sink or swim' reality across elite sports, as esports like the Valorant Champions Tour also make a huge splash globally."
+        ],
+        "sentenceTranslations": [
+          "월드컵 8강전이 한창 진행되면서, 프랑스가 승부차기 끝에 잉글랜드를 간발의 차이로 제치고 이긴 드라마틱한 경기는 모든 경기가 마지막 순간까지 어떻게 예측 불가능하게 진행되는지 여실히 보여주었습니다.",
+          "전설적인 이니에스타가 젊은 선수들에게 가해지는 엄청난 압력에 대해 언급한 것은 엘리트 스포츠 전반의 '자력으로 성공하거나 실패하는' 현실을 완벽하게 포착하며, 발로란트 챔피언스 투어와 같은 e스포츠 또한 전 세계적으로 큰 반향을 일으키고 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "한창 진행되면서",
+          "간발의 차이로 제치고",
+          "마지막 순간까지 어떻게 예측 불가능하게 진행되는지",
+          "자력으로 성공하거나 실패하는 현실",
+          "큰 반향을 일으키고 있음을 보여줍니다"
+        ],
+        "newWords": [
+          {
+            "word": "hit full swing",
+            "meaning": "한창 진행되다; 절정에 이르다",
+            "context": "Quarter-Finals hit full swing"
+          },
+          {
+            "word": "come down to the wire",
+            "meaning": "결과가 마지막 순간까지 가봐야 알 수 있다; 예측 불가능하게 진행되다",
+            "context": "comes down to the wire"
+          },
+          {
+            "word": "sink or swim",
+            "meaning": "자력으로 성공하거나 실패하다; 각자 살아남거나 도태되다",
+            "context": "the 'sink or swim' reality"
+          }
+        ]
+      },
       {
         "sentences": [
           "After Brazil's historic win, speculation around Kylian Mbappé's future suggests he might be looking to **turn over a new leaf**, with a potential move to Al-Hilal poised to **send ripples through the entire football world**.",
