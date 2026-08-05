@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The Echo Serenity update truly has its finger on the pulse of modern digital fatigue, proactively suggesting breaks to help users maintain peak performance.",
+          "This innovative AI approach is clearly helping remote workers turn the tide against screen overload, demonstrating how smart tech can pay dividends for long-term well-being."
+        ],
+        "sentenceTranslations": [
+          "Echo Serenity 업데이트는 현대인의 디지털 피로에 대한 흐름을 정확히 읽고, 사용자들이 최적의 성과를 유지할 수 있도록 선제적으로 휴식을 제안합니다.",
+          "이 혁신적인 AI 접근 방식은 원격 근무자들이 화면 과부하에 맞서 상황을 바꾸는 데 확실히 도움이 되고 있으며, 스마트 기술이 장기적인 웰빙에 값진 결과를 가져올 수 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "흐름을 정확히 읽고",
+          "디지털 피로",
+          "상황을 바꾸는",
+          "값진 결과를 가져올 수 있음"
+        ],
+        "newWords": [
+          {
+            "word": "have one's finger on the pulse",
+            "meaning": "흐름을 정확히 읽다 / 현재 상황이나 사람들의 요구를 잘 알고 있다",
+            "context": "has its finger on the pulse of modern digital fatigue"
+          },
+          {
+            "word": "turn the tide",
+            "meaning": "상황을 역전시키다 / 불리한 상황을 유리하게 바꾸다",
+            "context": "helping remote workers turn the tide against screen overload"
+          },
+          {
+            "word": "pay dividends",
+            "meaning": "값진 결과를 가져오다 / 나중에 이익이나 보상을 가져다주다",
+            "context": "smart tech can pay dividends for long-term well-being"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The news highlights how pervasive, algorithm-driven online content is starting to take its toll on young adults' mental well-being, pushing daily screen time to alarming levels.",
           "Therefore, empowering users to proactively get a handle on their digital consumption is crucial to foster higher quality engagement, as the WHO recommends."
         ],
@@ -4209,6 +4242,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Nvidia is undoubtedly *riding the crest of a wave*, with demand for its next-gen GPUs truly starting to *hit its stride* and reshape global data center investments.",
+          "Recognizing this pivotal shift, Microsoft has decided to *double down on* proprietary AI model development, understanding that owning the full stack is paramount for their long-term competitive advantage."
+        ],
+        "sentenceTranslations": [
+          "엔비디아는 차세대 GPU 수요가 본격적으로 궤도에 오르며 전 세계 데이터 센터 투자를 재편하고 있어, 의심할 여지 없이 전례 없는 성공을 거두고 있습니다.",
+          "이러한 중요한 변화를 인지한 마이크로소프트는 전체 AI 스택을 소유하는 것이 장기적인 경쟁 우위를 위해 무엇보다 중요하다고 이해하고 독자적인 AI 모델 개발에 투자를 강화하기로 결정했습니다."
+        ],
+        "translationHighlights": [
+          "전례 없는 성공을 거두고 있습니다",
+          "본격적으로 궤도에 오르며",
+          "투자를 강화하기로 결정했습니다"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "최고의 성공을 누리다, 잘나가다",
+            "context": "Nvidia is undoubtedly *riding the crest of a wave*"
+          },
+          {
+            "word": "hit its stride",
+            "meaning": "본격적으로 궤도에 오르다, 제 실력을 발휘하기 시작하다",
+            "context": "truly starting to *hit its stride*"
+          },
+          {
+            "word": "double down on",
+            "meaning": "~에 투자를 강화하다, ~에 더욱 전념하다",
+            "context": "decided to *double down on* proprietary AI model development"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "NVIDIA's 'Blackwell-V' architecture has truly allowed it to steal a march on its competitors, further intensifying its market lead in AI.",
           "While the global economy faces a projected slowdown, the AI sector seems to be bucking the trend, though EU regulators are ready to keep a tight rein on market monopolization."
         ],
@@ -8402,6 +8467,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With its new day-tripper fee, Venice is walking a tightrope, aiming to preserve its unique charm without alienating the very tourists who keep its economy afloat.",
+          "Meanwhile, as Southeast Asia continues to ride the wave of burgeoning tourism, regional carriers like Batik Air are putting their money where their mouth is by investing heavily in sustainable aviation fuels."
+        ],
+        "sentenceTranslations": [
+          "새로운 당일치기 방문객 요금 도입으로 베니스는 그 독특한 매력을 보존하면서도 경제를 지탱하는 바로 그 관광객들을 소외시키지 않으려 아슬아슬한 줄타기를 하고 있습니다.",
+          "한편, 동남아시아가 급증하는 관광의 물결을 계속 타고 있는 가운데, Batik Air와 같은 역내 항공사들은 지속 가능한 항공 연료에 대규모 투자를 하며 말 그대로 자신들의 약속을 이행하고 있습니다."
+        ],
+        "translationHighlights": [
+          "아슬아슬한 줄타기를 하고 있습니다",
+          "경제를 지탱하는",
+          "관광의 물결을 계속 타고 있는",
+          "약속을 이행하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "walk a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다 (위험하거나 어려운 상황에서 균형을 잡으려 애쓰다)",
+            "context": "Venice is walking a tightrope"
+          },
+          {
+            "word": "ride the wave",
+            "meaning": "물결을 타다, 흐름을 타다 (어떤 추세나 기회를 이용하여 이득을 보다)",
+            "context": "continues to ride the wave"
+          },
+          {
+            "word": "put one's money where one's mouth is",
+            "meaning": "말로만 하는 것이 아니라 실제 행동(특히 금전적 투자)으로 보여주다/실천하다",
+            "context": "are putting their money where their mouth is"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Despite the promising commitment from airlines like Lufthansa to accelerate SAF programs, the glaring lack of robust public sector investment in production remains *the elephant in the room* for achieving net-zero.",
           "Indeed, as travel to destinations like Thailand and Vietnam truly *hits its stride*, the call from IATA for governments to *put their money where their mouth is* by investing in SAF production becomes deafeningly clear."
         ],
@@ -12592,6 +12690,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Carlos Alcaraz, unfazed by his recent stumble, is clearly pulling out all the stops, meticulously fine-tuning his serve with the US Open on the horizon.",
+          "Meanwhile, Rybakina's hard-fought victory over Gauff has set the stage for an electrifying major, as the hard-court season is truly hitting its stride and fan excitement reaches a fever pitch."
+        ],
+        "sentenceTranslations": [
+          "최근의 부진에도 흔들리지 않는 카를로스 알카라스는, 다가오는 US 오픈을 앞두고 서브를 세심하게 조율하며 모든 노력을 쏟아붓고 있습니다.",
+          "한편, 리바키나의 접전 끝 승리는 짜릿한 메이저 대회를 위한 발판을 마련했으며, 하드 코트 시즌은 이제 정말 본궤도에 오르고 팬들의 열기는 최고조에 달하고 있습니다."
+        ],
+        "translationHighlights": [
+          "모든 노력을 쏟아붓고 있습니다",
+          "다가오는",
+          "본궤도에 오르고",
+          "최고조에 달하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "pulling out all the stops",
+            "meaning": "모든 노력을 쏟다, 총력을 기울이다",
+            "context": "clearly pulling out all the stops, meticulously fine-tuning"
+          },
+          {
+            "word": "hitting its stride",
+            "meaning": "본궤도에 오르다, 순조롭게 진행되다",
+            "context": "the hard-court season is truly hitting its stride"
+          },
+          {
+            "word": "reaches a fever pitch",
+            "meaning": "열기가 최고조에 달하다",
+            "context": "fan excitement reaches a fever pitch"
+          }
+        ]
+      },
       {
         "sentences": [
           "As the World Cup Quarter-Finals hit full swing, the dramatic penalty shootout where France edged out England truly showed how every match comes down to the wire.",
