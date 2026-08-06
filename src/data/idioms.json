@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With AI-powered wearables catching on like wildfire, the personalized longevity market is proving to be a game changer for health optimization.",
+          "Consumers are now actively using these insights to stay ahead of the curve, transforming wellness from a reactive measure into a proactive lifestyle."
+        ],
+        "sentenceTranslations": [
+          "AI 기반 웨어러블 기기가 들불처럼 빠르게 퍼져나가면서, 맞춤형 장수 시장은 건강 최적화에 획기적인 변화를 가져오고 있습니다.",
+          "이제 소비자들은 이러한 정보를 적극적으로 활용하여 변화에 앞서나가며, 건강 관리를 단순히 반응하는 조치에서 적극적인 라이프스타일로 변화시키고 있습니다."
+        ],
+        "translationHighlights": [
+          "들불처럼 빠르게 퍼져나가면서",
+          "획기적인 변화를 가져오고",
+          "변화에 앞서나가며"
+        ],
+        "newWords": [
+          {
+            "word": "catching on like wildfire",
+            "meaning": "들불처럼 빠르게 퍼지다/유행하다, 급속히 인기를 얻다",
+            "context": "AI-powered wearables catching on like wildfire"
+          },
+          {
+            "word": "game changer",
+            "meaning": "판도를 바꾸는 것, 획기적인 변화를 가져오는 것",
+            "context": "proving to be a game changer"
+          },
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "변화에 앞서나가다, 시대의 흐름을 놓치지 않다",
+            "context": "to stay ahead of the curve"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The Echo Serenity update truly has its finger on the pulse of modern digital fatigue, proactively suggesting breaks to help users maintain peak performance.",
           "This innovative AI approach is clearly helping remote workers turn the tide against screen overload, demonstrating how smart tech can pay dividends for long-term well-being."
         ],
@@ -4242,6 +4274,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With Aura 2.0's superior reasoning, Google DeepMind has clearly raised the bar for enterprise AI, putting immense pressure on competitors.",
+          "This move is forcing rivals like Microsoft and OpenAI to up the ante with Project Chimera, as they scramble not to be left behind."
+        ],
+        "sentenceTranslations": [
+          "Aura 2.0의 탁월한 추론 능력으로, Google DeepMind는 엔터프라이즈 AI 분야의 기준을 명확히 끌어올렸고, 경쟁사들에게 엄청난 압박을 가하고 있습니다.",
+          "이러한 움직임은 Microsoft와 OpenAI 같은 경쟁사들이 뒤처지지 않기 위해 서두르면서, Project Chimera로 판돈을 더 걸도록 강요하고 있습니다."
+        ],
+        "translationHighlights": [
+          "기준을 명확히 끌어올렸고",
+          "엄청난 압박을 가하고 있습니다",
+          "판돈을 더 걸도록",
+          "뒤처지지 않기 위해 서두르면서"
+        ],
+        "newWords": [
+          {
+            "word": "raise the bar",
+            "meaning": "기준을 높이다, 기대치를 올리다",
+            "context": "Google DeepMind has clearly raised the bar for enterprise AI"
+          },
+          {
+            "word": "up the ante",
+            "meaning": "판돈을 올리다, (경쟁 등에서) 요구 수준이나 위험 부담을 높이다",
+            "context": "forcing rivals like Microsoft and OpenAI to up the ante"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Nvidia is undoubtedly *riding the crest of a wave*, with demand for its next-gen GPUs truly starting to *hit its stride* and reshape global data center investments.",
           "Recognizing this pivotal shift, Microsoft has decided to *double down on* proprietary AI model development, understanding that owning the full stack is paramount for their long-term competitive advantage."
         ],
@@ -8465,6 +8525,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Amidst the record-breaking European heatwave, visitor numbers in popular Greek archaeological sites have come to a head, compelling the Ministry of Tourism to implement daily caps.",
+          "This immediate shift in travel preferences has made it plain as day for airlines like Finnair to strike while the iron is hot by rapidly expanding capacity to cooler Nordic capitals and niche cultural destinations."
+        ],
+        "sentenceTranslations": [
+          "기록적인 유럽 폭염 속에서 인기 있는 그리스 고고학 유적지의 방문객 수가 최고조에 달했고, 이는 관광부가 일일 입장객 수 제한을 시행하도록 만들었습니다.",
+          "이러한 즉각적인 여행 선호도 변화는 핀에어와 같은 항공사들에게 더 시원한 북유럽 수도와 틈새 문화 목적지로의 운항 능력을 신속하게 확장함으로써 기회를 놓치지 말아야 한다는 것을 명백하게 보여주었습니다."
+        ],
+        "translationHighlights": [
+          "최고조에 달했고",
+          "명백하게 보여주었습니다",
+          "기회를 놓치지 말아야 한다는 것",
+          "틈새 문화 목적지"
+        ],
+        "newWords": [
+          {
+            "word": "come to a head",
+            "meaning": "위기나 결정적인 순간에 이르다; 극에 달하다",
+            "context": "visitor numbers in popular Greek archaeological sites have come to a head"
+          },
+          {
+            "word": "plain as day",
+            "meaning": "아주 명백한; 두말할 나위 없는",
+            "context": "has made it plain as day for airlines like Finnair"
+          },
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회를 놓치지 않다; 적절한 때를 이용하여 행동하다",
+            "context": "to strike while the iron is hot by rapidly expanding capacity"
+          }
+        ]
+      },
       {
         "sentences": [
           "With its new day-tripper fee, Venice is walking a tightrope, aiming to preserve its unique charm without alienating the very tourists who keep its economy afloat.",
