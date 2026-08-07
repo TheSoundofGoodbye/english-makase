@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Many in the burgeoning freelance economy, often juggling multiple balls with varied income streams, are quickly getting on the bandwagon with AI financial advisors to keep their finances in order.",
+          "Yet, privacy advocates and regulators are putting these platforms under the microscope, fearing that lax oversight might open a Pandora's Box of unforeseen data security issues and algorithmic biases."
+        ],
+        "sentenceTranslations": [
+          "다양한 수입원으로 여러 가지 일을 동시에 처리해야 하는 급성장하는 프리랜서 경제의 많은 이들이 재정 관리를 위해 AI 금융 자문 서비스에 빠르게 합류하고 있습니다.",
+          "하지만 사생활 보호 옹호자들과 규제 당국은 느슨한 감독이 예상치 못한 데이터 보안 문제와 알고리즘 편향의 판도라의 상자를 열 수도 있다는 우려로 이 플랫폼들을 면밀히 조사하고 있습니다."
+        ],
+        "translationHighlights": [
+          "여러 가지 일을 동시에 처리해야 하는",
+          "빠르게 합류하고 있습니다",
+          "면밀히 조사하고 있습니다",
+          "판도라의 상자를 열 수도 있다는 우려로"
+        ],
+        "newWords": [
+          {
+            "word": "juggling multiple balls",
+            "meaning": "여러 가지 일을 동시에 처리하다, 여러 책임을 다루다",
+            "context": "often juggling multiple balls with varied income streams"
+          },
+          {
+            "word": "getting on the bandwagon",
+            "meaning": "유행에 편승하다, 인기 있는 활동에 동참하다",
+            "context": "are quickly getting on the bandwagon with AI financial advisors"
+          },
+          {
+            "word": "open a Pandora's Box",
+            "meaning": "예상치 못한 온갖 문제들을 일으키다, 판도라의 상자를 열다",
+            "context": "might open a Pandora's Box of unforeseen data security issues"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With AI-powered wearables catching on like wildfire, the personalized longevity market is proving to be a game changer for health optimization.",
           "Consumers are now actively using these insights to stay ahead of the curve, transforming wellness from a reactive measure into a proactive lifestyle."
         ],
@@ -4272,6 +4305,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Microsoft's substantial additional investment in \"Project Olympus\" signals their strategy to double down on next-gen AI, effectively looking to get ahead of the curve in securing computational independence.",
+          "This proactive stance, alongside the EU's efforts to get their ducks in a row for critical mineral supplies, highlights how major players are adapting to navigate increasingly complex global supply chains."
+        ],
+        "sentenceTranslations": [
+          "마이크로소프트가 \"프로젝트 올림푸스\"에 상당한 추가 투자를 단행한 것은 차세대 AI에 대한 집중적인 투자 전략을 보여주며, 연산 독립성을 확보하기 위해 미래 흐름을 선점하려는 의도를 분명히 합니다.",
+          "이러한 선제적인 자세는 EU가 핵심 광물 공급을 위해 만반의 준비를 하는 노력과 함께, 주요 기업들이 점점 더 복잡해지는 글로벌 공급망을 어떻게 헤쳐나가는지 잘 보여줍니다."
+        ],
+        "translationHighlights": [
+          "집중적인 투자 전략",
+          "미래 흐름을 선점하려는 의도",
+          "만반의 준비를 하는 노력",
+          "헤쳐나가는지"
+        ],
+        "newWords": [
+          {
+            "word": "double down",
+            "meaning": "위험을 감수하고 어떤 것에 대한 투자나 노력을 두 배로 늘리다; (특히 어려운 상황에서) 특정 전략이나 입장을 더욱 강화하다.",
+            "context": "Microsoft's ... signals their strategy to double down on next-gen AI..."
+          },
+          {
+            "word": "get ahead of the curve",
+            "meaning": "변화나 트렌드를 미리 예측하여 앞서나가다; 최신 동향을 파악하고 미리 대처하다.",
+            "context": "...effectively looking to get ahead of the curve in securing computational independence."
+          },
+          {
+            "word": "get their ducks in a row",
+            "meaning": "모든 것을 잘 정리하고 준비하다; 계획을 체계적으로 세우다.",
+            "context": "...the EU's efforts to get their ducks in a row for critical mineral supplies..."
+          }
+        ]
+      },
       {
         "sentences": [
           "With Aura 2.0's superior reasoning, Google DeepMind has clearly raised the bar for enterprise AI, putting immense pressure on competitors.",
