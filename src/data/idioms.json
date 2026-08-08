@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While advanced smart home hubs offer incredible convenience, the reported daily collection of 12 gigabytes of personal data has proven to be a double-edged sword for many households.",
+          "This passive data harvesting has truly opened a can of worms regarding privacy, leading more consumers to go back to basics and seek low-tech alternatives."
+        ],
+        "sentenceTranslations": [
+          "최첨단 스마트 홈 허브가 놀라운 편리함을 제공하는 한편, 매일 12기가바이트의 개인 데이터를 수집한다는 보도는 많은 가정에게 양날의 검이 되었음이 입증되었습니다.",
+          "이러한 수동적인 데이터 수확은 프라이버시에 대한 판도라의 상자를 열었으며, 결과적으로 더 많은 소비자들이 기본으로 돌아가 저기술 대안을 찾도록 이끌고 있습니다."
+        ],
+        "translationHighlights": [
+          "양날의 검",
+          "판도라의 상자를 열었으며",
+          "기본으로 돌아가"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 면과 나쁜 면을 동시에 가진 것)",
+            "context": "proven to be a **double-edged sword** for many households"
+          },
+          {
+            "word": "open a can of worms",
+            "meaning": "판도라의 상자를 열다 (해결하기 어려운 복잡한 문제를 일으키다)",
+            "context": "has truly **opened a can of worms** regarding privacy"
+          },
+          {
+            "word": "go back to basics",
+            "meaning": "기본으로 돌아가다 (더 단순하고 근본적인 방법으로 돌아가다)",
+            "context": "consumers to **go back to basics** and seek low-tech alternatives"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Many in the burgeoning freelance economy, often juggling multiple balls with varied income streams, are quickly getting on the bandwagon with AI financial advisors to keep their finances in order.",
           "Yet, privacy advocates and regulators are putting these platforms under the microscope, fearing that lax oversight might open a Pandora's Box of unforeseen data security issues and algorithmic biases."
         ],
@@ -4307,6 +4339,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Even as the Fed's hawkish stance cast a pall over the broader market, NVIDIA's Spectra chips are clearly bucking the trend with overwhelming pre-orders.",
+          "While Chairman Powell's unwavering commitment to price stability suggests the economy may be in for a rough ride, the resilience in European utility stocks shows some sectors are truly built to weather the storm."
+        ],
+        "sentenceTranslations": [
+          "연준의 매파적 태도가 전반적인 시장에 그림자를 드리웠음에도 불구하고, 엔비디아의 스펙트라 칩은 압도적인 선주문으로 분명히 대세를 거스르고 있습니다.",
+          "파월 의장의 물가 안정에 대한 확고한 의지가 경제가 힘든 시기를 겪을 것임을 시사하지만, 유럽 유틸리티 주식의 회복력은 일부 부문이 진정으로 난관을 극복하도록 만들어졌음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "그림자를 드리웠음에도 불구하고",
+          "대세를 거스르고 있습니다",
+          "난관을 극복하도록 만들어졌음을"
+        ],
+        "newWords": [
+          {
+            "word": "cast a pall over",
+            "meaning": "어두운 그림자를 드리우다, 암울한 분위기를 조성하다",
+            "context": "the Fed's hawkish stance cast a pall over the broader market"
+          },
+          {
+            "word": "bucking the trend",
+            "meaning": "대세를 거스르다, 일반적인 추세에 역행하다",
+            "context": "NVIDIA's Spectra chips are clearly bucking the trend"
+          },
+          {
+            "word": "weather the storm",
+            "meaning": "어려운 시기를 잘 헤쳐나가다, 난관을 극복하다",
+            "context": "some sectors are truly built to weather the storm"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Microsoft's substantial additional investment in \"Project Olympus\" signals their strategy to double down on next-gen AI, effectively looking to get ahead of the curve in securing computational independence.",
           "This proactive stance, alongside the EU's efforts to get their ducks in a row for critical mineral supplies, highlights how major players are adapting to navigate increasingly complex global supply chains."
         ],
@@ -8591,6 +8655,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The \"Saudi Adventure Visa\" has proven to be an absolute game changer, helping Saudi Arabia go from strength to strength in reshaping the global tourism landscape.",
+          "Major airlines are now striking while the iron's hot, aggressively expanding flight capacities to cater to the growing demand for experiential travel to the Kingdom."
+        ],
+        "sentenceTranslations": [
+          "\"사우디 어드벤처 비자\"는 글로벌 관광 지형을 재편하는 데 있어 판도를 완전히 바꾸어 놓았으며, 사우디아라비아가 더욱 승승장구하도록 돕고 있습니다.",
+          "주요 항공사들은 현재 쇠뿔도 단김에 빼듯, 사우디아라비아의 체험 여행에 대한 늘어나는 수요를 충족시키기 위해 공격적으로 항공편 수용력을 확대하고 있습니다."
+        ],
+        "translationHighlights": [
+          "판도를 완전히 바꾸어 놓았으며",
+          "승승장구하도록 돕고 있습니다",
+          "쇠뿔도 단김에 빼듯",
+          "공격적으로 항공편 수용력을 확대하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "an absolute game changer",
+            "meaning": "판도를 완전히 바꾸는 것, 혁신적인 변화를 가져오는 것",
+            "context": "proven to be an absolute game changer"
+          },
+          {
+            "word": "go from strength to strength",
+            "meaning": "점점 더 강해지다, 계속해서 성공하다 (승승장구하다)",
+            "context": "helping Saudi Arabia go from strength to strength"
+          },
+          {
+            "word": "strike while the iron's hot",
+            "meaning": "기회가 있을 때 즉시 행동하다 (쇠뿔도 단김에 빼다)",
+            "context": "are now striking while the iron's hot"
+          }
+        ]
+      },
       {
         "sentences": [
           "Amidst the record-breaking European heatwave, visitor numbers in popular Greek archaeological sites have come to a head, compelling the Ministry of Tourism to implement daily caps.",
