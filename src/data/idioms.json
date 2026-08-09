@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Major cities, once thriving on a daily influx of commuters, now find themselves having to change horses in midstream as hybrid work patterns become the norm.",
+          "Smaller satellite towns are certainly having their day in the sun, as professionals increasingly pull up stakes from expensive metropolises to prioritize lifestyle over the daily grind."
+        ],
+        "sentenceTranslations": [
+          "한때 매일 유입되는 통근자들로 번성했던 주요 도시들은 이제 하이브리드 근무 형태가 표준이 되면서 도중에 정책을 바꿔야 하는 상황에 처했습니다.",
+          "작은 위성 도시들은 확실히 전성기를 맞고 있으며, 전문가들은 비싼 대도시에서 짐을 싸서 떠나 일상의 고된 노동보다 삶의 질을 우선시하고 있습니다."
+        ],
+        "translationHighlights": [
+          "통근자들로 번성했던",
+          "도중에 정책을 바꿔야 하는 상황에 처했습니다",
+          "확실히 전성기를 맞고 있으며",
+          "짐을 싸서 떠나"
+        ],
+        "newWords": [
+          {
+            "word": "change horses in midstream",
+            "meaning": "진행 중인 계획이나 방침을 도중에 바꾸다",
+            "context": "having to change horses in midstream"
+          },
+          {
+            "word": "have one's day in the sun",
+            "meaning": "전성기를 누리다, 주목받는 시기를 보내다",
+            "context": "having their day in the sun"
+          },
+          {
+            "word": "pull up stakes",
+            "meaning": "살던 곳이나 일하던 곳을 떠나 이사하다",
+            "context": "pull up stakes from expensive metropolises"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While advanced smart home hubs offer incredible convenience, the reported daily collection of 12 gigabytes of personal data has proven to be a double-edged sword for many households.",
           "This passive data harvesting has truly opened a can of worms regarding privacy, leading more consumers to go back to basics and seek low-tech alternatives."
         ],
@@ -4339,6 +4372,33 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Google DeepMind's anticipated breakthrough in self-improving foundation models places the AI industry on the cusp of a new era, promising to redefine enterprise solutions.",
+          "However, with pending federal AI safety regulations and the significant hurdles of ethical implications and computational costs, industry players truly have their work cut out for them to ensure broad commercial deployment."
+        ],
+        "sentenceTranslations": [
+          "구글 딥마인드의 자체 개선 기반 모델의 예상되는 혁신은 AI 산업을 새로운 시대의 문턱에 서게 하며, 기업 솔루션을 재정의할 것으로 기대됩니다.",
+          "하지만, 계류 중인 연방 AI 안전 규제와 윤리적 함의 및 계산 비용이라는 중대한 난관들을 고려할 때, 업계 관계자들은 광범위한 상업적 배포를 위해 정말 많은 노력을 기울여야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "새로운 시대의 문턱에 서게 하며",
+          "중대한 난관들을 고려할 때",
+          "정말 많은 노력을 기울여야 할 것입니다"
+        ],
+        "newWords": [
+          {
+            "word": "on the cusp of (a new era)",
+            "meaning": "~의 문턱에 있는, (새로운 시대가) 막 시작되려는",
+            "context": "places the AI industry on the cusp of a new era"
+          },
+          {
+            "word": "have one's work cut out for them",
+            "meaning": "많은 어렵거나 힘든 일이 기다리고 있다, 할 일이 많다",
+            "context": "industry players truly have their work cut out for them"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Even as the Fed's hawkish stance cast a pall over the broader market, NVIDIA's Spectra chips are clearly bucking the trend with overwhelming pre-orders.",
           "While Chairman Powell's unwavering commitment to price stability suggests the economy may be in for a rough ride, the resilience in European utility stocks shows some sectors are truly built to weather the storm."
         ],
@@ -8657,6 +8717,34 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With eased visa requirements, popular Southeast Asian destinations like Da Nang and Hoi An are truly riding the crest of a wave, seeing an unprecedented surge in visitors.",
+          "Meanwhile, the UNWTO's latest report indicates that travelers are increasingly reading the writing on the wall, favoring slow travel experiences for a more profound cultural immersion over rapid itinerary hopping."
+        ],
+        "sentenceTranslations": [
+          "비자 요건 완화 덕분에, 다낭과 호이안 같은 인기 동남아시아 목적지들은 전례 없는 방문객 증가를 기록하며 진정으로 절정기를 맞고 있습니다.",
+          "한편, UNWTO의 최신 보고서는 여행자들이 점점 더 시대의 흐름을 읽고 있으며, 빠른 일정 소화보다는 보다 깊이 있는 문화 몰입을 위한 슬로우 트래블 경험을 선호하고 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "절정기를 맞고 있습니다",
+          "전례 없는 방문객 증가",
+          "시대의 흐름을 읽고 있으며",
+          "깊이 있는 문화 몰입"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "절정기를 맞다, 최고의 인기를 누리다",
+            "context": "are truly riding the crest of a wave"
+          },
+          {
+            "word": "reading the writing on the wall",
+            "meaning": "시대의 흐름을 읽다, 미래를 예측하다",
+            "context": "are increasingly reading the writing on the wall"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The \"Saudi Adventure Visa\" has proven to be an absolute game changer, helping Saudi Arabia go from strength to strength in reshaping the global tourism landscape.",
           "Major airlines are now striking while the iron's hot, aggressively expanding flight capacities to cater to the growing demand for experiential travel to the Kingdom."
         ],
@@ -12946,6 +13034,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Despite a recent ankle scare, Carlos Alcaraz is clearly firing on all cylinders, ready to defend his US Open title with full force.",
+          "Similarly, the Valorant Champions 2026 is riding high on an unprecedented surge in viewership, truly capturing the global esports spotlight."
+        ],
+        "sentenceTranslations": [
+          "최근 발목 부상에도 불구하고, 카를로스 알카라스는 최고의 능력을 발휘하며 US 오픈 타이틀 방어 준비에 만전을 기하고 있습니다.",
+          "마찬가지로, 발로란트 챔피언스 2026은 전례 없는 시청자 수 급증으로 큰 성공을 거두고 있으며, 진정으로 전 세계 e스포츠의 이목을 사로잡고 있습니다."
+        ],
+        "translationHighlights": [
+          "최고의 능력을 발휘하며",
+          "큰 성공을 거두고 있으며",
+          "전례 없는 시청자 수 급증",
+          "이목을 사로잡고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고의 능력을 발휘하다, 전력을 다하다",
+            "context": "Carlos Alcaraz is clearly firing on all cylinders"
+          },
+          {
+            "word": "riding high",
+            "meaning": "큰 성공을 거두고 있다, 한창 잘 나가다",
+            "context": "the Valorant Champions 2026 is riding high"
+          }
+        ]
+      },
       {
         "sentences": [
           "Carlos Alcaraz, unfazed by his recent stumble, is clearly pulling out all the stops, meticulously fine-tuning his serve with the US Open on the horizon.",
