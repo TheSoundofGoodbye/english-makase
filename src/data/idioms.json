@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While FinGenie AI is certainly riding high with its rapid user growth, the hyper-personalization of financial advice, integrated with daily spending, proves to be a double-edged sword.",
+          "This integration could make financial management easier, but consumer watchdogs are sounding the alarm about potential algorithmic bias and data privacy concerns, urging us not to let AI call the shots entirely."
+        ],
+        "sentenceTranslations": [
+          "FinGenie AI가 빠른 사용자 증가로 분명히 승승장구하고 있지만, 일상 소비와 연동된 초개인화된 재정 조언은 양날의 검임이 드러나고 있습니다.",
+          "이러한 연동은 재정 관리를 더 쉽게 만들 수도 있지만, 소비자 감시 단체들은 잠재적인 알고리즘 편향 및 데이터 개인 정보 보호 문제에 대해 경고하며, AI가 우리의 재정을 완전히 좌지우지하도록 내버려 두지 말라고 촉구하고 있습니다."
+        ],
+        "translationHighlights": [
+          "승승장구하고 있지만",
+          "양날의 검",
+          "경고하며",
+          "좌지우지하도록"
+        ],
+        "newWords": [
+          {
+            "word": "riding high",
+            "meaning": "승승장구하다, 잘나가다",
+            "context": "While FinGenie AI is certainly riding high..."
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (이점과 단점을 동시에 지닌 것)",
+            "context": "...proves to be a double-edged sword."
+          },
+          {
+            "word": "call the shots",
+            "meaning": "~을 좌지우지하다, 결정권을 갖다",
+            "context": "...not to let AI call the shots entirely."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With prompt engineering becoming a rapidly monetized skill, Gen Z professionals are truly making hay while the sun shines by embracing AI-assisted gig work.",
           "This financial agility underscores the wisdom of not putting all your eggs in one basket, as managing diverse AI-driven income streams offers greater resilience in today's economy."
         ],
@@ -4400,6 +4433,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With NVIDIA projecting significant growth, tech giants are pulling out all the stops in the escalating battle for advanced AI compute capacity, making it a truly cut-throat market.",
+          "Conversely, despite the broader venture capital market proving to be a tough nut to crack due to tightening economic conditions, investors are putting their money where their mouth is by funding sustainable innovation like TerraForm Solutions."
+        ],
+        "sentenceTranslations": [
+          "NVIDIA가 상당한 성장을 예상하면서, 거대 기술 기업들은 고성능 AI 컴퓨팅 역량을 확보하기 위한 치열한 경쟁에서 총력을 다하고 있어, 시장은 그야말로 피 튀기는 전쟁터가 되고 있습니다.",
+          "반대로, 긴축되는 경제 상황으로 인해 전반적인 벤처 캐피탈 시장은 쉽지 않은 난관에 부딪혔음에도 불구하고, 투자자들은 TerraForm Solutions와 같은 지속 가능한 혁신에 자금을 지원하며 자신들이 믿는 바에 따라 투자하고 있습니다."
+        ],
+        "translationHighlights": [
+          "총력을 다하고 있어",
+          "쉽지 않은 난관에 부딪혔음에도 불구하고",
+          "자신들이 믿는 바에 따라 투자하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "pulling out all the stops",
+            "meaning": "총력을 다하다, 모든 수단을 동원하다",
+            "context": "tech giants are *pulling out all the stops* in the escalating battle"
+          },
+          {
+            "word": "a tough nut to crack",
+            "meaning": "해결하기 어려운 문제/난관",
+            "context": "the broader venture capital market proving to be *a tough nut to crack*"
+          },
+          {
+            "word": "put one's money where one's mouth is",
+            "meaning": "(자신이 말한 대로) 돈을 투자하다, 행동으로 보여주다",
+            "context": "investors are *putting their money where their mouth is* by funding sustainable innovation"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The WTO's stark warning about global trade fragmentation suggests that the writing is on the wall for a potentially significant drag on recovering economies, beyond just the Eurozone's projected slowdown.",
           "Meanwhile, if Microsoft successfully acquires Nexus Dynamics, it could effectively steal a march on competitors, integrating advanced perception AI directly into their Azure ecosystem."
         ],
@@ -8773,6 +8838,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Qatar Airways is clearly striking while the iron's hot by launching direct routes to Ho Chi Minh City and Penang, aiming to tap into the booming demand for Southeast Asian cultural experiences and digital nomad communities.",
+          "This strategic expansion allows them to get ahead of the curve in catering to travelers who prioritize immersive journeys over conventional resort stays."
+        ],
+        "sentenceTranslations": [
+          "카타르항공은 호치민시와 페낭 직항 노선을 개설하며 동남아시아 문화 체험 및 디지털 노마드 커뮤니티의 폭발적인 수요를 적극적으로 활용하려는 기회를 놓치지 않고 있습니다.",
+          "이러한 전략적 확장은 기존 리조트 숙박보다 몰입형 여행을 우선시하는 여행객들의 요구에 미리 대응하여 시장을 선점하는 데 도움이 됩니다."
+        ],
+        "translationHighlights": [
+          "기회를 놓치지 않고 있습니다",
+          "적극적으로 활용하려는",
+          "미리 대응하여",
+          "시장을 선점하는 데"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron's hot",
+            "meaning": "기회를 놓치지 않고 즉시 행동하다",
+            "context": "Qatar Airways is clearly striking while the iron's hot by launching direct routes..."
+          },
+          {
+            "word": "tap into",
+            "meaning": "~을 활용하다, ~에 접근하다",
+            "context": "...aiming to tap into the booming demand for Southeast Asian cultural experiences..."
+          },
+          {
+            "word": "get ahead of the curve",
+            "meaning": "트렌드를 미리 파악하여 앞서나가다/선점하다",
+            "context": "...allows them to get ahead of the curve in catering to travelers..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Kyoto's innovative Cultural Access Pass has proven to be a game changer, effectively turning the tide on overtourism in traditional hot spots and redirecting visitors.",
           "Airlines, keen to get ahead of the curve, are now adjusting their schedules to secondary airports, hoping to strike while the iron's hot and capitalize on this growing demand for authentic, dispersed travel."
         ],
@@ -13123,6 +13221,32 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Arsenal's rumored €90 million bid suggests they are willing to pull out all the stops to secure Gavi.",
+          "To successfully land him, Arsenal's management will need to convince Gavi to buy into their project wholeheartedly, as manager Arteta emphasized."
+        ],
+        "sentenceTranslations": [
+          "아스날의 9천만 유로 이적설은 가비를 영입하기 위해 총력을 기울일 의지가 있음을 시사합니다.",
+          "그를 성공적으로 영입하기 위해서는 아르테타 감독이 강조했듯이, 아스날 경영진은 가비가 그들의 프로젝트를 전적으로 수용하도록 설득해야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "총력을 기울일",
+          "전적으로 수용하도록"
+        ],
+        "newWords": [
+          {
+            "word": "pull out all the stops",
+            "meaning": "총력을 기울이다, 모든 수단을 동원하다",
+            "context": "willing to pull out all the stops"
+          },
+          {
+            "word": "buy into (a project/idea)",
+            "meaning": "(~을) 전적으로 믿고 지지하다/수용하다, 공감하여 동참하다",
+            "context": "convince Gavi to buy into their project"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the US Open fast approaching, fans are on tenterhooks to see if Carlos Alcaraz, despite his recent injury, will be in top form to defend his title.",
