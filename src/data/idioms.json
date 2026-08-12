@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While Google's Gemini Finance aims to make budgeting a breeze, the widespread \"AI fatigue\" indicates many feel technology is increasingly breathing down their necks.",
+          "This tension between seamless convenience and the desire to truly unplug has become a double-edged sword, with digital detox retreats now going through the roof."
+        ],
+        "sentenceTranslations": [
+          "구글의 제미니 파이낸스가 예산 관리를 식은 죽 먹기로 만들려고 하지만, 광범위한 'AI 피로감'은 많은 사람들이 기술이 점점 더 자신들을 바싹 감시한다고 느끼고 있음을 보여줍니다.",
+          "이렇게 끊김 없는 편리함과 진정으로 디지털에서 벗어나고 싶은 욕구 사이의 긴장은 양날의 검이 되었고, 디지털 디톡스 휴양지의 예약은 이제 폭발적으로 늘고 있습니다."
+        ],
+        "translationHighlights": [
+          "바싹 감시한다고 느끼고 있음",
+          "양날의 검이 되었고",
+          "디지털에서 벗어나고 싶은 욕구",
+          "폭발적으로 늘고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "breathing down their necks",
+            "meaning": "~를 바싹 감시하다, 숨통을 조여오다",
+            "context": "technology is increasingly breathing down their necks"
+          },
+          {
+            "word": "unplug",
+            "meaning": "(기술에서) 벗어나다, 연결을 끊다",
+            "context": "the desire to truly unplug"
+          },
+          {
+            "word": "double-edged sword",
+            "meaning": "양날의 검 (장단점을 동시에 가짐)",
+            "context": "has become a double-edged sword"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While FinGenie AI is certainly riding high with its rapid user growth, the hyper-personalization of financial advice, integrated with daily spending, proves to be a double-edged sword.",
           "This integration could make financial management easier, but consumer watchdogs are sounding the alarm about potential algorithmic bias and data privacy concerns, urging us not to let AI call the shots entirely."
         ],
@@ -4433,6 +4466,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Alphabet's unveiling of 'Project Chimera' unmistakably throws down the gauntlet to Microsoft, challenging its long-held dominance in the enterprise cloud AI market.",
+          "This aggressive strategic pivot truly raises the stakes for both tech giants, who must also grapple with evolving regulations like the EU's proposed data localization requirements."
+        ],
+        "sentenceTranslations": [
+          "알파벳이 '프로젝트 키메라'를 공개한 것은 마이크로소프트의 기업 클라우드 AI 시장에서 오랫동안 유지해 온 지배력에 명백히 도전장을 내미는 행위입니다.",
+          "이러한 공격적인 전략적 전환은 양대 기술 기업 모두에게 판돈을 더 키우는 결과를 가져올 것이며, 그들은 EU의 제안된 데이터 현지화 요건과 같은 진화하는 규제에도 고심해야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "도전장을 내미는",
+          "지배력에",
+          "판돈을 더 키우는",
+          "고심해야 할"
+        ],
+        "newWords": [
+          {
+            "word": "throw down the gauntlet",
+            "meaning": "도전하다, 대결을 신청하다",
+            "context": "unmistakably throws down the gauntlet to Microsoft"
+          },
+          {
+            "word": "raise the stakes",
+            "meaning": "판돈을 올리다, 위험을 감수하다, 더 큰 영향을 미치다",
+            "context": "truly raises the stakes for both tech giants"
+          },
+          {
+            "word": "grapple with",
+            "meaning": "고심하다, 씨름하다, 해결하려고 노력하다",
+            "context": "must also grapple with evolving regulations"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With NVIDIA projecting significant growth, tech giants are pulling out all the stops in the escalating battle for advanced AI compute capacity, making it a truly cut-throat market.",
           "Conversely, despite the broader venture capital market proving to be a tough nut to crack due to tightening economic conditions, investors are putting their money where their mouth is by funding sustainable innovation like TerraForm Solutions."
         ],
@@ -8836,6 +8902,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The robust summer demand for Southeast Asian travel, partly driven by Vietnam's digital nomad visa, means many are paying an arm and a leg for flights this August.",
+          "While this visitor surge is an economic boon, it's also a double-edged sword, risking popular spots like Phong Nha-Ke Bang being loved to death if sustainable practices aren't quickly implemented."
+        ],
+        "sentenceTranslations": [
+          "베트남 디지털 노마드 비자 등으로 촉진된 동남아시아 여름 여행의 폭발적인 수요로 인해, 많은 이들이 이번 8월 항공권에 엄청난 돈을 지불하고 있습니다.",
+          "이러한 방문객 증가는 경제적 혜택이지만, 동시에 양날의 검이기도 해서 지속 가능한 관행이 신속히 시행되지 않으면 퐁냐-케방 같은 인기 명소들이 과도한 사랑으로 망가질 위험이 있습니다."
+        ],
+        "translationHighlights": [
+          "엄청난 돈을 지불하고",
+          "양날의 검",
+          "과도한 사랑으로 망가질",
+          "지속 가능한 관행"
+        ],
+        "newWords": [
+          {
+            "word": "paying an arm and a leg",
+            "meaning": "매우 비싼 값을 치르다; 엄청난 돈을 내다",
+            "context": "many are paying an arm and a leg for flights"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (이점과 단점을 모두 가짐)",
+            "context": "it's also a double-edged sword"
+          },
+          {
+            "word": "loved to death",
+            "meaning": "너무 많은 관심이나 사용으로 인해 손상되거나 파괴되다",
+            "context": "risking popular spots like Phong Nha-Ke Bang being loved to death"
+          }
+        ]
+      },
       {
         "sentences": [
           "Qatar Airways is clearly striking while the iron's hot by launching direct routes to Ho Chi Minh City and Penang, aiming to tap into the booming demand for Southeast Asian cultural experiences and digital nomad communities.",
