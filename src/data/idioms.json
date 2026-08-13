@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "MindMate AI's proactive wellness bots are truly catching on like wildfire, allowing users to nip potential stress in the bud long before it becomes overwhelming.",
+          "This innovative approach to mental 'hygiene' is proving to be a real game-changer for many, democratizing access to preventative care and support."
+        ],
+        "sentenceTranslations": [
+          "MindMate AI의 선제적인 웰니스 봇들이 정말 불티나게 퍼져나가면서, 사용자들은 잠재적인 스트레스가 압도적으로 커지기 훨씬 전에 초기에 차단할 수 있게 해주고 있습니다.",
+          "정신 건강 '위생'에 대한 이러한 혁신적인 접근 방식은 많은 사람들에게 진정한 판도를 바꾸는 혁신임이 입증되고 있으며, 예방적 관리와 지원에 대한 접근성을 민주화하고 있습니다."
+        ],
+        "translationHighlights": [
+          "불티나게 퍼져나가면서",
+          "초기에 차단할 수 있게",
+          "판도를 바꾸는 혁신"
+        ],
+        "newWords": [
+          {
+            "word": "catching on like wildfire",
+            "meaning": "매우 빠르게 퍼지다, 인기를 얻다",
+            "context": "are truly catching on like wildfire"
+          },
+          {
+            "word": "nip in the bud",
+            "meaning": "싹을 자르다, 초기에 차단하다/해결하다",
+            "context": "to nip potential stress in the bud"
+          },
+          {
+            "word": "game-changer",
+            "meaning": "판도를 바꾸는 혁신, 결정적인 변화를 가져오는 것",
+            "context": "to be a real game-changer for many"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While Google's Gemini Finance aims to make budgeting a breeze, the widespread \"AI fatigue\" indicates many feel technology is increasingly breathing down their necks.",
           "This tension between seamless convenience and the desire to truly unplug has become a double-edged sword, with digital detox retreats now going through the roof."
         ],
@@ -4466,6 +4498,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The robust market reaction to Microsoft's investment, with AI chip manufacturers' shares climbing, suggests investors truly believe that a **rising tide lifts all boats** in the burgeoning AI sector.",
+          "This hefty capital injection demonstrates how tech giants are now unequivocally **putting their money where their mouth is**, all hoping to **stake a claim** to the lion's share of this fiercely competitive, multi-trillion dollar market."
+        ],
+        "sentenceTranslations": [
+          "마이크로소프트의 투자 발표에 AI 칩 제조업체들의 주가가 상승하며 보인 견조한 시장 반응은 투자자들이 급성장하는 AI 분야에서 **모두가 함께 성장할 것**이라고 진정으로 믿고 있음을 시사합니다.",
+          "이 막대한 자본 투입은 기술 거대 기업들이 이제 분명히 **말만 하는 것이 아니라 실제로 투자하고 있음**을 보여주며, 모두가 치열한 경쟁 속 수조 달러 규모 시장에서 **큰 비중을 차지하려** 하고 있음을 나타냅니다."
+        ],
+        "translationHighlights": [
+          "모두가 함께 성장할 것",
+          "말만 하는 것이 아니라 실제로 투자하고 있음",
+          "큰 비중을 차지하려",
+          "치열한 경쟁 속 수조 달러 규모 시장"
+        ],
+        "newWords": [
+          {
+            "word": "a rising tide lifts all boats",
+            "meaning": "전반적인 경제 상황이나 특정 분야가 좋아지면 모든 관련된 기업이나 사람들도 이익을 본다",
+            "context": "a **rising tide lifts all boats** in the burgeoning AI sector"
+          },
+          {
+            "word": "put one's money where one's mouth is",
+            "meaning": "말만 하는 것이 아니라 실제로 돈을 투자하거나 행동으로 보여주다",
+            "context": "unequivocally **putting their money where their mouth is**"
+          },
+          {
+            "word": "stake a claim",
+            "meaning": "~에 대한 권리나 소유권을 주장하다, ~을 차지하려고 하다",
+            "context": "all hoping to **stake a claim** to the lion's share"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Alphabet's unveiling of 'Project Chimera' unmistakably throws down the gauntlet to Microsoft, challenging its long-held dominance in the enterprise cloud AI market.",
           "This aggressive strategic pivot truly raises the stakes for both tech giants, who must also grapple with evolving regulations like the EU's proposed data localization requirements."
         ],
@@ -8904,6 +8969,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With specialized eco-tourism in Southeast Asia truly starting to hit its stride, budget carriers are keen to cash in on this surging demand for experiential trips.",
+          "However, the growing carbon footprint from this robust regional air travel is undeniably the elephant in the room, making accelerated investment in Sustainable Aviation Fuel essential to pave the way for guilt-free leisure."
+        ],
+        "sentenceTranslations": [
+          "동남아시아의 전문 생태관광이 이제 막 본격적인 궤도에 오르면서, 저가 항공사들은 체험형 여행에 대한 이러한 급증하는 수요를 활용하여 이익을 얻으려 하고 있습니다.",
+          "하지만 이렇게 활발한 지역 항공 여행으로 인한 탄소 발자국의 증가는 누구도 외면할 수 없는 문제이며, 지속 가능한 항공 연료에 대한 가속화된 투자는 죄책감 없는 여가 여행을 위한 길을 닦는 데 필수적입니다."
+        ],
+        "translationHighlights": [
+          "본격적인 궤도에 오르다",
+          "수요를 활용하여 이익을 얻다",
+          "누구도 외면할 수 없는 문제",
+          "길을 닦는 데 필수적"
+        ],
+        "newWords": [
+          {
+            "word": "hit its stride",
+            "meaning": "어떤 일이 순조롭게 진행되거나 제 실력을 발휘하기 시작하다",
+            "context": "truly starting to hit its stride"
+          },
+          {
+            "word": "the elephant in the room",
+            "meaning": "모두가 알고 있지만 언급하기 꺼려하는 불편한 문제나 사실",
+            "context": "undeniably the elephant in the room"
+          },
+          {
+            "word": "pave the way",
+            "meaning": "(무엇을 위한) 길을 닦다; ~의 여건을 조성하다",
+            "context": "essential to pave the way"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The robust summer demand for Southeast Asian travel, partly driven by Vietnam's digital nomad visa, means many are paying an arm and a leg for flights this August.",
           "While this visitor surge is an economic boon, it's also a double-edged sword, risking popular spots like Phong Nha-Ke Bang being loved to death if sustainable practices aren't quickly implemented."
         ],
@@ -13320,6 +13418,44 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Jamal Musiala is holding all the cards in his contract negotiations, signaling his intent to truly break the bank with a record-breaking Premier League transfer.",
+          "Meanwhile, Team Spirit is firing on all cylinders at The International, further cementing Dota 2's reputation for raising the stakes in competitive gaming."
+        ],
+        "sentenceTranslations": [
+          "자말 무시알라는 재계약 협상에서 모든 결정권을 쥐고 있으며, 프리미어리그로의 기록적인 이적으로 천문학적인 이적료를 안겨주겠다는 의지를 보이고 있습니다.",
+          "한편, 팀 스피릿은 '디 인터내셔널'에서 최고의 기량을 발휘하며 맹활약하여, 경쟁 게임의 판돈을 키우는 도타 2의 명성을 더욱 공고히 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "모든 결정권을 쥐고",
+          "천문학적인 이적료를 안겨주겠다",
+          "최고의 기량을 발휘하며 맹활약하여",
+          "판돈을 키우는"
+        ],
+        "newWords": [
+          {
+            "word": "holding all the cards",
+            "meaning": "모든 결정권[주도권]을 쥐다",
+            "context": "Musiala is holding all the cards..."
+          },
+          {
+            "word": "break the bank",
+            "meaning": "많은 돈을 쓰다, 거액의 비용이 들다",
+            "context": "to truly break the bank with a record-breaking Premier League transfer."
+          },
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고의 기량을 발휘하다, 전력을 다해 가동하다",
+            "context": "Team Spirit is firing on all cylinders..."
+          },
+          {
+            "word": "raising the stakes",
+            "meaning": "판돈을 올리다, (위험이나 중요성, 경쟁 수준을) 높이다",
+            "context": "reputation for raising the stakes in competitive gaming."
+          }
+        ]
+      },
       {
         "sentences": [
           "Arsenal's rumored €90 million bid suggests they are willing to pull out all the stops to secure Gavi.",
