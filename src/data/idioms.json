@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Dr. Sharma's insight that hyper-niche communities offer an antidote to widespread digital fatigue truly hits the nail on the head regarding the current social climate.",
+          "Simultaneously, Gen Z investors are reading the room by extensively leveraging AI tools, understanding that smart technology is now an indispensable part of daily financial navigation."
+        ],
+        "sentenceTranslations": [
+          "샤르마 박사님이 하이퍼 니치 커뮤니티가 광범위한 디지털 피로에 대한 해독제가 된다고 말한 통찰은 현재의 사회적 분위기를 정확히 짚어냈습니다.",
+          "동시에 Z세대 투자자들은 AI 도구를 폭넓게 활용하며 상황을 제대로 파악하고 있는데, 이는 스마트 기술이 이제 일상적인 금융 관리의 필수적인 부분이 되었음을 이해하기 때문입니다."
+        ],
+        "translationHighlights": [
+          "정확히 짚어냈습니다",
+          "상황을 제대로 파악하고 있는데",
+          "필수적인 부분"
+        ],
+        "newWords": [
+          {
+            "word": "hit the nail on the head",
+            "meaning": "정확히 핵심을 짚다 / 핵심을 맞히다",
+            "context": "truly **hits the nail on the head** regarding the current social climate."
+          },
+          {
+            "word": "read the room",
+            "meaning": "상황을 파악하다 / 분위기를 읽다",
+            "context": "Gen Z investors are **reading the room** by extensively leveraging AI tools"
+          },
+          {
+            "word": "indispensable part",
+            "meaning": "필수적인 부분 / 없어서는 안 될 부분",
+            "context": "smart technology is now an **indispensable part** of daily financial navigation."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "MindMate AI's proactive wellness bots are truly catching on like wildfire, allowing users to nip potential stress in the bud long before it becomes overwhelming.",
           "This innovative approach to mental 'hygiene' is proving to be a real game-changer for many, democratizing access to preventative care and support."
         ],
@@ -4498,6 +4530,36 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "NVIDIA's groundbreaking Blackwell-S unveiling truly demonstrated that a rising tide lifts all boats, as the positive sentiment quickly rippled through the entire AI sector and beyond.",
+          "This bullish outlook is compelling companies like Anthropic to strike while the iron is hot, rapidly securing substantial funding to accelerate their next-generation AI model development."
+        ],
+        "sentenceTranslations": [
+          "엔비디아의 획기적인 블랙웰-S 공개는 확실히 '상승하는 물결이 모든 배를 띄운다'는 것을 보여주었으며, 긍정적인 분위기가 전체 AI 부문과 그 너머로 빠르게 파급되었습니다.",
+          "이러한 낙관적인 전망은 Anthropic과 같은 기업들이 '쇠뿔도 단김에 빼라'는 듯 신속하게 상당한 자금을 확보하여 차세대 AI 모델 개발을 가속화하도록 만들고 있습니다."
+        ],
+        "translationHighlights": [
+          "획기적인",
+          "상승하는 물결이 모든 배를 띄운다",
+          "긍정적인 분위기가 ~ 파급되었습니다",
+          "낙관적인 전망",
+          "쇠뿔도 단김에 빼라",
+          "상당한 자금을 확보하다"
+        ],
+        "newWords": [
+          {
+            "word": "a rising tide lifts all boats",
+            "meaning": "경기가 좋아지면 모든 사업이나 분야가 함께 성장한다는 의미",
+            "context": "demonstrated that a rising tide lifts all boats"
+          },
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "좋은 기회가 왔을 때 망설이지 말고 즉시 행동하다",
+            "context": "compelling companies like Anthropic to strike while the iron is hot"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The robust market reaction to Microsoft's investment, with AI chip manufacturers' shares climbing, suggests investors truly believe that a **rising tide lifts all boats** in the burgeoning AI sector.",
           "This hefty capital injection demonstrates how tech giants are now unequivocally **putting their money where their mouth is**, all hoping to **stake a claim** to the lion's share of this fiercely competitive, multi-trillion dollar market."
         ],
@@ -8967,6 +9029,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Venice's successful strategy to curb over-tourism proves it's possible to stem the tide of unchecked visitor numbers without completely shutting down.",
+          "This approach stands in stark contrast to regions like Saudi Arabia, which are going the extra mile with immersive cultural packages to carve out a niche in the highly competitive global travel market."
+        ],
+        "sentenceTranslations": [
+          "베니스의 과도한 관광을 억제하는 성공적인 전략은 완전히 문을 닫지 않고도 무분별한 방문객 수의 밀려드는 흐름을 막을 수 있음을 증명합니다.",
+          "이러한 접근 방식은 사우디아라비아와 같은 지역과는 극명한 대조를 이루는데, 사우디아라비아는 매우 경쟁적인 글로벌 여행 시장에서 틈새시장을 개척하기 위해 몰입형 문화 패키지로 특별한 노력을 기울이고 있습니다."
+        ],
+        "translationHighlights": [
+          "밀려드는 흐름을 막을",
+          "과도한 관광을 억제하는 성공적인 전략",
+          "특별한 노력을 기울이고 있습니다",
+          "틈새시장을 개척하기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "stem the tide",
+            "meaning": "밀려드는 흐름을 막다, ~의 확산을 저지하다",
+            "context": "to stem the tide of unchecked visitor numbers"
+          },
+          {
+            "word": "go the extra mile",
+            "meaning": "특별한 노력을 기울이다, 한층 더 노력하다",
+            "context": "which are going the extra mile with immersive cultural packages"
+          },
+          {
+            "word": "carve out a niche",
+            "meaning": "틈새시장을 개척하다, 자신만의 독자적인 위치를 구축하다",
+            "context": "to carve out a niche in the highly competitive global travel market"
+          }
+        ]
+      },
       {
         "sentences": [
           "With specialized eco-tourism in Southeast Asia truly starting to hit its stride, budget carriers are keen to cash in on this surging demand for experiential trips.",
