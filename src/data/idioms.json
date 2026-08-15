@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With the surge in AI-as-a-service subscriptions, many consumers are reaching a saturation point, and are starting to feel the pinch on their finances.",
+          "In this landscape, the 'conscious content' movement on platforms like EchoSphere is a breath of fresh air, as creators strive to connect authentically, rather than merely chasing algorithms."
+        ],
+        "sentenceTranslations": [
+          "AI 서비스 구독이 급증하면서 많은 소비자들이 포화 상태에 도달하고 있으며, 재정에 압박을 느끼기 시작하고 있습니다.",
+          "이러한 상황에서, EchoSphere와 같은 플랫폼의 '의식적인 콘텐츠' 운동은 신선한 바람과 같으며, 창작자들이 단순히 알고리즘을 쫓기보다는 진정성 있게 소통하려고 노력합니다."
+        ],
+        "translationHighlights": [
+          "포화 상태에 도달하고",
+          "압박을 느끼기 시작하고",
+          "신선한 바람"
+        ],
+        "newWords": [
+          {
+            "word": "reach a saturation point",
+            "meaning": "포화 상태에 도달하다, 더 이상 수용하기 어려울 정도가 되다",
+            "context": "consumers are reaching a saturation point"
+          },
+          {
+            "word": "feel the pinch",
+            "meaning": "경제적 어려움을 겪다, 재정적 압박을 느끼다",
+            "context": "start to feel the pinch on their finances"
+          },
+          {
+            "word": "a breath of fresh air",
+            "meaning": "신선한 공기 같은 존재, (상황을 긍정적으로 변화시키는) 새로운 것/사람",
+            "context": "is a breath of fresh air"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Dr. Sharma's insight that hyper-niche communities offer an antidote to widespread digital fatigue truly hits the nail on the head regarding the current social climate.",
           "Simultaneously, Gen Z investors are reading the room by extensively leveraging AI tools, understanding that smart technology is now an indispensable part of daily financial navigation."
         ],
@@ -4530,6 +4562,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Google DeepMind's restructuring highlights the industry's need to stay ahead of the curve, effectively putting the onus on competitors to recalibrate their strategies or risk being left behind.",
+          "Meanwhile, G7 finance ministers must quickly get their ducks in a row to draft comprehensive AI governance frameworks, ensuring that innovation doesn't outpace global stability."
+        ],
+        "sentenceTranslations": [
+          "구글 딥마인드의 구조조정은 업계가 시대를 앞서가야 할 필요성을 강조하며, 경쟁사들에게 전략을 재조정하거나 뒤처질 위험을 감수하게 하는 책임감을 부여합니다.",
+          "한편, G7 재무장관들은 혁신이 글로벌 안정성을 앞지르지 않도록 포괄적인 AI 거버넌스 프레임워크를 마련하기 위해 신속하게 준비를 마쳐야 합니다."
+        ],
+        "translationHighlights": [
+          "시대를 앞서가야 할 필요성",
+          "책임감을 부여합니다",
+          "신속하게 준비를 마쳐야 합니다",
+          "글로벌 안정성을 앞지르지 않도록"
+        ],
+        "newWords": [
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "시대의 흐름을 앞서가다, 최신 동향을 주도하다",
+            "context": "need to stay ahead of the curve"
+          },
+          {
+            "word": "put the onus on",
+            "meaning": "~에게 책임/부담을 지우다",
+            "context": "putting the onus on competitors"
+          },
+          {
+            "word": "get one's ducks in a row",
+            "meaning": "모든 준비를 마치다, 일을 체계적으로 정리하다",
+            "context": "get their ducks in a row"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "NVIDIA's groundbreaking Blackwell-S unveiling truly demonstrated that a rising tide lifts all boats, as the positive sentiment quickly rippled through the entire AI sector and beyond.",
           "This bullish outlook is compelling companies like Anthropic to strike while the iron is hot, rapidly securing substantial funding to accelerate their next-generation AI model development."
         ],
@@ -9031,6 +9096,34 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Lufthansa is certainly striking while the iron is hot by expanding its Reykjavik route year-round, capitalizing on the surge in eco-tourism bookings for sustainable Icelandic tours.",
+          "Similarly, Indonesia’s move to cast a wider net with its visa-free program aims to attract a more diverse array of travelers who are increasingly seeking experiences beyond the typical tourist traps."
+        ],
+        "sentenceTranslations": [
+          "루프트한자는 친환경 아이슬란드 여행 예약 급증에 편승하여 레이캬비크 노선을 연중 운행으로 확장함으로써, 지금이 적기라고 판단하고 기회를 놓치지 않고 잘 활용하고 있습니다.",
+          "마찬가지로 인도네시아가 비자 면제 프로그램을 통해 더 넓은 범위의 방문객을 유치하려는 움직임은, 일반적인 관광객 함정을 넘어선 경험을 점점 더 찾는 다양한 여행객을 목표로 합니다."
+        ],
+        "translationHighlights": [
+          "지금이 적기라고 판단하고 기회를 놓치지 않고 잘 활용하고 있습니다",
+          "예약 급증에 편승하여",
+          "더 넓은 범위의 방문객을 유치하려는 움직임",
+          "일반적인 관광객 함정을 넘어선 경험"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "좋은 기회를 놓치지 않고 즉시 행동하다, 적절한 시기에 행동하다",
+            "context": "Lufthansa is certainly striking while the iron is hot"
+          },
+          {
+            "word": "cast a wider net",
+            "meaning": "더 넓은 범위의 대상을 물색하다/포괄하다, 시야를 넓히다",
+            "context": "Indonesia’s move to cast a wider net"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Venice's successful strategy to curb over-tourism proves it's possible to stem the tide of unchecked visitor numbers without completely shutting down.",
           "This approach stands in stark contrast to regions like Saudi Arabia, which are going the extra mile with immersive cultural packages to carve out a niche in the highly competitive global travel market."
         ],
@@ -13513,6 +13606,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Kylian Mbappé's record transfer to Real Madrid is certainly the elephant in the room for sports journalists, making it hard to discuss anything else right now.",
+          "Meanwhile, G2 Esports' Caps and his team are clearly pulling out all the stops for the LEC Summer Finals, aiming to leave absolutely nothing to chance."
+        ],
+        "sentenceTranslations": [
+          "킬리안 음바페의 레알 마드리드 역대급 이적은 현재 스포츠 기자들에게 너무나도 명백한 화두라서, 다른 어떤 이야기든 꺼내기 어렵게 만들고 있습니다.",
+          "한편, G2 E스포츠의 캡스와 그의 팀은 LEC 서머 결승을 위해 총력을 기울이고 있으며, 조금의 우연도 남기지 않으려 합니다."
+        ],
+        "translationHighlights": [
+          "역대급 이적",
+          "너무나도 명백한 화두",
+          "총력을 기울이고",
+          "조금의 우연도 남기지 않으려 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "the elephant in the room",
+            "meaning": "모두가 알고 있고 너무나도 명백해서 피할 수 없지만, 때로는 불편하거나 논의하기 어려운 중요한 문제나 화두",
+            "context": "Kylian Mbappé's record transfer to Real Madrid is certainly **the elephant in the room**"
+          },
+          {
+            "word": "pulling out all the stops",
+            "meaning": "최대한의 노력을 기울이다, 모든 수단과 방법을 동원하다",
+            "context": "G2 Esports' Caps and his team are clearly **pulling out all the stops**"
+          }
+        ]
+      },
       {
         "sentences": [
           "Jamal Musiala is holding all the cards in his contract negotiations, signaling his intent to truly break the bank with a record-breaking Premier League transfer.",
