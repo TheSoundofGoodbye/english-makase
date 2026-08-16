@@ -4562,6 +4562,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Given persistent Eurozone inflation, market analysts are diligently trying to read the tea leaves from President Lagarde's recent comments to anticipate the ECB's next policy shift.",
+          "NVIDIA's rumored $7 billion quantum computing acquisition truly raises the stakes in the competitive tech landscape, virtually guaranteeing it will come under the close scrutiny of regulators."
+        ],
+        "sentenceTranslations": [
+          "유로존 인플레이션이 계속 고공행진하는 가운데, 시장 분석가들은 라가르드 총재의 최근 발언에서 ECB의 다음 정책 변화를 예측하기 위해 징후를 면밀히 살피고 있습니다.",
+          "엔비디아가 추진하는 70억 달러 규모의 양자 컴퓨팅 기업 인수는 경쟁이 치열한 기술 분야에서 확실히 판돈을 키우는 행위이며, 규제 당국의 면밀한 조사를 받게 될 것입니다."
+        ],
+        "translationHighlights": [
+          "징후를 면밀히 살피고 있습니다",
+          "판돈을 키우는 행위",
+          "고공행진하는 가운데",
+          "면밀한 조사를 받게 될 것입니다"
+        ],
+        "newWords": [
+          {
+            "word": "read the tea leaves",
+            "meaning": "징후를 면밀히 살피다/미래를 예측하다",
+            "context": "trying to read the tea leaves from President Lagarde's recent comments"
+          },
+          {
+            "word": "raise the stakes",
+            "meaning": "(상황의) 중요성/위험을 높이다",
+            "context": "truly raises the stakes in the competitive tech landscape"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Google DeepMind's restructuring highlights the industry's need to stay ahead of the curve, effectively putting the onus on competitors to recalibrate their strategies or risk being left behind.",
           "Meanwhile, G7 finance ministers must quickly get their ducks in a row to draft comprehensive AI governance frameworks, ensuring that innovation doesn't outpace global stability."
         ],
@@ -9096,6 +9124,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Amid a 12% surge in day-tripper numbers, Venice is clearly reaching a tipping point, spurring proposals for a dynamic entry fee system to manage the influx.",
+          "Meanwhile, countries like Thailand are keen to steal a march on competitors by rolling out attractive long-term visas, hoping to captivate the burgeoning digital nomad market."
+        ],
+        "sentenceTranslations": [
+          "일일 방문객 수가 12% 급증하면서 베네치아는 명백히 임계점에 다다르고 있으며, 이러한 유입을 관리하기 위해 변동형 입장료 시스템 도입 제안을 촉발하고 있습니다.",
+          "한편, 태국과 같은 국가들은 급성장하는 디지털 노마드 시장을 사로잡기 위해 매력적인 장기 비자를 내놓으며 경쟁국들보다 한 발 앞서나가려 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "임계점에 다다르고 있으며",
+          "유입을 관리하기 위해",
+          "경쟁국들보다 한 발 앞서나가려 하고 있습니다",
+          "디지털 노마드 시장을 사로잡기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "reach a tipping point",
+            "meaning": "상황이 임계점에 다다르다; 더 이상 통제하기 어려운 지점에 이르다",
+            "context": "Venice is clearly **reaching a tipping point**"
+          },
+          {
+            "word": "steal a march on",
+            "meaning": "...보다 한 발 앞서다; 선수를 치다",
+            "context": "keen to **steal a march on** competitors"
+          },
+          {
+            "word": "captivate",
+            "meaning": "매혹시키다; 사로잡다",
+            "context": "hoping to **captivate** the burgeoning digital nomad market"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Lufthansa is certainly striking while the iron is hot by expanding its Reykjavik route year-round, capitalizing on the surge in eco-tourism bookings for sustainable Icelandic tours.",
           "Similarly, Indonesia’s move to cast a wider net with its visa-free program aims to attract a more diverse array of travelers who are increasingly seeking experiences beyond the typical tourist traps."
         ],
@@ -13606,6 +13667,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The FIFA World Cup 2026 turned out to be a roaring success, delivering a much-needed shot in the arm to the economies of the host nations.",
+          "With transfer speculation swirling, Alphonso Davies knows he needs to strike while the iron is hot to secure his move to a top-tier club."
+        ],
+        "sentenceTranslations": [
+          "2026년 FIFA 월드컵은 개최국 경제에 절실히 필요한 활력을 불어넣으며 엄청난 성공을 거두었습니다.",
+          "이적설이 무성한 가운데, 알폰소 데이비스는 최고 수준의 클럽으로 이적을 확정하기 위해 기회를 놓치지 않고 잡아야 한다는 것을 알고 있습니다."
+        ],
+        "translationHighlights": [
+          "엄청난 성공을 거두었습니다",
+          "절실히 필요한 활력을 불어넣으며",
+          "이적설이 무성한 가운데",
+          "기회를 놓치지 않고 잡아야 한다는 것을"
+        ],
+        "newWords": [
+          {
+            "word": "a roaring success",
+            "meaning": "엄청난 성공, 대성공",
+            "context": "The FIFA World Cup 2026 turned out to be a roaring success..."
+          },
+          {
+            "word": "a shot in the arm",
+            "meaning": "활력소, 기운을 북돋아 주는 것",
+            "context": "...delivering a much-needed shot in the arm..."
+          },
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회를 놓치지 않고 잡다, 때가 왔을 때 행동하다",
+            "context": "...he needs to strike while the iron is hot..."
+          }
+        ]
+      },
       {
         "sentences": [
           "Kylian Mbappé's record transfer to Real Madrid is certainly the elephant in the room for sports journalists, making it hard to discuss anything else right now.",
