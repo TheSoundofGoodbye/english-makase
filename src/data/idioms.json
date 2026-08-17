@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The rollout of advanced AI in personal finance is proving a game changer, helping countless users get their financial ducks in a row with budgeting and savings.",
+          "But as Dr. Sharma warns, we must ensure we don't throw the baby out with the bathwater by overlooking critical digital literacy and data privacy amidst all this convenience."
+        ],
+        "sentenceTranslations": [
+          "개인 금융 분야에 첨단 AI가 도입되면서 판도를 완전히 바꾸고 있으며, 수많은 사용자들이 예산 관리와 저축을 체계적으로 정리할 수 있도록 돕고 있습니다.",
+          "하지만 샤르마 박사가 경고했듯이, 이러한 편리함 속에서 핵심적인 디지털 문해력과 데이터 프라이버시를 간과하는 우를 범해서는 안 됩니다."
+        ],
+        "translationHighlights": [
+          "판도를 완전히 바꾸고 있으며",
+          "체계적으로 정리할 수 있도록 돕고 있습니다",
+          "간과하는 우를 범해서는 안 됩니다"
+        ],
+        "newWords": [
+          {
+            "word": "a game changer",
+            "meaning": "판도를 바꾸는 것; 매우 중요한 변화",
+            "context": "proving a game changer"
+          },
+          {
+            "word": "get their financial ducks in a row",
+            "meaning": "재정 상태를 체계적으로 정리하다; 재정 계획을 세우다",
+            "context": "get their financial ducks in a row"
+          },
+          {
+            "word": "throw the baby out with the bathwater",
+            "meaning": "좋은 것까지 함께 버리다; 중요한 것을 잃다",
+            "context": "don't throw the baby out with the bathwater"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With the surge in AI-as-a-service subscriptions, many consumers are reaching a saturation point, and are starting to feel the pinch on their finances.",
           "In this landscape, the 'conscious content' movement on platforms like EchoSphere is a breath of fresh air, as creators strive to connect authentically, rather than merely chasing algorithms."
         ],
@@ -4560,6 +4592,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "DeepMind's Orion-10 has undeniably raised the bar for multimodal AI, putting the entire enterprise software sector into high gear as companies scramble to integrate next-gen capabilities.",
+          "However, persistent supply chain issues for advanced AI chips remain a fly in the ointment, potentially taking the wind out of the sails of the broader economic AI dividends."
+        ],
+        "sentenceTranslations": [
+          "딥마인드의 Orion-10은 멀티모달 AI의 기준을 한층 높였으며, 기업들이 차세대 기능을 통합하기 위해 분주하게 움직이면서 전체 엔터프라이즈 소프트웨어 부문을 고속으로 작동하게 만들었습니다.",
+          "하지만 첨단 AI 칩 공급망에 대한 지속적인 문제는 옥의 티로 남아 있으며, 더 광범위한 경제적 AI 배당금의 기세를 꺾을 가능성이 있습니다."
+        ],
+        "translationHighlights": [
+          "기준을 한층 높였으며",
+          "고속으로 작동하게 만들었습니다",
+          "옥의 티",
+          "기세를 꺾을"
+        ],
+        "newWords": [
+          {
+            "word": "into high gear",
+            "meaning": "최고 속도로, 가속하여",
+            "context": "putting the entire enterprise software sector into high gear"
+          },
+          {
+            "word": "a fly in the ointment",
+            "meaning": "옥의 티, 흥을 깨는 것",
+            "context": "remain a fly in the ointment"
+          },
+          {
+            "word": "take the wind out of the sails",
+            "meaning": "~의 기세를 꺾다, 김을 빼다",
+            "context": "taking the wind out of the sails of the broader economic AI dividends"
+          }
+        ]
+      },
       {
         "sentences": [
           "Given persistent Eurozone inflation, market analysts are diligently trying to read the tea leaves from President Lagarde's recent comments to anticipate the ECB's next policy shift.",
@@ -9124,6 +9189,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The recent FIFA World Cup undeniably **put North American secondary cities on the map**, as a growing number of visitors are now keen to venture **off the beaten path**.",
+          "Airlines are wisely **striking while the iron is hot**, retaining increased flight capacity to capitalize on this burgeoning demand for immersive cultural experiences and solidifying new travel corridors."
+        ],
+        "sentenceTranslations": [
+          "최근 FIFA 월드컵은 북미의 덜 알려진 도시들을 확실히 **유명하게 만들었고**, 점점 더 많은 방문객들이 이제 **일반적인 경로를 벗어나** 탐험하기를 원합니다.",
+          "항공사들은 몰입형 문화 체험에 대한 이처럼 급증하는 수요를 활용하고 새로운 여행 통로를 굳건히 하기 위해, 현명하게도 **기회를 놓치지 않고** 늘어난 항공편 운항을 유지하고 있습니다."
+        ],
+        "translationHighlights": [
+          "유명하게 만들었고",
+          "일반적인 경로를 벗어나",
+          "기회를 놓치지 않고",
+          "급증하는 수요"
+        ],
+        "newWords": [
+          {
+            "word": "put on the map",
+            "meaning": "유명하게 만들다, 중요하게 만들다",
+            "context": "undeniably put North American secondary cities on the map"
+          },
+          {
+            "word": "off the beaten path",
+            "meaning": "잘 알려지지 않은 곳으로, 일반적인 경로를 벗어나",
+            "context": "now keen to venture off the beaten path"
+          },
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회를 놓치지 않고 이용하다, 때를 놓치지 않다",
+            "context": "Airlines are wisely striking while the iron is hot"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Amid a 12% surge in day-tripper numbers, Venice is clearly reaching a tipping point, spurring proposals for a dynamic entry fee system to manage the influx.",
           "Meanwhile, countries like Thailand are keen to steal a march on competitors by rolling out attractive long-term visas, hoping to captivate the burgeoning digital nomad market."
         ],
@@ -13667,6 +13765,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Having already taken the world by storm with his World Cup heroics, Thiago Martinez is now a hot commodity, with Real Madrid reportedly preparing to pay a king's ransom for his talents.",
+          "However, with the demanding summer tournament cycle, managers are concerned their players will be running on fumes when the domestic leagues finally get into full swing this weekend."
+        ],
+        "sentenceTranslations": [
+          "월드컵에서 영웅적인 활약으로 이미 전 세계를 강타한 티아고 마르티네스는 이제 최고 인기 상품이 되었고, 레알 마드리드는 그의 재능을 얻기 위해 엄청난 몸값을 지불할 준비를 하고 있는 것으로 알려졌습니다.",
+          "하지만 강도 높은 여름 토너먼트 일정을 거치면서, 감독들은 이번 주말에 국내 리그가 본격적으로 시작될 때 선수들이 완전히 지쳐버릴까 봐 우려하고 있습니다."
+        ],
+        "translationHighlights": [
+          "전 세계를 강타한",
+          "엄청난 몸값을",
+          "완전히 지쳐버릴까 봐",
+          "본격적으로 시작될 때"
+        ],
+        "newWords": [
+          {
+            "word": "take the world by storm",
+            "meaning": "전 세계를 강타하다, 엄청난 성공을 거두다",
+            "context": "taken the world by storm with his World Cup heroics"
+          },
+          {
+            "word": "a king's ransom",
+            "meaning": "엄청난 몸값, 엄청난 돈",
+            "context": "pay a king's ransom for his talents"
+          },
+          {
+            "word": "run on fumes",
+            "meaning": "남은 에너지가 거의 없이 버티다, 완전히 지쳐서 겨우 움직이다",
+            "context": "their players will be running on fumes"
+          }
+        ]
+      },
       {
         "sentences": [
           "The FIFA World Cup 2026 turned out to be a roaring success, delivering a much-needed shot in the arm to the economies of the host nations.",
