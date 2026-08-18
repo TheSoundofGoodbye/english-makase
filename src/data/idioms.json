@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While GigWealth AI aims to provide a safety net for gig workers, critics argue that such tools merely paper over the cracks of systemic issues like income volatility.",
+          "FairWork Futures truly hit the nail on the head, emphasizing that true economic security hinges on robust benefits and fair wages, not just clever algorithms."
+        ],
+        "sentenceTranslations": [
+          "GigWealth AI가 긱 노동자들에게 안전망을 제공하는 것을 목표로 하지만, 비평가들은 그러한 도구들이 소득 불안정 같은 시스템적 문제들을 단지 일시적으로 덮어둘 뿐이라고 주장합니다.",
+          "FairWork Futures는 진정한 경제적 안정이 단순히 영리한 알고리즘이 아닌, 견고한 혜택과 공정한 임금에 달려 있다는 점을 강조하며 정확히 핵심을 짚었습니다."
+        ],
+        "translationHighlights": [
+          "일시적으로 덮어둘 뿐이라고 주장합니다",
+          "시스템적 문제들을",
+          "정확히 핵심을 짚었습니다",
+          "견고한 혜택과 공정한 임금에 달려 있다는 점을 강조하며"
+        ],
+        "newWords": [
+          {
+            "word": "paper over the cracks",
+            "meaning": "문제의 근본적인 원인을 해결하지 않고 겉으로만 가리다, 일시적으로 덮어두다",
+            "context": "such tools merely paper over the cracks of systemic issues"
+          },
+          {
+            "word": "hit the nail on the head",
+            "meaning": "핵심을 찌르다, 정확히 지적하다, 정곡을 찌르다",
+            "context": "FairWork Futures truly hit the nail on the head"
+          },
+          {
+            "word": "hinges on",
+            "meaning": "~에 달려있다, ~에 전적으로 의존하다",
+            "context": "economic security hinges on robust benefits and fair wages"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The rollout of advanced AI in personal finance is proving a game changer, helping countless users get their financial ducks in a row with budgeting and savings.",
           "But as Dr. Sharma warns, we must ensure we don't throw the baby out with the bathwater by overlooking critical digital literacy and data privacy amidst all this convenience."
         ],
@@ -4592,6 +4625,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "With AI integration continuing to dominate corporate strategy, many firms are trying to catch the gravy train by investing heavily in custom generative models.",
+          "Yet, as venture capital shifts focus, they are now meticulously working to separate the wheat from the chaff, demanding clear pathways to profitability from AI startups."
+        ],
+        "sentenceTranslations": [
+          "AI 통합이 기업 전략을 계속 지배함에 따라, 많은 기업들이 맞춤형 생성형 모델에 대규모 투자를 하며 손쉽게 돈을 벌 기회를 잡으려 하고 있습니다.",
+          "하지만 벤처 캐피탈이 초점을 바꾸면서, 이제 이들은 AI 스타트업들에게 명확한 수익 경로를 요구하며 가치 있는 것과 그렇지 않은 것을 가려내기 위해 꼼꼼하게 노력하고 있습니다."
+        ],
+        "translationHighlights": [
+          "손쉽게 돈을 벌 기회를 잡으려",
+          "가치 있는 것과 그렇지 않은 것을 가려내기 위해",
+          "맞춤형 생성형 모델",
+          "명확한 수익 경로"
+        ],
+        "newWords": [
+          {
+            "word": "catch the gravy train",
+            "meaning": "손쉽게 돈을 벌 기회를 잡다, 편승하여 이득을 얻다",
+            "context": "trying to catch the gravy train by investing heavily"
+          },
+          {
+            "word": "separate the wheat from the chaff",
+            "meaning": "좋은 것과 나쁜 것을 가려내다, 알짜배기를 골라내다",
+            "context": "working to separate the wheat from the chaff"
+          }
+        ]
+      },
       {
         "sentences": [
           "DeepMind's Orion-10 has undeniably raised the bar for multimodal AI, putting the entire enterprise software sector into high gear as companies scramble to integrate next-gen capabilities.",
@@ -9189,6 +9250,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The Aegean islands, with Mykonos and Santorini continuing to be top draws, are truly a victim of their own success, now facing the challenge of managing an unprecedented influx of visitors.",
+          "Local municipalities are now at a crossroads, needing to strike a balance between economic prosperity and preserving their delicate cultural heritage by taking a leaf out of Paros's book on sustainable tourism."
+        ],
+        "sentenceTranslations": [
+          "미코노스와 산토리니가 여전히 최고의 인기 여행지로 꼽히는 에게해 섬들은, 전례 없는 방문객 유입을 관리해야 하는 과제에 직면하면서, 그야말로 '자신의 성공의 희생자'가 되었습니다.",
+          "지역 자치단체들은 이제 경제적 번영과 섬의 섬세한 문화유산 보존 사이에서 균형을 찾아야 하는 '기로에 서 있으며', 파로스의 지속 가능한 관광 모델에서 '교훈을 얻어야' 합니다."
+        ],
+        "translationHighlights": [
+          "자신의 성공의 희생자",
+          "기로에 서 있으며",
+          "교훈을 얻어야"
+        ],
+        "newWords": [
+          {
+            "word": "a victim of its own success",
+            "meaning": "어떤 것의 인기가 너무 많아져서 결국 문제나 어려움을 겪게 되는 상황",
+            "context": "are truly a victim of their own success"
+          },
+          {
+            "word": "at a crossroads",
+            "meaning": "중요한 결정을 내려야 하는 중대한 시점 또는 전환점",
+            "context": "are now at a crossroads"
+          },
+          {
+            "word": "take a leaf out of someone's book",
+            "meaning": "다른 사람의 좋은 행동이나 성공적인 방법을 본받다/따라 하다",
+            "context": "by taking a leaf out of Paros's book"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The recent FIFA World Cup undeniably **put North American secondary cities on the map**, as a growing number of visitors are now keen to venture **off the beaten path**.",
           "Airlines are wisely **striking while the iron is hot**, retaining increased flight capacity to capitalize on this burgeoning demand for immersive cultural experiences and solidifying new travel corridors."
         ],
@@ -13765,6 +13858,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "While the new AI line-calling technology is supposed to be a game-changer, many, including Djokovic, are viewing it as a double-edged sword, potentially disrupting the flow of high-stakes matches.",
+          "Coupled with defending champion Sinner in the hot seat and returning stars aiming for glory, this year's Open is poised to be quite the spectacle, despite the technological turbulence."
+        ],
+        "sentenceTranslations": [
+          "새로운 AI 라인 판독 기술이 판도를 바꿀 것으로 기대되지만, 조코비치를 포함한 많은 사람들은 이것이 고액의 경기 흐름을 방해할 수 있는 '양날의 검'으로 보고 있습니다.",
+          "수비 챔피언 시너가 '난처한 상황'에 놓여 있고 복귀하는 스타들이 영광을 노리는 상황과 맞물려, 기술적 혼란에도 불구하고 올해 US 오픈은 엄청난 볼거리를 제공할 것으로 예상됩니다."
+        ],
+        "translationHighlights": [
+          "판도를 바꿀 것으로 기대되지만",
+          "양날의 검",
+          "난처한 상황",
+          "기술적 혼란에도 불구하고"
+        ],
+        "newWords": [
+          {
+            "word": "double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 지닌 상황이나 해결책)",
+            "context": "...viewing it as a double-edged sword..."
+          },
+          {
+            "word": "in the hot seat",
+            "meaning": "난처한 상황에 처한, 집중적인 비판이나 압박을 받는 위치에 있는",
+            "context": "...Sinner in the hot seat..."
+          }
+        ]
+      },
       {
         "sentences": [
           "Having already taken the world by storm with his World Cup heroics, Thiago Martinez is now a hot commodity, with Real Madrid reportedly preparing to pay a king's ransom for his talents.",
