@@ -4627,6 +4627,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With major tech firms like Microsoft raising the stakes in the AI infrastructure race, early-stage startups are finding it's a prime time to strike while the iron is hot and secure significant venture capital.",
+          "Meanwhile, the European Commission is walking a tightrope, aiming to finalize robust AI regulations that ensure transparency without stifling the very innovation they seek to govern."
+        ],
+        "sentenceTranslations": [
+          "마이크로소프트 같은 주요 기술 기업들이 AI 인프라 경쟁에서 크게 투자를 늘리면서, 초기 단계 스타트업들은 지금이 한창 기세가 좋을 때 기회를 잡아 상당한 벤처 자금을 확보할 적기라고 판단하고 있습니다.",
+          "한편, 유럽연합 집행위원회는 혁신을 저해하지 않으면서 투명성을 보장하는 강력한 AI 규제를 확정하기 위해 줄타기하듯 신중하게 균형을 잡고 있습니다."
+        ],
+        "translationHighlights": [
+          "크게 투자를 늘리면서",
+          "한창 기세가 좋을 때 기회를 잡아",
+          "상당한 벤처 자금을 확보할 적기",
+          "줄타기하듯 신중하게 균형을 잡고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "raise the stakes",
+            "meaning": "판돈을 키우다, 위험 부담을 높이다, 투자를 크게 늘리다",
+            "context": "major tech firms like Microsoft raising the stakes"
+          },
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회를 놓치지 않고 바로 행동하다, 쇠뿔도 단 김에 빼라",
+            "context": "it's a prime time to strike while the iron is hot"
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다, 신중하게 균형을 잡다",
+            "context": "the European Commission is walking a tightrope"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With AI integration continuing to dominate corporate strategy, many firms are trying to catch the gravy train by investing heavily in custom generative models.",
           "Yet, as venture capital shifts focus, they are now meticulously working to separate the wheat from the chaff, demanding clear pathways to profitability from AI startups."
         ],
@@ -9250,6 +9283,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With international travel to Asia now riding high, airlines like Qatar Airways are certainly striking while the iron's hot by significantly boosting their capacity to key destinations.",
+          "Similarly, Southeast Asian nations easing visa restrictions are paving the way for a tourism boom, while the impending BTS concert in Seoul is expected to open the floodgates for an unprecedented influx of Hallyu fans."
+        ],
+        "sentenceTranslations": [
+          "아시아 국제 여행 수요가 이제 최고조에 달하면서, 카타르항공 같은 항공사들은 주요 목적지로의 운항 능력을 대폭 늘려 확실히 기회를 놓치지 않고 있습니다.",
+          "마찬가지로, 비자 제한을 완화하는 동남아시아 국가들은 관광 붐을 위한 길을 닦고 있으며, 서울에서 열릴 BTS 콘서트는 전례 없는 한류 팬들의 유입을 물꼬 틀 것으로 예상됩니다."
+        ],
+        "translationHighlights": [
+          "최고조에 달하면서",
+          "기회를 놓치지 않고 있습니다",
+          "길을 닦고 있으며",
+          "물꼬 틀 것으로 예상됩니다"
+        ],
+        "newWords": [
+          {
+            "word": "riding high",
+            "meaning": "최고조에 달하다, 한창 잘 나가다",
+            "context": "international travel to Asia now *riding high*"
+          },
+          {
+            "word": "striking while the iron's hot",
+            "meaning": "기회가 있을 때 잡다, 때를 놓치지 않고 행동하다",
+            "context": "airlines are certainly *striking while the iron's hot*"
+          },
+          {
+            "word": "open the floodgates",
+            "meaning": "물꼬를 트다, 봇물이 터지게 하다, 대량 유입을 허용하다",
+            "context": "expected to *open the floodgates* for an unprecedented influx"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The Aegean islands, with Mykonos and Santorini continuing to be top draws, are truly a victim of their own success, now facing the challenge of managing an unprecedented influx of visitors.",
           "Local municipalities are now at a crossroads, needing to strike a balance between economic prosperity and preserving their delicate cultural heritage by taking a leaf out of Paros's book on sustainable tourism."
         ],
@@ -13858,6 +13924,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With Carlos Alcaraz back in the saddle after his injury and Coco Gauff eyeing a maiden Grand Slam, anticipation for the US Open is already reaching a fever pitch.",
+          "Given the unprecedented early ticket sales, it's clear fans are chomping at the bit to see if Alcaraz can hold his own and if Gauff will finally deliver the goods on home soil."
+        ],
+        "sentenceTranslations": [
+          "부상에서 회복한 카를로스 알카라스가 복귀하고 코코 고프가 첫 그랜드 슬램 우승을 노리면서, US 오픈에 대한 기대감은 이미 최고조에 달하고 있습니다.",
+          "전례 없는 조기 티켓 판매를 볼 때, 팬들은 알카라스가 제 기량을 발휘할 수 있을지, 그리고 고프가 마침내 안방에서 성공을 거둘 수 있을지 애타게 기다리고 있음이 분명합니다."
+        ],
+        "translationHighlights": [
+          "최고조에 달하고 있습니다",
+          "애타게 기다리고 있음이 분명합니다",
+          "제 기량을 발휘할 수 있을지",
+          "성공을 거둘 수 있을지"
+        ],
+        "newWords": [
+          {
+            "word": "back in the saddle",
+            "meaning": "부상 회복 후 복귀하여 활동을 재개하다",
+            "context": "Alcaraz back in the saddle after his injury"
+          },
+          {
+            "word": "reach a fever pitch",
+            "meaning": "흥분, 기대 등이 최고조에 달하다",
+            "context": "anticipation for the US Open is already reaching a fever pitch"
+          },
+          {
+            "word": "deliver the goods",
+            "meaning": "기대하는 결과를 내다, 약속한 바를 이행하다",
+            "context": "Gauff will finally deliver the goods"
+          }
+        ]
+      },
       {
         "sentences": [
           "While the new AI line-calling technology is supposed to be a game-changer, many, including Djokovic, are viewing it as a double-edged sword, potentially disrupting the flow of high-stakes matches.",
