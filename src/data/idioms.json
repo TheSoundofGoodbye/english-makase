@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With Synapse Labs' new 'Adaptive Agent' AI, many are ready to take the plunge into fully automated personal management, hoping to lighten their daily load.",
+          "However, experts warn that while convenient, allowing AI to take the reins completely could be a slippery slope, potentially dulling our human decision-making capabilities."
+        ],
+        "sentenceTranslations": [
+          "시냅스 랩스의 새로운 '적응형 에이전트' AI 덕분에, 많은 사람들이 일상적인 부담을 덜고자 완전 자동화된 개인 관리에 과감히 뛰어들 준비가 되어있습니다.",
+          "하지만 전문가들은 편리함에도 불구하고, AI에 모든 주도권을 내주는 것이 미끄러운 비탈길이 될 수 있으며, 결국 인간의 의사결정 능력을 무디게 할 수도 있다고 경고합니다."
+        ],
+        "translationHighlights": [
+          "과감히 뛰어들다",
+          "주도권을 내주는 것",
+          "미끄러운 비탈길"
+        ],
+        "newWords": [
+          {
+            "word": "take the plunge",
+            "meaning": "과감히 시도하다/뛰어들다",
+            "context": "ready to take the plunge into fully automated personal management"
+          },
+          {
+            "word": "take the reins",
+            "meaning": "주도권을 쥐다/넘기다",
+            "context": "allowing AI to take the reins completely"
+          },
+          {
+            "word": "slippery slope",
+            "meaning": "미끄러운 비탈길 (나쁜 결과를 초래할 수 있는 상황)",
+            "context": "could be a slippery slope"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While GigWealth AI aims to provide a safety net for gig workers, critics argue that such tools merely paper over the cracks of systemic issues like income volatility.",
           "FairWork Futures truly hit the nail on the head, emphasizing that true economic security hinges on robust benefits and fair wages, not just clever algorithms."
         ],
@@ -4625,6 +4657,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "With Gartner predicting a drastic surge in GenAI adoption, enterprise AI providers are clearly on an upward trajectory, reflecting robust investor confidence.",
+          "Oracle, for its part, is betting big on specialized medical diagnostics AI, recognizing the writing on the wall for AI's transition from experimental to essential in healthcare."
+        ],
+        "sentenceTranslations": [
+          "가트너가 생성형 AI 채택률의 급격한 증가를 예측하면서, 기업 AI 제공업체들은 확실히 상승 궤도에 있으며, 이는 견고한 투자자 신뢰를 반영합니다.",
+          "오라클은 의료 분야에서 AI가 실험 단계를 넘어 필수가 될 것이라는 명확한 신호를 인지하고, 전문 의료 진단 AI에 대규모 투자를 단행하고 있습니다."
+        ],
+        "translationHighlights": [
+          "상승 궤도에 있으며",
+          "견고한 투자자 신뢰를 반영합니다",
+          "대규모 투자를 단행하고 있습니다",
+          "명확한 신호를 인지하고"
+        ],
+        "newWords": [
+          {
+            "word": "on an upward trajectory",
+            "meaning": "상승 궤도에 있는, 발전 또는 증가하고 있는",
+            "context": "enterprise AI providers are clearly on an upward trajectory"
+          },
+          {
+            "word": "betting big on",
+            "meaning": "~에 대규모 투자를 하다, ~의 성공에 크게 걸다",
+            "context": "is betting big on specialized medical diagnostics AI"
+          },
+          {
+            "word": "the writing on the wall",
+            "meaning": "다가올 일(주로 좋지 않은)에 대한 분명한 징후/신호",
+            "context": "recognizing the writing on the wall for AI's transition"
+          }
+        ]
+      },
       {
         "sentences": [
           "With major tech firms like Microsoft raising the stakes in the AI infrastructure race, early-stage startups are finding it's a prime time to strike while the iron is hot and secure significant venture capital.",
@@ -9283,6 +9348,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Venice's new €5 entry fee is an effort to stem the tide of unchecked tourism, which has been steadily eroding the quality of life for its residents.",
+          "While vital for the city's long-term sustainability, some worry this might put a damper on spontaneous day-trips, potentially having a ripple effect on smaller, lesser-known local businesses."
+        ],
+        "sentenceTranslations": [
+          "베네치아의 새로운 5유로 입장료는 무분별한 관광객의 유입을 막기 위한 노력으로, 이는 주민들의 삶의 질을 꾸준히 저하시켜 왔습니다.",
+          "장기적인 도시의 지속가능성에 필수적이지만, 일부에서는 이것이 즉흥적인 당일치기 여행을 위축시키고, 나아가 규모가 작은 잘 알려지지 않은 현지 상점들에 파급 효과를 가져올 수 있다고 우려합니다."
+        ],
+        "translationHighlights": [
+          "무분별한 관광객의 유입을 막기 위한 노력",
+          "삶의 질을 꾸준히 저하시켜 왔습니다",
+          "즉흥적인 당일치기 여행을 위축시키고",
+          "파급 효과를 가져올 수 있다고 우려합니다"
+        ],
+        "newWords": [
+          {
+            "word": "stem the tide",
+            "meaning": "무분별한 유입/확산을 막다, 흐름을 저지하다",
+            "context": "to stem the tide of unchecked tourism"
+          },
+          {
+            "word": "put a damper on",
+            "meaning": "~에 찬물을 끼얹다, (즐거움 등을) 망치다/위축시키다",
+            "context": "might put a damper on spontaneous day-trips"
+          },
+          {
+            "word": "have a ripple effect",
+            "meaning": "파급 효과를 가져오다, 연쇄적인 영향을 미치다",
+            "context": "potentially having a ripple effect on smaller... local businesses"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With international travel to Asia now riding high, airlines like Qatar Airways are certainly striking while the iron's hot by significantly boosting their capacity to key destinations.",
           "Similarly, Southeast Asian nations easing visa restrictions are paving the way for a tourism boom, while the impending BTS concert in Seoul is expected to open the floodgates for an unprecedented influx of Hallyu fans."
         ],
@@ -13924,6 +14022,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With the US Open main draw just days away, the atmosphere at Flushing Meadows is electric, especially with defending champion Coco Gauff hitting her stride.",
+          "After a stellar summer season, Gauff seems to be firing on all cylinders, ready to pull out all the stops to defend her title on home soil."
+        ],
+        "sentenceTranslations": [
+          "US 오픈 본선이 며칠 앞으로 다가오면서, 특히 디펜딩 챔피언 코코 고프가 절정의 기량을 보여주고 있기에 플러싱 메도우즈의 분위기는 전기가 흐르듯 뜨겁습니다.",
+          "훌륭한 여름 시즌을 보낸 고프는 모든 역량을 발휘하고 있는 듯하며, 홈에서 타이틀을 방어하기 위해 모든 노력을 기울일 준비가 되어 있습니다."
+        ],
+        "translationHighlights": [
+          "전기가 흐르듯 뜨겁습니다",
+          "절정의 기량을 보여주고 있기에",
+          "모든 역량을 발휘하고 있는 듯하며",
+          "모든 노력을 기울일"
+        ],
+        "newWords": [
+          {
+            "word": "the atmosphere is electric",
+            "meaning": "분위기가 전기가 흐르듯 뜨겁다, 열기로 가득하다",
+            "context": "the atmosphere at Flushing Meadows is electric"
+          },
+          {
+            "word": "hitting her stride",
+            "meaning": "(기량 등이) 절정에 달하다, 최고조에 오르다, 순조롭게 진행되다",
+            "context": "Coco Gauff hitting her stride"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 노력을 기울이다, 전력을 다하다",
+            "context": "ready to pull out all the stops"
+          }
+        ]
+      },
       {
         "sentences": [
           "With Carlos Alcaraz back in the saddle after his injury and Coco Gauff eyeing a maiden Grand Slam, anticipation for the US Open is already reaching a fever pitch.",
