@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Many feel that pervasive AR smart glasses are beginning to cross a line in terms of personal space, leading to widespread discomfort.",
+          "The Digital Ethics Council rightly suggests we nip this potential breakdown in social trust in the bud by establishing clear AR-free zones."
+        ],
+        "sentenceTranslations": [
+          "많은 이들은 만연한 AR 스마트 안경이 개인 공간에 있어 선을 넘기 시작하며, 광범위한 불편함을 초래하고 있다고 느낍니다.",
+          "디지털 윤리 협의회는 이러한 잠재적인 사회적 신뢰 붕괴를 명확한 'AR 금지 구역' 설정을 통해 싹부터 잘라야 한다고 적절하게 제안합니다."
+        ],
+        "translationHighlights": [
+          "선을 넘기 시작하며",
+          "광범위한 불편함을 초래하고 있다고",
+          "잠재적인 사회적 신뢰 붕괴",
+          "싹부터 잘라야 한다고"
+        ],
+        "newWords": [
+          {
+            "word": "cross a line",
+            "meaning": "선을 넘다, 용납될 수 없는 행동을 하다",
+            "context": "AR smart glasses are beginning to cross a line in terms of personal space"
+          },
+          {
+            "word": "nip it in the bud",
+            "meaning": "(문제 등을) 싹부터 자르다, 미연에 방지하다",
+            "context": "we nip this potential breakdown in social trust in the bud"
+          },
+          {
+            "word": "breakdown in social trust",
+            "meaning": "사회적 신뢰의 붕괴",
+            "context": "this potential breakdown in social trust"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With Synapse Labs' new 'Adaptive Agent' AI, many are ready to take the plunge into fully automated personal management, hoping to lighten their daily load.",
           "However, experts warn that while convenient, allowing AI to take the reins completely could be a slippery slope, potentially dulling our human decision-making capabilities."
         ],
@@ -4657,6 +4690,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Microsoft's hefty $12 billion acquisition of CogniStream AI is a clear move to steal a march on competitors in the fiercely competitive generative AI space.",
+          "This strategic investment shows the tech giant is ready to double down on its enterprise AI offerings, signaling an intensified battle for market leadership."
+        ],
+        "sentenceTranslations": [
+          "마이크로소프트의 코그니스프림 AI 120억 달러라는 막대한 인수는 치열하게 경쟁하는 생성형 AI 분야에서 경쟁자들을 제치고 앞서나가기 위한 분명한 움직임입니다.",
+          "이러한 전략적 투자는 이 거대 기술 기업이 기업용 AI 제공 역량에 더욱 집중할 준비가 되어 있음을 보여주며, 시장 리더십을 위한 격화된 싸움을 예고합니다."
+        ],
+        "translationHighlights": [
+          "경쟁자들을 제치고 앞서나가기 위한",
+          "막대한 인수",
+          "더욱 집중할"
+        ],
+        "newWords": [
+          {
+            "word": "steal a march on someone",
+            "meaning": "~을 앞질러 유리한 고지를 차지하다, ~보다 한발 앞서다",
+            "context": "to steal a march on competitors"
+          },
+          {
+            "word": "hefty",
+            "meaning": "엄청난, 막대한 (특히 돈이나 양에 대해)",
+            "context": "Microsoft's hefty $12 billion acquisition"
+          },
+          {
+            "word": "double down on something",
+            "meaning": "~에 더욱 집중하다, ~에 더 많은 노력을 기울이다 (특히 위험을 감수하고서라도)",
+            "context": "ready to double down on its enterprise AI offerings"
+          }
+        ]
+      },
       {
         "sentences": [
           "With Gartner predicting a drastic surge in GenAI adoption, enterprise AI providers are clearly on an upward trajectory, reflecting robust investor confidence.",
@@ -9348,6 +9413,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The unprecedented August heatwaves in Southern Europe undoubtedly put a damper on bookings, with some popular destinations experiencing a noticeable dip.",
+          "Conversely, the surging demand for cooler Nordic destinations proves that eco-conscious travel is more than just a flash in the pan; it's a trend that's clearly catching on."
+        ],
+        "sentenceTranslations": [
+          "남유럽의 전례 없는 8월 폭염은 예약에 확실히 찬물을 끼얹었고, 일부 인기 여행지에서는 눈에 띄는 감소를 겪었습니다.",
+          "반대로, 시원한 북유럽 여행지에 대한 급증하는 수요는 친환경 여행이 그저 일시적인 유행이 아니라 명확히 대세로 자리 잡고 있음을 증명합니다."
+        ],
+        "translationHighlights": [
+          "찬물을 끼얹었고",
+          "눈에 띄는 감소",
+          "일시적인 유행",
+          "대세로 자리 잡고 있음을"
+        ],
+        "newWords": [
+          {
+            "word": "put a damper on",
+            "meaning": "찬물을 끼얹다, 김을 빼다, 흥을 깨다",
+            "context": "undoubtedly put a damper on bookings"
+          },
+          {
+            "word": "flash in the pan",
+            "meaning": "일시적인 성공, 반짝 유행",
+            "context": "more than just a flash in the pan"
+          },
+          {
+            "word": "catching on",
+            "meaning": "인기를 얻다, 유행하다, 이해하다",
+            "context": "it's a trend that's clearly catching on"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Venice's new €5 entry fee is an effort to stem the tide of unchecked tourism, which has been steadily eroding the quality of life for its residents.",
           "While vital for the city's long-term sustainability, some worry this might put a damper on spontaneous day-trips, potentially having a ripple effect on smaller, lesser-known local businesses."
         ],
@@ -14022,6 +14120,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "As Naomi Osaka prepares for her highly anticipated return to Grand Slam play, tennis fans are eager to see if she can truly get back in the saddle and make a significant impact at the US Open.",
+          "Meanwhile, the Valorant Champions Grand Final in Seoul is shaping up to be a real nail-biter, with Fnatic and Sentinels set to go head-to-head for esports supremacy this Sunday."
+        ],
+        "sentenceTranslations": [
+          "나오미 오사카 선수가 그랜드 슬램 복귀를 앞두고 있는 가운데, 테니스 팬들은 그녀가 진정으로 예전 기량을 되찾아 US 오픈에서 중요한 활약을 펼칠 수 있을지 궁금해하고 있습니다.",
+          "한편, 서울에서 열리는 발로란트 챔피언스 그랜드 파이널은 Fnatic과 Sentinels 두 팀이 이번 주 일요일 e스포츠 최강자 자리를 놓고 정면 대결을 펼칠 예정이어서 정말 손에 땀을 쥐게 하는 경기가 될 것으로 보입니다."
+        ],
+        "translationHighlights": [
+          "예전 기량을 되찾아",
+          "손에 땀을 쥐게 하는",
+          "정면 대결을 펼칠"
+        ],
+        "newWords": [
+          {
+            "word": "get back in the saddle",
+            "meaning": "다시 활동을 시작하다, 예전 기량을 되찾다",
+            "context": "if she can truly get back in the saddle and make a significant impact"
+          },
+          {
+            "word": "nail-biter",
+            "meaning": "손에 땀을 쥐게 하는 흥미진진한 경기/상황",
+            "context": "to be a real nail-biter, with Fnatic and Sentinels set to"
+          },
+          {
+            "word": "go head-to-head",
+            "meaning": "정면으로 맞붙다, 대결하다",
+            "context": "set to go head-to-head for esports supremacy this Sunday"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the US Open main draw just days away, the atmosphere at Flushing Meadows is electric, especially with defending champion Coco Gauff hitting her stride.",
