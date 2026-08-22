@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "AI-powered financial co-pilots are truly starting to level the playing field, making expert advice accessible to everyone.",
+          "Now, average consumers can finally get a leg up on their financial goals, moving beyond basic budgeting to proactive investment strategies."
+        ],
+        "sentenceTranslations": [
+          "AI 기반의 재정 조력자들이 진정으로 판도를 평평하게 만들며, 전문가 조언을 누구나 이용할 수 있도록 하고 있습니다.",
+          "이제 일반 소비자들도 마침내 재정 목표 달성에 유리한 고지를 점할 수 있게 되었고, 기본적인 예산 관리 단계를 넘어 적극적인 투자 전략을 세울 수 있게 되었습니다."
+        ],
+        "translationHighlights": [
+          "판도를 평평하게 만들다",
+          "누구나 이용할 수 있도록",
+          "유리한 고지를 점하다",
+          "적극적인 투자 전략"
+        ],
+        "newWords": [
+          {
+            "word": "level the playing field",
+            "meaning": "(모두에게) 공정한 경쟁의 장을 만들다, 공평하게 하다",
+            "context": "starting to level the playing field"
+          },
+          {
+            "word": "get a leg up",
+            "meaning": "유리한 고지를 점하다, 이점을 얻다",
+            "context": "finally get a leg up on their financial goals"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Many feel that pervasive AR smart glasses are beginning to cross a line in terms of personal space, leading to widespread discomfort.",
           "The Digital Ethics Council rightly suggests we nip this potential breakdown in social trust in the bud by establishing clear AR-free zones."
         ],
@@ -4690,6 +4718,33 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Apple's aggressive move to acquire Lumi Labs clearly throws down the gauntlet to Microsoft, aiming to reshape the competitive landscape in enterprise AI.",
+          "This strategic push signals that Apple is ready to go for the jugular in the generative AI space, not merely content with playing catch-up."
+        ],
+        "sentenceTranslations": [
+          "애플이 루미 랩스 인수를 위해 공격적으로 나선 것은 마이크로소프트에 명백히 도전장을 던지는 것으로, 기업 AI 분야의 경쟁 구도를 재편하려는 목표를 가지고 있습니다.",
+          "이런 전략적인 움직임은 애플이 단순히 따라잡는 것에 만족하지 않고 생성형 AI 시장의 약점을 파고들어 핵심을 공격할 준비가 되어 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "도전장을 던지는 것",
+          "경쟁 구도를 재편하려는 목표",
+          "약점을 파고들어 핵심을 공격할 준비"
+        ],
+        "newWords": [
+          {
+            "word": "throw down the gauntlet",
+            "meaning": "도전장을 던지다, (어떤 분야에서) 도전하다",
+            "context": "Apple's aggressive move to acquire Lumi Labs clearly throws down the gauntlet to Microsoft"
+          },
+          {
+            "word": "go for the jugular",
+            "meaning": "가장 취약한 부분을 공격하다, 핵심을 노리다",
+            "context": "Apple is ready to go for the jugular in the generative AI space"
+          }
+        ]
+      },
       {
         "sentences": [
           "Microsoft's hefty $12 billion acquisition of CogniStream AI is a clear move to steal a march on competitors in the fiercely competitive generative AI space.",
@@ -9413,6 +9468,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Venice's council, in a bid to stem the tide of overtourism, is walking a tightrope with its new visitor caps, presenting a significant economic balancing act for local businesses.",
+          "Concurrently, the surge in premium economy bookings signals that 'affordable luxury' travel is truly striking a chord with modern travelers, hitting the sweet spot between extravagance and economy."
+        ],
+        "sentenceTranslations": [
+          "베네치아 시의회는 과도한 관광객 유입을 막기 위해 새로운 방문객 수 상한선을 도입하며, 지역 상인들에게는 상당한 경제적 균형잡기 과제를 안겨주어 아슬아슬한 줄타기를 하고 있습니다.",
+          "동시에, 프리미엄 이코노미 예약 급증은 '합리적 럭셔리' 여행이 현대 여행객들의 마음을 진정으로 사로잡으며, 호화로움과 경제성 사이의 최적점을 찾아냈음을 시사합니다."
+        ],
+        "translationHighlights": [
+          "과도한 관광객 유입을 막기 위해",
+          "아슬아슬한 줄타기를 하고 있습니다",
+          "마음을 진정으로 사로잡으며",
+          "최적점을 찾아냈음을 시사합니다"
+        ],
+        "newWords": [
+          {
+            "word": "stem the tide",
+            "meaning": "~의 흐름을 막다, 억제하다",
+            "context": "to stem the tide of overtourism"
+          },
+          {
+            "word": "walking a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다, 매우 어려운 상황에 있다",
+            "context": "is walking a tightrope with its new visitor caps"
+          },
+          {
+            "word": "striking a chord",
+            "meaning": "공감을 얻다, 마음을 울리다, 마음에 들다",
+            "context": "is truly striking a chord with modern travelers"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The unprecedented August heatwaves in Southern Europe undoubtedly put a damper on bookings, with some popular destinations experiencing a noticeable dip.",
           "Conversely, the surging demand for cooler Nordic destinations proves that eco-conscious travel is more than just a flash in the pan; it's a trend that's clearly catching on."
         ],
@@ -14120,6 +14208,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The tournament director noted that Fan Week ticket sales are off the charts, suggesting the tennis world is already buzzing with excitement for the main draw.",
+          "With young phenoms like Olivia Chang making waves and defending champions acknowledging the intense competition, it's clear the stakes are incredibly high."
+        ],
+        "sentenceTranslations": [
+          "대회 디렉터는 팬 위크 티켓 판매가 엄청나다고 언급했는데, 이는 테니스계가 본선 경기에 대한 기대감으로 이미 들썩이고 있음을 시사합니다.",
+          "올리비아 창 같은 젊은 천재들이 파란을 일으키고 있고 디펜딩 챔피언들 역시 치열한 경쟁을 인정하고 있는 만큼, 승부의 중요성이 매우 크다는 점이 분명합니다."
+        ],
+        "translationHighlights": [
+          "엄청나다고 언급했는데",
+          "기대감으로 이미 들썩이고 있음을 시사합니다",
+          "파란을 일으키고 있고"
+        ],
+        "newWords": [
+          {
+            "word": "off the charts",
+            "meaning": "매우 높거나 특이한, 엄청난",
+            "context": "ticket sales are off the charts"
+          },
+          {
+            "word": "buzzing with excitement",
+            "meaning": "흥분으로 들썩이다, 활기 넘치다",
+            "context": "already buzzing with excitement"
+          },
+          {
+            "word": "making waves",
+            "meaning": "이목을 끌다, 파란을 일으키다",
+            "context": "making waves"
+          }
+        ]
+      },
       {
         "sentences": [
           "As Naomi Osaka prepares for her highly anticipated return to Grand Slam play, tennis fans are eager to see if she can truly get back in the saddle and make a significant impact at the US Open.",
