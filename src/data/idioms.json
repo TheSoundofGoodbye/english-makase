@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "As digital wellness burnout intensifies, the writing on the wall for hyper-connectivity becomes increasingly clear for many professionals.",
+          "This growing fatigue is driving them to actively cut the cord from constant virtual demands, seeking a breath of fresh air in genuinely disconnected environments."
+        ],
+        "sentenceTranslations": [
+          "디지털 웰니스 번아웃이 심화되면서, 많은 직장인들에게 초연결 사회의 미래에 대한 분명한 경고 신호가 나타나고 있습니다.",
+          "이러한 피로감 증가로 인해 그들은 끊임없는 가상 환경의 요구에서 적극적으로 벗어나, 진정으로 단절된 환경에서 신선한 활력을 찾고 있습니다."
+        ],
+        "translationHighlights": [
+          "경고 신호가 나타나고 있습니다",
+          "적극적으로 벗어나",
+          "신선한 활력을 찾고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "the writing on the wall",
+            "meaning": "불길하거나 피할 수 없는 결과에 대한 분명한 징조/경고",
+            "context": "the writing on the wall for hyper-connectivity"
+          },
+          {
+            "word": "cut the cord",
+            "meaning": "연결을 끊다; (특정 상황이나 관계에서) 독립하다/벗어나다",
+            "context": "actively cut the cord from constant virtual demands"
+          },
+          {
+            "word": "a breath of fresh air",
+            "meaning": "신선한 기운; 새로운 활력이나 변화를 가져오는 사람/것",
+            "context": "seeking a breath of fresh air in genuinely disconnected environments"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "AI-powered financial co-pilots are truly starting to level the playing field, making expert advice accessible to everyone.",
           "Now, average consumers can finally get a leg up on their financial goals, moving beyond basic budgeting to proactive investment strategies."
         ],
@@ -4718,6 +4750,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "OpenAI's Titan-10 has undeniably raised the stakes in the AI industry, compelling rivals to put their money where their mouth is for next-gen enterprise solutions.",
+          "Nevertheless, even as CapEx projections hit a new high, the ECB's commitment to tackling inflation means central banks will still be walking a tightrope to avoid stalling broader economic recovery."
+        ],
+        "sentenceTranslations": [
+          "오픈AI의 타이탄-10 공개는 AI 업계의 판돈을 확실히 올렸고, 경쟁사들은 차세대 엔터프라이즈 솔루션에 자신들의 말에 책임을 지듯 투자를 강행하고 있습니다.",
+          "하지만, 자본 지출 전망치가 최고치를 기록하고 있음에도 불구하고, ECB가 인플레이션 억제에 전념하고 있다는 것은 중앙은행들이 더 넓은 경제 회복을 방해하지 않도록 여전히 곡예를 해야 한다는 것을 의미합니다."
+        ],
+        "translationHighlights": [
+          "판돈을 확실히 올렸고",
+          "자신들의 말에 책임을 지듯 투자를 강행하고 있습니다",
+          "여전히 곡예를 해야 한다는 것을 의미합니다"
+        ],
+        "newWords": [
+          {
+            "word": "raise the stakes",
+            "meaning": "판돈을 올리다, (어떤 상황에서) 위험이나 중요성을 높이다",
+            "context": "raised the stakes in the AI industry"
+          },
+          {
+            "word": "put one's money where one's mouth is",
+            "meaning": "말로만 하지 않고 실제로 행동으로 보여주다 (특히 돈을 써서), 말에 책임을 지고 투자하다",
+            "context": "compelling rivals to put their money where their mouth is"
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다, (어렵거나 위험한 상황에서) 균형을 잡으려 애쓰다",
+            "context": "central banks will still be walking a tightrope"
+          }
+        ]
+      },
       {
         "sentences": [
           "Apple's aggressive move to acquire Lumi Labs clearly throws down the gauntlet to Microsoft, aiming to reshape the competitive landscape in enterprise AI.",
@@ -9468,6 +9532,34 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The travel industry is experiencing a veritable sea change, with Gen Z travelers now consistently opting for immersive cultural experiences over traditional sightseeing.",
+          "Concurrently, major airlines are truly up against it, grappling with the monumental task of boosting Sustainable Aviation Fuel usage to meet 2030 targets."
+        ],
+        "sentenceTranslations": [
+          "여행 산업은 진정한 격변기를 맞고 있으며, Z세대 여행객들은 이제 전통적인 관광보다는 몰입감 있는 문화 체험을 꾸준히 선택하고 있습니다.",
+          "동시에 주요 항공사들은 2030년 목표를 달성하기 위해 지속 가능한 항공 연료 사용량을 늘려야 하는 엄청난 과제에 직면해 있습니다."
+        ],
+        "translationHighlights": [
+          "진정한 격변기",
+          "몰입감 있는 문화 체험",
+          "엄청난 과제에 직면해 있습니다",
+          "지속 가능한 항공 연료 사용량"
+        ],
+        "newWords": [
+          {
+            "word": "sea change",
+            "meaning": "중대한 변화, 큰 변화",
+            "context": "The travel industry is experiencing a veritable sea change"
+          },
+          {
+            "word": "up against it",
+            "meaning": "큰 어려움에 직면하다, 궁지에 몰리다",
+            "context": "major airlines are truly up against it"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Venice's council, in a bid to stem the tide of overtourism, is walking a tightrope with its new visitor caps, presenting a significant economic balancing act for local businesses.",
           "Concurrently, the surge in premium economy bookings signals that 'affordable luxury' travel is truly striking a chord with modern travelers, hitting the sweet spot between extravagance and economy."
         ],
@@ -14208,6 +14300,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Defending champion Aryna Sabalenka faced a real baptism of fire in her opening match, narrowly avoiding an upset by the skin of her teeth.",
+          "Yet, despite the on-court drama, the US Open is already off to a flying start, with attendance numbers soaring thanks to the buzz for Carlos Alcaraz."
+        ],
+        "sentenceTranslations": [
+          "디펜딩 챔피언 아리나 사발렌카는 개막전에서 엄청난 혹독한 신고식을 치렀고, 아슬아슬하게 이변을 모면했습니다.",
+          "하지만 코트 위 드라마에도 불구하고, US 오픈은 카를로스 알카라스에 대한 열기 덕분에 관중 수가 급증하며 벌써부터 성공적인 출발을 보이고 있습니다."
+        ],
+        "translationHighlights": [
+          "혹독한 신고식",
+          "아슬아슬하게 이변을 모면했습니다",
+          "코트 위 드라마",
+          "성공적인 출발을 보이고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "baptism of fire",
+            "meaning": "혹독한 신고식 (어렵거나 고통스러운 첫 경험)",
+            "context": "Sabalenka faced a real baptism of fire"
+          },
+          {
+            "word": "by the skin of one's teeth",
+            "meaning": "아슬아슬하게, 간신히",
+            "context": "avoiding an upset by the skin of her teeth"
+          },
+          {
+            "word": "off to a flying start",
+            "meaning": "성공적인 출발을 하다, 순조롭게 시작하다",
+            "context": "the US Open is already off to a flying start"
+          }
+        ]
+      },
       {
         "sentences": [
           "The tournament director noted that Fan Week ticket sales are off the charts, suggesting the tennis world is already buzzing with excitement for the main draw.",
