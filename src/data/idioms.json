@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The recent study on \"AI-induced anxiety\" suggests that for many young adults, the pervasive integration of generative AI is proving to be a bitter pill to swallow.",
+          "While companies promise seamless personalized experiences, user concerns about data privacy are often swept under the rug amidst the push for new smart home ecosystems."
+        ],
+        "sentenceTranslations": [
+          "최근 'AI 유발 불안'에 대한 연구는 많은 젊은이들에게 생성형 AI의 광범위한 통합이 받아들이기 힘든 현실이 되고 있음을 시사합니다.",
+          "기업들이 매끄러운 맞춤형 경험을 약속하는 동안에도, 새로운 스마트 홈 생태계 추진 속에서 데이터 프라이버시에 대한 사용자들의 우려는 종종 묵살되는 경향이 있습니다."
+        ],
+        "translationHighlights": [
+          "받아들이기 힘든 현실",
+          "광범위한 통합",
+          "매끄러운 맞춤형 경험",
+          "묵살되는 경향이 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "a bitter pill to swallow",
+            "meaning": "받아들이기 힘들거나 불쾌하지만 감수해야 하는 현실/상황",
+            "context": "is proving to be a bitter pill to swallow"
+          },
+          {
+            "word": "pervasive integration",
+            "meaning": "광범위한 통합, 널리 퍼진 통합",
+            "context": "the pervasive integration of generative AI"
+          },
+          {
+            "word": "swept under the rug",
+            "meaning": "문제를 덮어두거나 무시하다, 묵살하다",
+            "context": "are often swept under the rug"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As digital wellness burnout intensifies, the writing on the wall for hyper-connectivity becomes increasingly clear for many professionals.",
           "This growing fatigue is driving them to actively cut the cord from constant virtual demands, seeking a breath of fresh air in genuinely disconnected environments."
         ],
@@ -4750,6 +4783,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "With the generative AI sector proving to be a white-hot market, tech giants are pouring vast resources into custom chip development.",
+          "Simultaneously, as global inflation continues to bite, European regulators are working to cut through the red tape to clarify the EU AI Act without stifling innovation."
+        ],
+        "sentenceTranslations": [
+          "생성형 AI 분야가 매우 뜨거운 시장으로 부상하면서, 기술 대기업들은 맞춤형 칩 개발에 막대한 자원을 쏟아붓고 있습니다.",
+          "이와 동시에, 전 세계적인 인플레이션이 계속해서 악영향을 미치는 가운데, 유럽 규제 당국은 혁신을 저해하지 않으면서 EU AI법을 명확히 하기 위해 불필요한 규제를 제거하려 노력하고 있습니다."
+        ],
+        "translationHighlights": [
+          "매우 뜨거운 시장",
+          "막대한 자원을 쏟아붓고 있습니다",
+          "계속해서 악영향을 미치는",
+          "불필요한 규제를 제거"
+        ],
+        "newWords": [
+          {
+            "word": "white-hot",
+            "meaning": "매우 뜨거운, 치열한 (경쟁이나 수요가)",
+            "context": "proving to be a white-hot market"
+          },
+          {
+            "word": "continues to bite",
+            "meaning": "계속해서 악영향을 미치다, 부담을 주다 (주로 경제적 어려움에 사용)",
+            "context": "as global inflation continues to bite"
+          },
+          {
+            "word": "cut through the red tape",
+            "meaning": "관료주의적 절차나 불필요한 규제를 제거하다, 간소화하다",
+            "context": "working to cut through the red tape"
+          }
+        ]
+      },
       {
         "sentences": [
           "OpenAI's Titan-10 has undeniably raised the stakes in the AI industry, compelling rivals to put their money where their mouth is for next-gen enterprise solutions.",
@@ -9532,6 +9598,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Lufthansa and other carriers are certainly riding high on the back of Japan's renewed appeal, with the experiential visa program proving to be a real game-changer.",
+          "This strategy allows visitors to truly get under the skin of Japanese culture, rather than merely passing through, positioning Japan on the fast track to becoming a top destination for immersive experiences."
+        ],
+        "sentenceTranslations": [
+          "루프트한자를 비롯한 항공사들은 일본의 재활성화된 매력 덕분에 확실히 승승장구하고 있으며, 체험형 비자 프로그램은 진정한 판도를 바꾸는 요인이 되고 있습니다.",
+          "이러한 전략은 방문객들이 단순히 스쳐 지나가는 것이 아니라 일본 문화를 진정으로 깊이 이해할 수 있게 하여, 일본을 몰입형 경험을 위한 최고의 목적지로 급부상시키고 있습니다."
+        ],
+        "translationHighlights": [
+          "승승장구하고 있으며",
+          "진정한 판도를 바꾸는 요인",
+          "진정으로 깊이 이해할 수 있게",
+          "급부상시키고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "riding high",
+            "meaning": "승승장구하다, 큰 성공을 거두고 있다",
+            "context": "Lufthansa and other carriers are certainly riding high on the back of Japan's renewed appeal"
+          },
+          {
+            "word": "game-changer",
+            "meaning": "판도를 바꾸는 요인/사건/사람, (상황을) 완전히 뒤바꾸는 것",
+            "context": "the experiential visa program proving to be a real game-changer"
+          },
+          {
+            "word": "get under the skin of",
+            "meaning": "~의 본질/속성을 깊이 이해하다, ~을 속속들이 경험하다",
+            "context": "visitors to truly get under the skin of Japanese culture"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The travel industry is experiencing a veritable sea change, with Gen Z travelers now consistently opting for immersive cultural experiences over traditional sightseeing.",
           "Concurrently, major airlines are truly up against it, grappling with the monumental task of boosting Sustainable Aviation Fuel usage to meet 2030 targets."
         ],
@@ -14300,6 +14399,33 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Given the surging interest and record pre-sale demand, it's clear the US Open is poised to hit it out of the park this year.",
+          "For contenders like Jessica Pegula, navigating the early rounds will require them to come out swinging against formidable opponents."
+        ],
+        "sentenceTranslations": [
+          "급증하는 관심과 기록적인 사전 판매량으로 볼 때, 올해 US 오픈은 대성공을 거둘 것이 분명합니다.",
+          "제시카 페굴라 같은 우승 후보들이 초반 라운드를 통과하려면, 강적들을 상대로 초반부터 맹렬하게 맞서 싸워야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "대성공을 거둘 것이 분명합니다",
+          "초반부터 맹렬하게 맞서 싸워야",
+          "강적들을 상대로"
+        ],
+        "newWords": [
+          {
+            "word": "hit it out of the park",
+            "meaning": "크게 성공하다, 대성공하다",
+            "context": "US Open is poised to hit it out of the park"
+          },
+          {
+            "word": "come out swinging",
+            "meaning": "초반부터 맹렬하게 시작하다, 적극적으로 공격하다",
+            "context": "require them to come out swinging"
+          }
+        ]
+      },
       {
         "sentences": [
           "Defending champion Aryna Sabalenka faced a real baptism of fire in her opening match, narrowly avoiding an upset by the skin of her teeth.",
