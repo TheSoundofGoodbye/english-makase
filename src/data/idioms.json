@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The personalized health tech sector is truly hitting its stride, with companies like Apple pushing the envelope and businesses increasingly jumping on the bandwagon of employee wellness programs.",
+          "Yet, as Dr. Khan cautioned, while these digital tools can be a real shot in the arm for managing well-being, we must ensure they complement, rather than undermine, the irreplaceable value of human connection."
+        ],
+        "sentenceTranslations": [
+          "개인 맞춤형 건강 기술 분야는 진정으로 본 궤도에 올라섰고, 애플 같은 기업들이 혁신을 이끄는 가운데 기업들도 직원 복지 프로그램에 점차 합류하는 추세입니다.",
+          "하지만 칸 박사님이 경고했듯이, 이러한 디지털 도구들이 건강 관리에 진정한 활력소가 될 수 있지만, 인간 관계라는 대체 불가능한 가치를 훼손하기보다는 보완하도록 해야 합니다."
+        ],
+        "translationHighlights": [
+          "본 궤도에 올라섰고",
+          "합류하는 추세입니다",
+          "활력소가 될 수 있지만",
+          "대체 불가능한 가치"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "본 궤도에 오르다, 순조롭게 진행되다",
+            "context": "The personalized health tech sector is truly hitting its stride"
+          },
+          {
+            "word": "jumping on the bandwagon",
+            "meaning": "유행에 편승하다, 흐름에 합류하다",
+            "context": "businesses increasingly jumping on the bandwagon of employee wellness programs"
+          },
+          {
+            "word": "a shot in the arm",
+            "meaning": "활력소, 큰 격려나 도움",
+            "context": "these digital tools can be a real shot in the arm for managing well-being"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The recent study on \"AI-induced anxiety\" suggests that for many young adults, the pervasive integration of generative AI is proving to be a bitter pill to swallow.",
           "While companies promise seamless personalized experiences, user concerns about data privacy are often swept under the rug amidst the push for new smart home ecosystems."
         ],
@@ -4783,6 +4816,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "The colossal $800 million funding round for AetherAI underscores how the specialized AI sector is on a roll, attracting unprecedented investment and talent.",
+          "Yet, with valuations going through the roof and regulatory scrutiny beginning to intensify, some analysts are cautioning against letting the hype run away with itself."
+        ],
+        "sentenceTranslations": [
+          "에이서AI에 대한 8억 달러 규모의 막대한 투자는 전문 AI 분야가 어떻게 승승장구하며 전례 없는 투자와 인재를 유치하고 있는지를 잘 보여줍니다.",
+          "하지만 기업 가치가 천정부지로 치솟고 규제 당국의 감시가 강화되기 시작하면서, 일부 분석가들은 이러한 과열된 기대가 통제 불능 상태로 치닫지 않도록 경고하고 있습니다."
+        ],
+        "translationHighlights": [
+          "승승장구하며",
+          "천정부지로 치솟고",
+          "통제 불능 상태로 치닫지 않도록"
+        ],
+        "newWords": [
+          {
+            "word": "on a roll",
+            "meaning": "승승장구하는, 연이은 성공을 거두는",
+            "context": "how the specialized AI sector is *on a roll*"
+          },
+          {
+            "word": "through the roof",
+            "meaning": "(물가, 수치 등이) 천정부지로 치솟는, 최고조에 달하는",
+            "context": "with valuations going *through the roof*"
+          },
+          {
+            "word": "run away with itself",
+            "meaning": "통제 불능이 되다, 지나치게 과열되다",
+            "context": "letting the hype *run away with itself*"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the generative AI sector proving to be a white-hot market, tech giants are pouring vast resources into custom chip development.",
@@ -9598,6 +9663,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "As major airlines continue to feel the pinch from soaring jet fuel prices and the fully implemented ETIAS system requires non-EU visitors to jump through hoops, the prospect of easy autumn travel for many remains largely up in the air.",
+          "However, this widespread shake-up in traditional travel patterns might prove a blessing in disguise, encouraging more adventurers to get off the beaten track and truly sink their teeth into authentic cultural experiences, a trend the UNWTO champions."
+        ],
+        "sentenceTranslations": [
+          "주요 항공사들이 치솟는 항공유 가격으로 계속해서 재정적 어려움을 겪고 있고, 완전히 시행된 ETIAS 시스템이 비EU 방문객들에게 복잡한 절차를 요구하면서, 많은 사람들에게 편안한 가을 여행 전망은 여전히 불확실합니다.",
+          "하지만, 이러한 광범위한 전통적인 여행 방식의 변화는 오히려 전화위복이 될 수 있으며, 더 많은 모험가들이 흔치 않은 곳을 찾아 진정한 문화 체험에 깊이 몰입하도록 장려하는 추세는 UNWTO가 적극적으로 지지하는 바입니다."
+        ],
+        "translationHighlights": [
+          "재정적 어려움을 겪고 있고",
+          "복잡한 절차를 요구하면서",
+          "전화위복이 될 수 있으며",
+          "흔치 않은 곳을 찾아"
+        ],
+        "newWords": [
+          {
+            "word": "feel the pinch",
+            "meaning": "재정적 어려움을 겪다",
+            "context": "airlines continue to feel the pinch from soaring jet fuel prices"
+          },
+          {
+            "word": "jump through hoops",
+            "meaning": "복잡하거나 귀찮은 절차를 거치다",
+            "context": "ETIAS system requires non-EU visitors to jump through hoops"
+          },
+          {
+            "word": "get off the beaten track",
+            "meaning": "남들이 잘 가지 않는 곳으로 가다, 덜 알려진 곳을 방문하다",
+            "context": "encouraging more adventurers to get off the beaten track"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Lufthansa and other carriers are certainly riding high on the back of Japan's renewed appeal, with the experiential visa program proving to be a real game-changer.",
           "This strategy allows visitors to truly get under the skin of Japanese culture, rather than merely passing through, positioning Japan on the fast track to becoming a top destination for immersive experiences."
         ],
@@ -14399,6 +14497,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The news of Daniil Medvedev getting knocked off his perch so early in the US Open certainly raised some eyebrows among tennis fans.",
+          "However, Coco Gauff, clearly firing on all cylinders, looks poised to defend her title with confidence, especially after such a dominant opening match."
+        ],
+        "sentenceTranslations": [
+          "데이닐 메드베데프 선수가 US 오픈 초반에 그렇게 일찍 '정상에서 밀려났다'는 소식은 테니스 팬들 사이에서 상당한 놀라움을 자아냈습니다.",
+          "하지만 코코 고프 선수는 확실히 '최상의 컨디션으로' 우승을 방어할 준비가 되어 있는 것 같으며, 특히 압도적인 첫 경기 이후 더욱 자신감을 보였습니다."
+        ],
+        "translationHighlights": [
+          "정상에서 밀려났다",
+          "놀라움을 자아냈습니다",
+          "최상의 컨디션으로",
+          "우승을 방어할 준비가 되어 있는 것 같으며"
+        ],
+        "newWords": [
+          {
+            "word": "knocked off his perch",
+            "meaning": "정상에서 밀려나다, 지위에서 물러나다",
+            "context": "Medvedev getting knocked off his perch"
+          },
+          {
+            "word": "raised some eyebrows",
+            "meaning": "놀라움을 자아내다, 의아하게 만들다",
+            "context": "certainly raised some eyebrows"
+          },
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최상의 컨디션으로 작동하다, 최고의 성능을 발휘하다",
+            "context": "clearly firing on all cylinders"
+          }
+        ]
+      },
       {
         "sentences": [
           "Given the surging interest and record pre-sale demand, it's clear the US Open is poised to hit it out of the park this year.",
