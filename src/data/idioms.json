@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The WHO's push for equitable AI access aims to level the playing field globally, ensuring all nations can benefit from advanced diagnostics.",
+          "Companies like Patagonia, by championing the four-day work week, are truly ahead of the curve in prioritizing employee well-being as sustainable human capital."
+        ],
+        "sentenceTranslations": [
+          "WHO가 인공지능(AI) 도구에 대한 공평한 접근을 촉구하는 것은 전 세계적으로 기회의 균등을 도모하여 모든 국가가 첨단 진단 기술의 혜택을 누릴 수 있도록 하려는 것입니다.",
+          "파타고니아와 같은 기업들이 주 4일 근무제를 옹호하며 직원 복지를 지속 가능한 인적 자본으로 우선시하는 것은 진정으로 시대에 앞서가는 행보입니다."
+        ],
+        "translationHighlights": [
+          "기회의 균등을 도모",
+          "첨단 진단 기술의 혜택을 누리다",
+          "시대에 앞서가는 행보",
+          "지속 가능한 인적 자본으로 우선시하다"
+        ],
+        "newWords": [
+          {
+            "word": "level the playing field",
+            "meaning": "공정한 경쟁 환경을 만들다, 기회를 균등하게 하다",
+            "context": "aims to level the playing field globally"
+          },
+          {
+            "word": "ahead of the curve",
+            "meaning": "시대에 앞서가다, 남들보다 한발 앞서 나가다",
+            "context": "are truly ahead of the curve in prioritizing employee well-being"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The personalized health tech sector is truly hitting its stride, with companies like Apple pushing the envelope and businesses increasingly jumping on the bandwagon of employee wellness programs.",
           "Yet, as Dr. Khan cautioned, while these digital tools can be a real shot in the arm for managing well-being, we must ensure they complement, rather than undermine, the irreplaceable value of human connection."
         ],
@@ -4816,6 +4844,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "DeepMind's Synapse is set to raise the bar for AI's role in complex scientific research, signaling a new era of competition in the enterprise AI sector.",
+          "Meanwhile, the rebound in early-stage AI startup funding indicates that investors are increasingly putting their money where their mouth is regarding specialized AI applications, rather than just paying lip service."
+        ],
+        "sentenceTranslations": [
+          "딥마인드의 시냅스 공개는 복잡한 과학 연구에서 AI의 역할을 한 단계 끌어올려, 기업 AI 부문에서 새로운 경쟁 시대를 예고하고 있습니다.",
+          "한편, 초기 단계 AI 스타트업 투자금 반등은 투자자들이 전문 AI 애플리케이션에 대해 단순히 말로만 지지하는 것이 아니라, 점점 더 실질적인 투자를 하고 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "한 단계 끌어올려",
+          "말로만 지지하는 것이 아니라",
+          "실질적인 투자를 하고 있음"
+        ],
+        "newWords": [
+          {
+            "word": "raise the bar",
+            "meaning": "기준이나 기대치를 높이다, 수준을 끌어올리다",
+            "context": "raise the bar for AI's role"
+          },
+          {
+            "word": "put one's money where one's mouth is",
+            "meaning": "말로만 하지 않고 실제로 투자하거나 행동으로 보여주다",
+            "context": "putting their money where their mouth is"
+          },
+          {
+            "word": "pay lip service",
+            "meaning": "말로만 동의하거나 지지하는 척하다, 실천 없이 말만 하다",
+            "context": "rather than just paying lip service"
+          }
+        ]
+      },
       {
         "sentences": [
           "The colossal $800 million funding round for AetherAI underscores how the specialized AI sector is on a roll, attracting unprecedented investment and talent.",
@@ -9663,6 +9723,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With its record-breaking 9 million international arrivals, Vietnam's tourism sector is clearly riding the crest of a wave, prompting major carriers like Singapore Airlines to pull out all the stops to expand their services.",
+          "This surge, however, also highlights the growing importance of sustainability; airlines are now wisely putting their money where their mouth is by investing in Sustainable Aviation Fuel, sensing that eco-friendly travel is increasingly the writing on the wall for the industry's future."
+        ],
+        "sentenceTranslations": [
+          "베트남 관광 부문은 사상 최대인 9백만 명의 해외 입국자를 기록하며 명백히 절정기를 맞고 있으며, 이에 싱가포르 항공과 같은 주요 항공사들은 서비스 확대를 위해 온갖 노력을 기울이고 있습니다.",
+          "하지만 이러한 급증은 지속 가능성의 중요성 또한 부각시킵니다. 항공사들은 이제 지속 가능한 항공 연료에 투자하며 현명하게 말로만 그치지 않고 실천하고 있는데, 이는 친환경 여행이 업계의 미래에 점점 더 명백한 예측이 될 것임을 감지하고 있기 때문입니다."
+        ],
+        "translationHighlights": [
+          "절정기를 맞고 있으며",
+          "온갖 노력을 기울이고 있습니다",
+          "말로만 그치지 않고 실천하고 있는데",
+          "점점 더 명백한 예측이 될 것임을"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "절정기를 맞다, 최고의 성공을 누리다",
+            "context": "clearly riding the crest of a wave"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "온갖 수단과 방법을 동원하다, 최선을 다하다",
+            "context": "pull out all the stops to expand their services"
+          },
+          {
+            "word": "the writing on the wall",
+            "meaning": "불길하거나 피할 수 없는 미래의 징조, 명백한 예측",
+            "context": "increasingly the writing on the wall for the industry's future"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As major airlines continue to feel the pinch from soaring jet fuel prices and the fully implemented ETIAS system requires non-EU visitors to jump through hoops, the prospect of easy autumn travel for many remains largely up in the air.",
           "However, this widespread shake-up in traditional travel patterns might prove a blessing in disguise, encouraging more adventurers to get off the beaten track and truly sink their teeth into authentic cultural experiences, a trend the UNWTO champions."
         ],
@@ -14497,6 +14590,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The US Open witnessed a massive upset where qualifier Kateryna Bondarenko, seemingly out of nowhere, took the wind out of the defending champion's sails.",
+          "Her incredible focus and determination allowed her to turn the tables, proving that sometimes believing in every single point is all it takes to conquer a formidable opponent."
+        ],
+        "sentenceTranslations": [
+          "US 오픈에서 예선 통과자인 카테리나 본다렌코가 마치 어디선가 갑자기 나타난 듯이 디펜딩 챔피언의 기세를 꺾는 엄청난 이변이 일어났습니다.",
+          "그녀의 놀라운 집중력과 투지는 전세를 역전시켰고, 때로는 매 포인트마다 믿음을 갖는 것이 강력한 상대를 제압하는 데 필요한 전부임을 증명했습니다."
+        ],
+        "translationHighlights": [
+          "어디선가 갑자기 나타난 듯이",
+          "기세를 꺾다",
+          "전세를 역전시키다"
+        ],
+        "newWords": [
+          {
+            "word": "out of nowhere",
+            "meaning": "예상치 못하게, 갑자기",
+            "context": "Kateryna Bondarenko, seemingly out of nowhere"
+          },
+          {
+            "word": "take the wind out of someone's sails",
+            "meaning": "기세를 꺾다, 의욕을 상실하게 하다",
+            "context": "took the wind out of the defending champion's sails"
+          },
+          {
+            "word": "turn the tables",
+            "meaning": "전세를 뒤집다, 상황을 역전시키다",
+            "context": "allowed her to turn the tables"
+          }
+        ]
+      },
       {
         "sentences": [
           "The news of Daniil Medvedev getting knocked off his perch so early in the US Open certainly raised some eyebrows among tennis fans.",
