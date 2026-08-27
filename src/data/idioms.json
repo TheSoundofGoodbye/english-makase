@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While AI-powered collaboration tools in dynamic hybrid models offer unparalleled flexibility, they've proven to be a double-edged sword, exacerbating digital fatigue.",
+          "To avoid employees constantly burning the candle at both ends, companies genuinely need to step up to the plate and champion proactive digital well-being breaks."
+        ],
+        "sentenceTranslations": [
+          "AI 기반 협업 도구들이 유연한 하이브리드 모델에서 비할 데 없는 유연성을 제공하지만, 디지털 피로를 악화시키는 양날의 검임이 드러났습니다.",
+          "직원들이 끊임없이 양초를 양쪽으로 태우는 것을 방지하려면, 기업들은 진정으로 나서서 적극적인 디지털 웰빙 휴식을 옹호해야 합니다."
+        ],
+        "translationHighlights": [
+          "양날의 검",
+          "비할 데 없는 유연성",
+          "양초를 양쪽으로 태우다",
+          "진정으로 나서서"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가진 것)",
+            "context": "they've proven to be a double-edged sword"
+          },
+          {
+            "word": "burning the candle at both ends",
+            "meaning": "양초를 양쪽으로 태우다 (너무 일해서 진이 빠지다, 과로하다)",
+            "context": "constantly burning the candle at both ends"
+          },
+          {
+            "word": "step up to the plate",
+            "meaning": "책임을 지고 나서다, 적극적으로 행동에 나서다",
+            "context": "need to step up to the plate"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The WHO's push for equitable AI access aims to level the playing field globally, ensuring all nations can benefit from advanced diagnostics.",
           "Companies like Patagonia, by championing the four-day work week, are truly ahead of the curve in prioritizing employee well-being as sustainable human capital."
         ],
@@ -4844,6 +4877,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "With Google DeepMind's 'Project Chimera' entering the scene and a clear 15% average gain for AI-first firms, companies are scrambling to **get a leg up** on their rivals through swift internal deployment.",
+          "Indeed, the 15% average gain reported by Morgan Stanley makes it abundantly clear that **the writing is on the wall** for businesses reluctant to invest heavily in AI."
+        ],
+        "sentenceTranslations": [
+          "구글 딥마인드의 '프로젝트 키메라'가 등장하고 AI를 우선하는 기업들이 평균 15%의 확실한 수익을 올림에 따라, 기업들은 신속한 내부 도입을 통해 경쟁사보다 우위를 점하기 위해 분주합니다.",
+          "실제로 모건 스탠리가 보고한 15% 평균 수익률은 AI에 대한 대규모 투자를 망설이는 기업들에게 미래가 뻔히 보인다는 것을 명확히 보여줍니다."
+        ],
+        "translationHighlights": [
+          "우위를 점하기 위해",
+          "신속한 내부 도입",
+          "미래가 뻔히 보인다는 것",
+          "대규모 투자를 망설이는 기업들에게"
+        ],
+        "newWords": [
+          {
+            "word": "get a leg up",
+            "meaning": "우위를 점하다, 유리한 위치를 차지하다",
+            "context": "scrambling to get a leg up on their rivals"
+          },
+          {
+            "word": "the writing is on the wall",
+            "meaning": "미래가 뻔히 보이다, 불길하거나 피할 수 없는 결과가 명백하다",
+            "context": "the writing is on the wall for businesses reluctant"
+          }
+        ]
+      },
       {
         "sentences": [
           "DeepMind's Synapse is set to raise the bar for AI's role in complex scientific research, signaling a new era of competition in the enterprise AI sector.",
@@ -9723,6 +9784,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "As sustainable travel continues to take center stage, major airlines are finally starting to put their money where their mouth is by aggressively investing in SAF infrastructure, even with scaling production proving to be an uphill battle.",
+          "This global shift has also seen Indigenous-led cultural tours in Canada hit pay dirt, as travelers increasingly prioritize experiences that truly resonate with them over a mere fleeting glimpse."
+        ],
+        "sentenceTranslations": [
+          "지속 가능한 여행이 계속해서 주목을 받으면서, 주요 항공사들은 SAF 인프라에 적극적으로 투자하며 마침내 말만 하는 것이 아니라 실천에 옮기기 시작했습니다, 생산량 확대는 여전히 험난한 싸움이지만요.",
+          "이러한 전 세계적인 변화로 캐나다의 원주민 주도 문화 투어가 대성공을 거두고 있습니다. 여행객들이 단순히 스쳐 지나가는 경험보다는 진정으로 자신에게 울림을 주는 경험을 우선시하고 있기 때문입니다."
+        ],
+        "translationHighlights": [
+          "주목을 받으면서",
+          "말만 하는 것이 아니라 실천에 옮기기 시작했습니다",
+          "대성공을 거두고 있습니다",
+          "울림을 주는 경험"
+        ],
+        "newWords": [
+          {
+            "word": "take center stage",
+            "meaning": "주목을 받다, 주요한 역할을 하다",
+            "context": "sustainable travel continues to take center stage"
+          },
+          {
+            "word": "put one's money where one's mouth is",
+            "meaning": "말만 하는 것이 아니라 돈을 써서 행동으로 보이다, 실천에 옮기다",
+            "context": "starting to put their money where their mouth is"
+          },
+          {
+            "word": "hit pay dirt",
+            "meaning": "대성공하다, 횡재하다, 돈벌이가 되다",
+            "context": "Indigenous-led cultural tours in Canada hit pay dirt"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With its record-breaking 9 million international arrivals, Vietnam's tourism sector is clearly riding the crest of a wave, prompting major carriers like Singapore Airlines to pull out all the stops to expand their services.",
           "This surge, however, also highlights the growing importance of sustainability; airlines are now wisely putting their money where their mouth is by investing in Sustainable Aviation Fuel, sensing that eco-friendly travel is increasingly the writing on the wall for the industry's future."
         ],
@@ -14590,6 +14684,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Coco Gauff's remarkable US Open comeback, battling 'against all odds' to defeat the World No. 3, truly captivated audiences.",
+          "Similarly, both esports and the pursuit of immersive wilderness experiences are 'catching on like wildfire,' signaling a significant shift in how people spend their leisure time."
+        ],
+        "sentenceTranslations": [
+          "코코 고프 선수의 놀라운 US 오픈 컴백은 세계 랭킹 3위를 꺾으며 '불가능해 보이는 상황을 극복하고' 관중들을 완전히 사로잡았습니다.",
+          "마찬가지로, e스포츠와 몰입감 있는 야생 체험 추구 모두 '들불처럼 빠르게 퍼져나가며', 사람들이 여가 시간을 보내는 방식에 상당한 변화를 보여주고 있습니다."
+        ],
+        "translationHighlights": [
+          "불가능해 보이는 상황을 극복하고",
+          "관중들을 완전히 사로잡았습니다",
+          "들불처럼 빠르게 퍼져나가며",
+          "상당한 변화를 보여주고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "against all odds",
+            "meaning": "불가능해 보이는 상황을 극복하고, 역경을 딛고",
+            "context": "battling 'against all odds' to defeat the World No. 3"
+          },
+          {
+            "word": "captivated audiences",
+            "meaning": "관중들을 완전히 사로잡다",
+            "context": "truly 'captivated audiences'"
+          },
+          {
+            "word": "catching on like wildfire",
+            "meaning": "들불처럼 빠르게 퍼져나가다, 엄청난 인기를 얻다",
+            "context": "are 'catching on like wildfire,' signaling a significant shift"
+          }
+        ]
+      },
       {
         "sentences": [
           "The US Open witnessed a massive upset where qualifier Kateryna Bondarenko, seemingly out of nowhere, took the wind out of the defending champion's sails.",
