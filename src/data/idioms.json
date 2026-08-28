@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While these AI apps offer incredible convenience, there's a real danger that users could unwittingly throw the baby out with the bathwater by letting algorithms diminish their capacity for critical self-reflection.",
+          "The challenge then is how to strike a happy medium, leveraging technology for well-being without losing sight of the bigger picture of genuine human connection and personal growth."
+        ],
+        "sentenceTranslations": [
+          "이 AI 앱들이 놀라운 편리함을 제공하지만, 알고리즘에 의해 스스로를 성찰하는 능력을 저하시켜 결국 귀중한 것을 잃게 될 수도 있다는 진정한 위험이 있습니다.",
+          "그렇다면 문제는 진정한 인간적 유대감과 개인적인 성장의 더 큰 그림을 놓치지 않으면서 기술을 활용해 웰빙을 추구하는 적절한 균형점을 찾는 것입니다."
+        ],
+        "translationHighlights": [
+          "귀중한 것을 잃게 될 수도 있다는 진정한 위험",
+          "스스로를 성찰하는 능력",
+          "더 큰 그림을 놓치지 않으면서",
+          "적절한 균형점을 찾는"
+        ],
+        "newWords": [
+          {
+            "word": "throw the baby out with the bathwater",
+            "meaning": "목욕물 버리려다 아기까지 버리다 (필요 없는 것을 없애려다 귀중한 것까지 잃다)",
+            "context": "throw the baby out with the bathwater by letting algorithms diminish their capacity"
+          },
+          {
+            "word": "strike a happy medium",
+            "meaning": "적절한 중간점을 찾다 (양쪽 의견의 균형을 맞추다)",
+            "context": "how to strike a happy medium, leveraging technology for well-being"
+          },
+          {
+            "word": "lose sight of the bigger picture",
+            "meaning": "더 큰 그림을 놓치다 (세부 사항에 너무 집중하여 전체적인 상황이나 중요한 본질을 간과하다)",
+            "context": "without losing sight of the bigger picture of genuine human connection"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While AI-powered collaboration tools in dynamic hybrid models offer unparalleled flexibility, they've proven to be a double-edged sword, exacerbating digital fatigue.",
           "To avoid employees constantly burning the candle at both ends, companies genuinely need to step up to the plate and champion proactive digital well-being breaks."
         ],
@@ -4877,6 +4910,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "With NVIDIA's 'Blackwell Ultra' GPU pre-orders exceeding expectations, the company is clearly riding high, setting the pace for the entire AI sector.",
+          "However, as EU Commissioner Jourova highlighted, authorities must walk a tightrope, balancing rapid innovation with robust ethical frameworks to protect citizens."
+        ],
+        "sentenceTranslations": [
+          "엔비디아의 'Blackwell Ultra' GPU 사전 주문이 예상을 뛰어넘으면서, 회사는 분명 승승장구하며, 전체 AI 부문의 속도를 주도하고 있습니다.",
+          "하지만, EU 집행위원 조우로바가 강조했듯이, 당국은 시민 보호를 위해 빠른 혁신과 견고한 윤리적 틀 사이에서 줄타기를 잘해야 합니다."
+        ],
+        "translationHighlights": [
+          "승승장구하며",
+          "속도를 주도하고 있습니다",
+          "줄타기를 잘해야 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "riding high",
+            "meaning": "승승장구하다, 큰 성공을 거두다",
+            "context": "the company is clearly riding high"
+          },
+          {
+            "word": "set the pace",
+            "meaning": "선도하다, 속도를 주도하다",
+            "context": "setting the pace for the entire AI sector"
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "줄타기를 하다, 매우 어려운 균형을 유지하다",
+            "context": "authorities must walk a tightrope"
+          }
+        ]
+      },
       {
         "sentences": [
           "With Google DeepMind's 'Project Chimera' entering the scene and a clear 15% average gain for AI-first firms, companies are scrambling to **get a leg up** on their rivals through swift internal deployment.",
@@ -9784,6 +9849,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Qantas is clearly striking while the iron is hot by fast-tracking its Project Sunrise routes, seizing the moment of sustained post-pandemic demand for direct global connections.",
+          "Concurrently, Vietnam's success with its 'Heritage Explorer' visa highlights how many travelers are eager to get off the beaten path and truly delve into local cultures, rather than just scratching the surface."
+        ],
+        "sentenceTranslations": [
+          "콴타스는 프로젝트 선라이즈 노선을 빠르게 확장하며, 팬데믹 이후 지속되는 직항 연결 수요를 활용하여 분명히 호기를 잡고 있습니다.",
+          "이와 동시에 베트남의 '헤리티지 익스플로러' 비자 성공은 많은 여행자들이 표면적인 방문보다는 잘 알려지지 않은 곳을 찾아 진정으로 현지 문화를 깊이 탐구하고 싶어 한다는 점을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "호기를 잡고 있습니다",
+          "잘 알려지지 않은 곳을 찾아",
+          "깊이 탐구하고 싶어 한다는 점",
+          "표면적인 방문보다는"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "호기를 잡다, 기회를 놓치지 않고 이용하다",
+            "context": "Qantas is clearly striking while the iron is hot by fast-tracking its Project Sunrise routes"
+          },
+          {
+            "word": "get off the beaten path",
+            "meaning": "잘 알려지지 않은 곳을 찾아가다, 평범하지 않은 길을 가다",
+            "context": "many travelers are eager to get off the beaten path and truly delve into local cultures"
+          },
+          {
+            "word": "scratching the surface",
+            "meaning": "표면적인 부분만 다루다, 깊이 있게 탐구하지 않다",
+            "context": "rather than just scratching the surface"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As sustainable travel continues to take center stage, major airlines are finally starting to put their money where their mouth is by aggressively investing in SAF infrastructure, even with scaling production proving to be an uphill battle.",
           "This global shift has also seen Indigenous-led cultural tours in Canada hit pay dirt, as travelers increasingly prioritize experiences that truly resonate with them over a mere fleeting glimpse."
         ],
@@ -14684,6 +14782,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Defending champion Iga Swiatek was truly on the ropes early in her match, but she rallied brilliantly, managing to snatch victory from the jaws of defeat.",
+          "This exciting comeback, coupled with Jannik Sinner's dominant run, means the US Open is truly catching fire, amplifying its global appeal."
+        ],
+        "sentenceTranslations": [
+          "디펜딩 챔피언 이가 슈비옹테크는 경기 초반 진정한 위기에 처했지만, 훌륭하게 반등하여 패배의 위기에서 승리를 쟁취해냈습니다.",
+          "이러한 극적인 역전승과 야닉 시너 선수의 압도적인 활약이 맞물려, US 오픈은 전 세계적인 인기를 얻으며 그 위상을 드높이고 있습니다."
+        ],
+        "translationHighlights": [
+          "진정한 위기에 처했지만",
+          "패배의 위기에서 승리를 쟁취해냈습니다",
+          "전 세계적인 인기를 얻으며",
+          "위상을 드높이고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "on the ropes",
+            "meaning": "매우 어려운 상황에 처한, 위기에 몰린 (권투에서 밧줄에 몰린 상태를 비유)",
+            "context": "Iga Swiatek was truly on the ropes early in her match"
+          },
+          {
+            "word": "snatch victory from the jaws of defeat",
+            "meaning": "패배 직전의 상황에서 극적으로 승리를 거머쥐다",
+            "context": "managing to snatch victory from the jaws of defeat"
+          },
+          {
+            "word": "catching fire",
+            "meaning": "폭발적인 인기를 얻다, 큰 성공을 거두다",
+            "context": "the US Open is truly catching fire"
+          }
+        ]
+      },
       {
         "sentences": [
           "Coco Gauff's remarkable US Open comeback, battling 'against all odds' to defeat the World No. 3, truly captivated audiences.",
