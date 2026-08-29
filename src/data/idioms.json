@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While AI-powered apps promise to combat persistent subscription fatigue, financial experts warn they can be a double-edged sword, streamlining management yet subtly encouraging *more* niche services.",
+          "Without truly understanding their spending habits, users might find themselves on a slippery slope, managing an ever-growing list of subscriptions they don't fully track."
+        ],
+        "sentenceTranslations": [
+          "AI 기반 앱이 지속적인 구독 피로를 해소해 줄 것처럼 보이지만, 재정 전문가들은 이것이 양날의 검이 될 수 있다고 경고합니다. 관리는 효율적으로 만들어주지만, 은근히 더 많은 틈새 서비스를 구독하도록 부추길 수 있다는 것이죠.",
+          "자신의 지출 습관을 제대로 파악하지 못하면, 사용자들은 자신이 완전히 추적하지 못하는 점점 늘어나는 구독 목록을 관리하며 미끄러운 경사면에 놓이게 될 수 있습니다."
+        ],
+        "translationHighlights": [
+          "양날의 검",
+          "구독 피로",
+          "틈새 서비스",
+          "미끄러운 경사면"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 지닌 것)",
+            "context": "they can be a double-edged sword"
+          },
+          {
+            "word": "subscription fatigue",
+            "meaning": "구독 피로 (너무 많은 구독 서비스로 인해 생기는 지침)",
+            "context": "to combat persistent subscription fatigue"
+          },
+          {
+            "word": "on a slippery slope",
+            "meaning": "미끄러운 경사면에 있는, 위험한 상황에 빠진 (나쁜 상황으로 점점 더 나아가는)",
+            "context": "find themselves on a slippery slope"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While these AI apps offer incredible convenience, there's a real danger that users could unwittingly throw the baby out with the bathwater by letting algorithms diminish their capacity for critical self-reflection.",
           "The challenge then is how to strike a happy medium, leveraging technology for well-being without losing sight of the bigger picture of genuine human connection and personal growth."
         ],
@@ -4910,6 +4943,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "As energy prices tick upwards amidst geopolitical tensions and the EU's comprehensive AI Act comes into full force, companies find themselves walking a tightrope, carefully navigating a landscape of both opportunity and significant regulatory uncertainty.",
+          "While the NASDAQ Composite saw gains primarily from AI-adjacent tech riding the coattails of generative AI's momentum, many leaders are diligently working to read the tea leaves on how evolving compliance will shape long-term corporate strategy."
+        ],
+        "sentenceTranslations": [
+          "지정학적 긴장 속에서 에너지 가격이 상승하고 EU의 포괄적인 AI 법안이 본격적으로 시행되면서, 기업들은 기회와 상당한 규제 불확실성이라는 환경을 조심스럽게 헤쳐나가며 위태로운 줄타기를 하고 있습니다.",
+          "나스닥 종합 지수는 주로 생성형 AI의 기세에 편승한 AI 관련 기술 덕분에 상승했지만, 많은 리더들은 진화하는 규제 준수가 장기적인 기업 전략을 어떻게 형성할지 미래의 징후를 읽어내기 위해 부지런히 노력하고 있습니다."
+        ],
+        "translationHighlights": [
+          "위태로운 줄타기를 하다",
+          "규제 불확실성",
+          "기세에 편승한",
+          "미래의 징후를 읽어내다"
+        ],
+        "newWords": [
+          {
+            "word": "walking a tightrope",
+            "meaning": "위험한 상황에서 매우 신중하게 행동하다, 위태로운 줄타기를 하다",
+            "context": "companies find themselves walking a tightrope"
+          },
+          {
+            "word": "riding the coattails",
+            "meaning": "남의 성공에 편승하다, 덕을 보다",
+            "context": "AI-adjacent tech riding the coattails of generative AI's momentum"
+          },
+          {
+            "word": "read the tea leaves",
+            "meaning": "징후를 해석하여 미래를 예측하다",
+            "context": "working to read the tea leaves on how evolving compliance will shape long-term corporate strategy"
+          }
+        ]
+      },
       {
         "sentences": [
           "With NVIDIA's 'Blackwell Ultra' GPU pre-orders exceeding expectations, the company is clearly riding high, setting the pace for the entire AI sector.",
@@ -9849,6 +9915,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With its accelerated Digital Nomad Visa process, Portugal is truly hitting its stride as a prime destination for global remote workers.",
+          "This strategic move, combined with TAP Air Portugal opening new doors with direct flights to Seattle and Osaka, is clearly designed to kill two birds with one stone by attracting both tech professionals and leisure travelers."
+        ],
+        "sentenceTranslations": [
+          "가속화된 디지털 노마드 비자 절차로 인해, 포르투갈은 전 세계 원격 근무자들에게 최고의 목적지로서 본격적으로 두각을 나타내고 있습니다.",
+          "TAP 에어 포르투갈이 시애틀과 오사카 직항 노선으로 새로운 가능성을 열어주는 전략적인 움직임과 결합하여, 기술 전문가와 레저 여행객 모두를 유치함으로써 일석이조의 효과를 노리고 있습니다."
+        ],
+        "translationHighlights": [
+          "본격적으로 두각을 나타내고 있습니다",
+          "새로운 가능성을 열어주는",
+          "일석이조의 효과를 노리고"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "성공적으로 궤도에 오르다, 순조롭게 진행되다",
+            "context": "Portugal is truly *hitting its stride* as a prime destination..."
+          },
+          {
+            "word": "opening new doors",
+            "meaning": "새로운 기회/가능성을 열다",
+            "context": "...TAP Air Portugal *opening new doors* with direct flights..."
+          },
+          {
+            "word": "kill two birds with one stone",
+            "meaning": "일석이조의 효과를 내다, 한 번에 두 가지 목표를 달성하다",
+            "context": "...designed to *kill two birds with one stone* by attracting both tech professionals and leisure travelers."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Qantas is clearly striking while the iron is hot by fast-tracking its Project Sunrise routes, seizing the moment of sustained post-pandemic demand for direct global connections.",
           "Concurrently, Vietnam's success with its 'Heritage Explorer' visa highlights how many travelers are eager to get off the beaten path and truly delve into local cultures, rather than just scratching the surface."
         ],
@@ -14782,6 +14880,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Young American wildcard Emily \"Flash\" Sanchez truly knows how to punch above her weight, dazzling spectators with her improbable run against top-seeded players at the US Open.",
+          "Meanwhile, the Valorant Champions semifinal match went down to the wire, keeping over 1.5 million concurrent viewers on the edge of their seats until the very last thrilling moments."
+        ],
+        "sentenceTranslations": [
+          "젊은 미국 와일드카드 선수 에밀리 \"플래시\" 산체스는 정말 자기 능력 이상의 것을 해내며, US 오픈에서 톱 시드 선수들을 상대로 예상 밖의 선전을 펼쳐 관중들을 열광시켰습니다.",
+          "한편, 발로란트 챔피언스 준결승전은 마지막 순간까지 승패를 알 수 없을 정도로 치열하여, 150만 명이 넘는 동시 시청자들을 마지막 스릴 넘치는 순간까지 숨죽이게 만들었습니다."
+        ],
+        "translationHighlights": [
+          "자기 능력 이상의 것을 해내며",
+          "예상 밖의 선전",
+          "마지막 순간까지 승패를 알 수 없을 정도로 치열하여",
+          "숨죽이게 만들었습니다"
+        ],
+        "newWords": [
+          {
+            "word": "punch above one's weight",
+            "meaning": "자신의 실력/능력 이상을 해내다; (약체로 여겨지던 선수가) 강자들을 상대로 이변을 만들다",
+            "context": "Emily \"Flash\" Sanchez truly knows how to **punch above her weight**"
+          },
+          {
+            "word": "go down to the wire",
+            "meaning": "마지막 순간까지 승패를 알 수 없을 정도로 치열하다; 박빙의 승부를 펼치다",
+            "context": "the Valorant Champions semifinal match went **down to the wire**"
+          },
+          {
+            "word": "on the edge of one's seat",
+            "meaning": "손에 땀을 쥐게 하다; (흥분, 긴장 등으로) 자리에 가만히 앉아있지 못할 정도이다",
+            "context": "keeping over 1.5 million concurrent viewers **on the edge of their seats**"
+          }
+        ]
+      },
       {
         "sentences": [
           "Defending champion Iga Swiatek was truly on the ropes early in her match, but she rallied brilliantly, managing to snatch victory from the jaws of defeat.",
