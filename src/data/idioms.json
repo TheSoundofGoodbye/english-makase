@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Amidst growing 'subscription fatigue' and persistent cost of living concerns, households are actively looking to trim the fat from their digital expenditures, consolidating services where possible.",
+          "New offerings like Google's 'Aura,' despite promising optimization, only make consumers feel further nickel-and-dimed by adding yet another premium tier to an already crowded landscape."
+        ],
+        "sentenceTranslations": [
+          "점점 커지는 '구독 피로감'과 계속되는 생활비 부담 속에서, 가구들은 디지털 지출에서 군살을 빼기 위해 적극적으로 노력하며, 가능한 한 서비스를 통합하고 있습니다.",
+          "구글의 '아우라'와 같은 새로운 서비스들이 최적화를 약속함에도 불구하고, 이미 포화 상태인 시장에 또 다른 프리미엄 등급을 추가하여 소비자들은 푼돈까지 아까운 심정을 느끼게 됩니다."
+        ],
+        "translationHighlights": [
+          "구독 피로감",
+          "군살을 빼기",
+          "푼돈까지 아까운",
+          "포화 상태인 시장"
+        ],
+        "newWords": [
+          {
+            "word": "trim the fat",
+            "meaning": "불필요한 지출을 줄이다, 군살을 빼다",
+            "context": "looking to trim the fat from their digital expenditures"
+          },
+          {
+            "word": "nickel-and-dimed",
+            "meaning": "푼돈을 자꾸 요구하다, 야금야금 돈을 쓰게 하다 (불쾌한 감정)",
+            "context": "make consumers feel further nickel-and-dimed"
+          },
+          {
+            "word": "crowded landscape",
+            "meaning": "경쟁이 치열하거나 이미 포화 상태인 분야/시장",
+            "context": "an already crowded landscape"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While AI-powered apps promise to combat persistent subscription fatigue, financial experts warn they can be a double-edged sword, streamlining management yet subtly encouraging *more* niche services.",
           "Without truly understanding their spending habits, users might find themselves on a slippery slope, managing an ever-growing list of subscriptions they don't fully track."
         ],
@@ -4943,6 +4976,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "While enterprise AI adoption helped tech companies rake in money this quarter, inflation worries fueled by rising crude oil prices are now putting a damper on the broader market's optimism.",
+          "Meanwhile, with the European Commission ready to strictly enforce its AI Act, tech firms like Google and Baidu find themselves between a rock and a hard place as US-China tensions threaten critical quantum component supply."
+        ],
+        "sentenceTranslations": [
+          "기업용 AI 도입 덕분에 기술 기업들이 이번 분기에 큰돈을 벌었음에도 불구하고, 유가 상승으로 인한 인플레이션 우려가 광범위한 시장의 낙관론에 찬물을 끼얹고 있습니다.",
+          "한편, 유럽연합 집행위원회가 AI 법안을 엄격히 시행할 준비를 하는 가운데, 미중 갈등이 핵심 양자 컴퓨팅 부품 공급을 위협하면서 구글과 바이두 같은 기술 기업들은 진퇴양난의 상황에 놓여 있습니다."
+        ],
+        "translationHighlights": [
+          "큰돈을 벌었음에도 불구하고",
+          "찬물을 끼얹고 있습니다",
+          "엄격히 시행할 준비를 하는 가운데",
+          "진퇴양난의 상황"
+        ],
+        "newWords": [
+          {
+            "word": "rake in money",
+            "meaning": "큰돈을 벌다",
+            "context": "tech companies rake in money"
+          },
+          {
+            "word": "put a damper on",
+            "meaning": "~에 찬물을 끼얹다, ~의 기세를 꺾다",
+            "context": "putting a damper on the broader market's optimism"
+          },
+          {
+            "word": "between a rock and a hard place",
+            "meaning": "진퇴양난에 빠진, 이러지도 저러지도 못하는 상황에 처한",
+            "context": "find themselves between a rock and a hard place"
+          }
+        ]
+      },
       {
         "sentences": [
           "As energy prices tick upwards amidst geopolitical tensions and the EU's comprehensive AI Act comes into full force, companies find themselves walking a tightrope, carefully navigating a landscape of both opportunity and significant regulatory uncertainty.",
@@ -9915,6 +9981,34 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The upcoming ETIAS system means non-Schengen visitors will have to jump through a few more hoops before their European getaways, prompting many to organize their documents well in advance.",
+          "Meanwhile, the booming interest in sustainable trips and hyper-local experiences shows that travelers are increasingly voting with their feet for responsible and immersive adventures."
+        ],
+        "sentenceTranslations": [
+          "다가오는 ETIAS 시스템은 비솅겐 방문객들이 유럽 여행을 떠나기 전에 몇 가지 더 복잡한 절차를 거쳐야 할 것이라는 것을 의미하며, 많은 사람들이 미리 서류를 준비하게 만들고 있습니다.",
+          "한편, 지속 가능한 여행과 초지역적 체험에 대한 폭발적인 관심은 여행객들이 책임감 있고 몰입감 있는 모험을 위해 점점 더 적극적으로 선택하고 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "몇 가지 더 복잡한 절차를 거쳐야 할 것",
+          "미리 서류를 준비하게 만들고 있습니다",
+          "지속 가능한 여행",
+          "적극적으로 선택하고 있음"
+        ],
+        "newWords": [
+          {
+            "word": "jump through a few more hoops",
+            "meaning": "복잡한 절차를 거치다, 여러 난관을 헤쳐나가다",
+            "context": "will have to **jump through a few more hoops** before their European getaways"
+          },
+          {
+            "word": "vote with their feet",
+            "meaning": "지지/반대를 행동으로 보여주다, 특정 상품이나 서비스를 선택함으로써 의사를 표현하다",
+            "context": "travelers are increasingly **voting with their feet** for responsible and immersive adventures"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With its accelerated Digital Nomad Visa process, Portugal is truly hitting its stride as a prime destination for global remote workers.",
           "This strategic move, combined with TAP Air Portugal opening new doors with direct flights to Seattle and Osaka, is clearly designed to kill two birds with one stone by attracting both tech professionals and leisure travelers."
         ],
@@ -14880,6 +14974,33 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The unprecedented late-season visitor numbers in Glacier National Park are proving to be a double-edged sword, bringing both economic benefits and significant strain on its delicate ecosystem.",
+          "This surge has placed park officials at a crossroads, forcing difficult discussions about future access management to protect wilderness areas."
+        ],
+        "sentenceTranslations": [
+          "글레이셔 국립공원의 전례 없는 늦은 시즌 방문객 증가는 경제적 이점과 동시에 섬세한 생태계에 심각한 부담을 주는 양날의 검과 같다는 것이 드러나고 있습니다.",
+          "이러한 급증은 공원 관계자들을 중요한 기로에 서게 했으며, 야생 지역 보호를 위한 향후 출입 관리 방안에 대한 어려운 논의를 강제하고 있습니다."
+        ],
+        "translationHighlights": [
+          "양날의 검",
+          "중요한 기로에 서게 했으며",
+          "전례 없는 방문객 증가"
+        ],
+        "newWords": [
+          {
+            "word": "double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 지닌 것)",
+            "context": "proving to be a double-edged sword"
+          },
+          {
+            "word": "at a crossroads",
+            "meaning": "중요한 기로에 서다 (어렵거나 중요한 선택을 해야 하는 상황에 처하다)",
+            "context": "placed park officials at a crossroads"
+          }
+        ]
+      },
       {
         "sentences": [
           "Young American wildcard Emily \"Flash\" Sanchez truly knows how to punch above her weight, dazzling spectators with her improbable run against top-seeded players at the US Open.",
