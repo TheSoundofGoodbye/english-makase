@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The rise of conversational AI like MindLink AI aims to bridge the gap in accessible mental health support, but this innovation comes with its own set of challenges.",
+          "Indeed, whether these tools are merely scratching the surface of complex emotional needs or truly offering profound assistance, the jury is still out."
+        ],
+        "sentenceTranslations": [
+          "마인드링크 AI 같은 대화형 AI의 등장은 접근 가능한 정신 건강 지원의 격차를 해소하려는 목표를 가지고 있지만, 이러한 혁신은 나름의 과제들을 동반합니다.",
+          "과연 이러한 도구들이 복잡한 감정적 요구의 겉핥기에 불과한지, 아니면 진정으로 깊이 있는 도움을 제공하는지에 대해서는 아직 결론이 나지 않았습니다."
+        ],
+        "translationHighlights": [
+          "격차를 해소하려는",
+          "나름의 과제들을 동반합니다",
+          "겉핥기에 불과한지",
+          "아직 결론이 나지 않았습니다"
+        ],
+        "newWords": [
+          {
+            "word": "bridge the gap",
+            "meaning": "격차를 해소하다, 간극을 메우다",
+            "context": "to bridge the gap in accessible mental health support"
+          },
+          {
+            "word": "scratching the surface",
+            "meaning": "겉핥기에 불과하다, 피상적으로 다루다",
+            "context": "are merely scratching the surface of complex emotional needs"
+          },
+          {
+            "word": "the jury is still out",
+            "meaning": "아직 결론이 나지 않았다, 심사숙고 중이다",
+            "context": "the jury is still out"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Amidst growing 'subscription fatigue' and persistent cost of living concerns, households are actively looking to trim the fat from their digital expenditures, consolidating services where possible.",
           "New offerings like Google's 'Aura,' despite promising optimization, only make consumers feel further nickel-and-dimed by adding yet another premium tier to an already crowded landscape."
         ],
@@ -4976,6 +5009,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "NVIDIA is clearly on a tear, with its latest GPU pre-orders demonstrating that AI chipmakers are truly riding the crest of the wave in this current tech cycle.",
+          "However, the broader economic uncertainty, with Powell's hawkish comments, is prompting many corporations like Apple to pump the brakes on expansion plans, opting instead to keep their powder dry amidst trade tariff headwinds."
+        ],
+        "sentenceTranslations": [
+          "엔비디아는 최근 GPU 선주문이 현재 기술 주기에서 AI 칩 제조업체들이 진정으로 전성기를 맞고 있음을 보여주면서, 분명히 파죽지세입니다.",
+          "하지만 파월 의장의 매파적 발언과 같은 전반적인 경제 불확실성은 애플과 같은 많은 기업들이 확장 계획에 제동을 걸게 하고 있으며, 무역 관세 역풍 속에서 대신 신중하게 대비하고 있습니다."
+        ],
+        "translationHighlights": [
+          "파죽지세",
+          "전성기를 맞고 있음",
+          "제동을 걸게",
+          "신중하게 대비하고"
+        ],
+        "newWords": [
+          {
+            "word": "on a tear",
+            "meaning": "파죽지세로 급성장하다, 맹렬한 기세로 나아가다",
+            "context": "NVIDIA is clearly on a tear"
+          },
+          {
+            "word": "riding the crest of the wave",
+            "meaning": "전성기를 누리다, 절정기를 맞이하다",
+            "context": "truly riding the crest of the wave"
+          },
+          {
+            "word": "keep their powder dry",
+            "meaning": "만일의 사태에 대비해 자원을 아껴두다, 신중하게 대비하다",
+            "context": "to keep their powder dry"
+          }
+        ]
+      },
       {
         "sentences": [
           "While enterprise AI adoption helped tech companies rake in money this quarter, inflation worries fueled by rising crude oil prices are now putting a damper on the broader market's optimism.",
@@ -9981,6 +10047,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "As ETIAS changes the travel landscape, many traditional European trips are falling by the wayside, prompting travelers to put their feelers out for less conventional destinations.",
+          "Consequently, airlines like Singapore Airlines are striking while the iron is hot, beefing up routes to places like Vietnam where cultural authenticity truly holds sway with modern travelers."
+        ],
+        "sentenceTranslations": [
+          "ETIAS가 여행 지형을 변화시키면서, 많은 전통적인 유럽 여행이 뒷전으로 밀려나고 있으며, 여행객들은 덜 일반적인 목적지를 탐색하고 있습니다.",
+          "결과적으로, 싱가포르항공과 같은 항공사들은 기회를 놓치지 않고 베트남과 같은 지역으로의 노선을 강화하고 있는데, 그곳에서는 문화적 진정성이 현대 여행객들에게 진정으로 큰 영향력을 발휘하고 있기 때문입니다."
+        ],
+        "translationHighlights": [
+          "뒷전으로 밀려나고 있으며",
+          "탐색하고 있습니다",
+          "기회를 놓치지 않고",
+          "큰 영향력을 발휘하고 있기 때문입니다"
+        ],
+        "newWords": [
+          {
+            "word": "fall by the wayside",
+            "meaning": "잊혀지거나 버려지다, 쇠퇴하다",
+            "context": "many traditional European trips are falling by the wayside"
+          },
+          {
+            "word": "put their feelers out",
+            "meaning": "탐색하다, 정보를 모으다",
+            "context": "travelers to put their feelers out for less conventional destinations"
+          },
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회를 놓치지 않고 이용하다, 때를 놓치지 않다",
+            "context": "airlines like Singapore Airlines are striking while the iron is hot"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The upcoming ETIAS system means non-Schengen visitors will have to jump through a few more hoops before their European getaways, prompting many to organize their documents well in advance.",
           "Meanwhile, the booming interest in sustainable trips and hyper-local experiences shows that travelers are increasingly voting with their feet for responsible and immersive adventures."
         ],
@@ -14974,6 +15073,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Elena Petrova's stunning US Open upset yesterday truly stole the show, proving she's a formidable force to reckon with on the court.",
+          "Her unexpected rise, much like the AI-powered stargazing apps quickly catching fire among enthusiasts, signifies a new era where innovative hobbies are truly on the up and up."
+        ],
+        "sentenceTranslations": [
+          "어제 엘레나 페트로바의 깜짝 US 오픈 승리는 진정으로 이목을 집중시켰고, 그녀가 코트 위에서 만만치 않은 실력자임을 증명했습니다.",
+          "그녀의 예상치 못한 부상은 열광하는 사람들 사이에서 빠르게 인기를 얻고 있는 AI 기반 별보기 앱처럼, 혁신적인 취미가 진정으로 떠오르고 있는 새로운 시대를 보여줍니다."
+        ],
+        "translationHighlights": [
+          "이목을 집중시켰고",
+          "만만치 않은 실력자임을 증명했습니다",
+          "빠르게 인기를 얻고 있는",
+          "떠오르고 있는"
+        ],
+        "newWords": [
+          {
+            "word": "steal the show",
+            "meaning": "가장 주목받다, 이목을 집중시키다",
+            "context": "truly stole the show"
+          },
+          {
+            "word": "catch fire",
+            "meaning": "빠르게 인기를 얻다, 유행하다",
+            "context": "quickly catching fire"
+          },
+          {
+            "word": "on the up and up",
+            "meaning": "점점 더 좋아지고 있는, 상승세에 있는",
+            "context": "truly on the up and up"
+          }
+        ]
+      },
       {
         "sentences": [
           "The unprecedented late-season visitor numbers in Glacier National Park are proving to be a double-edged sword, bringing both economic benefits and significant strain on its delicate ecosystem.",
