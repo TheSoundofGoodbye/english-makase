@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With persistent \"subscription creep\" making households manage an average of 17 digital services, those seemingly small monthly fees can really nickel-and-dime you to death.",
+          "While new fintech tools like 'SubSavvy AI' are a welcome shot in the arm for tackling this, users must remember these automated solutions can be a double-edged sword if not overseen properly."
+        ],
+        "sentenceTranslations": [
+          "끊임없이 늘어나는 '구독 크리프' 때문에 가정에서 평균 17개의 디지털 서비스를 관리하게 되면서, 언뜻 보기에 적은 월별 요금들이 당신을 서서히 거덜 낼 수 있습니다.",
+          "'SubSavvy AI' 같은 새로운 핀테크 도구들이 이러한 문제를 해결하는 데 큰 활력소가 되지만, 사용자는 적절히 감독하지 않으면 이러한 자동화 솔루션이 양날의 검이 될 수 있음을 명심해야 합니다."
+        ],
+        "translationHighlights": [
+          "서서히 거덜 낼 수 있습니다",
+          "큰 활력소가 되지만",
+          "양날의 검이 될 수 있음을"
+        ],
+        "newWords": [
+          {
+            "word": "nickel-and-dime you to death",
+            "meaning": "소액을 야금야금 빼앗아 파산시키다, 서서히 거덜 내다",
+            "context": "those seemingly small monthly fees can really nickel-and-dime you to death"
+          },
+          {
+            "word": "a shot in the arm",
+            "meaning": "활력소, 새로운 힘이나 격려가 되는 것",
+            "context": "new fintech tools like 'SubSavvy AI' are a welcome shot in the arm"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (이점과 단점을 동시에 가진 것)",
+            "context": "these automated solutions can be a double-edged sword"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The rise of conversational AI like MindLink AI aims to bridge the gap in accessible mental health support, but this innovation comes with its own set of challenges.",
           "Indeed, whether these tools are merely scratching the surface of complex emotional needs or truly offering profound assistance, the jury is still out."
         ],
@@ -5009,6 +5041,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "As leading AI labs prepare to raise the bar with new multimodal architectures, businesses are keen to get in on the ground floor, aiming to significantly enhance efficiency and competitive edge.",
+          "Yet, with the Fed's persistent focus on inflation tempering rate cut hopes and escalating trade policy talks, corporate strategists truly have their work cut out for them balancing rapid tech integration with complex economic headwinds."
+        ],
+        "sentenceTranslations": [
+          "선도적인 AI 연구소들이 새로운 멀티모달 아키텍처로 수준을 높일 준비를 하는 가운데, 기업들은 효율성과 경쟁 우위를 크게 높이기 위해 초기 단계에 참여하기를 열망하고 있습니다.",
+          "하지만 연준이 인플레이션에 지속적으로 집중하면서 금리 인하 기대감을 꺾고 있고 무역 정책 회담이 고조됨에 따라, 기업 전략가들은 급속한 기술 통합과 복잡한 경제적 난관 사이에서 균형을 맞추는 데 정말 많은 어려움이 예상됩니다."
+        ],
+        "translationHighlights": [
+          "수준을 높일",
+          "초기 단계에 참여하기를",
+          "정말 많은 어려움이 예상됩니다",
+          "경제적 난관"
+        ],
+        "newWords": [
+          {
+            "word": "raise the bar",
+            "meaning": "기준을 높이다, 수준을 향상시키다",
+            "context": "AI labs prepare to *raise the bar* with new multimodal architectures"
+          },
+          {
+            "word": "get in on the ground floor",
+            "meaning": "(사업 등의) 초기 단계에 참여하다, 선점하다",
+            "context": "businesses are keen to *get in on the ground floor*"
+          },
+          {
+            "word": "have one's work cut out for them",
+            "meaning": "처리해야 할 어려운 일이 많다, 어려운 과제가 주어지다",
+            "context": "corporate strategists truly *have their work cut out for them*"
+          }
+        ]
+      },
       {
         "sentences": [
           "NVIDIA is clearly on a tear, with its latest GPU pre-orders demonstrating that AI chipmakers are truly riding the crest of the wave in this current tech cycle.",
@@ -10047,6 +10112,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The introduction of ETIAS has made spontaneous European adventures much harder, requiring travelers to jump through hoops for pre-authorization.",
+          "This shift, however, has effectively given destinations like Georgia a shot in the arm, putting them firmly on the radar for those craving authentic cultural immersion."
+        ],
+        "sentenceTranslations": [
+          "ETIAS 도입으로 유럽으로의 즉흥적인 여행이 훨씬 어려워졌고, 여행객들은 사전 승인을 받기 위해 여러 까다로운 절차를 거쳐야 하게 되었습니다.",
+          "하지만 이러한 변화는 오히려 조지아 같은 목적지에는 큰 활력소가 되어, 진정한 문화 체험을 갈망하는 여행객들에게 주목받는 곳으로 떠오르게 했습니다."
+        ],
+        "translationHighlights": [
+          "까다로운 절차를 거쳐야",
+          "큰 활력소가",
+          "주목받는 곳으로"
+        ],
+        "newWords": [
+          {
+            "word": "jump through hoops",
+            "meaning": "까다로운 절차를 거치다; 여러 장애물을 넘다",
+            "context": "requiring travelers to jump through hoops for pre-authorization"
+          },
+          {
+            "word": "a shot in the arm",
+            "meaning": "큰 활력소; 새로운 활기",
+            "context": "given destinations like Georgia a shot in the arm"
+          },
+          {
+            "word": "on the radar",
+            "meaning": "주목받는; 관심 대상이 되는",
+            "context": "putting them firmly on the radar"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As ETIAS changes the travel landscape, many traditional European trips are falling by the wayside, prompting travelers to put their feelers out for less conventional destinations.",
           "Consequently, airlines like Singapore Airlines are striking while the iron is hot, beefing up routes to places like Vietnam where cultural authenticity truly holds sway with modern travelers."
         ],
@@ -15073,6 +15170,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Charles Leclerc's thrilling victory at Monza was a real shot in the arm for Ferrari's championship aspirations, and has undoubtedly set the high-fidelity sim racing scene to go into overdrive.",
+          "Consequently, companies like Fanatec are now clearly striking while the iron is hot, catering to the burgeoning demand for immersive virtual racing experiences."
+        ],
+        "sentenceTranslations": [
+          "샤를 르클레르의 몬차에서의 스릴 넘치는 승리는 페라리의 우승 열망에 진정한 활력소가 되었고, 고품격 심 레이싱 시장이 분명 과열 상태로 접어들게 했습니다.",
+          "그 결과, 파나텍과 같은 회사들은 몰입감 넘치는 가상 레이싱 경험에 대한 폭발적인 수요에 부응하며, 지금이 기회라고 생각하고 발 빠르게 움직이고 있습니다."
+        ],
+        "translationHighlights": [
+          "활력소",
+          "과열 상태로 접어들게 했습니다",
+          "지금이 기회라고 생각하고 발 빠르게 움직이고 있습니다",
+          "폭발적인 수요"
+        ],
+        "newWords": [
+          {
+            "word": "a shot in the arm",
+            "meaning": "활력소, 새로운 활기",
+            "context": "was a real shot in the arm for Ferrari's championship aspirations"
+          },
+          {
+            "word": "go into overdrive",
+            "meaning": "과열되다, 극도로 활성화되다, 전력을 다하다",
+            "context": "set the high-fidelity sim racing scene to go into overdrive"
+          },
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회를 놓치지 않고 잡다, 발 빠르게 행동하다",
+            "context": "companies like Fanatec are now clearly striking while the iron is hot"
+          }
+        ]
+      },
       {
         "sentences": [
           "Elena Petrova's stunning US Open upset yesterday truly stole the show, proving she's a formidable force to reckon with on the court.",
