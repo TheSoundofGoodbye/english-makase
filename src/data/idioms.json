@@ -3,6 +3,33 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Amidst warnings of algorithmic bias, it's wise for consumers to take AI-driven financial advice with a grain of salt, especially concerning credit approvals.",
+          "Many minority groups, unfortunately, find themselves caught in the crosshairs of these systems, making human consultation for big financial moves more crucial than ever."
+        ],
+        "sentenceTranslations": [
+          "알고리즘 편향에 대한 경고가 나오는 가운데, 소비자들이 특히 신용 승인과 관련하여 AI 기반의 금융 조언을 전적으로 믿지 않고 걸러 듣는 것이 현명합니다.",
+          "불행히도 많은 소수 집단은 이러한 시스템의 표적이 되어 곤경에 처하고 있으며, 이로 인해 중요한 금융 거래에서는 사람의 조언이 그 어느 때보다 중요해지고 있습니다."
+        ],
+        "translationHighlights": [
+          "AI 기반의 금융 조언을 전적으로 믿지 않고 걸러 듣는 것",
+          "표적이 되어 곤경에 처하고",
+          "그 어느 때보다 중요해지고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "take (something) with a grain of salt",
+            "meaning": "전적으로 믿지 않고 걸러 듣다 / 의심하다",
+            "context": "it's wise for consumers to take AI-driven financial advice with a grain of salt"
+          },
+          {
+            "word": "caught in the crosshairs",
+            "meaning": "표적이 되다 / 곤경에 처하다",
+            "context": "find themselves caught in the crosshairs of these systems"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With persistent \"subscription creep\" making households manage an average of 17 digital services, those seemingly small monthly fees can really nickel-and-dime you to death.",
           "While new fintech tools like 'SubSavvy AI' are a welcome shot in the arm for tackling this, users must remember these automated solutions can be a double-edged sword if not overseen properly."
         ],
@@ -5041,6 +5068,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "With stronger-than-expected Q2 earnings and a new automotive partnership, OpenAI appears to be striking while the iron is hot, rapidly expanding its reach into new lucrative markets.",
+          "However, the looming antitrust investigations by the Department of Justice could prove to be a double-edged sword, potentially stifling innovation while aiming to prevent market monopolization."
+        ],
+        "sentenceTranslations": [
+          "예상치를 뛰어넘는 2분기 실적과 새로운 자동차 산업 파트너십으로, OpenAI는 기회를 놓치지 않고 새로운 수익성 높은 시장으로 빠르게 영역을 확장하는 것으로 보입니다.",
+          "하지만 미 법무부의 임박한 독점 금지 조사는 양날의 검이 될 수 있는데, 시장 독점을 막는 동시에 혁신을 저해할 수도 있기 때문입니다."
+        ],
+        "translationHighlights": [
+          "기회를 놓치지 않고",
+          "수익성 높은 시장",
+          "임박한 독점 금지 조사",
+          "양날의 검"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회를 놓치지 않고 잡다",
+            "context": "striking while the iron is hot"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가짐)",
+            "context": "prove to be a double-edged sword"
+          }
+        ]
+      },
       {
         "sentences": [
           "As leading AI labs prepare to raise the bar with new multimodal architectures, businesses are keen to get in on the ground floor, aiming to significantly enhance efficiency and competitive edge.",
