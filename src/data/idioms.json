@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "PocketPilot AI is truly hitting its stride, as its personalized assistant now manages a colossal sum, signaling a clear trend of consumers putting their money where their mouth is with AI-driven finance.",
+          "Despite this undeniable convenience, firms must walk a tightrope between innovation and crucial data security, lest they poison the well of user confidence through any lack of transparency."
+        ],
+        "sentenceTranslations": [
+          "PocketPilot AI는 맞춤형 비서가 막대한 자산을 관리하며 분명히 제 궤도에 올랐고, 이는 AI 기반 금융에 소비자들이 실제로 돈을 투자하는 명확한 추세를 보여줍니다.",
+          "이러한 부인할 수 없는 편리함에도 불구하고, 기업들은 혁신과 중요한 데이터 보안 사이에서 줄타기를 해야 하며, 투명성 부족으로 사용자 신뢰의 우물을 흐리는 일이 없도록 해야 합니다."
+        ],
+        "translationHighlights": [
+          "제 궤도에 올랐고",
+          "실제로 돈을 투자하는",
+          "줄타기를 해야 하며",
+          "우물을 흐리는"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "제 궤도에 오르다, 점점 능숙해지다",
+            "context": "PocketPilot AI is truly hitting its stride"
+          },
+          {
+            "word": "putting their money where their mouth is",
+            "meaning": "말뿐이 아니라 실제로 돈을 투자하여 믿음을 보여주다",
+            "context": "consumers putting their money where their mouth is"
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "줄타기를 하다, 아주 조심스럽게 위험한 상황을 헤쳐나가다",
+            "context": "firms must walk a tightrope"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Amidst warnings of algorithmic bias, it's wise for consumers to take AI-driven financial advice with a grain of salt, especially concerning credit approvals.",
           "Many minority groups, unfortunately, find themselves caught in the crosshairs of these systems, making human consultation for big financial moves more crucial than ever."
         ],
@@ -10165,6 +10198,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The massive surge in digital nomad visa applications, particularly Portugal's 'Remote Work Stay' program, suggests this lifestyle is truly hitting its stride across Southern Europe.",
+          "This momentum, combined with passengers increasingly putting their money where their mouth is for greener travel options, indicates the industry is finally turning a corner towards its net-zero goals."
+        ],
+        "sentenceTranslations": [
+          "디지털 노마드 비자 신청이 남유럽 전역에서 폭발적으로 증가하고, 특히 포르투갈의 '원격 근무 체류' 프로그램이 큰 성공을 거두는 것을 보면, 이 생활 방식이 정말로 본격적인 궤도에 오르고 있음을 알 수 있습니다.",
+          "이러한 기세와 더불어 승객들이 친환경 여행 옵션에 대해 점점 더 말한 대로 행동하며 투자를 아끼지 않음에 따라, 업계가 마침내 넷제로 목표를 향해 새로운 국면을 맞이하고 있음을 시사합니다."
+        ],
+        "translationHighlights": [
+          "본격적인 궤도에 오르고 있음",
+          "말한 대로 행동하며 투자를 아끼지 않음에 따라",
+          "새로운 국면을 맞이하고 있음"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "본격적인 궤도에 오르다, 순조롭게 진행되다",
+            "context": "this lifestyle is truly hitting its stride"
+          },
+          {
+            "word": "put their money where their mouth is",
+            "meaning": "말만 하는 것이 아니라 실제 행동으로 보여주다, 약속한 대로 투자하거나 행동하다",
+            "context": "passengers increasingly putting their money where their mouth is"
+          },
+          {
+            "word": "turning a corner",
+            "meaning": "최악의 상황을 벗어나 나아지기 시작하다, 전환점을 맞다",
+            "context": "the industry is finally turning a corner"
+          }
+        ]
+      },
       {
         "sentences": [
           "The introduction of ETIAS has made spontaneous European adventures much harder, requiring travelers to jump through hoops for pre-authorization.",
