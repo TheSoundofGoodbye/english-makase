@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "By partnering with Quantify Wealth, Bank of America is clearly trying to get ahead of the curve in AI-driven wealth management, responding to the growing trust among younger investors.",
+          "However, regulators like the SEC are right to err on the side of caution, meticulously reviewing these evolving AI platforms to ensure robust consumer protection."
+        ],
+        "sentenceTranslations": [
+          "퀀티파이 웰스와의 파트너십을 통해 뱅크 오브 아메리카는 젊은 투자자들 사이의 커지는 신뢰에 발맞춰 AI 기반 자산 관리 분야에서 확실히 앞서나가려 하고 있습니다.",
+          "하지만, SEC와 같은 규제 기관들은 소비자를 강력하게 보호하기 위해 진화하는 AI 플랫폼들을 꼼꼼히 검토하며 신중을 기하는 것이 당연합니다."
+        ],
+        "translationHighlights": [
+          "확실히 앞서나가려 하고 있습니다",
+          "커지는 신뢰에 발맞춰",
+          "신중을 기하는 것이 당연합니다",
+          "꼼꼼히 검토하며"
+        ],
+        "newWords": [
+          {
+            "word": "get ahead of the curve",
+            "meaning": "미래의 추세에 앞서나가다, 선제적으로 대응하다",
+            "context": "trying to get ahead of the curve in AI-driven wealth management"
+          },
+          {
+            "word": "err on the side of caution",
+            "meaning": "안전을 택하다, 신중을 기하다",
+            "context": "are right to err on the side of caution"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "PocketPilot AI is truly hitting its stride, as its personalized assistant now manages a colossal sum, signaling a clear trend of consumers putting their money where their mouth is with AI-driven finance.",
           "Despite this undeniable convenience, firms must walk a tightrope between innovation and crucial data security, lest they poison the well of user confidence through any lack of transparency."
         ],
@@ -5103,6 +5131,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Despite the market largely holding its breath ahead of Powell's inflation remarks, Microsoft is clearly doubling down on AI, signaling strong confidence in the sector's future.",
+          "This proactive investment comes as governments worldwide are refusing to pull punches on trade policies, especially concerning the critical supply chain resilience for next-gen AI chips."
+        ],
+        "sentenceTranslations": [
+          "파월 의장의 인플레이션 발언을 앞두고 시장이 대체로 숨죽이며 관망하는 가운데, 마이크로소프트는 AI에 대한 투자를 확실히 확대하며 해당 분야의 미래에 대한 강한 자신감을 내비치고 있습니다.",
+          "이러한 선제적인 투자는 전 세계 정부들이 차세대 AI 칩의 핵심 공급망 복원력에 특히 집중하며 무역 정책에 있어 봐주기 없이 강력하게 대응하고 있는 시점에 이루어지고 있습니다."
+        ],
+        "translationHighlights": [
+          "숨죽이며 관망하는 가운데",
+          "투자를 확실히 확대하며",
+          "봐주기 없이 강력하게 대응하고 있는 시점에"
+        ],
+        "newWords": [
+          {
+            "word": "holding its breath",
+            "meaning": "숨죽이며 기다리다 / 관망하다",
+            "context": "the market largely **holding its breath**"
+          },
+          {
+            "word": "doubling down",
+            "meaning": "(투자 등을) 확실히 확대하다 / 강화하다",
+            "context": "Microsoft is clearly **doubling down** on AI"
+          },
+          {
+            "word": "refusing to pull punches",
+            "meaning": "봐주기 없이 강력하게 대응하다 / 전력을 다하다",
+            "context": "governments worldwide are **refusing to pull punches** on trade policies"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With stronger-than-expected Q2 earnings and a new automotive partnership, OpenAI appears to be striking while the iron is hot, rapidly expanding its reach into new lucrative markets.",
           "However, the looming antitrust investigations by the Department of Justice could prove to be a double-edged sword, potentially stifling innovation while aiming to prevent market monopolization."
         ],
@@ -10198,6 +10258,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The reported 40% surge in digital nomad applications has been a real shot in the arm for Southeast Asian economies, but it's proving to be a double-edged sword for local communities.",
+          "Leaders are now realizing they need to play the long game, carefully balancing economic benefits with the urgent need to protect their communities from rising living costs."
+        ],
+        "sentenceTranslations": [
+          "디지털 노마드 신청이 40% 급증했다는 소식은 동남아시아 경제에 큰 활력소였지만, 현지 지역사회에는 양날의 검으로 작용하고 있습니다.",
+          "지도자들은 경제적 이득과 치솟는 생활비로부터 지역사회를 보호해야 하는 시급한 필요성 사이에서 신중하게 균형을 맞추며 장기적인 안목으로 접근해야 한다는 것을 깨닫고 있습니다."
+        ],
+        "translationHighlights": [
+          "큰 활력소였지만",
+          "양날의 검으로 작용하고 있습니다",
+          "장기적인 안목으로 접근해야 한다는 것을"
+        ],
+        "newWords": [
+          {
+            "word": "a shot in the arm",
+            "meaning": "새로운 활력소, 큰 격려",
+            "context": "has been a real shot in the arm for Southeast Asian economies"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (이점과 단점을 동시에 가진 것)",
+            "context": "it's proving to be a double-edged sword for local communities"
+          },
+          {
+            "word": "play the long game",
+            "meaning": "장기적인 안목으로 접근하다, 먼 미래를 보고 전략을 세우다",
+            "context": "they need to play the long game"
+          }
+        ]
+      },
       {
         "sentences": [
           "The massive surge in digital nomad visa applications, particularly Portugal's 'Remote Work Stay' program, suggests this lifestyle is truly hitting its stride across Southern Europe.",
