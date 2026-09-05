@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "FinAssist Pro is truly a game changer in personal finance, allowing users to get their ducks in a row with budgeting and investments like never before.",
+          "While some might still raise an eyebrow at trusting AI with sensitive data, the younger generations are clearly embracing this automated future."
+        ],
+        "sentenceTranslations": [
+          "FinAssist Pro는 개인 금융 분야에서 진정 판도를 바꾸는 존재이며, 사용자들이 예산 책정 및 투자에 있어서 모든 것을 깔끔하게 정리하도록 전례 없는 편의를 제공합니다.",
+          "민감한 데이터를 AI에 맡기는 것에 대해 여전히 일부는 눈살을 찌푸릴 수도 있지만, 젊은 세대들은 이 자동화된 미래를 명확히 받아들이고 있습니다."
+        ],
+        "translationHighlights": [
+          "판도를 바꾸는 존재",
+          "모든 것을 깔끔하게 정리하도록",
+          "눈살을 찌푸릴 수도"
+        ],
+        "newWords": [
+          {
+            "word": "game changer",
+            "meaning": "판도를 바꾸는 존재, 혁신적인 것",
+            "context": "truly a game changer in personal finance"
+          },
+          {
+            "word": "get one's ducks in a row",
+            "meaning": "만반의 준비를 갖추다, 모든 것을 깔끔하게 정리하다",
+            "context": "to get their ducks in a row with budgeting and investments"
+          },
+          {
+            "word": "raise an eyebrow",
+            "meaning": "의아해하다, 눈살을 찌푸리다",
+            "context": "some might still raise an eyebrow at trusting AI"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "By partnering with Quantify Wealth, Bank of America is clearly trying to get ahead of the curve in AI-driven wealth management, responding to the growing trust among younger investors.",
           "However, regulators like the SEC are right to err on the side of caution, meticulously reviewing these evolving AI platforms to ensure robust consumer protection."
         ],
@@ -5129,6 +5161,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Despite the Nasdaq's optimistic close, the escalating trade tensions between the U.S. and China are undeniably the elephant in the room for chip manufacturers.",
+          "Moreover, balancing the urgent need for sustainable AI with the precarious supply chain for critical rare earth minerals means many companies are walking a tightrope."
+        ],
+        "sentenceTranslations": [
+          "나스닥이 낙관적으로 마감했음에도 불구하고, 미중 무역 긴장 심화는 반도체 제조업체들에게는 명백히 해결해야 할 난감한 문제입니다.",
+          "게다가, 지속 가능한 AI에 대한 시급한 필요성과 핵심 희토류 광물의 불안정한 공급망 사이에서 균형을 잡는 것은 많은 기업들이 살얼음판을 걷는 것과 같습니다."
+        ],
+        "translationHighlights": [
+          "해결해야 할 난감한 문제",
+          "무역 긴장 심화",
+          "지속 가능한 AI",
+          "살얼음판을 걷는 것과 같습니다"
+        ],
+        "newWords": [
+          {
+            "word": "the elephant in the room",
+            "meaning": "모두가 알지만 언급하기 불편하거나 꺼려하는 중요한 문제 (난감한 문제)",
+            "context": "are undeniably the elephant in the room"
+          },
+          {
+            "word": "walking a tightrope",
+            "meaning": "아주 어려운 상황에서 실수 없이 신중하게 대처해야 하는 (살얼음판을 걷다)",
+            "context": "companies are walking a tightrope"
+          }
+        ]
+      },
       {
         "sentences": [
           "Despite the market largely holding its breath ahead of Powell's inflation remarks, Microsoft is clearly doubling down on AI, signaling strong confidence in the sector's future.",
@@ -10260,6 +10320,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Vietnam's strategic decision to extend visa-free stays has proven to be a real shot in the arm for its tourism sector, prompting carriers like Qatar Airways to pull out all the stops in boosting capacity.",
+          "This robust rebound, fueled by AI-curated itineraries, reflects a growing desire for travelers to truly get under the skin of local traditions rather than just scratching the surface of popular sights."
+        ],
+        "sentenceTranslations": [
+          "베트남이 무비자 체류 기간을 연장하기로 한 전략적인 결정은 관광 부문에 엄청난 활력소가 되었고, 카타르항공과 같은 항공사들이 수송 능력을 증대하기 위해 총력을 기울이게 했습니다.",
+          "AI가 맞춤형 여행 일정을 제공하며 이끄는 이러한 강력한 회복세는, 여행자들이 단순히 인기 명소를 수박 겉 핥기 식으로 둘러보는 대신 지역 문화의 진정한 면모를 깊이 이해하고자 하는 열망이 커지고 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "엄청난 활력소",
+          "총력을 기울이다",
+          "진정한 면모를 깊이 이해하고자",
+          "수박 겉 핥기 식으로"
+        ],
+        "newWords": [
+          {
+            "word": "a real shot in the arm",
+            "meaning": "큰 활력소, 활성화시키는 계기",
+            "context": "proven to be a real shot in the arm for its tourism sector"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "총력을 기울이다, 전력을 다하다",
+            "context": "to pull out all the stops in boosting capacity"
+          },
+          {
+            "word": "get under the skin of",
+            "meaning": "~의 진정한 면모를 깊이 이해하다, ~의 본질을 파악하다",
+            "context": "to truly get under the skin of local traditions"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The reported 40% surge in digital nomad applications has been a real shot in the arm for Southeast Asian economies, but it's proving to be a double-edged sword for local communities.",
           "Leaders are now realizing they need to play the long game, carefully balancing economic benefits with the urgent need to protect their communities from rising living costs."
         ],
@@ -15382,6 +15475,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Rising star Elena Petrova truly took the world by storm with her thrilling US Open victory, leaving many seasoned players and fans wondering who this formidable talent was.",
+          "Her unexpected triumph, especially over a reigning champion, has certainly raised the bar for aspiring athletes, proving that with relentless preparation, even a dark horse can steal the show on the grandest stages."
+        ],
+        "sentenceTranslations": [
+          "신예 엘레나 페트로바 선수는 스릴 넘치는 US 오픈 우승으로 진정 세계를 강타했고, 많은 베테랑 선수들과 팬들은 이 강력한 재능의 소유자가 누구인지 궁금해했습니다.",
+          "특히 현 챔피언을 상대로 거둔 그녀의 예상치 못한 승리는 떠오르는 선수들의 기준을 분명히 높였으며, 끊임없는 준비만 있다면 예상 밖의 선수(다크호스)도 가장 큰 무대에서 모두의 시선을 사로잡을 수 있음을 증명했습니다."
+        ],
+        "translationHighlights": [
+          "세계를 강타했고",
+          "기준을 분명히 높였으며",
+          "모두의 시선을 사로잡을 수 있음"
+        ],
+        "newWords": [
+          {
+            "word": "take the world by storm",
+            "meaning": "세계를 강타하다, 선풍적인 인기를 끌다",
+            "context": "Elena Petrova truly *took the world by storm* with her thrilling US Open victory"
+          },
+          {
+            "word": "raise the bar",
+            "meaning": "기준을 높이다, 기대치를 올리다",
+            "context": "Her unexpected triumph... has certainly *raised the bar* for aspiring athletes"
+          },
+          {
+            "word": "steal the show",
+            "meaning": "모두의 시선을 사로잡다, 가장 주목받다",
+            "context": "even a dark horse can *steal the show* on the grandest stages"
+          }
+        ]
+      },
       {
         "sentences": [
           "Charles Leclerc's thrilling victory at Monza was a real shot in the arm for Ferrari's championship aspirations, and has undoubtedly set the high-fidelity sim racing scene to go into overdrive.",
