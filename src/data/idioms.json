@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The hefty price tags for services like Gemini Prime and Aura are proving to be a rude awakening for many, forcing them to re-evaluate their digital budgets.",
+          "Facing significant subscription fatigue, households are now eager to trim the fat from their tech expenses, leaning into more intentional use and valuing offline experiences."
+        ],
+        "sentenceTranslations": [
+          "제미니 프라임과 아우라 같은 서비스의 높은 가격표는 많은 이들에게 충격적인 현실 자각이 되어, 디지털 예산을 재평가하도록 만들고 있습니다.",
+          "상당한 구독 피로감에 직면하면서, 가정들은 이제 기술 관련 지출에서 불필요한 부분을 줄이고, 더욱 의도적인 기술 사용과 오프라인 경험의 가치를 높이는 데 집중하고 있습니다."
+        ],
+        "translationHighlights": [
+          "충격적인 현실 자각",
+          "디지털 예산을 재평가하도록 만들고 있습니다",
+          "상당한 구독 피로감에 직면하면서",
+          "불필요한 부분을 줄이고"
+        ],
+        "newWords": [
+          {
+            "word": "a rude awakening",
+            "meaning": "충격적인 깨달음, 현실 자각 (현실을 뒤늦게 깨닫게 되는 불쾌한 경험)",
+            "context": "are proving to be a rude awakening for many"
+          },
+          {
+            "word": "trim the fat",
+            "meaning": "불필요한 부분을 줄이다, 낭비를 없애다",
+            "context": "eager to trim the fat from their tech expenses"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "FinAssist Pro is truly a game changer in personal finance, allowing users to get their ducks in a row with budgeting and investments like never before.",
           "While some might still raise an eyebrow at trusting AI with sensitive data, the younger generations are clearly embracing this automated future."
         ],
@@ -5163,6 +5191,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The full enforcement of the EU AI Act means tech giants can no longer kick the can down the road on compliance; the writing is on the wall, signaling imminent audits.",
+          "This regulatory pressure, coupled with persistent inflation concerns, has put a chill on investor confidence, causing many to separate the wheat from the chaff in the generative AI startup ecosystem."
+        ],
+        "sentenceTranslations": [
+          "EU 인공지능 법안의 전면 시행은 이제 거대 기술 기업들이 규제 준수를 더 이상 미룰 수 없다는 것을 의미합니다. 임박한 감사에 대한 명백한 징조가 보입니다.",
+          "이러한 규제 압력은 지속적인 인플레이션 우려와 맞물려 투자 심리를 위축시켰고, 많은 투자자들이 생성형 AI 스타트업 생태계에서 좋은 것과 나쁜 것을 가려내게 만들었습니다."
+        ],
+        "translationHighlights": [
+          "미룰 수 없다는 것을",
+          "명백한 징조가 보입니다",
+          "투자 심리를 위축시켰고",
+          "좋은 것과 나쁜 것을 가려내게"
+        ],
+        "newWords": [
+          {
+            "word": "kick the can down the road",
+            "meaning": "문제 해결을 미루다, 곤란한 결정을 연기하다",
+            "context": "can no longer kick the can down the road on compliance"
+          },
+          {
+            "word": "the writing is on the wall",
+            "meaning": "불길한 징조가 보이다, 명백한 결과가 예견되다",
+            "context": "the writing is on the wall, signaling imminent audits"
+          },
+          {
+            "word": "separate the wheat from the chaff",
+            "meaning": "알곡과 쭉정이를 가리다, 좋은 것과 나쁜 것을 구별하다",
+            "context": "many to separate the wheat from the chaff in the generative AI startup ecosystem"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Despite the Nasdaq's optimistic close, the escalating trade tensions between the U.S. and China are undeniably the elephant in the room for chip manufacturers.",
           "Moreover, balancing the urgent need for sustainable AI with the precarious supply chain for critical rare earth minerals means many companies are walking a tightrope."
         ],
@@ -10320,6 +10381,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With its recent streamlined visas and expanded flights, Saudi Arabia is undeniably hitting its stride as a major cultural tourism hub, aligning with the broader \"impact travel\" trend where tourists are increasingly putting their money where their mouth is by prioritizing local benefits.",
+          "However, as over-tourism concerns loom large over established hotspots, UNESCO is poised to draw a line in the sand, urging stricter quotas to prevent cherished heritage sites from being loved to death."
+        ],
+        "sentenceTranslations": [
+          "최근 간소화된 비자와 항공편 확대로 사우디아라비아는 주요 문화 관광 중심지로 본격적인 궤도에 오르고 있으며, 관광객들이 지역 사회에 혜택을 주는 곳을 우선시하며 말뿐이 아닌 행동으로 보여주는 '영향력 있는 여행(impact travel)'의 광범위한 트렌드와도 잘 맞아떨어집니다.",
+          "하지만 기존 인기 여행지에서 과잉 관광에 대한 우려가 크게 다가오면서, 유네스코는 소중한 문화유산들이 너무 많은 사랑으로 훼손되는 것을 막기 위해 더 엄격한 방문객 제한으로 확실한 선을 그을 태세입니다."
+        ],
+        "translationHighlights": [
+          "본격적인 궤도에 오르고 있으며",
+          "말뿐이 아닌 행동으로 보여주는",
+          "크게 다가오면서",
+          "확실한 선을 그을"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "본격적인 궤도에 오르다, 순조롭게 진행되다",
+            "context": "Saudi Arabia is undeniably hitting its stride as a major cultural tourism hub"
+          },
+          {
+            "word": "putting their money where their mouth is",
+            "meaning": "말뿐이 아닌 행동으로 보여주다, 약속한 대로 실행하다",
+            "context": "tourists are increasingly putting their money where their mouth is by prioritizing local benefits"
+          },
+          {
+            "word": "draw a line in the sand",
+            "meaning": "확고한 한계나 규칙을 정하다, 더 이상 물러서지 않겠다고 선언하다",
+            "context": "UNESCO is poised to draw a line in the sand, urging stricter quotas"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Vietnam's strategic decision to extend visa-free stays has proven to be a real shot in the arm for its tourism sector, prompting carriers like Qatar Airways to pull out all the stops in boosting capacity.",
           "This robust rebound, fueled by AI-curated itineraries, reflects a growing desire for travelers to truly get under the skin of local traditions rather than just scratching the surface of popular sights."
         ],
@@ -15475,6 +15569,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The Detroit Lions truly made waves across the NFL, pulling off an unexpected upset against the reigning Super Bowl Champion Kansas City Chiefs in Week 1.",
+          "With quarterback Jared Goff already hitting his stride, the team has certainly proven they are a force to be reckoned with this season."
+        ],
+        "sentenceTranslations": [
+          "디트로이트 라이온즈는 시즌 첫 주차에 현 슈퍼볼 챔피언 캔자스시티 치프스를 상대로 예상치 못한 이변을 연출하며 NFL 전역에 큰 반향을 일으켰습니다.",
+          "쿼터백 자레드 고프가 일찍이 제 기량을 발휘하기 시작하면서, 팀은 이번 시즌에 결코 만만치 않은 상대임을 분명히 입증했습니다."
+        ],
+        "translationHighlights": [
+          "큰 반향을 일으켰습니다",
+          "제 기량을 발휘하기 시작하면서",
+          "결코 만만치 않은 상대임"
+        ],
+        "newWords": [
+          {
+            "word": "made waves",
+            "meaning": "큰 반향을 일으키다, 파장을 일으키다",
+            "context": "The Detroit Lions truly made waves across the NFL..."
+          },
+          {
+            "word": "hitting his stride",
+            "meaning": "제 기량을 발휘하기 시작하다, 안정적인 궤도에 오르다",
+            "context": "With quarterback Jared Goff already hitting his stride..."
+          },
+          {
+            "word": "a force to be reckoned with",
+            "meaning": "결코 만만치 않은 상대, 무시할 수 없는 존재",
+            "context": "they are a force to be reckoned with this season."
+          }
+        ]
+      },
       {
         "sentences": [
           "Rising star Elena Petrova truly took the world by storm with her thrilling US Open victory, leaving many seasoned players and fans wondering who this formidable talent was.",
