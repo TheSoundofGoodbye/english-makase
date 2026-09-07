@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The 'always-on' AI companion trend has truly taken root, leading to a palpable sense of digital codependency among many younger users.",
+          "To avoid getting bogged down in this digital saturation, mental health advocates are encouraging people to cut the cord and rediscover the profound value of the human touch."
+        ],
+        "sentenceTranslations": [
+          "항상 켜져 있는 AI 동반자 트렌드가 정말로 뿌리내리면서, 많은 젊은 사용자들 사이에서 실질적인 디지털 공의존 심리가 나타나고 있습니다.",
+          "이러한 디지털 과포화에 얽매이지 않기 위해, 정신 건강 옹호자들은 사람들이 (디지털 기기로부터) 관계를 끊고 인간적인 교류의 깊은 가치를 재발견하도록 권장하고 있습니다."
+        ],
+        "translationHighlights": [
+          "뿌리내리면서",
+          "디지털 공의존 심리가",
+          "얽매이지 않기 위해",
+          "관계를 끊고"
+        ],
+        "newWords": [
+          {
+            "word": "taken root",
+            "meaning": "뿌리내리다, 확고히 자리 잡다",
+            "context": "has truly taken root"
+          },
+          {
+            "word": "getting bogged down",
+            "meaning": "꼼짝 못하게 되다, ~에 발목 잡히다",
+            "context": "avoid getting bogged down"
+          },
+          {
+            "word": "cut the cord",
+            "meaning": "(의존적인 관계를) 끊다, 독립하다",
+            "context": "to cut the cord"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The hefty price tags for services like Gemini Prime and Aura are proving to be a rude awakening for many, forcing them to re-evaluate their digital budgets.",
           "Facing significant subscription fatigue, households are now eager to trim the fat from their tech expenses, leaning into more intentional use and valuing offline experiences."
         ],
@@ -5189,6 +5222,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Investors are trying to read the tea leaves ahead of Wednesday's Fed statement, as a continued hawkish stance could dampen economic growth.",
+          "The escalating US-China tech tensions are forcing companies like Samsung and TSMC to up the ante on re-shoring, making sure they don't put all their eggs in one basket regarding manufacturing locations."
+        ],
+        "sentenceTranslations": [
+          "투자자들은 수요일 연준 성명 발표를 앞두고 *미래를 예측하려 애쓰고 있습니다*. 지속적인 매파적 기조가 경제 성장을 억제할 수 있기 때문입니다.",
+          "미중 기술 갈등이 심화되면서 삼성과 TSMC 같은 기업들은 제조 거점과 관련하여 *모든 것을 한 바구니에 담지 않기 위해* 재산업화에 *더 많은 노력을 기울이도록* 압박받고 있습니다."
+        ],
+        "translationHighlights": [
+          "미래를 예측하려 애쓰고 있습니다",
+          "더 많은 노력을 기울이도록",
+          "모든 것을 한 바구니에 담지 않기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "read the tea leaves",
+            "meaning": "미래를 예측하려 애쓰다 / 징후를 통해 전망하다",
+            "context": "Investors are trying to *read the tea leaves* ahead of Wednesday's Fed statement"
+          },
+          {
+            "word": "up the ante",
+            "meaning": "노력을 늘리다 / 요구 조건이나 위험을 키우다",
+            "context": "forcing companies like Samsung and TSMC to *up the ante* on re-shoring"
+          },
+          {
+            "word": "put all their eggs in one basket",
+            "meaning": "모든 것을 한 바구니에 담다 (위험 분산을 하지 않다)",
+            "context": "making sure they don't *put all their eggs in one basket* regarding manufacturing locations"
+          }
+        ]
+      },
       {
         "sentences": [
           "The full enforcement of the EU AI Act means tech giants can no longer kick the can down the road on compliance; the writing is on the wall, signaling imminent audits.",
@@ -10381,6 +10446,34 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With the streamlined e-visa process, Uzbekistan is clearly looking to open the floodgates for tourism, especially to its historic Silk Road cities.",
+          "This initiative comes at a perfect time, as many travelers are now eager to venture off the beaten path and discover authentic experiences in less conventional destinations like Central Asia."
+        ],
+        "sentenceTranslations": [
+          "전자 비자 절차가 간소화됨에 따라, 우즈베키스탄은 특히 역사적인 실크로드 도시들로 향하는 관광객들의 물꼬를 트고 대량으로 유입시키려는 것으로 보입니다.",
+          "이러한 움직임은 많은 여행객들이 이제 사람들이 덜 가는 곳을 탐험하며 중앙아시아처럼 덜 전통적인 목적지에서 진정한 경험을 발견하려 하기 때문에 완벽한 시기에 이루어졌습니다."
+        ],
+        "translationHighlights": [
+          "관광객들의 물꼬를 트고 대량으로 유입시키려는",
+          "사람들이 덜 가는 곳을 탐험하며",
+          "진정한 경험을 발견하려 하기 때문에",
+          "완벽한 시기에 이루어졌습니다"
+        ],
+        "newWords": [
+          {
+            "word": "open the floodgates",
+            "meaning": "특정 상황(주로 긍정적인 의미)이 대량으로 발생하도록 허용하다; 물꼬를 트다",
+            "context": "looking to open the floodgates for tourism"
+          },
+          {
+            "word": "off the beaten path",
+            "meaning": "사람들의 발길이 뜸한 곳; 잘 알려지지 않은 색다른 곳",
+            "context": "eager to venture off the beaten path"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With its recent streamlined visas and expanded flights, Saudi Arabia is undeniably hitting its stride as a major cultural tourism hub, aligning with the broader \"impact travel\" trend where tourists are increasingly putting their money where their mouth is by prioritizing local benefits.",
           "However, as over-tourism concerns loom large over established hotspots, UNESCO is poised to draw a line in the sand, urging stricter quotas to prevent cherished heritage sites from being loved to death."
         ],
@@ -15569,6 +15662,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "In a stunning upset, Team BDS turned the tables on formidable LCK contender Gen.G, completely catching everyone off guard at the LoL World Championship.",
+          "This unexpected victory, much like the Kansas City Chiefs proving themselves a force to be reckoned with right from their NFL season opener, has truly electrified the competitive gaming world."
+        ],
+        "sentenceTranslations": [
+          "놀라운 이변 속에서, 팀 BDS는 강팀인 LCK의 Gen.G를 상대로 판세를 완전히 뒤집으며 LoL 월드 챔피언십에서 모두를 완전히 놀라게 했습니다.",
+          "이 예상치 못한 승리는 마치 캔자스시티 치프스가 NFL 시즌 개막전부터 무시할 수 없는 강팀임을 증명한 것과 같이, e스포츠계를 진정으로 뜨겁게 달구었습니다."
+        ],
+        "translationHighlights": [
+          "판세를 완전히 뒤집으며",
+          "모두를 완전히 놀라게 했습니다",
+          "무시할 수 없는 강팀임을 증명한 것과 같이",
+          "e스포츠계를 진정으로 뜨겁게 달구었습니다"
+        ],
+        "newWords": [
+          {
+            "word": "turn the tables",
+            "meaning": "상황을 역전시키다, 판세를 뒤집다",
+            "context": "Team BDS turned the tables on formidable LCK contender Gen.G"
+          },
+          {
+            "word": "a force to be reckoned with",
+            "meaning": "무시할 수 없는 강한 존재/세력",
+            "context": "the Kansas City Chiefs proving themselves a force to be reckoned with"
+          }
+        ]
+      },
       {
         "sentences": [
           "The Detroit Lions truly made waves across the NFL, pulling off an unexpected upset against the reigning Super Bowl Champion Kansas City Chiefs in Week 1.",
