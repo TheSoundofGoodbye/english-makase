@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With inflation persisting, it's becoming clear that unnoticed subscriptions are causing a \"death by a thousand cuts\" for many household budgets.",
+          "Financial experts are now urging consumers to \"trim the fat\" from their digital spending, as being \"nickel and dimed to death\" by these recurring charges can severely erode savings."
+        ],
+        "sentenceTranslations": [
+          "인플레이션이 지속되면서, 눈치채지 못했던 구독 서비스들이 많은 가계 재정에 '야금야금 큰 손실을 입히는' 상황을 초래하고 있다는 것이 분명해지고 있습니다.",
+          "금융 전문가들은 이제 소비자들이 디지털 지출에서 '군더더기를 잘라내라'고 촉구하고 있습니다. 이러한 정기적인 요금들이 '푼돈으로 야금야금 파산시키는' 수준으로 저축을 심각하게 갉아먹을 수 있기 때문입니다."
+        ],
+        "translationHighlights": [
+          "야금야금 큰 손실을 입히는",
+          "군더더기를 잘라내라",
+          "푼돈으로 야금야금 파산시키는",
+          "저축을 심각하게 갉아먹다"
+        ],
+        "newWords": [
+          {
+            "word": "death by a thousand cuts",
+            "meaning": "많은 작은 문제나 비용들이 쌓여 결국 큰 손실이나 파멸을 가져오는 상황",
+            "context": "causing a \"death by a thousand cuts\" for many household budgets"
+          },
+          {
+            "word": "trim the fat",
+            "meaning": "불필요한 지출이나 비용을 줄이다, 낭비를 없애다",
+            "context": "to \"trim the fat\" from their digital spending"
+          },
+          {
+            "word": "nickel and dimed to death",
+            "meaning": "작은 금액들을 계속 청구하거나 지불하게 하여 결국 많은 돈을 쓰게 만들다",
+            "context": "being \"nickel and dimed to death\" by these recurring charges"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The 'always-on' AI companion trend has truly taken root, leading to a palpable sense of digital codependency among many younger users.",
           "To avoid getting bogged down in this digital saturation, mental health advocates are encouraging people to cut the cord and rediscover the profound value of the human touch."
         ],
