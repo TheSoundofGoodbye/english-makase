@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The World Economic Forum's new report confirms the writing is on the wall for many administrative positions, as generative AI continues to mature.",
+          "To truly get ahead of the curve and prevent a significant workforce disruption, a proactive approach to upskilling is absolutely essential."
+        ],
+        "sentenceTranslations": [
+          "세계 경제 포럼의 새 보고서에 따르면, 생성형 AI의 지속적인 발전에 따라 많은 행정직의 미래가 이미 분명히 예고되고 있습니다.",
+          "노동 시장의 흐름을 미리 읽고 대규모 인력 혼란을 막기 위해서는 직무 능력 향상을 위한 선제적 접근이 필수적입니다."
+        ],
+        "translationHighlights": [
+          "미래가 이미 분명히 예고되고 있습니다",
+          "노동 시장의 흐름을 미리 읽고",
+          "대규모 인력 혼란",
+          "선제적 접근"
+        ],
+        "newWords": [
+          {
+            "word": "the writing is on the wall",
+            "meaning": "미래가 이미 분명히 예고되다, 불길한 징조가 보이다",
+            "context": "the writing is on the wall for many administrative positions"
+          },
+          {
+            "word": "get ahead of the curve",
+            "meaning": "미리 대비하다, 흐름을 앞서 나가다",
+            "context": "To truly get ahead of the curve"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With inflation persisting, it's becoming clear that unnoticed subscriptions are causing a \"death by a thousand cuts\" for many household budgets.",
           "Financial experts are now urging consumers to \"trim the fat\" from their digital spending, as being \"nickel and dimed to death\" by these recurring charges can severely erode savings."
         ],
@@ -5257,6 +5285,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With OpenAI's Chronos now publicly available, F500 companies are realizing the writing is on the wall for massive AI integration, hoping to finally move the needle on productivity amid persistent inflation.",
+          "Nonetheless, they'll need to keep their ear to the ground regarding the Fed's hawkish stance, as a prolonged period of high interest rates could easily throw a wrench in even the most well-laid strategic plans."
+        ],
+        "sentenceTranslations": [
+          "OpenAI의 Chronos가 공개되면서, F500 기업들은 대규모 AI 통합이 불가피하다는 것을 깨닫고 있으며, 지속적인 인플레이션 속에서 생산성을 크게 향상시키기를 기대하고 있습니다.",
+          "그럼에도 불구하고, 기업들은 연준의 매파적 입장에 귀를 기울여야 할 것입니다. 왜냐하면 고금리 기조가 장기화되면 아무리 잘 세워진 전략이라 할지라도 쉽게 차질을 빚을 수 있기 때문입니다."
+        ],
+        "translationHighlights": [
+          "불가피하다는 것을 깨닫고",
+          "생산성을 크게 향상시키기를 기대하고",
+          "귀를 기울여야 할 것입니다",
+          "쉽게 차질을 빚을 수 있기 때문입니다"
+        ],
+        "newWords": [
+          {
+            "word": "the writing is on the wall",
+            "meaning": "어떤 일이 일어날 것이라는 분명한 징조가 있다; 불가피함을 깨닫다",
+            "context": "the writing is on the wall for massive AI integration"
+          },
+          {
+            "word": "move the needle",
+            "meaning": "상황을 크게 개선하거나 변화시키다; 큰 영향을 미치다",
+            "context": "move the needle on productivity"
+          },
+          {
+            "word": "throw a wrench in",
+            "meaning": "계획이나 과정에 방해를 일으키다; 일을 그르치게 하다",
+            "context": "throw a wrench in even the most well-laid strategic plans"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Investors are trying to read the tea leaves ahead of Wednesday's Fed statement, as a continued hawkish stance could dampen economic growth.",
           "The escalating US-China tech tensions are forcing companies like Samsung and TSMC to up the ante on re-shoring, making sure they don't put all their eggs in one basket regarding manufacturing locations."
         ],
@@ -10477,6 +10538,34 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The full enforcement of ETIAS is clearly **throwing a wrench in the works** for many spontaneous travelers hoping for last-minute European getaways, leading to a noticeable dip in bookings.",
+          "Consequently, autumn travelers are reluctant to **jump through hoops** for pre-approval, choosing instead to pivot towards destinations like Morocco and Turkey with simpler entry requirements."
+        ],
+        "sentenceTranslations": [
+          "ETIAS가 완전히 시행되면서 많은 즉흥적인 유럽 여행객들의 막바지 여행 계획에 확실히 **예상치 못한 문제를 일으키고 있으며**, 예약 건수도 눈에 띄게 줄었습니다.",
+          "그 결과, 가을 여행객들은 사전 승인을 위해 **복잡한 절차를 거치려 하지 않고**, 대신 입국 요건이 더 간단한 모로코나 튀르키예 같은 목적지로 눈을 돌리고 있습니다."
+        ],
+        "translationHighlights": [
+          "예상치 못한 문제를 일으키고 있으며",
+          "예약 건수도 눈에 띄게 줄었습니다",
+          "복잡한 절차를 거치려 하지 않고",
+          "입국 요건이 더 간단한"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획이나 진행 중인 일에 예상치 못한 문제를 일으키다, 방해하다",
+            "context": "The full enforcement of ETIAS is clearly **throwing a wrench in the works** for many spontaneous travelers"
+          },
+          {
+            "word": "jump through hoops",
+            "meaning": "어떤 것을 얻기 위해 많은 어렵거나 번거로운 절차를 거치다",
+            "context": "autumn travelers are reluctant to **jump through hoops** for pre-approval"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the streamlined e-visa process, Uzbekistan is clearly looking to open the floodgates for tourism, especially to its historic Silk Road cities.",
