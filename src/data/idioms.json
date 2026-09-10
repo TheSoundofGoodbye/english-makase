@@ -3,6 +3,40 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "AI-driven conversational companions are truly gaining traction, especially among younger demographics seeking new avenues for mental wellness in their daily routines.",
+          "But as they become a go-to for many, ethics labs caution that these platforms must tread a fine line between providing support and becoming a double-edged sword regarding data privacy and algorithmic bias."
+        ],
+        "sentenceTranslations": [
+          "AI 기반 대화형 동반자들은 특히 일상 속 정신 건강을 위한 새로운 길을 찾는 젊은 세대 사이에서 진정으로 큰 호응을 얻고 있습니다.",
+          "하지만 많은 이들에게 주요 선택지가 되면서, 윤리 연구소들은 이러한 플랫폼이 지원 제공과 데이터 프라이버시 및 알고리즘 편향이라는 양날의 검 사이에서 미묘한 균형을 잘 잡아야 한다고 경고합니다."
+        ],
+        "translationHighlights": [
+          "큰 호응을 얻고 있습니다",
+          "새로운 길을 찾는",
+          "주요 선택지가 되면서",
+          "미묘한 균형을 잘 잡아야 한다",
+          "양날의 검"
+        ],
+        "newWords": [
+          {
+            "word": "gaining traction",
+            "meaning": "큰 호응을 얻다/인기를 얻다",
+            "context": "truly gaining traction among younger demographics"
+          },
+          {
+            "word": "tread a fine line",
+            "meaning": "미묘한 균형을 잘 잡다",
+            "context": "platforms must tread a fine line between providing support"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가진 것)",
+            "context": "becoming a double-edged sword regarding data privacy"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The World Economic Forum's new report confirms the writing is on the wall for many administrative positions, as generative AI continues to mature.",
           "To truly get ahead of the curve and prevent a significant workforce disruption, a proactive approach to upskilling is absolutely essential."
         ],
@@ -5285,6 +5319,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With global markets largely treading water as central banks keep a firm grip on rates, industry leaders are keenly reading the tea leaves to discern the economic path forward.",
+          "However, the AI sector is still firing on all cylinders, as companies like Google and NVIDIA are putting their money where their mouth is to dominate this rapidly evolving landscape."
+        ],
+        "sentenceTranslations": [
+          "중앙은행들이 금리를 강하게 통제하면서 글로벌 시장이 대체로 제자리걸음을 하는 가운데, 업계 리더들은 경제의 향방을 파악하기 위해 면밀히 상황을 주시하고 있습니다.",
+          "하지만 AI 부문은 여전히 최대치로 가동되고 있으며, 구글과 엔비디아 같은 기업들은 빠르게 진화하는 이 분야를 장악하기 위해 아낌없이 투자하고 있습니다."
+        ],
+        "translationHighlights": [
+          "제자리걸음을 하는 가운데",
+          "면밀히 상황을 주시하고 있습니다",
+          "최대치로 가동되고 있으며",
+          "아낌없이 투자하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "treading water",
+            "meaning": "현 상태 유지, 제자리걸음하다 (어려운 상황에서 겨우 버티다)",
+            "context": "global markets largely treading water"
+          },
+          {
+            "word": "reading the tea leaves",
+            "meaning": "미래를 예측하려 노력하다, 상황을 주시하다 (주로 불확실한 상황에서)",
+            "context": "keenly reading the tea leaves"
+          },
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최대치로 가동되다, 최고의 효율을 내다 (엔진이 모든 실린더를 다 쓰듯이)",
+            "context": "the AI sector is still firing on all cylinders"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With OpenAI's Chronos now publicly available, F500 companies are realizing the writing is on the wall for massive AI integration, hoping to finally move the needle on productivity amid persistent inflation.",
           "Nonetheless, they'll need to keep their ear to the ground regarding the Fed's hawkish stance, as a prolonged period of high interest rates could easily throw a wrench in even the most well-laid strategic plans."
         ],
@@ -10540,6 +10607,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Amidst the definitive pivot towards purposeful exploration, nations are looking to help travelers truly get under the skin of local cultures with initiatives like the unified digital nomad visa.",
+          "Such strategic moves, like Emirates making a big play in burgeoning luxury destinations, demonstrate the industry is clearly reading the room regarding visitors seeking more profound and sustainable experiences."
+        ],
+        "sentenceTranslations": [
+          "단순한 여가에서 목적 있는 탐험으로의 명확한 전환 속에서, 여러 국가들은 통합 디지털 노마드 비자와 같은 정책으로 여행객들이 현지 문화를 진정으로 깊이 이해하도록 돕고자 합니다.",
+          "에미레이트 항공이 급성장하는 럭셔리 여행지에서 큰 전략적 움직임을 보이는 것과 같은 행보는, 여행객들이 더욱 심오하고 지속 가능한 경험을 추구한다는 업계의 분위기를 명확히 읽고 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "명확한 전환 속에서",
+          "진정으로 깊이 이해하도록",
+          "큰 전략적 움직임을 보이는 것",
+          "업계의 분위기를 명확히 읽고 있음을"
+        ],
+        "newWords": [
+          {
+            "word": "get under the skin of",
+            "meaning": "진정으로 깊이 이해하다/경험하다",
+            "context": "truly get under the skin of local cultures"
+          },
+          {
+            "word": "make a big play",
+            "meaning": "큰 전략적 움직임을 보이다/중요한 역할을 하다",
+            "context": "Emirates making a big play in burgeoning luxury destinations"
+          },
+          {
+            "word": "reading the room",
+            "meaning": "(상황이나 사람들의) 분위기를 파악하다/눈치를 채다",
+            "context": "the industry is clearly reading the room"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The full enforcement of ETIAS is clearly **throwing a wrench in the works** for many spontaneous travelers hoping for last-minute European getaways, leading to a noticeable dip in bookings.",
           "Consequently, autumn travelers are reluctant to **jump through hoops** for pre-approval, choosing instead to pivot towards destinations like Morocco and Turkey with simpler entry requirements."
         ],
@@ -15784,6 +15884,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Real Madrid's Santiago Flores truly hit it out of the park with his debut brace, suggesting he's a young talent poised to take the world by storm.",
+          "Meanwhile, as Valorant Champions viewership is expected to go through the roof and national park permits surge, it's clear these hobbies are riding the crest of a wave of public interest."
+        ],
+        "sentenceTranslations": [
+          "레알 마드리드의 산티아고 플로레스는 데뷔전에서 두 골을 넣으며 정말 대성공을 거두었고, 그는 곧 세계를 석권할 어린 재능임을 보여주었습니다.",
+          "한편, 발로란트 챔피언스 시청자 수가 최고치를 기록할 것으로 예상되고 국립공원 허가 신청도 급증하는 것을 보면, 이러한 취미 활동들이 대중의 관심이라는 기세를 타고 있음이 분명합니다."
+        ],
+        "translationHighlights": [
+          "대성공을 거두었고",
+          "세계를 석권할",
+          "최고치를 기록할",
+          "기세를 타고 있음이"
+        ],
+        "newWords": [
+          {
+            "word": "hit it out of the park",
+            "meaning": "대성공을 거두다; (야구에서 홈런을 치듯이) 매우 잘하다",
+            "context": "Flores truly **hit it out of the park** with his debut brace"
+          },
+          {
+            "word": "go through the roof",
+            "meaning": "천정부지로 치솟다; 최고치를 기록하다",
+            "context": "viewership is expected to **go through the roof**"
+          },
+          {
+            "word": "ride the crest of a wave",
+            "meaning": "최고조의 인기를 누리다; (성공이나 인기의) 기세를 타다",
+            "context": "hobbies are **riding the crest of a wave** of public interest"
+          }
+        ]
+      },
       {
         "sentences": [
           "In a stunning upset, Team BDS turned the tables on formidable LCK contender Gen.G, completely catching everyone off guard at the LoL World Championship.",
