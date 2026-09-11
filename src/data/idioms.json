@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With persistent cost-of-living pressures, more users are turning to AI finance platforms to help them tighten their belts and curb non-essential spending.",
+          "However, financial ethicists caution that while these tools offer significant help, they are no silver bullet for deeper systemic economic issues."
+        ],
+        "sentenceTranslations": [
+          "지속적인 생활비 압박에 직면하면서, 더 많은 사용자들이 허리띠를 졸라매고 불필요한 지출을 줄이기 위해 AI 금융 플랫폼으로 눈을 돌리고 있습니다.",
+          "하지만 금융 윤리학자들은 이러한 도구들이 상당한 도움을 주지만, 더 근본적인 시스템적 경제 문제에 대한 만능 해결책은 아니라고 경고합니다."
+        ],
+        "translationHighlights": [
+          "허리띠를 졸라매다",
+          "불필요한 지출을 줄이다",
+          "만능 해결책은 아니다",
+          "시스템적 경제 문제"
+        ],
+        "newWords": [
+          {
+            "word": "tighten one's belt",
+            "meaning": "허리띠를 졸라매다; 지출을 줄이다",
+            "context": "help them tighten their belts"
+          },
+          {
+            "word": "silver bullet",
+            "meaning": "만능 해결책, 묘약",
+            "context": "they are no silver bullet"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "AI-driven conversational companions are truly gaining traction, especially among younger demographics seeking new avenues for mental wellness in their daily routines.",
           "But as they become a go-to for many, ethics labs caution that these platforms must tread a fine line between providing support and becoming a double-edged sword regarding data privacy and algorithmic bias."
         ],
@@ -5319,6 +5347,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Alphabet is currently riding high on the unprecedented capabilities promised by its Gemini Pro X AI, marking a significant win for enterprise clients.",
+          "However, with the Eurozone's core inflation proving a persistent thorn in the side for the ECB, and trade talks for European AI startups running into roadblocks, the broader economic landscape presents a much rockier path."
+        ],
+        "sentenceTranslations": [
+          "알파벳은 현재 Gemini Pro X AI가 약속하는 전례 없는 기능들로 인해 승승장구하고 있으며, 이는 기업 고객들에게 상당한 성공을 의미합니다.",
+          "하지만 유로존의 핵심 인플레이션이 유럽중앙은행(ECB)에게 계속 골칫거리로 작용하고 있고, 유럽 AI 스타트업들의 무역 협상이 난관에 부딪히면서, 전반적인 경제 상황은 훨씬 더 험난한 길을 제시하고 있습니다."
+        ],
+        "translationHighlights": [
+          "승승장구하고 있으며",
+          "계속 골칫거리로 작용하고",
+          "난관에 부딪히면서",
+          "험난한 길을 제시하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "riding high",
+            "meaning": "승승장구하다, 한창 잘 나가다",
+            "context": "Alphabet is currently riding high on the unprecedented capabilities..."
+          },
+          {
+            "word": "thorn in the side",
+            "meaning": "골칫거리, 끊임없이 괴롭히는 문제",
+            "context": "proving a persistent thorn in the side for the ECB..."
+          },
+          {
+            "word": "running into roadblocks",
+            "meaning": "난관에 부딪히다, 장애물에 직면하다",
+            "context": "trade talks for European AI startups running into roadblocks..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With global markets largely treading water as central banks keep a firm grip on rates, industry leaders are keenly reading the tea leaves to discern the economic path forward.",
           "However, the AI sector is still firing on all cylinders, as companies like Google and NVIDIA are putting their money where their mouth is to dominate this rapidly evolving landscape."
         ],
@@ -10607,6 +10668,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Global travel analysts, clearly reading the tea leaves of evolving passenger preferences, understand that regenerative tourism is more than just a flash in the pan.",
+          "This proactive approach, coupled with Europe's new Digital Nomadic Visa framework, positions the continent to truly stay ahead of the curve in attracting both eco-conscious travelers and the global talent pool."
+        ],
+        "sentenceTranslations": [
+          "세계 여행 분석가들은 변화하는 승객들의 선호도를 명확히 파악하며, 재생 관광이 그저 일시적인 유행을 넘어선다는 것을 이해하고 있습니다.",
+          "이러한 선제적인 접근 방식은 유럽의 새로운 디지털 유목민 비자 프레임워크와 결합하여, 환경을 생각하는 여행객과 글로벌 인재를 모두 유치하는 데 있어 유럽이 진정으로 한발 앞서 나갈 수 있도록 합니다."
+        ],
+        "translationHighlights": [
+          "선호도를 명확히 파악하며",
+          "일시적인 유행을 넘어선다는 것을",
+          "선제적인 접근 방식",
+          "한발 앞서 나갈 수 있도록 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "reading the tea leaves",
+            "meaning": "미래를 예측하다, (징후를 보고) 앞으로 일어날 일을 짐작하다",
+            "context": "clearly reading the tea leaves of evolving passenger preferences"
+          },
+          {
+            "word": "a flash in the pan",
+            "meaning": "용두사미, 일시적인 성공/인기/유행",
+            "context": "more than just a flash in the pan"
+          },
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "최신 동향을 파악하고 주도하다, (변화에) 앞서 나가다",
+            "context": "truly stay ahead of the curve in attracting"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Amidst the definitive pivot towards purposeful exploration, nations are looking to help travelers truly get under the skin of local cultures with initiatives like the unified digital nomad visa.",
           "Such strategic moves, like Emirates making a big play in burgeoning luxury destinations, demonstrate the industry is clearly reading the room regarding visitors seeking more profound and sustainable experiences."
         ],
@@ -15884,6 +15978,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The Denver Broncos certainly turned the tables on the Kansas City Chiefs with their stunning upset, delivering immediate drama right from the NFL season's kickoff.",
+          "This intensity, mirrored in the esports world where G2 and Cloud9 punched their ticket to the LoL Worlds, highlights that both traditional sports and competitive gaming are clearly playing in the big leagues."
+        ],
+        "sentenceTranslations": [
+          "덴버 브롱코스는 예상 밖의 충격적인 승리로 캔자스시티 치프스에게 확실히 판세를 뒤집으며, NFL 시즌 시작부터 즉각적인 드라마를 선사했습니다.",
+          "G2와 Cloud9이 LoL 월드 챔피언십 진출권을 따낸 e스포츠 세계의 열기에서도 알 수 있듯이, 전통 스포츠와 경쟁형 게임 모두가 분명히 중요한 무대에서 경쟁하고 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "판세를 뒤집으며",
+          "진출권을 따낸",
+          "중요한 무대에서 경쟁하고 있음을"
+        ],
+        "newWords": [
+          {
+            "word": "turn the tables",
+            "meaning": "판세를 뒤집다, 역전시키다",
+            "context": "The Denver Broncos certainly turned the tables on the Kansas City Chiefs..."
+          },
+          {
+            "word": "punch one's ticket",
+            "meaning": "~에 진출권을 따내다, ~에 갈 자격을 얻다",
+            "context": "...G2 and Cloud9 punched their ticket to the LoL Worlds..."
+          },
+          {
+            "word": "play in the big leagues",
+            "meaning": "중요한/심각한/최고 수준의 경쟁에 참여하다",
+            "context": "...both traditional sports and competitive gaming are clearly playing in the big leagues."
+          }
+        ]
+      },
       {
         "sentences": [
           "Real Madrid's Santiago Flores truly hit it out of the park with his debut brace, suggesting he's a young talent poised to take the world by storm.",
