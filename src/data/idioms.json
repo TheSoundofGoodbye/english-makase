@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Many people are finding themselves burning the candle at both ends trying to keep up with constant AI interactions, leading to the growing concern of 'AI burnout'.",
+          "Digital wellness experts suggest it's high time we drew a line in the sand, creating AI-free zones to prevent the convenience of technology from becoming a double-edged sword for our mental health."
+        ],
+        "sentenceTranslations": [
+          "많은 사람들이 끊임없는 AI 상호작용에 보조를 맞추려다 너무 무리해서 'AI 번아웃'이라는 우려가 커지고 있습니다.",
+          "디지털 웰빙 전문가들은 기술의 편리함이 우리 정신 건강에 양날의 검이 되는 것을 막기 위해 이제는 AI 없는 구역을 만들어 명확한 선을 그을 때라고 제안합니다."
+        ],
+        "translationHighlights": [
+          "너무 무리해서",
+          "명확한 선을 그을 때",
+          "양날의 검이 되는 것을 막기 위해",
+          "우리 정신 건강에"
+        ],
+        "newWords": [
+          {
+            "word": "burning the candle at both ends",
+            "meaning": "너무 무리하다, 과로하다 (밤샘 작업이나 과도한 활동으로 체력을 소진하는 것을 의미)",
+            "context": "finding themselves burning the candle at both ends"
+          },
+          {
+            "word": "draw a line in the sand",
+            "meaning": "더 이상 물러서지 않을 선을 긋다, 명확한 한계를 정하다 (타협하지 않을 최후의 한계를 설정하는 것을 의미)",
+            "context": "it's high time we drew a line in the sand"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (이점과 단점을 모두 가짐, 긍정적인 면과 부정적인 면을 동시에 가진 것을 의미)",
+            "context": "becoming a double-edged sword for our mental health"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With persistent cost-of-living pressures, more users are turning to AI finance platforms to help them tighten their belts and curb non-essential spending.",
           "However, financial ethicists caution that while these tools offer significant help, they are no silver bullet for deeper systemic economic issues."
         ],
@@ -5347,6 +5380,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "With the AI landscape rapidly evolving and the need to control the full stack becoming paramount, AWS is clearly reading the writing on the wall by significantly expanding its custom AI chip development unit.",
+          "This bold move aims to stay ahead of the curve against competitors and significantly cut the fat from operational costs, reducing their reliance on external suppliers."
+        ],
+        "sentenceTranslations": [
+          "AI 환경이 급변하고 풀 스택 제어의 필요성이 극대화되면서, AWS는 맞춤형 AI 칩 개발 부서를 대폭 확장하며 분명히 다가올 미래를 읽어내고 있습니다.",
+          "이러한 과감한 움직임은 경쟁사보다 한 발 앞서 나가고 운영 비용에서 불필요한 부분을 대폭 줄여 외부 공급업체에 대한 의존도를 낮추기 위함입니다."
+        ],
+        "translationHighlights": [
+          "다가올 미래를 읽어내고",
+          "한 발 앞서 나가고",
+          "불필요한 부분을 대폭 줄여"
+        ],
+        "newWords": [
+          {
+            "word": "reading the writing on the wall",
+            "meaning": "다가올 상황(특히 좋지 않은)을 미리 감지하고 대비하다",
+            "context": "AWS is clearly reading the writing on the wall"
+          },
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "경쟁사보다 한 발 앞서 나가다, 시대에 뒤처지지 않다",
+            "context": "aims to stay ahead of the curve against competitors"
+          },
+          {
+            "word": "cut the fat",
+            "meaning": "불필요한 지출/요소를 줄이다, 비용을 절감하다",
+            "context": "significantly cut the fat from operational costs"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Alphabet is currently riding high on the unprecedented capabilities promised by its Gemini Pro X AI, marking a significant win for enterprise clients.",
           "However, with the Eurozone's core inflation proving a persistent thorn in the side for the ECB, and trade talks for European AI startups running into roadblocks, the broader economic landscape presents a much rockier path."
         ],
@@ -10668,6 +10733,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Bhutan's revised visa fee structure has clearly struck gold, effectively drawing higher-value tourists who are staying longer and boosting the local economy.",
+          "This specific success, coupled with the global airline industry going from strength to strength, suggests that the travel sector is truly riding the crest of a wave."
+        ],
+        "sentenceTranslations": [
+          "부탄의 개정된 비자 수수료 구조는 확실히 대박을 터뜨렸고, 더 오래 머무르며 현지 경제를 활성화하는 고부가가치 관광객들을 효과적으로 유치하고 있습니다.",
+          "이러한 특정 성공은 전 세계 항공 산업이 점점 더 번창하는 것과 맞물려, 여행 부문이 진정으로 황금기를 맞고 있음을 시사합니다."
+        ],
+        "translationHighlights": [
+          "대박을 터뜨렸고",
+          "고부가가치 관광객들",
+          "점점 더 번창하는",
+          "황금기를 맞고 있음"
+        ],
+        "newWords": [
+          {
+            "word": "strike gold",
+            "meaning": "대박을 터뜨리다, 큰 성공을 거두다",
+            "context": "has clearly struck gold"
+          },
+          {
+            "word": "go from strength to strength",
+            "meaning": "점점 더 강해지다, 번창하다",
+            "context": "industry going from strength to strength"
+          },
+          {
+            "word": "ride the crest of a wave",
+            "meaning": "황금기를 맞다, 최고의 성공을 누리다",
+            "context": "is truly riding the crest of a wave"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Global travel analysts, clearly reading the tea leaves of evolving passenger preferences, understand that regenerative tourism is more than just a flash in the pan.",
           "This proactive approach, coupled with Europe's new Digital Nomadic Visa framework, positions the continent to truly stay ahead of the curve in attracting both eco-conscious travelers and the global talent pool."
         ],
@@ -15978,6 +16076,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The advancement of wildcard teams LOUD and PSG Talon in the *League of Legends* World Championship Play-In stage certainly demonstrates their ability to **punch above their weight**.",
+          "Such surprising outcomes, alongside the sheer unpredictability of major competitions, are clearly why the Premier League's opening weekend also saw viewership **go through the roof**."
+        ],
+        "sentenceTranslations": [
+          "리그 오브 레전드 월드 챔피언십 플레이-인 스테이지에서 와일드카드 팀인 LOUD와 PSG Talon이 진출한 것은 그들이 확실히 **자신들의 역량 이상을 해낼 수 있음**을 보여줍니다.",
+          "이처럼 예상치 못한 결과들과 주요 대회의 엄청난 예측 불가능성은 프리미어리그 개막 주말 시청률이 **폭등한** 분명한 이유입니다."
+        ],
+        "translationHighlights": [
+          "자신들의 역량 이상을 해낼 수 있음",
+          "예상치 못한 결과들",
+          "엄청난 예측 불가능성",
+          "폭등한"
+        ],
+        "newWords": [
+          {
+            "word": "punch above one's weight",
+            "meaning": "자신들의 역량(힘, 수준) 이상을 해내다; 약체로 평가받던 팀이나 개인이 강팀을 상대로 좋은 성과를 내는 상황",
+            "context": "demonstrates their ability to **punch above their weight**"
+          },
+          {
+            "word": "go through the roof",
+            "meaning": "폭등하다, 급증하다 (가격, 시청률, 판매량 등이)",
+            "context": "saw viewership **go through the roof**"
+          }
+        ]
+      },
       {
         "sentences": [
           "The Denver Broncos certainly turned the tables on the Kansas City Chiefs with their stunning upset, delivering immediate drama right from the NFL season's kickoff.",
