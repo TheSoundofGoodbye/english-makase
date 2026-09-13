@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The widespread reliance on AI financial advisors means the genie is truly out of the bottle, making digital prompts almost indispensable for many users now.",
+          "However, the growing popularity of intentional micro-communities suggests a yearning to cut through the digital noise and foster genuine, in-person connections."
+        ],
+        "sentenceTranslations": [
+          "AI 기반 재정 자문 앱에 대한 광범위한 의존은 일단 시작되면 되돌릴 수 없는 상황이 되었음을 의미하며, 이제 많은 사용자에게 디지털 프롬프트는 거의 필수불가결한 존재가 되었습니다.",
+          "하지만, 의도적인 소규모 커뮤니티의 인기가 높아지는 것은 디지털 소음 속에서 벗어나 진정한 대면 관계를 형성하려는 강한 열망을 시사합니다."
+        ],
+        "translationHighlights": [
+          "되돌릴 수 없는 상황",
+          "필수불가결한 존재",
+          "디지털 소음 속에서 벗어나",
+          "진정한 대면 관계를 형성하려는 강한 열망"
+        ],
+        "newWords": [
+          {
+            "word": "the genie is out of the bottle",
+            "meaning": "일단 시작된 일이어서 통제하거나 멈출 수 없는 상황",
+            "context": "the genie is truly out of the bottle"
+          },
+          {
+            "word": "cut through the digital noise",
+            "meaning": "혼란스럽거나 불필요한 디지털 정보/방해 요소를 뚫고 중요한 것 또는 실질적인 것에 집중하다",
+            "context": "cut through the digital noise"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Many people are finding themselves burning the candle at both ends trying to keep up with constant AI interactions, leading to the growing concern of 'AI burnout'.",
           "Digital wellness experts suggest it's high time we drew a line in the sand, creating AI-free zones to prevent the convenience of technology from becoming a double-edged sword for our mental health."
         ],
@@ -5380,6 +5408,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Anthropic's major strategic partnership with Google Cloud for its next-gen LLM rollout is clearly an attempt to raise the stakes in the fiercely competitive AI sector, directly challenging OpenAI's established market dominance.",
+          "Concurrently, venture capitalists, clearly having read the tea leaves regarding persistent economic headwinds and high interest rates, are now steering clear of speculative hyper-growth ventures, instead putting their money on more resilient sectors like climate tech and biotech."
+        ],
+        "sentenceTranslations": [
+          "Anthropic의 차세대 LLM 출시를 위한 Google Cloud와의 주요 전략적 파트너십은 치열한 AI 분야에서 판돈을 올리려는 분명한 시도로, OpenAI의 확고한 시장 지배력에 정면으로 도전하고 있습니다.",
+          "동시에 벤처 투자가들은 지속적인 경제적 역풍과 고금리에 대한 징조를 읽고 있었기에, 이제는 투기적인 고성장 기업들을 피하고 대신 기후 기술과 바이오 기술 같은 더 탄력적인 부문에 자금을 투입하고 있습니다."
+        ],
+        "translationHighlights": [
+          "판돈을 올리려는",
+          "확고한 시장 지배력에 정면으로 도전",
+          "징조를 읽고",
+          "투기적인 고성장 기업들을 피하고"
+        ],
+        "newWords": [
+          {
+            "word": "raise the stakes",
+            "meaning": "판돈을 올리다, (위험이나 중요성을) 높이다",
+            "context": "attempt to raise the stakes"
+          },
+          {
+            "word": "read the tea leaves",
+            "meaning": "징조를 읽다, (미래를) 예측하다",
+            "context": "having read the tea leaves"
+          },
+          {
+            "word": "steer clear of",
+            "meaning": "~을 피하다, ~에 가까이 가지 않다",
+            "context": "are now steering clear of"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With the AI landscape rapidly evolving and the need to control the full stack becoming paramount, AWS is clearly reading the writing on the wall by significantly expanding its custom AI chip development unit.",
           "This bold move aims to stay ahead of the curve against competitors and significantly cut the fat from operational costs, reducing their reliance on external suppliers."
         ],
@@ -10733,6 +10794,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With new direct flights and a robust campaign, Hokkaido's late-summer tourism is truly hitting its stride, drawing visitors keen to explore sites off the beaten track.",
+          "This unprecedented surge, particularly in experiential travel to lesser-known Ainu cultural sites, necessitates that local authorities pull out all the stops to quickly expand regional airport capacities."
+        ],
+        "sentenceTranslations": [
+          "새로운 직항편과 강력한 캠페인 덕분에 홋카이도의 늦여름 관광은 진정으로 본격적인 궤도에 올랐으며, 잘 알려지지 않은 장소를 탐험하려는 방문객들을 끌어들이고 있습니다.",
+          "특히 덜 알려진 아이누 문화 유적지로의 체험형 여행에 대한 이러한 전례 없는 급증은 지역 당국이 지역 공항 수용 능력을 신속하게 확장하기 위해 모든 노력을 다해야 함을 의미합니다."
+        ],
+        "translationHighlights": [
+          "본격적인 궤도에 올랐으며",
+          "잘 알려지지 않은",
+          "모든 노력을 다해야 함"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "본격적인 궤도에 오르다, 제 실력을 발휘하다",
+            "context": "Hokkaido's late-summer tourism is truly hitting its stride"
+          },
+          {
+            "word": "off the beaten track",
+            "meaning": "사람들의 발길이 닿지 않는, 잘 알려지지 않은 곳",
+            "context": "explore sites off the beaten track"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "총력을 기울이다, 모든 노력을 다하다",
+            "context": "authorities pull out all the stops to quickly expand"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Bhutan's revised visa fee structure has clearly struck gold, effectively drawing higher-value tourists who are staying longer and boosting the local economy.",
           "This specific success, coupled with the global airline industry going from strength to strength, suggests that the travel sector is truly riding the crest of a wave."
         ],
@@ -16076,6 +16169,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With their dominant summer split performance, the odds are definitively stacked in JD Gaming's favor as they prepare to kick off the League of Legends World Championship in Seoul.",
+          "If other teams hope to stand a chance against such a formidable opponent, they'll need to pull out all the stops and play at their absolute peak."
+        ],
+        "sentenceTranslations": [
+          "지배적인 서머 스플릿 성적을 바탕으로, 서울에서 리그 오브 레전드 월드 챔피언십 개막을 앞둔 JD 게이밍에게는 승산이 절대적으로 유리합니다.",
+          "다른 팀들이 이처럼 막강한 상대를 상대로 승산이 있으려면, 모든 수단을 동원하여 최고의 기량을 발휘해야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "승산이 절대적으로 유리합니다",
+          "막강한 상대",
+          "모든 수단을 동원하여",
+          "최고의 기량을 발휘하다"
+        ],
+        "newWords": [
+          {
+            "word": "the odds are stacked in one's favor",
+            "meaning": "(성공할) 승산이 매우 높다, 상황이 매우 유리하다",
+            "context": "the odds are definitively stacked in JD Gaming's favor"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 수단과 방법을 동원하다, 최대한의 노력을 기울이다",
+            "context": "they'll need to pull out all the stops"
+          }
+        ]
+      },
       {
         "sentences": [
           "The advancement of wildcard teams LOUD and PSG Talon in the *League of Legends* World Championship Play-In stage certainly demonstrates their ability to **punch above their weight**.",
