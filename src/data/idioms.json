@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While Apple's new 'Proactive Presence' features promise seamless convenience, their deep integration of AI undeniably opens a can of worms concerning user autonomy and subtle algorithmic influence.",
+          "This puts us on a slippery slope where digital well-being could easily take a backseat to systems designed to predict our next move."
+        ],
+        "sentenceTranslations": [
+          "Apple의 새로운 'Proactive Presence' 기능이 매끄러운 편리함을 약속하지만, AI의 깊은 통합은 사용자 자율성과 미묘한 알고리즘적 영향력에 대해 논란의 여지가 있는 복잡한 문제들을 야기합니다.",
+          "이는 우리가 알게 모르게 다음 행동을 예측하는 시스템에 의존하게 되면서, 디지털 웰빙이 쉽게 뒷전으로 밀려나는 위험한 상황에 놓이게 만듭니다."
+        ],
+        "translationHighlights": [
+          "논란의 여지가 있는 복잡한 문제들을 야기합니다",
+          "위험한 상황에 놓이게",
+          "뒷전으로 밀려나는"
+        ],
+        "newWords": [
+          {
+            "word": "open a can of worms",
+            "meaning": "복잡하고 해결하기 어려운 많은 문제들을 야기하다",
+            "context": "undeniably opens a can of worms concerning user autonomy"
+          },
+          {
+            "word": "on a slippery slope",
+            "meaning": "한번 시작하면 멈추기 어렵고 상황이 점점 나빠질 수 있는 위험한 상태에 있는",
+            "context": "This puts us on a slippery slope where digital well-being could easily take a backseat"
+          },
+          {
+            "word": "take a backseat",
+            "meaning": "덜 중요해지다, 부차적인 것이 되다",
+            "context": "digital well-being could easily take a backseat to systems designed to predict our next move"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The widespread reliance on AI financial advisors means the genie is truly out of the bottle, making digital prompts almost indispensable for many users now.",
           "However, the growing popularity of intentional micro-communities suggests a yearning to cut through the digital noise and foster genuine, in-person connections."
         ],
@@ -5408,6 +5440,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "As the ECB keeps a close watch on persistent inflation, European markets are trying to read the tea leaves, choosing to tread lightly into the final quarter.",
+          "Meanwhile, tech giants like Alphabet are eager to catch the wave of generative AI, projecting significant revenue boosts from new services."
+        ],
+        "sentenceTranslations": [
+          "유럽중앙은행이 지속적인 인플레이션을 면밀히 주시하는 가운데, 유럽 시장은 마지막 분기에 매우 신중하게 접근하며 미래를 예측하려 하고 있습니다.",
+          "한편, 알파벳과 같은 거대 기술 기업들은 새로운 생성형 AI 서비스로부터 상당한 수익 증가를 예상하며, 이 기회를 적극적으로 활용하고자 합니다."
+        ],
+        "translationHighlights": [
+          "미래를 예측하려 하고 있습니다",
+          "매우 신중하게 접근하며",
+          "이 기회를 적극적으로 활용하고자 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "read the tea leaves",
+            "meaning": "미래를 예측하다, 징후를 읽어내다",
+            "context": "trying to read the tea leaves"
+          },
+          {
+            "word": "tread lightly",
+            "meaning": "조심스럽게 행동하다, 신중하게 접근하다",
+            "context": "choosing to tread lightly"
+          },
+          {
+            "word": "catch the wave",
+            "meaning": "기회를 잡다, 유행에 편승하다",
+            "context": "eager to catch the wave"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Anthropic's major strategic partnership with Google Cloud for its next-gen LLM rollout is clearly an attempt to raise the stakes in the fiercely competitive AI sector, directly challenging OpenAI's established market dominance.",
           "Concurrently, venture capitalists, clearly having read the tea leaves regarding persistent economic headwinds and high interest rates, are now steering clear of speculative hyper-growth ventures, instead putting their money on more resilient sectors like climate tech and biotech."
         ],
@@ -10794,6 +10858,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The issue of over-tourism in cities like Venice and Amsterdam has finally come to a head, forcing local authorities to walk a tightrope between economic gain and environmental preservation.",
+          "Conversely, Thailand's decision to indefinitely extend visa-free entry for Indian and Chinese citizens is a strategic move to grease the wheels for increased cultural exchange and tourism growth."
+        ],
+        "sentenceTranslations": [
+          "베네치아와 암스테르담 같은 도시들의 과잉 관광 문제가 마침내 극에 달했고, 이는 현지 당국이 경제적 이득과 환경 보존 사이에서 아슬아슬한 줄타기를 하도록 만들고 있습니다.",
+          "이와는 대조적으로, 태국이 인도 및 중국 국민에 대한 비자 면제 입국을 무기한 연장하기로 한 결정은 문화 교류 증진과 관광 성장을 촉진하기 위한 전략적인 움직임입니다."
+        ],
+        "translationHighlights": [
+          "극에 달했고",
+          "아슬아슬한 줄타기를 하도록 만들고 있습니다",
+          "촉진하기 위한 전략적인 움직임"
+        ],
+        "newWords": [
+          {
+            "word": "come to a head",
+            "meaning": "결정적인 시점에 이르다, 극에 달하다",
+            "context": "has finally come to a head"
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다, 매우 어려운 상황에서 균형을 잡다",
+            "context": "to walk a tightrope between economic gain and environmental preservation"
+          },
+          {
+            "word": "grease the wheels",
+            "meaning": "일을 순조롭게 진행시키다, 촉진하다",
+            "context": "to grease the wheels for increased cultural exchange and tourism growth"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With new direct flights and a robust campaign, Hokkaido's late-summer tourism is truly hitting its stride, drawing visitors keen to explore sites off the beaten track.",
           "This unprecedented surge, particularly in experiential travel to lesser-known Ainu cultural sites, necessitates that local authorities pull out all the stops to quickly expand regional airport capacities."
         ],
@@ -16169,6 +16265,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Faker's consistent MVP-level play means T1 is truly firing on all cylinders, leaving no doubt they're the team to beat at Worlds 2026.",
+          "Conversely, Cloud9 finds themselves up against it, knowing they have to pull out all the stops to overcome their Achilles' heel and satisfy demanding North American fans."
+        ],
+        "sentenceTranslations": [
+          "페이커 선수의 꾸준한 MVP급 활약은 T1이 정말로 최고의 기량을 펼치고 있음을 의미하며, 2026년 롤드컵에서 가장 경계해야 할 팀이라는 점에 의심의 여지가 없습니다.",
+          "반면에 클라우드나인은 매우 힘든 상황에 처해 있으며, 아킬레스건인 후반 운영 문제를 극복하고 높은 기대를 가진 북미 팬들을 만족시키기 위해 모든 노력을 다해야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "최고의 기량을 펼치고 있음",
+          "가장 경계해야 할 팀",
+          "매우 힘든 상황에 처해 있으며",
+          "모든 노력을 다해야 할 것"
+        ],
+        "newWords": [
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고의 기량을 펼치다, 전력을 다하다",
+            "context": "T1 is truly firing on all cylinders"
+          },
+          {
+            "word": "up against it",
+            "meaning": "매우 힘든 상황에 처하다, 궁지에 몰리다",
+            "context": "Cloud9 finds themselves up against it"
+          },
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 노력을 다하다, 전력을 기울이다",
+            "context": "they have to pull out all the stops"
+          }
+        ]
+      },
       {
         "sentences": [
           "With their dominant summer split performance, the odds are definitively stacked in JD Gaming's favor as they prepare to kick off the League of Legends World Championship in Seoul.",
