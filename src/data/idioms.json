@@ -16267,6 +16267,39 @@
     "스포츠 및 취미 (Sports & Hobbies)": [
       {
         "sentences": [
+          "Losing a talent like Ja'Marr Chase for a significant period is undoubtedly a tough pill to swallow for the Cincinnati Bengals, especially after their strong start.",
+          "Nevertheless, Head Coach Zac Taylor expressed confidence that the team's depth would pick up the slack and allow them to weather the storm during his recovery."
+        ],
+        "sentenceTranslations": [
+          "핵심 선수인 자마르 체이스를 상당 기간 잃게 된 것은 신시내티 벵골스에게 특히 좋은 출발 이후 받아들이기 힘든 소식일 것입니다.",
+          "그럼에도 불구하고, 잭 테일러 감독은 팀의 두터운 선수층이 부재를 메우고 그가 회복하는 동안 팀이 어려움을 헤쳐나갈 것이라고 자신감을 표했습니다."
+        ],
+        "translationHighlights": [
+          "받아들이기 힘든 소식",
+          "부재를 메우고",
+          "어려움을 헤쳐나갈",
+          "두터운 선수층"
+        ],
+        "newWords": [
+          {
+            "word": "a tough pill to swallow",
+            "meaning": "받아들이기 힘든 현실/소식",
+            "context": "is undoubtedly a tough pill to swallow for the Cincinnati Bengals"
+          },
+          {
+            "word": "pick up the slack",
+            "meaning": "부족한 부분을 메우다, 다른 사람의 몫까지 하다",
+            "context": "the team's depth would pick up the slack"
+          },
+          {
+            "word": "weather the storm",
+            "meaning": "어려운 시기를 잘 이겨내다, 폭풍을 견뎌내다",
+            "context": "allow them to weather the storm during his recovery"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Faker's consistent MVP-level play means T1 is truly firing on all cylinders, leaving no doubt they're the team to beat at Worlds 2026.",
           "Conversely, Cloud9 finds themselves up against it, knowing they have to pull out all the stops to overcome their Achilles' heel and satisfy demanding North American fans."
         ],
