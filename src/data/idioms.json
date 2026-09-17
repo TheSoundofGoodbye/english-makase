@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Many remote workers are running on empty due to chronic online exhaustion, making the need for solutions like Aura more pressing than ever.",
+          "However, whether Aura can truly foster well-being without creating new dependencies or privacy concerns remains to be seen; the jury's still out on its long-term impact."
+        ],
+        "sentenceTranslations": [
+          "많은 재택근무자들이 만성적인 온라인 피로로 인해 탈진 상태에 이르러, Aura와 같은 해결책의 필요성이 그 어느 때보다 절실해졌습니다.",
+          "하지만 Aura가 새로운 의존성이나 개인 정보 문제를 야기하지 않으면서 진정으로 웰빙을 증진할 수 있을지는 아직 미지수입니다. 장기적인 영향에 대해서는 아직 결론이 나지 않았습니다."
+        ],
+        "translationHighlights": [
+          "탈진 상태에 이르러",
+          "그 어느 때보다 절실해졌습니다",
+          "아직 미지수입니다",
+          "아직 결론이 나지 않았습니다"
+        ],
+        "newWords": [
+          {
+            "word": "running on empty",
+            "meaning": "탈진 상태로 활동하다, 에너지가 고갈된 상태",
+            "context": "Many remote workers are running on empty due to chronic online exhaustion..."
+          },
+          {
+            "word": "the jury's still out",
+            "meaning": "아직 결론이 나지 않았다, 아직 미지수이다",
+            "context": "...the jury's still out on its long-term impact."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While Apple's new 'Proactive Presence' features promise seamless convenience, their deep integration of AI undeniably opens a can of worms concerning user autonomy and subtle algorithmic influence.",
           "This puts us on a slippery slope where digital well-being could easily take a backseat to systems designed to predict our next move."
         ],
@@ -5440,6 +5468,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "NVIDIA's Blackwell-Ultra chips are clearly selling at a premium, with the 2027 allocation snapped up almost instantly, underscoring the intense demand for AI infrastructure.",
+          "This unprecedented demand for AI hardware has effectively put TSMC in the crosshairs, as they grapple with the Herculean task of scaling production to keep pace with an insatiable market."
+        ],
+        "sentenceTranslations": [
+          "엔비디아의 블랙웰-울트라 칩은 엄청난 웃돈이 붙어 거래되고 있으며, 2027년 물량이 거의 즉시 동난 것은 AI 인프라에 대한 강력한 수요를 강조합니다.",
+          "이러한 전례 없는 AI 하드웨어 수요는 TSMC를 집중적인 압박에 놓이게 했으며, 그들은 끝없는 시장 수요를 따라잡기 위해 생산량을 늘리는 엄청난 과제와 씨름하고 있습니다."
+        ],
+        "translationHighlights": [
+          "엄청난 웃돈이 붙어 거래되고 있으며",
+          "거의 즉시 동난 것",
+          "집중적인 압박에 놓이게 했으며",
+          "엄청난 과제"
+        ],
+        "newWords": [
+          {
+            "word": "selling at a premium",
+            "meaning": "(수요가 많아) 엄청난 웃돈이 붙어 팔리다, 프리미엄이 붙어 거래되다",
+            "context": "chips are clearly selling at a premium"
+          },
+          {
+            "word": "in the crosshairs",
+            "meaning": "집중적인 표적/압박을 받다, 곤경에 처하다",
+            "context": "put TSMC in the crosshairs"
+          },
+          {
+            "word": "Herculean task",
+            "meaning": "엄청난 노력이 필요한 과제, 고된 임무",
+            "context": "grapple with the Herculean task"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As the ECB keeps a close watch on persistent inflation, European markets are trying to read the tea leaves, choosing to tread lightly into the final quarter.",
           "Meanwhile, tech giants like Alphabet are eager to catch the wave of generative AI, projecting significant revenue boosts from new services."
         ],
@@ -10856,6 +10917,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Uzbekistan, by streamlining its e-visa process, has truly hit its stride in the global tourism market, attracting significant new interest.",
+          "Capitalizing on this boom, major airlines like Qatar Airways are seizing the moment with 'Silk Road Explorer' packages, ensuring travelers can fully immerse themselves in authentic experiences."
+        ],
+        "sentenceTranslations": [
+          "우즈베키스탄은 전자 비자 절차를 간소화함으로써 세계 관광 시장에서 제 궤도에 오르며 상당한 새로운 관심을 끌고 있습니다.",
+          "이러한 호황을 활용하여 카타르 항공과 같은 주요 항공사들은 '실크로드 탐험가' 패키지로 절호의 기회를 포착하여, 여행객들이 진정한 경험에 완전히 몰입할 수 있도록 보장하고 있습니다."
+        ],
+        "translationHighlights": [
+          "제 궤도에 오르며",
+          "절호의 기회를 포착하여",
+          "완전히 몰입할 수 있도록"
+        ],
+        "newWords": [
+          {
+            "word": "hit its stride",
+            "meaning": "(사업, 활동 등이) 제 궤도에 오르다, 순조롭게 진행되기 시작하다",
+            "context": "has truly **hit its stride** in the global tourism market"
+          },
+          {
+            "word": "seizing the moment",
+            "meaning": "절호의 기회를 포착하다, 때를 놓치지 않다",
+            "context": "are **seizing the moment** with 'Silk Road Explorer' packages"
+          },
+          {
+            "word": "fully immerse themselves",
+            "meaning": "완전히 몰입하다, 푹 빠지다",
+            "context": "travelers can **fully immerse themselves** in authentic experiences"
+          }
+        ]
+      },
       {
         "sentences": [
           "The issue of over-tourism in cities like Venice and Amsterdam has finally come to a head, forcing local authorities to walk a tightrope between economic gain and environmental preservation.",
