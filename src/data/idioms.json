@@ -5468,6 +5468,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The new US export controls on semiconductors and the Eurozone's gloomy forecast collectively put a damper on global economic optimism, especially for Q4.",
+          "In stark contrast, Anthropic's 'Claude 4' unveiling allowed them to steal a march on competitors, sending their shares soaring."
+        ],
+        "sentenceTranslations": [
+          "미국의 새로운 반도체 수출 통제 조치와 유로존의 암울한 전망은 특히 4분기 글로벌 경제 낙관론에 찬물을 끼얹는 결과를 낳았습니다.",
+          "이와는 극명한 대조를 이루며, Anthropic의 'Claude 4' 공개는 경쟁사들보다 한 발 앞서 나가게 하며 주가를 급등시켰습니다."
+        ],
+        "translationHighlights": [
+          "찬물을 끼얹는",
+          "암울한 전망",
+          "극명한 대조를 이루며",
+          "한 발 앞서 나가게"
+        ],
+        "newWords": [
+          {
+            "word": "put a damper on",
+            "meaning": "~에 찬물을 끼얹다, 김을 빼다",
+            "context": "collectively put a damper on global economic optimism"
+          },
+          {
+            "word": "steal a march on",
+            "meaning": "~보다 한 발 앞서다, ~에 선수를 치다",
+            "context": "allowed them to steal a march on competitors"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "NVIDIA's Blackwell-Ultra chips are clearly selling at a premium, with the 2027 allocation snapped up almost instantly, underscoring the intense demand for AI infrastructure.",
           "This unprecedented demand for AI hardware has effectively put TSMC in the crosshairs, as they grapple with the Herculean task of scaling production to keep pace with an insatiable market."
         ],
