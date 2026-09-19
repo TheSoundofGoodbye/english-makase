@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The BioSense Pulse-Pro's promise of \"proactive wellness\" sounds appealing, but experts are concerned it could be a slippery slope, pushing users towards constant self-monitoring that sparks anxiety.",
+          "While aiming for optimal health, an over-reliance on these wearables might cause us to miss the forest for the trees, ultimately fostering algorithmic dependence at the expense of genuine human connection."
+        ],
+        "sentenceTranslations": [
+          "바이오센스 펄스-프로의 \"예방적 건강 관리\" 약속은 매력적으로 들리지만, 전문가들은 이것이 미끄러운 비탈길이 되어 사용자들을 불안감을 유발하는 끊임없는 자가 모니터링으로 내몰 수 있다고 우려합니다.",
+          "최적의 건강을 목표로 하지만, 이런 웨어러블 기기에 과도하게 의존하는 것은 결국 숲을 보지 못하고 나무만 보게 만들어, 진정한 인간적인 교류를 희생시키면서 알고리즘 의존성을 키울 수 있습니다."
+        ],
+        "translationHighlights": [
+          "미끄러운 비탈길",
+          "불안감을 유발하는 끊임없는 자가 모니터링",
+          "숲을 보지 못하고 나무만 보게 만들어",
+          "진정한 인간적인 교류를 희생시키면서"
+        ],
+        "newWords": [
+          {
+            "word": "a slippery slope",
+            "meaning": "미끄러운 비탈길; 한번 시작하면 나쁜 결과를 막기 어려운 상황",
+            "context": "it could be a slippery slope"
+          },
+          {
+            "word": "miss the forest for the trees",
+            "meaning": "나무만 보고 숲은 못 보다; 세부적인 것에 얽매여 전체적인 것을 파악하지 못하다",
+            "context": "might cause us to miss the forest for the trees"
+          },
+          {
+            "word": "at the expense of",
+            "meaning": "~을 희생하여; ~의 대가로",
+            "context": "at the expense of genuine human connection"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Many remote workers are running on empty due to chronic online exhaustion, making the need for solutions like Aura more pressing than ever.",
           "However, whether Aura can truly foster well-being without creating new dependencies or privacy concerns remains to be seen; the jury's still out on its long-term impact."
         ],
@@ -5466,6 +5499,33 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Jensen Huang's cautious remarks are a strong indicator for hyperscale cloud providers to **read the tea leaves** regarding future AI infrastructure investments.",
+          "This shift means major tech players are now striving to **get more mileage out of** their R&D budgets by prioritizing energy-efficient, specialized inferencing capabilities over raw compute scale."
+        ],
+        "sentenceTranslations": [
+          "젠슨 황의 신중한 발언은 하이퍼스케일 클라우드 제공업체들이 미래 AI 인프라 투자에 대한 **징후를 미리 읽고** 전략을 세워야 한다는 강력한 신호입니다.",
+          "이러한 변화는 주요 기술 기업들이 이제 단순 연산 능력보다는 에너지 효율적이고 특화된 추론 기능에 우선순위를 둠으로써 R&D 예산에서 **더 큰 효과를 얻으려** 노력하고 있음을 의미합니다."
+        ],
+        "translationHighlights": [
+          "징후를 미리 읽고",
+          "더 큰 효과를 얻으려",
+          "우선순위를 둠으로써"
+        ],
+        "newWords": [
+          {
+            "word": "read the tea leaves",
+            "meaning": "미래의 징후를 읽고 예측하다",
+            "context": "to read the tea leaves regarding future AI infrastructure investments"
+          },
+          {
+            "word": "get more mileage out of",
+            "meaning": "자원(예: 돈, 시간)을 더 효율적으로 활용하다, 더 큰 효과를 얻다",
+            "context": "to get more mileage out of their R&D budgets"
+          }
+        ]
+      },
       {
         "sentences": [
           "The new US export controls on semiconductors and the Eurozone's gloomy forecast collectively put a damper on global economic optimism, especially for Q4.",
