@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "As economic uncertainties continue to make many people feel the pinch, Gen Z and millennials are turning to AI tools, actively seeking to stretch every dollar and get the most bang for their buck.",
+          "This proactive approach extends to subscription audits, where consumers are cutting the fat from their digital wallets, refusing to throw good money after bad on underutilized services."
+        ],
+        "sentenceTranslations": [
+          "경제 불확실성으로 많은 사람들이 어려움을 겪으면서, Z세대와 밀레니얼 세대는 AI 도구를 활용하여 한 푼이라도 아끼고 투자 가치를 최대한 끌어내려 하고 있습니다.",
+          "이런 적극적인 접근 방식은 구독 서비스 감사로도 이어져, 소비자들은 디지털 지갑에서 불필요한 지출을 줄이고, 활용되지 않는 서비스에 헛돈을 낭비하는 것을 거부하고 있습니다."
+        ],
+        "translationHighlights": [
+          "어려움을 겪으면서",
+          "투자 가치를 최대한 끌어내려",
+          "불필요한 지출을 줄이고",
+          "헛돈을 낭비하는 것을 거부하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "feel the pinch",
+            "meaning": "경제적인 어려움을 겪다, 생활고를 느끼다",
+            "context": "make many people feel the pinch"
+          },
+          {
+            "word": "get the most bang for your buck",
+            "meaning": "투자한 돈의 가치를 최대한으로 얻다, 최고의 가성비를 내다",
+            "context": "get the most bang for their buck"
+          },
+          {
+            "word": "throw good money after bad",
+            "meaning": "손해를 보는 일에 계속 돈을 낭비하다, 헛돈을 쓰다",
+            "context": "throw good money after bad on underutilized services"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The BioSense Pulse-Pro's promise of \"proactive wellness\" sounds appealing, but experts are concerned it could be a slippery slope, pushing users towards constant self-monitoring that sparks anxiety.",
           "While aiming for optimal health, an over-reliance on these wearables might cause us to miss the forest for the trees, ultimately fostering algorithmic dependence at the expense of genuine human connection."
         ],
@@ -5499,6 +5532,44 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "With concerns mounting over AI's energy consumption and integration costs, Wall Street is already feeling the pinch, sending a clear signal for tech giants to tighten their belts on new deployments.",
+          "Analysts are now reading the tea leaves, advising enterprises to separate the wheat from the chaff when it comes to AI investments, prioritizing cost-efficiency over raw power."
+        ],
+        "sentenceTranslations": [
+          "AI의 에너지 소비량과 통합 비용에 대한 우려가 커지면서 월스트리트는 이미 재정적인 압박을 느끼고 있으며, 이는 기술 대기업들이 새로운 AI 배포에 대해 허리띠를 졸라매야 한다는 분명한 신호를 보내고 있습니다.",
+          "애널리스트들은 이제 상황을 파악하며, 기업들에게 AI 투자 시 단순히 처리 능력보다는 비용 효율성을 우선시하여 옥석을 가려야 한다고 조언하고 있습니다."
+        ],
+        "translationHighlights": [
+          "재정적인 압박을 느끼고",
+          "허리띠를 졸라매야 한다는",
+          "상황을 파악하며",
+          "옥석을 가려야 한다고"
+        ],
+        "newWords": [
+          {
+            "word": "feeling the pinch",
+            "meaning": "재정적 어려움을 느끼다, 압박을 받다",
+            "context": "Wall Street is already feeling the pinch"
+          },
+          {
+            "word": "tighten their belts",
+            "meaning": "허리띠를 졸라매다, 지출을 줄이다",
+            "context": "tech giants to tighten their belts"
+          },
+          {
+            "word": "reading the tea leaves",
+            "meaning": "조짐을 읽다, 상황을 파악하다",
+            "context": "Analysts are now reading the tea leaves"
+          },
+          {
+            "word": "separate the wheat from the chaff",
+            "meaning": "옥석을 가리다, 중요한 것과 중요하지 않은 것을 구분하다",
+            "context": "separate the wheat from the chaff when it comes to AI investments"
+          }
+        ]
+      },
       {
         "sentences": [
           "Jensen Huang's cautious remarks are a strong indicator for hyperscale cloud providers to **read the tea leaves** regarding future AI infrastructure investments.",
