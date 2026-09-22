@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With generative AI integration becoming the norm, companies are keen to get a leg up in the competitive landscape.",
+          "It's vital for individuals to keep their ear to the ground regarding evolving skill sets, lest they find themselves left behind in the changing job market."
+        ],
+        "sentenceTranslations": [
+          "생성형 AI 통합이 일반화되면서, 기업들은 경쟁 구도에서 우위를 점하기 위해 적극적입니다.",
+          "따라서 개인은 변화하는 직업 시장에서 뒤처지지 않도록, 진화하는 기술 세트에 대해 계속 정보를 파악하고 경청하는 것이 중요합니다."
+        ],
+        "translationHighlights": [
+          "우위를 점하기 위해 적극적입니다",
+          "계속 정보를 파악하고 경청하는 것이",
+          "뒤처지지 않도록"
+        ],
+        "newWords": [
+          {
+            "word": "get a leg up",
+            "meaning": "유리한 위치를 차지하다, 우위를 점하다",
+            "context": "companies are keen to get a leg up"
+          },
+          {
+            "word": "keep one's ear to the ground",
+            "meaning": "정보를 얻기 위해 상황을 주시하다, 여론에 귀 기울이다",
+            "context": "individuals to keep their ear to the ground"
+          },
+          {
+            "word": "lest they find themselves left behind",
+            "meaning": "~하지 않도록 (뒤처지는 일이 없도록)",
+            "context": "lest they find themselves left behind"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As economic uncertainties continue to make many people feel the pinch, Gen Z and millennials are turning to AI tools, actively seeking to stretch every dollar and get the most bang for their buck.",
           "This proactive approach extends to subscription audits, where consumers are cutting the fat from their digital wallets, refusing to throw good money after bad on underutilized services."
         ],
@@ -5532,6 +5564,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Amid the unprecedented surge in AI infrastructure spending, chipmakers are certainly striking while the iron is hot, seeing their valuations climb.",
+          "Yet, geopolitical tensions mean global players are walking a tightrope, carefully diversifying supply chains rather than putting all their eggs in one basket for advanced semiconductors."
+        ],
+        "sentenceTranslations": [
+          "AI 인프라 지출의 전례 없는 급증 속에서, 칩 제조업체들은 확실히 좋은 기회를 놓치지 않고 있으며, 기업 가치가 상승하는 것을 목격하고 있습니다.",
+          "하지만 지정학적 긴장은 글로벌 기업들이 외줄 타기를 하는 것과 같은 상황에 놓이게 하여, 첨단 반도체에 대한 모든 역량을 한 바구니에 담지 않고 공급망을 신중하게 다변화하고 있습니다."
+        ],
+        "translationHighlights": [
+          "좋은 기회를 놓치지 않고",
+          "외줄 타기를 하는 것과 같은 상황",
+          "모든 역량을 한 바구니에 담지 않고"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "좋은 기회를 놓치지 않고 이용하다, 때를 놓치지 않고 행동하다",
+            "context": "chipmakers are certainly striking while the iron is hot"
+          },
+          {
+            "word": "walking a tightrope",
+            "meaning": "아슬아슬한 상황을 헤쳐나가다, 위태로운 줄타기를 하다",
+            "context": "global players are walking a tightrope"
+          },
+          {
+            "word": "put all their eggs in one basket",
+            "meaning": "모든 것을 한 가지에 걸다, 모든 역량을 한곳에 집중하다 (위험을 분산하지 않다)",
+            "context": "rather than putting all their eggs in one basket"
+          }
+        ]
+      },
       {
         "sentences": [
           "With concerns mounting over AI's energy consumption and integration costs, Wall Street is already feeling the pinch, sending a clear signal for tech giants to tighten their belts on new deployments.",
@@ -11078,6 +11142,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "By aggressively expanding into emerging Eastern European markets, Qatar Airways is striking while the iron is hot, perfectly aligned with the burgeoning digital nomad trend.",
+          "This strategic move aims to help travelers truly get under the skin of a place, ensuring the new routes hit the ground running with strong demand for authentic, extended stays."
+        ],
+        "sentenceTranslations": [
+          "카타르항공은 빠르게 성장하는 동유럽 시장에 적극적으로 진출하며, 급부상하는 디지털 노마드 트렌드에 발맞춰 기회를 놓치지 않고 있습니다.",
+          "이러한 전략적 움직임은 여행객들이 한 장소의 진정한 면모를 깊이 경험하도록 돕는 것을 목표로 하며, 새로운 노선들이 강력한 수요와 함께 순조롭게 출발할 것이라고 확신합니다."
+        ],
+        "translationHighlights": [
+          "기회를 놓치지 않고 있습니다",
+          "진정한 면모를 깊이 경험하도록",
+          "순조롭게 출발할 것이라고 확신합니다"
+        ],
+        "newWords": [
+          {
+            "word": "striking while the iron is hot",
+            "meaning": "기회를 놓치지 않고 행동하다",
+            "context": "Qatar Airways is striking while the iron is hot"
+          },
+          {
+            "word": "get under the skin of a place",
+            "meaning": "어떤 장소의 진면목을 깊이 이해하거나 경험하다",
+            "context": "truly get under the skin of a place"
+          },
+          {
+            "word": "hit the ground running",
+            "meaning": "즉시 성공적으로 시작하다, 바로 순조롭게 진행되다",
+            "context": "new routes hit the ground running"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Uzbekistan, by streamlining its e-visa process, has truly hit its stride in the global tourism market, attracting significant new interest.",
           "Capitalizing on this boom, major airlines like Qatar Airways are seizing the moment with 'Silk Road Explorer' packages, ensuring travelers can fully immerse themselves in authentic experiences."
         ],
@@ -16517,6 +16613,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The International Team's Presidents Cup victory after two decades definitely turned the tide for global golf, showcasing their determination and talent.",
+          "Meanwhile, with the LoL World Championship kicking off, the smart money is on perennial powerhouses like T1 to dominate, underscoring how esports are increasingly gaining traction worldwide."
+        ],
+        "sentenceTranslations": [
+          "20년 만에 인터내셔널 팀이 프레지던츠컵에서 거둔 승리는 세계 골프계의 흐름을 완전히 바꾸어 놓았고, 그들의 투지와 재능을 여실히 보여주었습니다.",
+          "한편, LoL 월드 챔피언십이 막을 올리면서, T1과 같은 강팀들의 우세를 점치는 예상이 지배적인데, 이는 e스포츠가 전 세계적으로 점점 더 큰 인기를 얻고 있음을 강조합니다."
+        ],
+        "translationHighlights": [
+          "흐름을 완전히 바꾸어 놓았고",
+          "투지와 재능을 여실히 보여주었습니다",
+          "예상이 지배적인데",
+          "점점 더 큰 인기를 얻고 있음"
+        ],
+        "newWords": [
+          {
+            "word": "turn the tide",
+            "meaning": "상황을 역전시키다, 흐름을 바꾸다",
+            "context": "definitely turned the tide for global golf"
+          },
+          {
+            "word": "the smart money is on",
+            "meaning": "~가 승리할 것이라는 합리적인 예상이다, ~의 우세를 점치다",
+            "context": "the smart money is on perennial powerhouses like T1 to dominate"
+          },
+          {
+            "word": "gaining traction",
+            "meaning": "인기를 얻다, 지지를 얻다, 추진력을 얻다",
+            "context": "esports are increasingly gaining traction worldwide"
+          }
+        ]
+      },
       {
         "sentences": [
           "Losing a talent like Ja'Marr Chase for a significant period is undoubtedly a tough pill to swallow for the Cincinnati Bengals, especially after their strong start.",
