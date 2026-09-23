@@ -5566,6 +5566,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Fed Chair Powell's cautious remarks effectively threw a wet blanket on market hopes for aggressive rate cuts, prompting a swift reassessment.",
+          "Consequently, many high-growth AI startups, heavily reliant on venture capital and burning through cash, are now feeling the pinch as investor confidence takes a hit."
+        ],
+        "sentenceTranslations": [
+          "파월 연준 의장의 신중한 발언은 공격적인 금리 인하에 대한 시장의 기대에 찬물을 끼얹었고, 즉각적인 재평가를 불러왔습니다.",
+          "결과적으로, 벤처 캐피탈에 크게 의존하며 자금을 빠르게 소진하고 있던 많은 고성장 AI 스타트업들은 투자 심리가 악화되면서 재정적인 어려움을 겪고 있습니다."
+        ],
+        "translationHighlights": [
+          "찬물을 끼얹었고",
+          "즉각적인 재평가를",
+          "자금을 빠르게 소진하고 있던",
+          "재정적인 어려움을 겪고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wet blanket on",
+            "meaning": "~에 찬물을 끼얹다, 흥을 깨뜨리다",
+            "context": "Powell's cautious remarks effectively threw a wet blanket on market hopes..."
+          },
+          {
+            "word": "burning through cash",
+            "meaning": "(돈을) 빠르게 소모하다, 물 쓰듯 하다",
+            "context": "...heavily reliant on venture capital and burning through cash..."
+          },
+          {
+            "word": "feel the pinch",
+            "meaning": "재정적인 어려움을 겪다",
+            "context": "...are now feeling the pinch as investor confidence takes a hit."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Amid the unprecedented surge in AI infrastructure spending, chipmakers are certainly striking while the iron is hot, seeing their valuations climb.",
           "Yet, geopolitical tensions mean global players are walking a tightrope, carefully diversifying supply chains rather than putting all their eggs in one basket for advanced semiconductors."
         ],
@@ -11140,6 +11173,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Facing record visitor numbers that threaten to love its unique charm to death, Venice is biting the bullet with its new dynamic entry fee, hoping to bring the city back to an even keel.",
+          "Meanwhile, South Korea, sensing a golden opportunity, is looking to hit the ground running with its new 'K-Culture Immersion' visa, aiming to make waves in the experiential tourism sector."
+        ],
+        "sentenceTranslations": [
+          "기록적인 방문객 수로 인해 고유한 매력이 과도한 사랑으로 손상될 위기에 처하자, 베니스는 새로운 변동 입장료를 도입하며 어려운 결정을 내렸습니다. 이는 도시를 다시 안정적인 상태로 되돌리기를 희망하는 조치입니다.",
+          "한편, 한국은 절호의 기회를 감지하고 'K-컬처 몰입' 비자로 신속하게 사업을 시작하려 하며, 체험형 관광 분야에서 큰 반향을 일으키는 것을 목표로 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "과도한 사랑으로 손상될 위기",
+          "어려운 결정을 내렸습니다",
+          "신속하게 사업을 시작하려 하며",
+          "큰 반향을 일으키는 것을 목표로"
+        ],
+        "newWords": [
+          {
+            "word": "love to death",
+            "meaning": "너무 사랑하거나 사용하여 망치다/손상시키다",
+            "context": "threaten to love its unique charm to death"
+          },
+          {
+            "word": "biting the bullet",
+            "meaning": "이를 악물고 어려운 상황을 감내하다, 고통을 참다",
+            "context": "Venice is biting the bullet with its new dynamic entry fee"
+          },
+          {
+            "word": "hit the ground running",
+            "meaning": "새로운 일을 즉시 성공적으로 시작하다, 바로 착수하다",
+            "context": "looking to hit the ground running with its new 'K-Culture Immersion' visa"
+          }
+        ]
+      },
       {
         "sentences": [
           "By aggressively expanding into emerging Eastern European markets, Qatar Airways is striking while the iron is hot, perfectly aligned with the burgeoning digital nomad trend.",
