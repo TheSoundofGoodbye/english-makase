@@ -11175,6 +11175,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Vietnam's Green E-Visa program has truly given its tourism sector a shot in the arm, propelling visitor numbers to new heights.",
+          "This success aligns perfectly with the current trend where travelers increasingly vote with their feet, choosing destinations and airlines that genuinely walk the talk on environmental responsibility and cultural immersion."
+        ],
+        "sentenceTranslations": [
+          "베트남의 그린 E-비자 프로그램은 관광 부문에 진정한 활력소 역할을 하며 방문객 수를 새로운 수준으로 끌어올렸습니다.",
+          "이러한 성공은 여행객들이 환경적 책임과 문화 체험에 대해 말뿐이 아닌 진정으로 행동하는 여행지와 항공사를 선택하며, 점점 더 직접 행동으로 의사를 표현하는 현재 추세와 완벽하게 일치합니다."
+        ],
+        "translationHighlights": [
+          "활력소 역할을 하며",
+          "새로운 수준으로 끌어올렸습니다",
+          "직접 행동으로 의사를 표현하는",
+          "말뿐이 아닌 진정으로 행동하는"
+        ],
+        "newWords": [
+          {
+            "word": "a shot in the arm",
+            "meaning": "활력소, 새로운 활기",
+            "context": "given its tourism sector a shot in the arm"
+          },
+          {
+            "word": "vote with their feet",
+            "meaning": "직접 행동으로 의사를 표현하다, (만족하지 못하면) 떠나거나 다른 것을 선택하다",
+            "context": "travelers increasingly vote with their feet"
+          },
+          {
+            "word": "walk the talk",
+            "meaning": "말한 대로 행동하다, 실천하다",
+            "context": "genuinely walk the talk on environmental responsibility"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Facing record visitor numbers that threaten to love its unique charm to death, Venice is biting the bullet with its new dynamic entry fee, hoping to bring the city back to an even keel.",
           "Meanwhile, South Korea, sensing a golden opportunity, is looking to hit the ground running with its new 'K-Culture Immersion' visa, aiming to make waves in the experiential tourism sector."
         ],
