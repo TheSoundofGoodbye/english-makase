@@ -5566,6 +5566,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The European Commission's provisional agreement with Beijing effectively pulled back from the brink of escalating trade tensions over solar panels, providing a much-needed positive note for global markets.",
+          "However, NVIDIA's 'Project Chimera' production delays proved to be a significant fly in the ointment for the tech sector, leaving several generative AI startups scrambling for alternatives."
+        ],
+        "sentenceTranslations": [
+          "유럽연합 집행위원회가 베이징과 잠정 합의를 이루면서 태양광 패널 무역 분쟁의 격화 직전에서 벗어났고, 이는 글로벌 시장에 필요한 긍정적인 신호를 주었습니다.",
+          "하지만 엔비디아의 '프로젝트 키메라' 생산 지연은 기술 부문에 상당한 골칫거리가 되었고, 여러 생성형 AI 스타트업들은 대체 방안을 모색하느라 분주해졌습니다."
+        ],
+        "translationHighlights": [
+          "격화 직전에서 벗어났고",
+          "필요한 긍정적인 신호를",
+          "상당한 골칫거리가 되었고",
+          "대체 방안을 모색하느라 분주해졌습니다"
+        ],
+        "newWords": [
+          {
+            "word": "pull back from the brink",
+            "meaning": "파국/위기 직전에서 벗어나다, 위기를 모면하다",
+            "context": "pulled back from the brink of escalating trade tensions"
+          },
+          {
+            "word": "a fly in the ointment",
+            "meaning": "옥에 티, 완벽한 상황이나 계획을 망치는 작은 문제, 골칫거리",
+            "context": "a significant fly in the ointment for the tech sector"
+          },
+          {
+            "word": "scrambling for alternatives",
+            "meaning": "대체 방안을 급히 찾다/모색하다",
+            "context": "scrambling for alternatives"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Fed Chair Powell's cautious remarks effectively threw a wet blanket on market hopes for aggressive rate cuts, prompting a swift reassessment.",
           "Consequently, many high-growth AI startups, heavily reliant on venture capital and burning through cash, are now feeling the pinch as investor confidence takes a hit."
         ],
