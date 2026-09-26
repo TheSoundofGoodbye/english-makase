@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Deloitte's rollout of AI-powered productivity tracking for remote staff has certainly **opened a can of worms** concerning employee privacy and trust.",
+          "Many fear these tools will put staff constantly **under the microscope**, fostering \"digital presenteeism\" rather than genuine efficiency."
+        ],
+        "sentenceTranslations": [
+          "딜로이트가 원격 근무자를 위한 AI 기반 생산성 추적 시스템을 도입한 것은 직원들의 사생활과 신뢰 문제에 대해 확실히 **판도라의 상자를 연 격입니다**.",
+          "많은 이들은 이러한 도구들이 직원들을 끊임없이 **현미경 아래 두어**, 진정한 효율성보다는 '디지털 현장 근무 강요'를 조장할 것이라고 우려합니다."
+        ],
+        "translationHighlights": [
+          "판도라의 상자를 연 격입니다",
+          "직원들의 사생활과 신뢰 문제",
+          "현미경 아래 두어",
+          "디지털 현장 근무 강요"
+        ],
+        "newWords": [
+          {
+            "word": "open a can of worms",
+            "meaning": "판도라의 상자를 열다, 복잡하고 불쾌한 문제들을 일으키다",
+            "context": "has certainly opened a can of worms concerning employee privacy and trust"
+          },
+          {
+            "word": "under the microscope",
+            "meaning": "현미경 아래에 놓이다, 면밀히 감시/조사되다",
+            "context": "will put staff constantly under the microscope"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With generative AI integration becoming the norm, companies are keen to get a leg up in the competitive landscape.",
           "It's vital for individuals to keep their ear to the ground regarding evolving skill sets, lest they find themselves left behind in the changing job market."
         ],
@@ -5564,6 +5592,33 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Microsoft's rumored $15 billion bid for Innate Logic certainly ups the ante in the enterprise AI race, demonstrating their aggressive strategy.",
+          "This significant market consolidation, however, will undoubtedly raise red flags with the EU Commission, fueling renewed antitrust discussions."
+        ],
+        "sentenceTranslations": [
+          "마이크로소프트가 Innate Logic에 150억 달러를 베팅했다는 소문은 기업 AI 경쟁에서 확실히 판돈을 올리는 격이며, 그들의 공격적인 전략을 보여줍니다.",
+          "하지만 이러한 상당한 시장 통합은 의심할 여지 없이 EU 집행위원회의 경고음을 울리게 할 것이며, 독점 금지 논의를 재점화시킬 것입니다."
+        ],
+        "translationHighlights": [
+          "판돈을 올리는 격",
+          "경고음을 울리게 할 것",
+          "시장 통합"
+        ],
+        "newWords": [
+          {
+            "word": "up the ante",
+            "meaning": "(상황의) 판돈을 올리다, 요구를 높이다, 위험을 증가시키다",
+            "context": "certainly **ups the ante** in the enterprise AI race"
+          },
+          {
+            "word": "raise red flags",
+            "meaning": "(문제점이나 위험을) 경고하다, 위험 신호를 보내다",
+            "context": "will undoubtedly **raise red flags** with the EU Commission"
+          }
+        ]
+      },
       {
         "sentences": [
           "The European Commission's provisional agreement with Beijing effectively pulled back from the brink of escalating trade tensions over solar panels, providing a much-needed positive note for global markets.",
@@ -11206,6 +11261,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With its national parks seeing soaring visitor numbers and high October bookings, Rwanda's ecotourism sector is truly hitting its stride.",
+          "Airlines like Kenya Airways are striking while the iron is hot, capitalizing on this booming interest to open new routes and cash in on the demand for authentic travel."
+        ],
+        "sentenceTranslations": [
+          "국립공원의 방문객 수가 급증하고 10월 예약률이 높은 것을 보면, 르완다의 생태 관광 부문은 정말로 본격적인 궤도에 올랐습니다.",
+          "케냐항공과 같은 항공사들은 이러한 폭발적인 관심에 때를 놓치지 않고 기회를 잡아서, 새로운 노선을 개설하고 진정한 여행에 대한 수요를 수익으로 연결하고 있습니다."
+        ],
+        "translationHighlights": [
+          "본격적인 궤도에 올랐습니다",
+          "때를 놓치지 않고 기회를 잡아서",
+          "폭발적인 관심",
+          "수익으로 연결하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "본격적인 궤도에 오르다, 제 속도를 내다",
+            "context": "Rwanda's ecotourism sector is truly hitting its stride."
+          },
+          {
+            "word": "striking while the iron is hot",
+            "meaning": "때를 놓치지 않고 기회를 잡다",
+            "context": "Airlines like Kenya Airways are striking while the iron is hot"
+          },
+          {
+            "word": "cash in on",
+            "meaning": "~을 이용해서 돈을 벌다, ~을 수익으로 연결하다",
+            "context": "and cash in on the demand for authentic travel."
+          }
+        ]
+      },
       {
         "sentences": [
           "Vietnam's Green E-Visa program has truly given its tourism sector a shot in the arm, propelling visitor numbers to new heights.",
