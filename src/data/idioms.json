@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The widespread adoption of AI-powered mental wellness apps, as highlighted by the WHO, truly shows the writing on the wall for how we approach personal well-being.",
+          "By offering accessible support, these platforms are effectively leveling the playing field, giving many a crucial shot in the arm for managing daily stress and fostering profound personal growth."
+        ],
+        "sentenceTranslations": [
+          "세계보건기구(WHO)가 강조한 AI 기반 정신 건강 앱의 광범위한 채택은 우리가 개인의 웰빙에 접근하는 방식에 대한 분명한 변화의 조짐을 보여줍니다.",
+          "접근성 높은 지원을 제공함으로써, 이 플랫폼들은 효과적으로 기회를 균등하게 만들며, 많은 이들에게 일상 스트레스 관리와 심오한 개인적 성장을 위한 중요한 활력소가 되고 있습니다."
+        ],
+        "translationHighlights": [
+          "분명한 변화의 조짐을 보여줍니다",
+          "기회를 균등하게 만들며",
+          "중요한 활력소가 되고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "the writing on the wall",
+            "meaning": "미래에 일어날 불가피한 변화나 상황을 미리 보여주는 명백한 징조",
+            "context": "truly shows the writing on the wall"
+          },
+          {
+            "word": "level the playing field",
+            "meaning": "모든 사람에게 동등한 기회를 제공하다",
+            "context": "effectively leveling the playing field"
+          },
+          {
+            "word": "a shot in the arm",
+            "meaning": "활력소, 기운을 북돋아 주는 것, 고무적인 일",
+            "context": "giving many a crucial shot in the arm"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Deloitte's rollout of AI-powered productivity tracking for remote staff has certainly **opened a can of worms** concerning employee privacy and trust.",
           "Many fear these tools will put staff constantly **under the microscope**, fostering \"digital presenteeism\" rather than genuine efficiency."
         ],
@@ -11261,6 +11293,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Qatar Airways is definitely striking while the iron is hot with its new direct flights, aiming to open the floodgates for tourists eager to explore Uzbekistan's rich Silk Road heritage.",
+          "Thanks to the progressive \"Culture & Business Transit Visa,\" the country's unique cultural offerings are now poised to turn over a new leaf, attracting travelers seeking genuinely immersive experiences."
+        ],
+        "sentenceTranslations": [
+          "카타르항공은 우즈베키스탄 직항 노선을 새로 개설하며 확실히 기회를 놓치지 않고 있으며, 우즈베키스탄의 풍부한 실크로드 유산을 탐험하고 싶어 하는 관광객들을 위한 물꼬를 틀고자 합니다.",
+          "진보적인 '문화 및 비즈니스 경유 비자' 덕분에, 이 나라의 독특한 문화 상품들은 이제 새로운 전환점을 맞이하며 진정으로 몰입적인 경험을 찾는 여행객들을 끌어모을 준비가 되어 있습니다."
+        ],
+        "translationHighlights": [
+          "기회를 놓치지 않고 있으며",
+          "물꼬를 틀고자 합니다",
+          "새로운 전환점을 맞이하며",
+          "진정으로 몰입적인 경험을"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회를 놓치지 않고 잡다, 때를 놓치지 않다",
+            "context": "striking while the iron is hot with its new direct flights"
+          },
+          {
+            "word": "open the floodgates",
+            "meaning": "물꼬를 트다, (감정・비난 등이) 봇물을 이루게 하다",
+            "context": "aiming to open the floodgates for tourists"
+          },
+          {
+            "word": "turn over a new leaf",
+            "meaning": "새로운 전환점을 맞이하다, 완전히 새롭게 시작하다",
+            "context": "are now poised to turn over a new leaf"
+          }
+        ]
+      },
       {
         "sentences": [
           "With its national parks seeing soaring visitor numbers and high October bookings, Rwanda's ecotourism sector is truly hitting its stride.",
