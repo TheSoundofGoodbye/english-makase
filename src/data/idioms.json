@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The relentless pace of AI-driven productivity has many knowledge workers feeling run ragged, constantly striving to meet new benchmarks.",
+          "This expectation of constant digital readiness now increasingly bleeds into their personal lives, making it hard to ever truly switch off."
+        ],
+        "sentenceTranslations": [
+          "AI가 주도하는 생산성의 쉴 틈 없는 속도 때문에 많은 지식 근로자들이 녹초가 되어, 끊임없이 새로운 목표를 달성하려고 애쓰고 있습니다.",
+          "이러한 끊임없는 디지털 준비 태세에 대한 기대는 이제 점점 개인의 삶까지 침범하여, 진정으로 업무에서 벗어나 휴식하기 어렵게 만듭니다."
+        ],
+        "translationHighlights": [
+          "녹초가 되어",
+          "쉴 틈 없는 속도",
+          "개인의 삶까지 침범하여",
+          "진정으로 업무에서 벗어나 휴식하기"
+        ],
+        "newWords": [
+          {
+            "word": "run ragged",
+            "meaning": "녹초가 되다, 기진맥진하다",
+            "context": "feeling run ragged, constantly striving..."
+          },
+          {
+            "word": "relentless pace",
+            "meaning": "쉴 틈 없는 속도, 맹렬한 속도",
+            "context": "The relentless pace of AI-driven productivity..."
+          },
+          {
+            "word": "bleed into",
+            "meaning": "~로 번지다, ~을 침범하다, ~에 영향을 미치다",
+            "context": "increasingly bleeds into their personal lives..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The widespread adoption of AI-powered mental wellness apps, as highlighted by the WHO, truly shows the writing on the wall for how we approach personal well-being.",
           "By offering accessible support, these platforms are effectively leveling the playing field, giving many a crucial shot in the arm for managing daily stress and fostering profound personal growth."
         ],
@@ -5624,6 +5657,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Despite global manufacturing concerns hinting that the economy is **in choppy waters**, the AI sector is undeniably **firing on all cylinders**, propelled by surging demand for advanced chips.",
+          "This dynamic is causing a significant divergence in the startup scene, where only firms with truly unique AI applications are able to **cut through the noise** and secure funding, leaving many others struggling."
+        ],
+        "sentenceTranslations": [
+          "글로벌 제조업 우려로 경제가 여전히 **불확실한 상황**임을 시사하지만, AI 부문은 첨단 칩에 대한 폭발적인 수요에 힘입어 명백히 **최고조로 가동되고 있습니다**.",
+          "이러한 역동성은 스타트업 업계에 상당한 양극화를 초래하여, 진정으로 독특한 AI 애플리케이션을 가진 기업들만이 **경쟁 속에서 두각을 나타내며** 자금을 확보하고, 다른 많은 기업들은 어려움을 겪게 만들고 있습니다."
+        ],
+        "translationHighlights": [
+          "불확실한 상황",
+          "최고조로 가동되고 있습니다",
+          "양극화",
+          "경쟁 속에서 두각을 나타내며"
+        ],
+        "newWords": [
+          {
+            "word": "in choppy waters",
+            "meaning": "불확실하거나 어려운 상황에 처한",
+            "context": "economy is in choppy waters"
+          },
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고의 효율 또는 최대 속도로 작동하는",
+            "context": "AI sector is undeniably firing on all cylinders"
+          },
+          {
+            "word": "cut through the noise",
+            "meaning": "많은 정보나 경쟁 속에서 주목을 받거나 중요한 메시지를 전달하는",
+            "context": "able to cut through the noise"
+          }
+        ]
+      },
       {
         "sentences": [
           "Microsoft's rumored $15 billion bid for Innate Logic certainly ups the ante in the enterprise AI race, demonstrating their aggressive strategy.",
