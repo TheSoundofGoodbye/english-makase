@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With many households feeling the pinch from persistent inflation, AI-powered tools like ClarityMoney are proving essential for those trying to run a tight ship financially.",
+          "These innovative platforms allow users to get more bang for their buck by optimizing spending and identifying new savings opportunities."
+        ],
+        "sentenceTranslations": [
+          "많은 가구가 지속적인 인플레이션으로 경제적 어려움을 느끼면서, ClarityMoney와 같은 AI 기반 도구는 재정적으로 살림을 알뜰하게 꾸리려는 사람들에게 필수적인 것으로 입증되고 있습니다.",
+          "이 혁신적인 플랫폼들은 지출을 최적화하고 새로운 절약 기회를 찾아냄으로써 사용자들이 돈의 가치를 최대한 뽑아내도록 돕습니다."
+        ],
+        "translationHighlights": [
+          "경제적 어려움을 느끼면서",
+          "살림을 알뜰하게 꾸리려는",
+          "돈의 가치를 최대한 뽑아내도록"
+        ],
+        "newWords": [
+          {
+            "word": "feeling the pinch",
+            "meaning": "경제적 압박을 느끼다 / 경제적으로 어렵다",
+            "context": "households *feeling the pinch* from persistent inflation"
+          },
+          {
+            "word": "run a tight ship",
+            "meaning": "살림을 알뜰하게 꾸리다 / 운영을 효율적으로 하다",
+            "context": "trying to *run a tight ship* financially"
+          },
+          {
+            "word": "get more bang for their buck",
+            "meaning": "들인 돈보다 더 많은 가치/효과를 얻다",
+            "context": "users to *get more bang for their buck*"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The relentless pace of AI-driven productivity has many knowledge workers feeling run ragged, constantly striving to meet new benchmarks.",
           "This expectation of constant digital readiness now increasingly bleeds into their personal lives, making it hard to ever truly switch off."
         ],
