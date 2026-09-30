@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With Aura's personalized recommendations leading to increased spending, it seems many users are being subtly led down the garden path into buying more than they intended.",
+          "It's a classic example of technology that cuts both ways, offering great convenience but also raising concerns about individual autonomy and financial well-being."
+        ],
+        "sentenceTranslations": [
+          "아우라의 맞춤형 추천으로 지출이 늘어나면서, 많은 사용자들이 은연중에 계획보다 더 많이 구매하도록 감언이설에 넘어가는 것으로 보입니다.",
+          "이는 양날의 검과 같은 기술의 전형적인 예로, 엄청난 편리함을 제공하지만 동시에 개인의 자율성과 재정 건전성에 대한 우려를 낳습니다."
+        ],
+        "translationHighlights": [
+          "감언이설에 넘어가는",
+          "은연중에",
+          "양날의 검과 같은",
+          "개인의 자율성과 재정 건전성"
+        ],
+        "newWords": [
+          {
+            "word": "be led down the garden path",
+            "meaning": "감언이설에 속아 넘어가다; 매력적인 제안으로 잘못된 방향으로 이끌리다",
+            "context": "being subtly led down the garden path"
+          },
+          {
+            "word": "cut both ways",
+            "meaning": "양날의 검이다; (장점과 단점이) 둘 다 있다",
+            "context": "technology that cuts both ways"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With many households feeling the pinch from persistent inflation, AI-powered tools like ClarityMoney are proving essential for those trying to run a tight ship financially.",
           "These innovative platforms allow users to get more bang for their buck by optimizing spending and identifying new savings opportunities."
         ],
@@ -5689,6 +5717,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "The whispers of more restrictive export controls targeting advanced AI chips have undoubtedly thrown a wrench in the works for Nvidia's semiconductor supply chain, causing a slight dip in its shares.",
+          "However, Microsoft's strategic move to acquire Cognito AI for $12 billion demonstrates that big tech is doubling down on enterprise AI, likely setting the stage for further rapid consolidation in the sector despite broader economic headwinds."
+        ],
+        "sentenceTranslations": [
+          "첨단 AI 칩에 대한 더욱 엄격한 수출 통제 소문은 엔비디아의 반도체 공급망에 확실히 예상치 못한 큰 장애물로 작용하여 주가에 소폭 하락을 초래했습니다.",
+          "하지만 마이크로소프트가 코그니토 AI를 120억 달러에 전략적으로 인수한 것은 거대 기술 기업들이 기업용 AI에 더욱 집중하고 있음을 보여주며, 광범위한 경제적 역풍에도 불구하고 해당 부문의 급속한 추가 통합을 위한 발판을 마련하는 것으로 보입니다."
+        ],
+        "translationHighlights": [
+          "예상치 못한 큰 장애물로 작용하여",
+          "더욱 집중하고 있음을 보여주며",
+          "발판을 마련하는 것으로 보입니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획이나 진행 중인 일에 예상치 못한 문제나 방해를 일으키다",
+            "context": "have undoubtedly *thrown a wrench in the works* for Nvidia's semiconductor supply chain"
+          },
+          {
+            "word": "double down",
+            "meaning": "특정 전략이나 투자에 더욱 강력하게 집중하거나 자원을 쏟아붓다",
+            "context": "big tech is *doubling down* on enterprise AI"
+          },
+          {
+            "word": "set the stage",
+            "meaning": "특정 사건이나 상황이 발생하도록 여건을 조성하거나 준비하다",
+            "context": "likely *setting the stage* for further rapid consolidation"
+          }
+        ]
+      },
       {
         "sentences": [
           "Despite global manufacturing concerns hinting that the economy is **in choppy waters**, the AI sector is undeniably **firing on all cylinders**, propelled by surging demand for advanced chips.",
@@ -11393,6 +11453,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The EU's newly operational ETIAS system is already throwing a wrench in the works for countless travelers hoping for a smooth European holiday season.",
+          "However, this unexpected administrative hurdle is allowing some Asian destinations to turn lemons into lemonade, actively promoting their unique cultural immersions as a compelling alternative."
+        ],
+        "sentenceTranslations": [
+          "유럽 연합의 새로 가동된 ETIAS 시스템은 순조로운 유럽 휴가 시즌을 기대하던 수많은 여행객들에게 벌써부터 큰 문제를 일으키고 있습니다.",
+          "하지만, 이러한 예상치 못한 행정적 난관은 오히려 일부 아시아 여행지들이 나쁜 상황을 기회로 바꾸어, 그들의 독특한 문화 몰입형 경험을 매력적인 대안으로 적극 홍보하게 만들고 있습니다."
+        ],
+        "translationHighlights": [
+          "큰 문제를 일으키고 있습니다",
+          "나쁜 상황을 기회로 바꾸어",
+          "독특한 문화 몰입형 경험",
+          "매력적인 대안"
+        ],
+        "newWords": [
+          {
+            "word": "throwing a wrench in the works",
+            "meaning": "계획이나 진행을 방해하여 큰 문제를 일으키다",
+            "context": "already throwing a wrench in the works for countless travelers"
+          },
+          {
+            "word": "turn lemons into lemonade",
+            "meaning": "불리하거나 안 좋은 상황을 오히려 기회나 이득으로 바꾸다",
+            "context": "allowing some Asian destinations to turn lemons into lemonade"
+          },
+          {
+            "word": "cultural immersions",
+            "meaning": "문화 몰입 경험 (특정 문화에 깊이 동화되어 경험하는 것)",
+            "context": "promoting their unique cultural immersions"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Qatar Airways is definitely striking while the iron is hot with its new direct flights, aiming to open the floodgates for tourists eager to explore Uzbekistan's rich Silk Road heritage.",
           "Thanks to the progressive \"Culture & Business Transit Visa,\" the country's unique cultural offerings are now poised to turn over a new leaf, attracting travelers seeking genuinely immersive experiences."
         ],
@@ -16996,6 +17089,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "G2 Esports truly came out of left field with their stunning Valorant Champions victory, proving that even under immense pressure, they could rise to the occasion.",
+          "This unexpected triumph sets a high bar for the Dodgers and Braves, who are now facing a make-or-break Game 5 where they must equally deliver the goods."
+        ],
+        "sentenceTranslations": [
+          "G2 e스포츠는 발로란트 챔피언스에서 정말 예상을 뛰어넘는 놀라운 승리를 거두며, 엄청난 압박감 속에서도 제 실력을 발휘할 수 있음을 증명했습니다.",
+          "이 예상치 못한 승리는 다저스와 브레이브스에게 높은 기준을 제시하며, 두 팀 모두 성패가 달린 5차전에서 똑같이 기대에 부응해야 합니다."
+        ],
+        "translationHighlights": [
+          "예상을 뛰어넘는",
+          "제 실력을 발휘할",
+          "성패가 달린",
+          "기대에 부응해야"
+        ],
+        "newWords": [
+          {
+            "word": "came out of left field",
+            "meaning": "예상을 뛰어넘는 / 전혀 예상 밖의 일이 일어나다",
+            "context": "G2 Esports truly *came out of left field* with their stunning Valorant Champions victory"
+          },
+          {
+            "word": "rise to the occasion",
+            "meaning": "위기 상황에서 제 실력을 발휘하다 / 기대에 부응하다",
+            "context": "they could *rise to the occasion*"
+          },
+          {
+            "word": "make-or-break",
+            "meaning": "성패를 좌우하는 / 결정적인",
+            "context": "facing a *make-or-break* Game 5"
+          }
+        ]
+      },
       {
         "sentences": [
           "The International Team's Presidents Cup victory after two decades definitely turned the tide for global golf, showcasing their determination and talent.",
