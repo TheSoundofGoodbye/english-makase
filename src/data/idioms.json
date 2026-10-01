@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Many young adults are now up to their eyeballs in digital content, which often leaves them feeling burnt out and anxious.",
+          "While AI-driven wellness features are a step, critics argue they're merely scratching the surface of a deeper issue, demanding a more fundamental shift in technology engagement."
+        ],
+        "sentenceTranslations": [
+          "많은 젊은이들이 이제 디지털 콘텐츠에 '푹 빠져 허우적대며', 종종 소진감과 불안감을 느끼고 있습니다.",
+          "AI 기반 디지털 웰니스 기능들이 한 걸음 진전이지만, 비평가들은 그것이 더 깊은 문제의 '표면만 긁고 있을 뿐이며', 기술 참여 방식에 대한 보다 근본적인 변화를 요구한다고 주장합니다."
+        ],
+        "translationHighlights": [
+          "푹 빠져 허우적대며",
+          "소진감과 불안감",
+          "표면만 긁고 있을 뿐이며",
+          "근본적인 변화"
+        ],
+        "newWords": [
+          {
+            "word": "up to one's eyeballs",
+            "meaning": "~에 푹 빠져(또는 파묻혀) 매우 바쁘거나 압도당하는 상태",
+            "context": "up to their eyeballs in digital content"
+          },
+          {
+            "word": "scratching the surface",
+            "meaning": "문제의 본질적인 부분에 닿지 못하고 표면적인 부분만 다루는 것",
+            "context": "merely scratching the surface of a deeper issue"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With Aura's personalized recommendations leading to increased spending, it seems many users are being subtly led down the garden path into buying more than they intended.",
           "It's a classic example of technology that cuts both ways, offering great convenience but also raising concerns about individual autonomy and financial well-being."
         ],
@@ -5717,6 +5745,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Alphabet's Google Cloud and Siemens AG are undoubtedly **riding the wave** of generative AI, solidifying their position as leaders in industrial automation.",
+          "This bold collaboration, projected to **pay dividends** in efficiency gains, means other industrial players will now have to **raise the bar** considerably to stay competitive."
+        ],
+        "sentenceTranslations": [
+          "알파벳의 구글 클라우드와 지멘스 AG는 분명히 생성형 AI의 **흐름을 타고 있으며**, 산업 자동화 분야의 선두 주자로서 입지를 굳히고 있습니다.",
+          "효율성 향상으로 **큰 이득을 가져올** 것으로 예상되는 이 과감한 협력은, 다른 산업 기업들이 경쟁력을 유지하기 위해 이제는 **기준을 상당히 높여야 할** 것임을 의미합니다."
+        ],
+        "translationHighlights": [
+          "흐름을 타고 있으며",
+          "큰 이득을 가져올",
+          "기준을 상당히 높여야 할"
+        ],
+        "newWords": [
+          {
+            "word": "riding the wave",
+            "meaning": "특정 흐름이나 기회를 잘 활용하다",
+            "context": "riding the wave of generative AI"
+          },
+          {
+            "word": "pay dividends",
+            "meaning": "미래에 이득을 가져다주다, 보상으로 돌아오다",
+            "context": "projected to pay dividends in efficiency gains"
+          },
+          {
+            "word": "raise the bar",
+            "meaning": "기준이나 기대치를 높이다",
+            "context": "will now have to raise the bar considerably"
+          }
+        ]
+      },
       {
         "sentences": [
           "The whispers of more restrictive export controls targeting advanced AI chips have undoubtedly thrown a wrench in the works for Nvidia's semiconductor supply chain, causing a slight dip in its shares.",
@@ -11453,6 +11513,34 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "As Ha Long Bay finds itself bursting at the seams with tourists, the new digital permit system is a critical move to manage the environmental toll.",
+          "Conversely, India's expanded Cultural Immersion Visa offers a fantastic opportunity for travelers to truly get under the skin of regional heritage, fostering deeper, more authentic engagements."
+        ],
+        "sentenceTranslations": [
+          "하롱베이가 관광객들로 발 디딜 틈 없이 붐비는 상황에서, 새로운 디지털 입국 허가 시스템은 환경 피해를 관리하기 위한 중요한 조치입니다.",
+          "반대로, 인도의 확대된 문화 체험 비자는 여행객들이 지역 유산의 본질을 진정으로 깊이 이해하고, 더 심도 있고 진정한 교류를 촉진할 훌륭한 기회를 제공합니다."
+        ],
+        "translationHighlights": [
+          "발 디딜 틈 없이 붐비는",
+          "환경 피해를 관리하기 위한 중요한 조치",
+          "본질을 진정으로 깊이 이해하고",
+          "더 심도 있고 진정한 교류"
+        ],
+        "newWords": [
+          {
+            "word": "bursting at the seams",
+            "meaning": "매우 붐비는, 만원인; (옷이) 터질 듯한",
+            "context": "Ha Long Bay finds itself bursting at the seams with tourists"
+          },
+          {
+            "word": "get under the skin of",
+            "meaning": "~의 본질을 깊이 이해하다, 속속들이 파악하다",
+            "context": "truly get under the skin of regional heritage"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The EU's newly operational ETIAS system is already throwing a wrench in the works for countless travelers hoping for a smooth European holiday season.",
           "However, this unexpected administrative hurdle is allowing some Asian destinations to turn lemons into lemonade, actively promoting their unique cultural immersions as a compelling alternative."
         ],
@@ -17089,6 +17177,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Despite holding a commanding 78-point lead, Verstappen is shrewdly playing it by ear, emphasizing that maximizing every session is paramount to clinching the championship, not just the points gap.",
+          "With the team now within striking distance of securing both constructor and driver titles, this weekend's pivotal race is truly make or break for their historic season."
+        ],
+        "sentenceTranslations": [
+          "78점이라는 압도적인 선두를 달리고 있음에도 불구하고, 페르스타펜은 노련하게 상황에 맞춰 대응하고 있으며, 단순히 점수 차이가 아니라 모든 세션에서 최대의 성과를 내는 것이 챔피언십을 확정 짓는 데 가장 중요하다고 강조했습니다.",
+          "이제 팀이 컨스트럭터 및 드라이버 타이틀 모두를 손에 넣기 직전인 상황에서, 이번 주말의 중요한 경기는 그들의 역사적인 시즌에 있어 진정으로 성패를 좌우할 분수령이 될 것입니다."
+        ],
+        "translationHighlights": [
+          "상황에 맞춰 대응하고",
+          "최대의 성과를 내는 것이 가장 중요하다고 강조했습니다",
+          "손에 넣기 직전인",
+          "성패를 좌우할"
+        ],
+        "newWords": [
+          {
+            "word": "playing it by ear",
+            "meaning": "상황에 맞춰 즉흥적으로 대응하다, 임기응변으로 처리하다",
+            "context": "Verstappen is shrewdly `playing it by ear`"
+          },
+          {
+            "word": "within striking distance",
+            "meaning": "~을 손에 넣기 직전인, ~을 달성할 수 있는 거리에 있는",
+            "context": "now `within striking distance` of securing both constructor and driver titles"
+          },
+          {
+            "word": "make or break",
+            "meaning": "성패를 좌우하는, 매우 중요한",
+            "context": "this weekend's pivotal race is truly `make or break`"
+          }
+        ]
+      },
       {
         "sentences": [
           "G2 Esports truly came out of left field with their stunning Valorant Champions victory, proving that even under immense pressure, they could rise to the occasion.",
