@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The push for digital wellness, especially with Apple's new 'Focus Assist Pro,' is a welcome development, helping us cut the Gordian knot of constant screen time.",
+          "However, while AI-driven mental health support might seem like a silver bullet, the ongoing ethical debates remind us that preserving the human touch in therapy is crucial and not something we can simply sweep under the rug."
+        ],
+        "sentenceTranslations": [
+          "애플의 새로운 'Focus Assist Pro'와 함께 디지털 웰니스 운동이 활성화되는 것은 반가운 일이며, 이는 우리가 끊임없는 화면 사용이라는 복잡한 문제를 해결하는 데 도움이 됩니다.",
+          "하지만 AI 기반의 정신 건강 지원이 만병통치약처럼 보일 수 있지만, 계속되는 윤리적 논쟁은 치료에서 인간적인 접촉을 유지하는 것이 중요하며 우리가 단순히 외면할 수 없는 문제임을 상기시킵니다."
+        ],
+        "translationHighlights": [
+          "복잡한 문제를 해결하는 데",
+          "만병통치약",
+          "인간적인 접촉",
+          "외면할 수 없는 문제"
+        ],
+        "newWords": [
+          {
+            "word": "cut the Gordian knot",
+            "meaning": "복잡한 문제/난제를 해결하다",
+            "context": "helping us cut the Gordian knot of constant screen time"
+          },
+          {
+            "word": "silver bullet",
+            "meaning": "만병통치약, 마법의 해결책",
+            "context": "might seem like a silver bullet"
+          },
+          {
+            "word": "sweep under the rug",
+            "meaning": "문제를 덮어두다, 외면하다",
+            "context": "something we can simply sweep under the rug"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Many young adults are now up to their eyeballs in digital content, which often leaves them feeling burnt out and anxious.",
           "While AI-driven wellness features are a step, critics argue they're merely scratching the surface of a deeper issue, demanding a more fundamental shift in technology engagement."
         ],
@@ -5745,6 +5778,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Despite the broader market dip, Intel's shares bucked the trend by soaring after its partnership announcement with OpenAI, suggesting a strong belief in their joint venture.",
+          "This collaborative spirit in AI innovation exists alongside calls from the EU to level the playing field with new tariffs, highlighting a dual focus on technological advancement and fair market practices."
+        ],
+        "sentenceTranslations": [
+          "전반적인 시장 침체에도 불구하고, 인텔 주가는 OpenAI와의 파트너십 발표 이후 급등하며 이러한 추세에 역행했는데, 이는 양사의 합작 투자에 대한 강력한 신뢰를 보여줍니다.",
+          "인공지능 혁신에서의 이러한 협력적인 분위기는 새로운 관세를 통해 모든 시장 참여자들에게 공정한 경쟁 환경을 조성하려는 EU의 요구와 동시에 존재하며, 기술 발전과 공정한 시장 관행이라는 두 가지 초점을 강조합니다."
+        ],
+        "translationHighlights": [
+          "추세에 역행했는데",
+          "합작 투자",
+          "공정한 경쟁 환경을 조성하려는",
+          "기술 발전과 공정한 시장 관행"
+        ],
+        "newWords": [
+          {
+            "word": "buck the trend",
+            "meaning": "추세에 역행하다, 대세를 거스르다",
+            "context": "Intel's shares bucked the trend by soaring"
+          },
+          {
+            "word": "level the playing field",
+            "meaning": "공정한 경쟁 환경을 조성하다, 동등한 기회를 주다",
+            "context": "EU to level the playing field with new tariffs"
+          }
+        ]
+      },
       {
         "sentences": [
           "Alphabet's Google Cloud and Siemens AG are undoubtedly **riding the wave** of generative AI, solidifying their position as leaders in industrial automation.",
@@ -11513,6 +11574,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Qantas is truly striking while the iron is hot by launching its direct Sydney-Phu Quoc route, keen to capitalize on the surge in demand for authentic, less-explored destinations.",
+          "This move, coupled with Korea's expanded K-Culture visa, suggests both nations are on the cusp of a travel renaissance driven by those who want to truly get under the skin of a destination."
+        ],
+        "sentenceTranslations": [
+          "콴타스는 시드니-푸꾸옥 직항 노선을 개설하며, 진정성 있고 덜 알려진 여행지에 대한 수요 급증을 활용하고자 기회를 놓치지 않고 있습니다.",
+          "이러한 움직임은 한국의 확대된 K-컬처 비자와 맞물려, 양국이 목적지의 속살까지 제대로 들여다보고자 하는 여행자들에 의해 촉발될 여행 르네상스의 문턱에 와 있음을 시사합니다."
+        ],
+        "translationHighlights": [
+          "기회를 놓치지 않고 있습니다",
+          "문턱에 와 있음을",
+          "속살까지 제대로 들여다보고자 하는"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회를 놓치지 않고 이용하다",
+            "context": "Qantas is truly **striking while the iron is hot** by launching its direct Sydney-Phu Quoc route"
+          },
+          {
+            "word": "on the cusp of",
+            "meaning": "~의 문턱에/직전에 있다, ~의 전환점에 있다",
+            "context": "both nations are **on the cusp of** a travel renaissance"
+          },
+          {
+            "word": "get under the skin of",
+            "meaning": "~의 본질을 이해하다, ~의 깊은 면을 경험하다",
+            "context": "want to truly **get under the skin of** a destination"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As Ha Long Bay finds itself bursting at the seams with tourists, the new digital permit system is a critical move to manage the environmental toll.",
           "Conversely, India's expanded Cultural Immersion Visa offers a fantastic opportunity for travelers to truly get under the skin of regional heritage, fostering deeper, more authentic engagements."
         ],
@@ -17177,6 +17270,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Tonight's pivotal Game 3 in the MLB Division Series is truly a make-or-break moment for both the Phillies and Braves, determining who gains the upper hand in this nail-biting contest.",
+          "This intense pressure echoes Rory McIlroy's reflection that his Ryder Cup team simply didn't come through in the clutch, failing to deliver when it counted most."
+        ],
+        "sentenceTranslations": [
+          "오늘 밤 MLB 디비전 시리즈의 운명을 가를 3차전은 필리스와 브레이브스 모두에게 진정 흥망이 달린 순간으로, 이 손에 땀을 쥐게 하는 승부에서 누가 우위를 점할지 결정할 것입니다.",
+          "이러한 엄청난 압박감은 로리 매킬로이가 자신의 라이더컵 팀이 결정적인 순간에 성공하지 못하고 가장 중요할 때 제 역할을 해내지 못했다고 회고한 것과 일맥상통합니다."
+        ],
+        "translationHighlights": [
+          "운명을 가를",
+          "흥망이 달린 순간",
+          "우위를 점할지",
+          "결정적인 순간에 성공하지 못하고"
+        ],
+        "newWords": [
+          {
+            "word": "make-or-break moment",
+            "meaning": "성패를 좌우하는 결정적 순간",
+            "context": "a make-or-break moment for both the Phillies and Braves"
+          },
+          {
+            "word": "gain the upper hand",
+            "meaning": "우위를 점하다, 유리한 위치를 차지하다",
+            "context": "determining who gains the upper hand"
+          },
+          {
+            "word": "come through in the clutch",
+            "meaning": "결정적인 순간에 성공하다/제 역할을 해내다",
+            "context": "didn't come through in the clutch"
+          }
+        ]
+      },
       {
         "sentences": [
           "Despite holding a commanding 78-point lead, Verstappen is shrewdly playing it by ear, emphasizing that maximizing every session is paramount to clinching the championship, not just the points gap.",
