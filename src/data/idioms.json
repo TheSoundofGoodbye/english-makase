@@ -3,6 +3,33 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Many consumers are quick to jump on the bandwagon with Google DeepMind's new Nexus AI, eager to unlock personalized financial insights and boost their savings.",
+          "However, privacy advocates warn that such extensive data collection could be a slippery slope, potentially compromising personal financial sovereignty in the long run."
+        ],
+        "sentenceTranslations": [
+          "구글 딥마인드의 새로운 넥서스 AI가 출시되자 많은 소비자들이 개인 맞춤형 금융 정보를 얻고 저축액을 늘리기 위해 빠르게 동참하고 있습니다.",
+          "하지만, 개인정보 보호 옹호자들은 이러한 광범위한 데이터 수집이 위험한 길로 이어질 수 있으며, 장기적으로 개인의 금융 주권을 위태롭게 할 가능성이 있다고 경고합니다."
+        ],
+        "translationHighlights": [
+          "빠르게 동참하고 있습니다",
+          "위험한 길로 이어질 수 있으며",
+          "금융 주권을 위태롭게 할"
+        ],
+        "newWords": [
+          {
+            "word": "jump on the bandwagon",
+            "meaning": "인기 있는 활동이나 유행에 뒤늦게 참여하다 (편승하다)",
+            "context": "Many consumers are quick to jump on the bandwagon..."
+          },
+          {
+            "word": "a slippery slope",
+            "meaning": "한번 시작하면 나쁜 결과로 이어지기 쉬운 상황이나 과정 (위험한 길)",
+            "context": "...could be a slippery slope..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The push for digital wellness, especially with Apple's new 'Focus Assist Pro,' is a welcome development, helping us cut the Gordian knot of constant screen time.",
           "However, while AI-driven mental health support might seem like a silver bullet, the ongoing ethical debates remind us that preserving the human touch in therapy is crucial and not something we can simply sweep under the rug."
         ],
@@ -5778,6 +5805,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "The persistent 3.2% inflation figures from the Eurozone are expected to put a damper on consumer spending and investment, making businesses increasingly cautious.",
+          "Meanwhile, TSMC's manufacturing delays in Arizona could throw a wrench in the works for many tech companies already grappling with supply chain volatility, effectively hitting them where it hurts."
+        ],
+        "sentenceTranslations": [
+          "유로존의 지속적인 3.2% 인플레이션 수치는 소비와 투자에 찬물을 끼얹어 기업들이 점점 더 신중해지도록 만들 것으로 예상됩니다.",
+          "한편, TSMC의 애리조나 생산 지연은 이미 공급망 불안정으로 고심하는 많은 기술 기업들에게 뜻밖의 난관을 안겨주며, 가장 취약한 부분을 타격할 수 있습니다."
+        ],
+        "translationHighlights": [
+          "찬물을 끼얹어",
+          "뜻밖의 난관을 안겨주며",
+          "가장 취약한 부분을 타격할 수 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "put a damper on",
+            "meaning": "찬물을 끼얹다, 분위기를 망치다",
+            "context": "expected to put a damper on consumer spending"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다, 예상치 못한 방해물을 만들다",
+            "context": "could throw a wrench in the works for many tech companies"
+          },
+          {
+            "word": "hit (someone/something) where it hurts",
+            "meaning": "~의 가장 약한 부분을 타격하다, 가장 고통스러운 영향을 주다",
+            "context": "effectively hitting them where it hurts"
+          }
+        ]
+      },
       {
         "sentences": [
           "Despite the broader market dip, Intel's shares bucked the trend by soaring after its partnership announcement with OpenAI, suggesting a strong belief in their joint venture.",
@@ -11572,6 +11631,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Saudi Arabia is pulling out all the stops to attract tourists to its ambitious projects, eager to capture the booming demand for immersive travel.",
+          "Conversely, the airline industry, still keeping its head above water against soaring fuel prices, needs to quickly read the room regarding travelers' preference for authentic local connections."
+        ],
+        "sentenceTranslations": [
+          "사우디아라비아는 야심 찬 프로젝트들로 관광객을 유치하기 위해 모든 노력을 기울이고 있으며, 급증하는 몰입형 여행 수요를 포착하고자 열심입니다.",
+          "반대로, 항공 산업은 치솟는 유류비에 맞서 여전히 겨우 버티고 있는 상황이지만, 진정성 있는 현지 연결을 선호하는 여행객들의 경향을 빠르게 파악해야 합니다."
+        ],
+        "translationHighlights": [
+          "모든 노력을 기울이고 있으며",
+          "겨우 버티고 있는 상황이지만",
+          "경향을 빠르게 파악해야"
+        ],
+        "newWords": [
+          {
+            "word": "pulling out all the stops",
+            "meaning": "가능한 모든 노력과 자원을 동원하다, 온갖 수단을 쓰다",
+            "context": "Saudi Arabia is *pulling out all the stops* to attract tourists..."
+          },
+          {
+            "word": "keeping its head above water",
+            "meaning": "어려운 상황에서 겨우 버티다, 파산하지 않고 유지하다",
+            "context": "...still *keeping its head above water* against soaring fuel prices..."
+          },
+          {
+            "word": "read the room",
+            "meaning": "상황이나 분위기를 파악하다, 사람들의 기분이나 반응을 살피다",
+            "context": "...needs to quickly *read the room* regarding travelers' preference..."
+          }
+        ]
+      },
       {
         "sentences": [
           "Qantas is truly striking while the iron is hot by launching its direct Sydney-Phu Quoc route, keen to capitalize on the surge in demand for authentic, less-explored destinations.",
