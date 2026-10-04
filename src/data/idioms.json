@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Apple's anticipated Bio-Monitor Pro is truly a game changer for preventative care, though the pressing issue of global data privacy standards remains the elephant in the room.",
+          "While 72% of regular wearable users are now taking matters into their own hands to manage their health, the WHO is working to nip potential privacy issues in the bud before they fully escalate."
+        ],
+        "sentenceTranslations": [
+          "애플이 기대하는 바이오-모니터 프로는 예방 의료 분야에서 진정한 판도를 바꾸는 혁신이겠지만, 글로벌 데이터 개인 정보 보호 표준이라는 중요한 문제는 여전히 아무도 말하려 하지 않는 불편한 진실로 남아있습니다.",
+          "정기적으로 웨어러블 기기를 사용하는 사용자의 72%가 건강 관리에 적극적으로 나서고 있는 반면, 세계보건기구(WHO)는 잠재적인 개인 정보 보호 문제들이 완전히 확대되기 전에 초기에 차단하려고 노력하고 있습니다."
+        ],
+        "translationHighlights": [
+          "판도를 바꾸는 혁신",
+          "아무도 말하려 하지 않는 불편한 진실",
+          "적극적으로 나서고 있는",
+          "초기에 차단하려고 노력하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "a game changer",
+            "meaning": "상황을 완전히 뒤바꾸는 혁신적인 것/사람; 판도를 바꾸는 것",
+            "context": "Bio-Monitor Pro is truly a game changer for preventative care"
+          },
+          {
+            "word": "the elephant in the room",
+            "meaning": "모두가 알지만 불편해서 언급하기 꺼려하는 중요한 문제",
+            "context": "global data privacy standards remains the elephant in the room"
+          },
+          {
+            "word": "nip something in the bud",
+            "meaning": "문제를 싹트기 전에 미리 막다; 초기에 차단하다",
+            "context": "aims to nip potential privacy issues in the bud"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Many consumers are quick to jump on the bandwagon with Google DeepMind's new Nexus AI, eager to unlock personalized financial insights and boost their savings.",
           "However, privacy advocates warn that such extensive data collection could be a slippery slope, potentially compromising personal financial sovereignty in the long run."
         ],
@@ -5805,6 +5838,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Siemens' strategic move to acquire NeuralHand signals they are doubling down on AI integration to gain an edge in industrial automation.",
+          "However, for the EU-Mercosur trade deal, French President Macron's agricultural concerns threaten to throw a wrench in the works, potentially delaying an agreement that's been on the cards for months."
+        ],
+        "sentenceTranslations": [
+          "지멘스가 뉴럴핸드를 인수한 전략적 움직임은 산업 자동화 분야에서 우위를 점하기 위해 AI 통합에 총력을 기울이고 있다는 신호입니다.",
+          "하지만 EU-메르코수르 무역 협상에서는 프랑스 마크롱 대통령의 농업 관련 우려가 진행 중이던 계획에 제동을 걸어, 몇 달간 예상되던 합의를 지연시킬 가능성이 있습니다."
+        ],
+        "translationHighlights": [
+          "총력을 기울이고 있다는",
+          "우위를 점하기 위해",
+          "진행 중이던 계획에 제동을 걸어",
+          "몇 달간 예상되던"
+        ],
+        "newWords": [
+          {
+            "word": "doubling down",
+            "meaning": "특정 전략이나 분야에 투자나 노력을 두 배로 늘리다, 집중하다",
+            "context": "they are doubling down on AI integration"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다, 방해하다",
+            "context": "threaten to throw a wrench in the works"
+          },
+          {
+            "word": "on the cards",
+            "meaning": "실현 가능성이 있는, 예상되는",
+            "context": "an agreement that's been on the cards for months"
+          }
+        ]
+      },
       {
         "sentences": [
           "The persistent 3.2% inflation figures from the Eurozone are expected to put a damper on consumer spending and investment, making businesses increasingly cautious.",
@@ -11633,6 +11699,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "As Vietnam and Thailand ride the crest of a wave with anticipated record tourist numbers for 2027, the economic future for the region looks brighter than ever.",
+          "However, local authorities are walking a tightrope, grappling with how to sustain this boom without killing the goose that lays the golden eggs of their pristine natural attractions."
+        ],
+        "sentenceTranslations": [
+          "베트남과 태국이 2027년 예상되는 기록적인 관광객 수로 최고의 전성기를 누리고 있는 가운데, 이 지역의 경제적 미래는 그 어느 때보다 밝아 보입니다.",
+          "하지만 현지 당국은 깨끗한 자연 명소라는 황금알을 낳는 거위를 죽이지 않도록, 이 관광 호황을 어떻게 지속할지에 대해 아슬아슬한 줄타기를 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "최고의 전성기를 누리고",
+          "아슬아슬한 줄타기를 하고",
+          "황금알을 낳는 거위를 죽이지 않도록"
+        ],
+        "newWords": [
+          {
+            "word": "ride the crest of a wave",
+            "meaning": "최고의 전성기를 누리다, 한창 성공을 구가하다",
+            "context": "ride the crest of a wave with anticipated record tourist numbers"
+          },
+          {
+            "word": "walking a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다, 매우 신중하게 행동하다 (위험하거나 어려운 상황에서)",
+            "context": "authorities are walking a tightrope, grappling with how to sustain this boom"
+          },
+          {
+            "word": "kill the goose that lays the golden eggs",
+            "meaning": "황금알을 낳는 거위를 죽이다 (단기적 이익을 위해 장기적 이익의 원천을 파괴하다)",
+            "context": "without killing the goose that lays the golden eggs of their pristine natural attractions"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Saudi Arabia is pulling out all the stops to attract tourists to its ambitious projects, eager to capture the booming demand for immersive travel.",
           "Conversely, the airline industry, still keeping its head above water against soaring fuel prices, needs to quickly read the room regarding travelers' preference for authentic local connections."
         ],
@@ -17361,6 +17459,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Fnatic truly **stole the show** at the *League of Legends* World Championship quarter-finals, defying expectations with their stunning victory over reigning champions Gen.G.",
+          "Their captain's declaration of wanting to make history clearly resonated, showing they weren't just content to participate but aimed to **raise the bar** for future competitors."
+        ],
+        "sentenceTranslations": [
+          "프나틱은 *리그 오브 레전드* 월드 챔피언십 8강전에서 디펜딩 챔피언 젠지를 상대로 놀라운 승리를 거두며, 모두의 예상을 뒤엎고 진정으로 **이목을 집중시켰습니다**.",
+          "그들의 주장이 역사를 만들고 싶다고 선언한 것은 분명히 큰 반향을 일으켰으며, 단지 참가하는 것에 만족하지 않고 미래의 경쟁자들을 위한 **새로운 기준을 제시하려 했다는** 것을 보여주었습니다."
+        ],
+        "translationHighlights": [
+          "이목을 집중시켰습니다",
+          "모두의 예상을 뒤엎고",
+          "큰 반향을 일으켰으며",
+          "새로운 기준을 제시하려 했다는"
+        ],
+        "newWords": [
+          {
+            "word": "steal the show",
+            "meaning": "가장 이목을 집중시키다, (다른 것보다) 돋보이다",
+            "context": "Fnatic truly **stole the show**"
+          },
+          {
+            "word": "raise the bar",
+            "meaning": "기준을 높이다, 기대 수준을 향상시키다",
+            "context": "aimed to **raise the bar** for future competitors"
+          }
+        ]
+      },
       {
         "sentences": [
           "Tonight's pivotal Game 3 in the MLB Division Series is truly a make-or-break moment for both the Phillies and Braves, determining who gains the upper hand in this nail-biting contest.",
