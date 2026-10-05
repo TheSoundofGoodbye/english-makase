@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Facing persistent inflation, Gen Z and younger millennials are now actively trimming the fat from their digital subscriptions to regain financial control.",
+          "This widespread push to audit services signals a broader shift as people strive to get their ducks in a row and achieve mental clarity in a connected world."
+        ],
+        "sentenceTranslations": [
+          "지속적인 인플레이션에 직면하면서, Gen Z와 젊은 밀레니얼 세대는 재정 통제력을 되찾기 위해 디지털 구독 서비스에서 불필요한 부분을 적극적으로 잘라내고 있습니다.",
+          "서비스를 감사하려는 이 광범위한 움직임은 사람들이 만반의 준비를 갖추고 연결된 세상에서 정신적 명료함을 얻으려 노력하면서 나타나는 더 넓은 사회적 변화를 보여줍니다."
+        ],
+        "translationHighlights": [
+          "지속적인 인플레이션에 직면하면서",
+          "불필요한 부분을 적극적으로 잘라내고 있습니다",
+          "만반의 준비를 갖추고",
+          "정신적 명료함을 얻으려 노력하면서"
+        ],
+        "newWords": [
+          {
+            "word": "trim the fat",
+            "meaning": "불필요한 비용을 줄이다/낭비를 없애다",
+            "context": "actively trimming the fat from their digital subscriptions"
+          },
+          {
+            "word": "get their ducks in a row",
+            "meaning": "모든 것을 깔끔하게 정리하다/만반의 준비를 갖추다",
+            "context": "people strive to get their ducks in a row"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Apple's anticipated Bio-Monitor Pro is truly a game changer for preventative care, though the pressing issue of global data privacy standards remains the elephant in the room.",
           "While 72% of regular wearable users are now taking matters into their own hands to manage their health, the WHO is working to nip potential privacy issues in the bud before they fully escalate."
         ],
@@ -5838,6 +5866,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Anthropic's latest Claude 4 model certainly raises the stakes in the generative AI race, yet investor skepticism about immediate profitability suggests many are still waiting for the other shoe to drop regarding current tech valuations.",
+          "This cautious market sentiment, coupled with EU warnings against monopolization, indicates that digital giants won't have a free hand in cornering the market for AI infrastructure."
+        ],
+        "sentenceTranslations": [
+          "앤스로픽의 최신 Claude 4 모델이 생성형 AI 경쟁의 판도를 올리는 것은 확실하지만, 즉각적인 수익성에 대한 투자자들의 회의적인 시각은 많은 사람들이 현재 기술 가치 평가와 관련하여 또 다른 불리한 상황이 발생하기를 기다리고 있음을 시사합니다.",
+          "이러한 신중한 시장 심리는 EU의 독점화 경고와 맞물려, 디지털 거대 기업들이 AI 인프라 시장을 장악하는 데 있어 자유로운 권한을 갖지 못할 것임을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "경쟁의 판도를 올리는",
+          "또 다른 불리한 상황이 발생하기를 기다리고 있음을 시사합니다",
+          "자유로운 권한을 갖지 못할 것임을",
+          "시장을 장악하는 데 있어"
+        ],
+        "newWords": [
+          {
+            "word": "raise the stakes",
+            "meaning": "경쟁의 판도를 올리다, (이해관계 등을) 높이다",
+            "context": "Anthropic's latest Claude 4 model certainly raises the stakes..."
+          },
+          {
+            "word": "waiting for the other shoe to drop",
+            "meaning": "(이미 시작된 일에 뒤이어) 좋지 않은 일이 또 일어나기를 기다리다",
+            "context": "...many are still waiting for the other shoe to drop regarding current tech valuations."
+          },
+          {
+            "word": "cornering the market",
+            "meaning": "시장을 장악하다, 독점하다",
+            "context": "...won't have a free hand in cornering the market for AI infrastructure."
+          }
+        ]
+      },
       {
         "sentences": [
           "Siemens' strategic move to acquire NeuralHand signals they are doubling down on AI integration to gain an edge in industrial automation.",
@@ -11699,6 +11760,44 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The robust tourism growth in Southeast Asia, while a feather in the cap for local economies, presents a double-edged sword as destinations like Venice struggle to manage overwhelming visitor numbers.",
+          "This growing pressure is prompting companies like Lufthansa to put their money where their mouth is with sustainable fuel investments, signaling that the industry is finally getting ahead of the curve on environmental responsibility and visitor management."
+        ],
+        "sentenceTranslations": [
+          "동남아시아의 견고한 관광 성장은 지역 경제에는 큰 자랑거리이지만, 베니스와 같이 압도적인 방문객 수를 관리하기 위해 고군분투하는 관광지에는 양날의 검이 됩니다.",
+          "이러한 증가하는 압력은 루프트한자와 같은 기업들이 지속 가능한 항공유 투자에 말뿐이 아닌 실천을 보여주도록 촉구하고 있으며, 이는 업계가 환경적 책임과 방문객 관리 측면에서 마침내 앞서나가고 있음을 시사합니다."
+        ],
+        "translationHighlights": [
+          "큰 자랑거리",
+          "양날의 검",
+          "말뿐이 아닌 실천을 보여주도록",
+          "앞서나가고 있음"
+        ],
+        "newWords": [
+          {
+            "word": "a feather in the cap",
+            "meaning": "큰 자랑거리, 영예로운 성과",
+            "context": "while a **feather in the cap** for local economies"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (이점과 단점을 동시에 지닌 것)",
+            "context": "presents a **double-edged sword** as destinations like Venice struggle"
+          },
+          {
+            "word": "put one's money where one's mouth is",
+            "meaning": "말뿐이 아닌 실천을 보여주다, 돈을 들여 행동으로 옮기다",
+            "context": "to **put their money where their mouth is** with sustainable fuel investments"
+          },
+          {
+            "word": "get ahead of the curve",
+            "meaning": "앞서나가다, 시대를 앞서가다 (새로운 동향이나 변화에 미리 대비하다)",
+            "context": "the industry is finally **getting ahead of the curve** on environmental responsibility"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As Vietnam and Thailand ride the crest of a wave with anticipated record tourist numbers for 2027, the economic future for the region looks brighter than ever.",
           "However, local authorities are walking a tightrope, grappling with how to sustain this boom without killing the goose that lays the golden eggs of their pristine natural attractions."
         ],
@@ -17459,6 +17558,33 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Rookie Julio Rodriguez truly came through in the clutch with his game-winning homer, proving he's built for playoff pressure.",
+          "Similarly, G2 Esports managed to turn the tables on LOUD with their thrilling reverse sweep, sending their fans into a frenzy."
+        ],
+        "sentenceTranslations": [
+          "신인 훌리오 로드리게스는 결정적인 순간에 게임을 승리로 이끄는 홈런을 날리며, 플레이오프의 압박감을 이겨낼 자질을 입증했습니다.",
+          "이와 비슷하게, G2 e스포츠는 스릴 넘치는 리버스 스윕으로 LOUD에게 전세를 뒤집고 팬들을 열광시켰습니다."
+        ],
+        "translationHighlights": [
+          "결정적인 순간에 실력 발휘를 하다",
+          "압박감을 이겨낼 자질",
+          "전세를 뒤집다"
+        ],
+        "newWords": [
+          {
+            "word": "come through in the clutch",
+            "meaning": "결정적인 순간에 제 역할을 하다, 위기 상황에서 성공적으로 임무를 수행하다",
+            "context": "Julio Rodriguez truly came through in the clutch"
+          },
+          {
+            "word": "turn the tables",
+            "meaning": "전세를 뒤집다, 상황을 역전시키다",
+            "context": "G2 Esports managed to turn the tables on LOUD"
+          }
+        ]
+      },
       {
         "sentences": [
           "Fnatic truly **stole the show** at the *League of Legends* World Championship quarter-finals, defying expectations with their stunning victory over reigning champions Gen.G.",
