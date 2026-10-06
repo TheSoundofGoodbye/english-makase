@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With inflation making it tough for many households to keep their heads above water, Fidelity Foresight could be seen as a tempting lifeline.",
+          "However, given the privacy concerns and the significant confidence gap, many are still hesitant to take a leap of faith with their sensitive financial data."
+        ],
+        "sentenceTranslations": [
+          "인플레이션으로 인해 많은 가구가 재정적으로 허덕이는 상황에서, Fidelity Foresight는 매력적인 구명줄처럼 보일 수 있습니다.",
+          "하지만 개인 정보 보호 문제와 상당한 신뢰 격차를 고려할 때, 많은 이들이 민감한 금융 데이터를 맡기는 것을 여전히 망설이고 있습니다."
+        ],
+        "translationHighlights": [
+          "재정적으로 허덕이는 상황에서",
+          "매력적인 구명줄",
+          "상당한 신뢰 격차",
+          "맡기는 것을 여전히 망설이고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "keep their heads above water",
+            "meaning": "재정적으로 허덕이다, 빚지지 않고 버티다",
+            "context": "many households to keep their heads above water"
+          },
+          {
+            "word": "take a leap of faith",
+            "meaning": "믿음을 가지고 과감히 시도하다, 맹목적으로 믿다",
+            "context": "hesitant to take a leap of faith"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Facing persistent inflation, Gen Z and younger millennials are now actively trimming the fat from their digital subscriptions to regain financial control.",
           "This widespread push to audit services signals a broader shift as people strive to get their ducks in a row and achieve mental clarity in a connected world."
         ],
@@ -5866,6 +5894,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Microsoft's Azure AI Edge platform is truly poised to move the needle for global productivity, demonstrating AI's transformative potential.",
+          "However, while geopolitical tensions threaten to put a damper on some sectors like semiconductors, SynaptiCore's recent funding round proves disruptive AI is still bucking the trend and attracting serious investment."
+        ],
+        "sentenceTranslations": [
+          "마이크로소프트의 Azure AI Edge 플랫폼은 전 세계 생산성에 엄청난 영향을 미칠 준비가 되어 있으며, AI의 혁신적인 잠재력을 보여줍니다.",
+          "하지만 지정학적 긴장이 반도체와 같은 일부 산업에 찬물을 끼얹을 위협을 하는 와중에도, 시냅티코어의 최근 투자 유치는 파괴적 AI가 여전히 추세에 역행하며 상당한 투자를 유치하고 있음을 증명합니다."
+        ],
+        "translationHighlights": [
+          "엄청난 영향을 미칠",
+          "찬물을 끼얹을",
+          "추세에 역행하며",
+          "상당한 투자를 유치하고 있음을"
+        ],
+        "newWords": [
+          {
+            "word": "move the needle",
+            "meaning": "상당한 영향을 미치다, 눈에 띄는 변화를 가져오다 (특히 사업이나 상황에서)",
+            "context": "poised to move the needle for global productivity"
+          },
+          {
+            "word": "put a damper on",
+            "meaning": "찬물을 끼얹다, 분위기를 망치다, 열기를 식히다",
+            "context": "threaten to put a damper on some sectors"
+          },
+          {
+            "word": "bucking the trend",
+            "meaning": "추세에 역행하다, 일반적인 경향과 반대되다",
+            "context": "AI is still bucking the trend"
+          }
+        ]
+      },
       {
         "sentences": [
           "Anthropic's latest Claude 4 model certainly raises the stakes in the generative AI race, yet investor skepticism about immediate profitability suggests many are still waiting for the other shoe to drop regarding current tech valuations.",
@@ -11758,6 +11819,36 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "With robust demand fueling their decision, Singapore Airlines is clearly striking while the iron is hot by boosting direct flights to new European destinations like Manchester and Copenhagen.",
+          "This strategic expansion, coupled with the EU's push to ease visa processes for certain ASEAN states, suggests Europe is poised to get a bigger slice of the pie from the booming global tourism market."
+        ],
+        "sentenceTranslations": [
+          "탄탄한 수요에 힘입어 싱가포르 항공은 맨체스터와 코펜하겐 같은 새로운 유럽 노선 직항편을 증편하며 분명히 기회를 놓치지 않고 있습니다.",
+          "이러한 전략적 확장과 특정 아세안 국가에 대한 EU의 비자 절차 간소화 추진은 유럽이 급성장하는 세계 관광 시장에서 더 큰 몫을 차지할 준비가 되어 있다는 것을 시사합니다."
+        ],
+        "translationHighlights": [
+          "탄탄한 수요에 힘입어",
+          "기회를 놓치지 않고 있습니다",
+          "직항편을 증편하며",
+          "비자 절차 간소화 추진",
+          "더 큰 몫을 차지할 준비가 되어 있다",
+          "급성장하는 세계 관광 시장"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회가 왔을 때 놓치지 않고 즉시 행동하다",
+            "context": "Singapore Airlines is clearly **striking while the iron is hot** by boosting direct flights"
+          },
+          {
+            "word": "get a bigger slice of the pie",
+            "meaning": "더 큰 몫(점유율, 이익 등)을 차지하다",
+            "context": "Europe is poised to **get a bigger slice of the pie** from the booming global tourism market"
+          }
+        ]
+      },
       {
         "sentences": [
           "The robust tourism growth in Southeast Asia, while a feather in the cap for local economies, presents a double-edged sword as destinations like Venice struggle to manage overwhelming visitor numbers.",
