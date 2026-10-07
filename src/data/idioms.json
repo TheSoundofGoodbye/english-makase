@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Novo Nordisk's Wegovy is truly changing the game in global health, with its unprecedented demand fundamentally reshaping approaches to weight management.",
+          "However, this rapid shift is poised to open a can of worms as societies grapple with its wider economic impact, from food consumption patterns to insurance premiums."
+        ],
+        "sentenceTranslations": [
+          "노보 노디스크의 위고비는 전례 없는 수요로 인해 전 세계적인 보건 분야의 판도를 완전히 바꾸고 있으며, 체중 관리에 대한 접근 방식을 근본적으로 재편하고 있습니다.",
+          "하지만 이러한 급격한 변화는 식량 소비 패턴부터 보험료에 이르기까지 더 광범위한 경제적 영향에 대해 사회가 고심하면서 예상치 못한 복잡한 문제들을 야기할 것으로 보입니다."
+        ],
+        "translationHighlights": [
+          "판도를 완전히 바꾸고",
+          "예상치 못한 복잡한 문제들을 야기할 것",
+          "고심하면서"
+        ],
+        "newWords": [
+          {
+            "word": "changing the game",
+            "meaning": "판도를 바꾸다, 상황을 완전히 뒤바꾸다",
+            "context": "Novo Nordisk's Wegovy is truly **changing the game** in global health..."
+          },
+          {
+            "word": "open a can of worms",
+            "meaning": "예상치 못한 복잡한 문제들을 야기하다, 골칫거리가 될 만한 문제를 건드리다",
+            "context": "...this rapid shift is poised to **open a can of worms** as societies grapple..."
+          },
+          {
+            "word": "grapple with",
+            "meaning": "~와 씨름하다, 고심하다",
+            "context": "...as societies **grapple with** its wider economic impact..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With inflation making it tough for many households to keep their heads above water, Fidelity Foresight could be seen as a tempting lifeline.",
           "However, given the privacy concerns and the significant confidence gap, many are still hesitant to take a leap of faith with their sensitive financial data."
         ],
