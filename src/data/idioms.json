@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The Pew Research report highlights how Gen Z's growing reliance on AI chatbots is truly blurring the lines between genuine human connection and algorithmic empathy.",
+          "This shift, alongside dating apps trying to \"read between the lines\" of user communication, presents psychologists with a serious challenge to get a handle on."
+        ],
+        "sentenceTranslations": [
+          "퓨리서치 보고서에 따르면, Z세대가 AI 챗봇에 점점 더 의존하는 현상은 진정한 인간적 교류와 알고리즘적 공감 사이의 경계를 정말로 모호하게 만들고 있습니다.",
+          "이러한 변화는 데이팅 앱들이 사용자 소통의 '숨은 의미'를 파악하려 노력하는 것과 맞물려, 심리학자들이 제대로 이해하고 다루기 힘든 심각한 과제를 안겨주고 있습니다."
+        ],
+        "translationHighlights": [
+          "경계를 모호하게 만들고 있습니다",
+          "숨은 의미",
+          "제대로 이해하고 다루기 힘든",
+          "심각한 과제"
+        ],
+        "newWords": [
+          {
+            "word": "blurring the lines",
+            "meaning": "경계를 모호하게 하다, ~의 구분이 흐려지다",
+            "context": "truly blurring the lines between"
+          },
+          {
+            "word": "read between the lines",
+            "meaning": "(글이나 말의) 숨은 의미를 파악하다, 행간을 읽다",
+            "context": "trying to \"read between the lines\""
+          },
+          {
+            "word": "get a handle on",
+            "meaning": "~을 이해하다, ~을 통제하다, ~을 다루는 법을 배우다",
+            "context": "challenge to get a handle on"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Novo Nordisk's Wegovy is truly changing the game in global health, with its unprecedented demand fundamentally reshaping approaches to weight management.",
           "However, this rapid shift is poised to open a can of worms as societies grapple with its wider economic impact, from food consumption patterns to insurance premiums."
         ],
@@ -5926,6 +5959,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "The European Commission's push for stricter AI Act guidelines threatens to throw a wrench in the works for tech giants, creating significant compliance hurdles in the European market.",
+          "However, Nvidia continues to ride the crest of a wave with its booming data center revenue, largely bucking the trend of cautious broader market sentiment."
+        ],
+        "sentenceTranslations": [
+          "유럽연합 집행위원회가 더 엄격한 AI 법안 지침을 추진하면서, 거대 기술 기업들에게는 유럽 시장에서 상당한 규제 준수 장애물을 만들며 계획에 차질을 줄 위협이 되고 있습니다.",
+          "하지만 엔비디아는 폭발적인 데이터 센터 매출로 최고의 성공을 구가하며, 전반적으로 신중한 시장 분위기에도 불구하고 흐름을 역행하는 모습을 보이고 있습니다."
+        ],
+        "translationHighlights": [
+          "계획에 차질을 줄",
+          "최고의 성공을 구가하며",
+          "흐름을 역행하는"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다, 진행을 방해하다",
+            "context": "threatens to throw a wrench in the works"
+          },
+          {
+            "word": "ride the crest of a wave",
+            "meaning": "최고의 성공을 구가하다, 절정기를 맞다",
+            "context": "continues to ride the crest of a wave"
+          },
+          {
+            "word": "bucking the trend",
+            "meaning": "흐름을 역행하다, 대세와 반대되다",
+            "context": "largely bucking the trend"
+          }
+        ]
+      },
       {
         "sentences": [
           "Microsoft's Azure AI Edge platform is truly poised to move the needle for global productivity, demonstrating AI's transformative potential.",
@@ -11853,6 +11918,34 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "United Airlines is clearly striking while the iron is hot, rolling out direct routes to Marrakech to meet the burgeoning demand for unique cultural experiences.",
+          "Indeed, savvy airlines and tour operators are reading the tea leaves, noting the surge in sustainable bookings and the sheer volume of ETIAS applications, signaling a clear shift in traveler preferences."
+        ],
+        "sentenceTranslations": [
+          "유나이티드 항공은 독특한 문화 체험에 대한 급증하는 수요를 충족하기 위해 마라케시 직항 노선을 개설하며, 분명 기회를 놓치지 않고 행동하고 있습니다.",
+          "실제로, 현명한 항공사와 여행사들은 지속 가능한 여행 예약의 급증과 엄청난 양의 ETIAS 신청 건수를 통해 여행객 선호도의 명확한 변화를 미리 감지하고 있습니다."
+        ],
+        "translationHighlights": [
+          "기회를 놓치지 않고 행동하고 있습니다",
+          "급증하는 수요를 충족하기 위해",
+          "미리 감지하고 있습니다",
+          "여행객 선호도의 명확한 변화"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회를 놓치지 않고 행동하다, 때를 놓치지 않고 기회를 잡다",
+            "context": "striking while the iron is hot, rolling out direct routes"
+          },
+          {
+            "word": "read the tea leaves",
+            "meaning": "현재 징후로 미래를 예측하다, 동향을 파악하다",
+            "context": "savvy airlines and tour operators are reading the tea leaves"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With robust demand fueling their decision, Singapore Airlines is clearly striking while the iron is hot by boosting direct flights to new European destinations like Manchester and Copenhagen.",
           "This strategic expansion, coupled with the EU's push to ease visa processes for certain ASEAN states, suggests Europe is poised to get a bigger slice of the pie from the booming global tourism market."
         ],
@@ -17681,6 +17774,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "G2 Esports' surprising upset over fan-favorite Gen.G at the League of Legends World Championship *sent shockwaves* through the esports community, proving they're truly a dark horse with momentum.",
+          "This intense digital spectacle contrasts sharply with the growing trend of 'forest bathing,' where city dwellers are keen to *unplug and recharge their batteries*, seeking mindful escapes from the very digital fatigue high-stakes gaming can contribute to."
+        ],
+        "sentenceTranslations": [
+          "G2 Esports가 팬들의 사랑을 받는 Gen.G를 상대로 LoL 월드 챔피언십에서 예상 밖의 승리를 거두며 e스포츠 커뮤니티에 *큰 충격을 주었고*, 그들이 진정한 다크호스임을 입증했습니다.",
+          "이러한 강렬한 디지털 스펙터클은 '숲 치유'의 증가하는 추세와 뚜렷한 대조를 이룹니다. 도시 거주자들은 고위험 게임이 유발할 수 있는 바로 그 디지털 피로에서 벗어나기 위해 마음 챙김을 통해 *일상에서 벗어나 재충전하기*를 열망하고 있습니다."
+        ],
+        "translationHighlights": [
+          "큰 충격을 주었고",
+          "예상 밖의 승리",
+          "일상에서 벗어나 재충전하기",
+          "디지털 피로"
+        ],
+        "newWords": [
+          {
+            "word": "send shockwaves",
+            "meaning": "큰 충격을 주다; (어떤 사건이) 엄청난 파장을 일으키다",
+            "context": "G2 Esports' surprising upset ... *sent shockwaves* through the esports community"
+          },
+          {
+            "word": "unplug and recharge their batteries",
+            "meaning": "일상에서 벗어나 쉬며 재충전하다; 긴장을 풀고 활력을 되찾다",
+            "context": "city dwellers are keen to *unplug and recharge their batteries*"
+          }
+        ]
+      },
       {
         "sentences": [
           "Rookie Julio Rodriguez truly came through in the clutch with his game-winning homer, proving he's built for playoff pressure.",
