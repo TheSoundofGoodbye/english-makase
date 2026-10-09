@@ -3,6 +3,33 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The sheer volume of patient queries about AI-generated health plans is proving to be the writing on the wall for traditional healthcare, signaling an undeniable shift.",
+          "As such, healthcare providers are now scrambling to get up to speed on how best to integrate these digital tools without compromising patient care and privacy."
+        ],
+        "sentenceTranslations": [
+          "AI가 생성한 건강 계획에 대한 환자 문의가 엄청나게 늘어나면서, 이는 전통적인 의료 시스템에 대한 명백한 변화의 전조가 되고 있습니다.",
+          "따라서, 의료 제공자들은 환자 치료와 프라이버시를 침해하지 않으면서 이러한 디지털 도구를 통합하는 최선의 방법에 대해 빠르게 파악하고 적응하기 위해 애쓰고 있습니다."
+        ],
+        "translationHighlights": [
+          "명백한 변화의 전조",
+          "빠르게 파악하고 적응하기 위해 애쓰고 있습니다",
+          "침해하지 않으면서"
+        ],
+        "newWords": [
+          {
+            "word": "the writing on the wall",
+            "meaning": "곧 닥칠 안 좋은 일이나 큰 변화를 나타내는 명백한 징후/전조",
+            "context": "proving to be the writing on the wall for traditional healthcare"
+          },
+          {
+            "word": "get up to speed",
+            "meaning": "최신 정보나 상황을 빠르게 파악하고 이해하다, 적응하다",
+            "context": "scrambling to get up to speed on how best to integrate these digital tools"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The Pew Research report highlights how Gen Z's growing reliance on AI chatbots is truly blurring the lines between genuine human connection and algorithmic empathy.",
           "This shift, alongside dating apps trying to \"read between the lines\" of user communication, presents psychologists with a serious challenge to get a handle on."
         ],
@@ -5959,6 +5986,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "While AI-focused firms are clearly riding the crest of a wave this earnings season, particularly those in data center AI chips, persistent geopolitical tensions could throw a wrench in the works for broader economic stability.",
+          "Consequently, many venture capitalists are now diligently reading the tea leaves, hesitant to commit significant capital beyond the AI boom given the cautious global outlook."
+        ],
+        "sentenceTranslations": [
+          "AI 중심 기업, 특히 데이터 센터 AI 칩 기업들이 이번 어닝 시즌에 확실히 승승장구하고 있지만, 지속되는 지정학적 긴장은 더 넓은 경제 안정성에 제동을 걸 수 있습니다.",
+          "결과적으로, 많은 벤처 투자가들은 현재 신중하게 시장 상황을 분석하며, 조심스러운 글로벌 경제 전망을 고려할 때 AI 붐을 넘어서는 대규모 투자를 망설이고 있습니다."
+        ],
+        "translationHighlights": [
+          "승승장구하고 있지만",
+          "제동을 걸 수 있습니다",
+          "신중하게 시장 상황을 분석하며",
+          "대규모 투자를 망설이고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "승승장구하다, 성공의 절정에 있다",
+            "context": "AI-focused firms are clearly riding the crest of a wave"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "(계획, 진행 등에) 제동을 걸다, 방해하다",
+            "context": "geopolitical tensions could throw a wrench in the works"
+          },
+          {
+            "word": "reading the tea leaves",
+            "meaning": "(미래나 상황을) 예측하다, 징후를 읽다",
+            "context": "many venture capitalists are now diligently reading the tea leaves"
+          }
+        ]
+      },
       {
         "sentences": [
           "The European Commission's push for stricter AI Act guidelines threatens to throw a wrench in the works for tech giants, creating significant compliance hurdles in the European market.",
@@ -11918,6 +11978,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The Thai Tourism Authority's success with its Digital Nomad Visa has clearly put Chiang Mai and Phuket on the map for long-stay visitors, though Japan's concerns about increasing foot traffic remind us that such popularity can be a double-edged sword.",
+          "To ensure a sustainable future for tourism and avoid having a fly in the ointment in their recovery, Japan is striving to get ahead of the curve by exploring advanced reservation systems for heritage sites."
+        ],
+        "sentenceTranslations": [
+          "태국 관광청의 디지털 유목민 비자 성공은 치앙마이와 푸켓을 장기 체류 방문객들에게 확실히 알려지게 만들었지만, 증가하는 유동 인구에 대한 일본의 우려는 그러한 인기가 양날의 검이 될 수 있음을 상기시킵니다.",
+          "관광의 지속 가능한 미래를 보장하고 회복 과정에서 옥에 티를 만들지 않기 위해, 일본은 유적지 예약 시스템을 탐색하며 미리 대책을 마련하려고 노력하고 있습니다."
+        ],
+        "translationHighlights": [
+          "알려지게 만들었지만",
+          "양날의 검",
+          "옥에 티를 만들지 않기 위해",
+          "미리 대책을 마련하려고"
+        ],
+        "newWords": [
+          {
+            "word": "put [something/someone] on the map",
+            "meaning": "~을 유명하게 만들다, 잘 알려지게 하다",
+            "context": "put Chiang Mai and Phuket on the map"
+          },
+          {
+            "word": "double-edged sword",
+            "meaning": "양날의 검 (장점과 단점을 동시에 지닌 것)",
+            "context": "can be a double-edged sword"
+          },
+          {
+            "word": "get ahead of the curve",
+            "meaning": "미리 대비하다, 시대를 앞서가다",
+            "context": "get ahead of the curve"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "United Airlines is clearly striking while the iron is hot, rolling out direct routes to Marrakech to meet the burgeoning demand for unique cultural experiences.",
           "Indeed, savvy airlines and tour operators are reading the tea leaves, noting the surge in sustainable bookings and the sheer volume of ETIAS applications, signaling a clear shift in traveler preferences."
         ],
@@ -17774,6 +17867,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The League of Legends World Championship quarterfinals had fans on the edge of their seats, especially as Korean giants T1 pulled off a thrilling 3-2 upset against G2 Esports.",
+          "This intense competition, coupled with viewership records going through the roof, shows the event is truly hitting it out of the park for the global esports community."
+        ],
+        "sentenceTranslations": [
+          "리그 오브 레전드 월드 챔피언십 8강전은 특히 한국의 T1이 G2 이스포츠를 상대로 손에 땀을 쥐게 하는 3대2 역전승을 거두면서 팬들을 숨죽이며 지켜보게 만들었습니다.",
+          "이러한 치열한 경쟁과 더불어 시청률이 폭발적으로 급증하면서, 이 행사가 전 세계 e스포츠 커뮤니티에서 정말 대박을 터뜨리고 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "숨죽이며 지켜보게 만들었습니다",
+          "손에 땀을 쥐게 하는 3대2 역전승",
+          "시청률이 폭발적으로 급증하면서",
+          "정말 대박을 터뜨리고 있음을"
+        ],
+        "newWords": [
+          {
+            "word": "on the edge of one's seat",
+            "meaning": "매우 흥분하거나 긴장하여 결과가 어떻게 될지 숨죽이며 지켜보는",
+            "context": "had fans on the edge of their seats"
+          },
+          {
+            "word": "going through the roof",
+            "meaning": "물가, 수치, 인기 등이 폭발적으로 오르다, 급증하다",
+            "context": "viewership records going through the roof"
+          },
+          {
+            "word": "hitting it out of the park",
+            "meaning": "큰 성공을 거두다, 매우 잘 해내다 (야구 홈런에 비유)",
+            "context": "truly hitting it out of the park"
+          }
+        ]
+      },
       {
         "sentences": [
           "G2 Esports' surprising upset over fan-favorite Gen.G at the League of Legends World Championship *sent shockwaves* through the esports community, proving they're truly a dark horse with momentum.",
