@@ -5988,6 +5988,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "As the AI landscape sees aggressive M&A and tightening VC funding, this period will inevitably **separate the wheat from the chaff** among smaller AI startups, pushing many to the brink.",
+          "Those unable to **weather the storm** of reduced investment and intense competition might find themselves quickly marginalized."
+        ],
+        "sentenceTranslations": [
+          "AI 산업에서 공격적인 인수합병과 벤처 캐피탈 자금 조달의 긴축이 심화됨에 따라, 이 시기는 소규모 AI 스타트업들 사이에서 결국 **옥석을 가리게** 될 것이며, 많은 기업들을 벼랑 끝으로 내몰 것입니다.",
+          "투자 감소와 치열한 경쟁이라는 **어려움을 이겨내지** 못하는 기업들은 빠르게 소외될 수 있습니다."
+        ],
+        "translationHighlights": [
+          "옥석을 가리게",
+          "벼랑 끝으로 내몰 것입니다",
+          "어려움을 이겨내지",
+          "빠르게 소외될 수 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "separate the wheat from the chaff",
+            "meaning": "옥석을 가리다 (가치 있는 것과 없는 것을 구분하다)",
+            "context": "this period will inevitably **separate the wheat from the chaff** among smaller AI startups"
+          },
+          {
+            "word": "weather the storm",
+            "meaning": "어려움을 이겨내다 (힘든 시기를 견뎌내다)",
+            "context": "Those unable to **weather the storm** of reduced investment"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While AI-focused firms are clearly riding the crest of a wave this earnings season, particularly those in data center AI chips, persistent geopolitical tensions could throw a wrench in the works for broader economic stability.",
           "Consequently, many venture capitalists are now diligently reading the tea leaves, hesitant to commit significant capital beyond the AI boom given the cautious global outlook."
         ],
