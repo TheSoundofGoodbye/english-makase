@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With AI ethics and data privacy becoming such a hot-button issue, many users are starting to feel like they're just grist for the mill for big tech companies.",
+          "That's why movements like 'decentralized social' are gaining traction; people are looking to cut the apron strings with ad-driven platforms and reclaim their digital autonomy."
+        ],
+        "sentenceTranslations": [
+          "AI 윤리와 데이터 프라이버시가 초미의 관심사로 떠오르면서, 많은 사용자들은 자신들이 거대 기술 기업의 단순한 수익 수단에 불과하다고 느끼기 시작했습니다.",
+          "그래서 '탈중앙화 소셜'과 같은 움직임이 주목받는 것입니다. 사람들은 광고 기반 플랫폼과의 관계를 끊고 디지털 자율성을 되찾으려 합니다."
+        ],
+        "translationHighlights": [
+          "초미의 관심사로 떠오르면서",
+          "수익 수단에 불과하다고",
+          "관계를 끊고"
+        ],
+        "newWords": [
+          {
+            "word": "hot-button issue",
+            "meaning": "뜨거운 쟁점, 초미의 관심사",
+            "context": "becoming such a hot-button issue"
+          },
+          {
+            "word": "grist for the mill",
+            "meaning": "~의 좋은 재료/수단 (특히 착취적인 의미), 이용거리",
+            "context": "just grist for the mill for big tech companies"
+          },
+          {
+            "word": "cut the apron strings",
+            "meaning": "독립하다, 관계를 끊다",
+            "context": "looking to cut the apron strings with ad-driven platforms"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The sheer volume of patient queries about AI-generated health plans is proving to be the writing on the wall for traditional healthcare, signaling an undeniable shift.",
           "As such, healthcare providers are now scrambling to get up to speed on how best to integrate these digital tools without compromising patient care and privacy."
         ],
@@ -5986,6 +6018,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Nvidia's €15 billion partnership with Germany clearly shows that major players are pulling out all the stops in the global race for AI supremacy.",
+          "Indeed, this aggressive move effectively raises the stakes for other nations, highlighting that digital sovereignty is quickly becoming the new battleground for economic security."
+        ],
+        "sentenceTranslations": [
+          "엔비디아가 독일과 체결한 150억 유로 규모의 파트너십은 주요 기업들이 AI 주도권을 확보하기 위한 글로벌 경쟁에서 총력을 기울이고 있음을 분명히 보여줍니다.",
+          "실제로, 이 공격적인 움직임은 다른 국가들의 판돈을 키우는 효과를 가져오며, 디지털 주권이 경제 안보를 위한 새로운 격전지가 되고 있음을 강조합니다."
+        ],
+        "translationHighlights": [
+          "총력을 기울이고 있음",
+          "AI 주도권을 확보하기 위한 글로벌 경쟁",
+          "판돈을 키우는",
+          "새로운 격전지"
+        ],
+        "newWords": [
+          {
+            "word": "pulling out all the stops",
+            "meaning": "총력을 기울이다, 모든 수단을 동원하다",
+            "context": "major players are **pulling out all the stops** in the global race for AI supremacy"
+          },
+          {
+            "word": "raises the stakes",
+            "meaning": "판돈을 키우다, (상황의) 중요성이나 위험성을 높이다",
+            "context": "this aggressive move effectively **raises the stakes** for other nations"
+          }
+        ]
+      },
       {
         "sentences": [
           "As the AI landscape sees aggressive M&A and tightening VC funding, this period will inevitably **separate the wheat from the chaff** among smaller AI startups, pushing many to the brink.",
@@ -12006,6 +12066,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Saudi Arabia's 'Red Sea Explorer' visa is poised to open the floodgates for tourism, perfectly tapping into travelers' desire to explore destinations off the beaten path.",
+          "This strategic move by the Kingdom could truly change the landscape of winter travel, making unique adventure experiences a major draw for the upcoming season."
+        ],
+        "sentenceTranslations": [
+          "사우디아라비아의 '홍해 탐험가' 비자는 관광객 유입의 봇물을 터뜨릴 준비가 되어 있으며, '잘 알려지지 않은' 목적지를 탐험하고자 하는 여행객들의 욕구를 완벽하게 공략하고 있습니다.",
+          "왕국의 이러한 전략적인 움직임은 겨울 여행의 '판도를 완전히 바꿀' 수 있으며, 독특한 모험 경험을 다가오는 시즌의 주요 명소로 만들 것입니다."
+        ],
+        "translationHighlights": [
+          "봇물을 터뜨릴",
+          "잘 알려지지 않은",
+          "판도를 완전히 바꿀"
+        ],
+        "newWords": [
+          {
+            "word": "open the floodgates",
+            "meaning": "물꼬를 트다, 봇물이 터지게 하다 (대량 유입을 허용하다)",
+            "context": "is poised to open the floodgates for tourism"
+          },
+          {
+            "word": "off the beaten path",
+            "meaning": "잘 알려지지 않은, 인적이 드문 (독특하거나 모험적인 장소를 의미)",
+            "context": "explore destinations off the beaten path"
+          },
+          {
+            "word": "change the landscape",
+            "meaning": "판도를 바꾸다, 상황을 근본적으로 변화시키다",
+            "context": "could truly change the landscape of winter travel"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The Thai Tourism Authority's success with its Digital Nomad Visa has clearly put Chiang Mai and Phuket on the map for long-stay visitors, though Japan's concerns about increasing foot traffic remind us that such popularity can be a double-edged sword.",
           "To ensure a sustainable future for tourism and avoid having a fly in the ointment in their recovery, Japan is striving to get ahead of the curve by exploring advanced reservation systems for heritage sites."
         ],
@@ -17895,6 +17987,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With the LoL World Championship Quarterfinals reaching a fever pitch, players like Chovy are facing do-or-die moments in every single match.",
+          "This palpable tension, mirrored by the MLS playoffs keeping fans on the edge of their seats, truly highlights the surge in sports engagement."
+        ],
+        "sentenceTranslations": [
+          "LoL 월드 챔피언십 8강전이 최고조에 달하면서, 'Chovy' 같은 선수들은 매 경기마다 사활을 걸어야 하는 순간에 직면하고 있습니다.",
+          "MLS 플레이오프가 팬들을 좌불안석하게 만드는 것과 같이, 이 생생한 긴장감은 스포츠 참여가 급증하고 있음을 여실히 보여줍니다."
+        ],
+        "translationHighlights": [
+          "최고조에 달하면서",
+          "사활을 걸어야 하는 순간",
+          "좌불안석하게 만드는 것과 같이"
+        ],
+        "newWords": [
+          {
+            "word": "at a fever pitch",
+            "meaning": "최고조에 달하여; 극도로 흥분하여",
+            "context": "reaching a fever pitch"
+          },
+          {
+            "word": "do-or-die moments",
+            "meaning": "사활이 걸린 순간; 성패가 달린 중대한 순간",
+            "context": "facing do-or-die moments"
+          },
+          {
+            "word": "on the edge of one's seat",
+            "meaning": "몹시 긴장하여[흥분하여] 지켜보는",
+            "context": "keeping fans on the edge of their seats"
+          }
+        ]
+      },
       {
         "sentences": [
           "The League of Legends World Championship quarterfinals had fans on the edge of their seats, especially as Korean giants T1 pulled off a thrilling 3-2 upset against G2 Esports.",
