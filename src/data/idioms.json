@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Amid persistent economic uncertainty, Gen Z and millennials are really feeling the pinch, driving them towards innovative tools like WealthWise AI.",
+          "These platforms act as a proactive financial co-pilot, helping users get their ducks in a row and navigate the tricky waters of fluctuating interest rates."
+        ],
+        "sentenceTranslations": [
+          "지속적인 경제 불확실성 속에서 Z세대와 밀레니얼 세대는 정말 재정적인 어려움을 겪고 있으며, 이는 그들을 WealthWise AI와 같은 혁신적인 도구로 이끌고 있습니다.",
+          "이러한 플랫폼은 선제적인 금융 부조종사 역할을 하여, 사용자들이 재정을 정리하고 변동하는 금리라는 험난한 파고를 헤쳐나가는 데 도움을 줍니다."
+        ],
+        "translationHighlights": [
+          "재정적인 어려움을 겪고 있으며",
+          "재정을 정리하고",
+          "험난한 파고를 헤쳐나가는 데"
+        ],
+        "newWords": [
+          {
+            "word": "feeling the pinch",
+            "meaning": "재정적인 어려움을 겪다, 긴축하다",
+            "context": "Gen Z and millennials are really feeling the pinch"
+          },
+          {
+            "word": "get their ducks in a row",
+            "meaning": "모든 준비를 마치다, 재정을 정리하다",
+            "context": "helping users get their ducks in a row"
+          },
+          {
+            "word": "navigate the tricky waters",
+            "meaning": "어려운 상황/위험한 난관을 헤쳐나가다",
+            "context": "navigate the tricky waters of fluctuating interest rates"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With AI ethics and data privacy becoming such a hot-button issue, many users are starting to feel like they're just grist for the mill for big tech companies.",
           "That's why movements like 'decentralized social' are gaining traction; people are looking to cut the apron strings with ad-driven platforms and reclaim their digital autonomy."
         ],
@@ -6018,6 +6050,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "With the US inflation data keenly awaited, many investors are feeling like they're walking on eggshells, unsure how it will impact global markets.",
+          "Consequently, venture capital firms are now separating the wheat from the chaff, scrutinizing early-stage AI startups for proven revenue models before committing funds."
+        ],
+        "sentenceTranslations": [
+          "미국 인플레이션 데이터 발표가 초미의 관심사로 떠오르면서, 많은 투자자들이 글로벌 시장에 미칠 영향에 대한 불확실성 때문에 잔뜩 조심하는 분위기입니다.",
+          "그 결과, 벤처 캐피탈 회사들은 이제 옥석을 가려내며, 초기 단계 AI 스타트업들의 자금 지원을 결정하기 전에 입증된 수익 모델을 더욱 면밀히 검토하고 있습니다."
+        ],
+        "translationHighlights": [
+          "초미의 관심사로 떠오르면서",
+          "잔뜩 조심하는 분위기",
+          "옥석을 가려내며",
+          "입증된 수익 모델"
+        ],
+        "newWords": [
+          {
+            "word": "walking on eggshells",
+            "meaning": "잔뜩 조심하며 행동하다, 살얼음판을 걷다 (매우 조심스럽거나 민감한 상황에 놓여있음을 비유)",
+            "context": "feeling like they're walking on eggshells"
+          },
+          {
+            "word": "separate the wheat from the chaff",
+            "meaning": "옥석을 가려내다, 좋은 것과 나쁜 것을 구분하다 (가치 있거나 유용한 것을 그렇지 않은 것과 구별하다)",
+            "context": "separating the wheat from the chaff"
+          }
+        ]
+      },
       {
         "sentences": [
           "Nvidia's €15 billion partnership with Germany clearly shows that major players are pulling out all the stops in the global race for AI supremacy.",
@@ -12064,6 +12124,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Bhutan's strategic shift to a tiered SDF structure is blazing a trail for high-value, low-impact tourism, prompting discussions among its neighbors.",
+          "This focus on quality over quantity demonstrates that the writing is on the wall for mass tourism, as bespoke experiential journeys are quickly becoming the name of the game."
+        ],
+        "sentenceTranslations": [
+          "부탄이 단계별 지속가능발전수수료(SDF) 구조로 전략적인 전환을 한 것은 고가치 저영향 관광의 선구적인 길을 열고 있으며, 주변국들 사이에서 논의를 촉발하고 있습니다.",
+          "양보다는 질에 집중하는 이러한 접근 방식은 대량 관광의 미래가 정해져 있음을 보여주며, 맞춤형 경험 여행이 빠르게 가장 중요한 요소가 되고 있음을 시사합니다."
+        ],
+        "translationHighlights": [
+          "선구적인 길을 열고",
+          "고가치 저영향 관광",
+          "미래가 정해져 있음",
+          "가장 중요한 요소"
+        ],
+        "newWords": [
+          {
+            "word": "blazing a trail",
+            "meaning": "선구적인 길을 열다, 새롭고 중요한 일을 시작하다",
+            "context": "is blazing a trail for high-value"
+          },
+          {
+            "word": "the writing is on the wall",
+            "meaning": "(불길한) 미래가 정해져 있다, 피할 수 없는 결과가 명확하다",
+            "context": "the writing is on the wall for mass tourism"
+          },
+          {
+            "word": "the name of the game",
+            "meaning": "가장 중요한 요소, 핵심적인 목표/원칙",
+            "context": "becoming the name of the game"
+          }
+        ]
+      },
       {
         "sentences": [
           "Saudi Arabia's 'Red Sea Explorer' visa is poised to open the floodgates for tourism, perfectly tapping into travelers' desire to explore destinations off the beaten path.",
