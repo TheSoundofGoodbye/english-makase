@@ -6052,6 +6052,34 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The European Commission's enforcement of the AI Act will undoubtedly tighten the screws on U.S. tech giants, compelling them to overhaul their market entry strategies within the bloc.",
+          "With persistent supply chain bottlenecks also weighing heavily, these companies now find themselves between a rock and a hard place, balancing compliance costs with the urgent need to meet soaring AI accelerator demand."
+        ],
+        "sentenceTranslations": [
+          "유럽연합 집행위원회의 AI 법안 시행은 분명히 미국 거대 기술 기업들에게 압박을 가하여, 해당 기업들이 유럽 시장 진출 전략을 전면 재정비하도록 만들 것입니다.",
+          "지속적인 공급망 병목 현상 또한 큰 부담이 되는 가운데, 이들 기업들은 이제 진퇴양난에 처하여, 규제 준수 비용과 급증하는 AI 가속기 수요를 충족시켜야 하는 절박한 필요성 사이에서 균형을 잡아야 합니다."
+        ],
+        "translationHighlights": [
+          "압박을 가하여",
+          "전면 재정비하도록 만들 것입니다",
+          "진퇴양난에 처하여",
+          "균형을 잡아야 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "tighten the screws",
+            "meaning": "압박을 가하다, 조건을 더 엄격하게 하다",
+            "context": "undoubtedly tighten the screws on U.S. tech giants"
+          },
+          {
+            "word": "between a rock and a hard place",
+            "meaning": "진퇴양난에 처하다, 딜레마에 빠지다",
+            "context": "find themselves between a rock and a hard place"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With the US inflation data keenly awaited, many investors are feeling like they're walking on eggshells, unsure how it will impact global markets.",
           "Consequently, venture capital firms are now separating the wheat from the chaff, scrutinizing early-stage AI startups for proven revenue models before committing funds."
         ],
@@ -12124,6 +12152,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The GCC's new unified visa is expected to open the floodgates for regional tourism, making multi-country itineraries across the Middle East a breeze.",
+          "However, persistent supply chain issues for new aircraft models threaten to throw a wrench in the works, meaning travelers will likely have to dig deep into their pockets for flights well into next year."
+        ],
+        "sentenceTranslations": [
+          "GCC의 새로운 통합 비자는 역내 관광의 물꼬를 틀어, 중동 여러 나라를 아우르는 여행 일정을 아주 쉽게 만들 것으로 기대됩니다.",
+          "하지만, 신형 항공기 모델의 지속적인 공급망 문제는 계획에 차질을 줄 위험이 있어, 여행객들은 내년까지 항공료로 주머니를 깊이 털어야 할 것으로 보입니다."
+        ],
+        "translationHighlights": [
+          "물꼬를 틀어",
+          "아주 쉽게",
+          "계획에 차질을 줄 위험이 있어",
+          "주머니를 깊이 털어야 할 것"
+        ],
+        "newWords": [
+          {
+            "word": "open the floodgates",
+            "meaning": "물꼬를 트다, 대량으로 풀리게 하다/시작하다",
+            "context": "expected to open the floodgates for regional tourism"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 빚게 하다, 방해하다",
+            "context": "threaten to throw a wrench in the works"
+          },
+          {
+            "word": "dig deep into their pockets",
+            "meaning": "돈을 많이 쓰다, 지갑을 많이 열다",
+            "context": "have to dig deep into their pockets for flights"
+          }
+        ]
+      },
       {
         "sentences": [
           "Bhutan's strategic shift to a tiered SDF structure is blazing a trail for high-value, low-impact tourism, prompting discussions among its neighbors.",
