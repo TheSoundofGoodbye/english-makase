@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Pharmaceutical giants, facing an insatiable demand for GLP-1 weight-loss medications, are truly a victim of their own success, struggling to stay ahead of the curve in production.",
+          "This unprecedented demand, coupled with the surge in health-monitoring wearable sales, suggests a future where personalized digital health is clearly the shape of things to come, revolutionizing how we manage our well-being."
+        ],
+        "sentenceTranslations": [
+          "GLP-1 체중 감량 약품에 대한 엄청난 수요에 직면하면서, 제약 대기업들은 사실상 자신들의 성공으로 인해 역설적인 어려움을 겪고 있으며, 생산에 있어 흐름에 뒤처지지 않으려 고군분투하고 있습니다.",
+          "이러한 전례 없는 수요는 건강 모니터링 웨어러블 판매의 급증과 맞물려, 개인 맞춤형 디지털 건강 관리가 분명 앞으로 다가올 미래의 모습이 될 것이며, 우리가 건강을 관리하는 방식을 혁신할 것임을 시사합니다."
+        ],
+        "translationHighlights": [
+          "자신들의 성공으로 인해 역설적인 어려움",
+          "흐름에 뒤처지지 않으려",
+          "앞으로 다가올 미래의 모습"
+        ],
+        "newWords": [
+          {
+            "word": "a victim of their own success",
+            "meaning": "자신들의 성공으로 인해 역설적인 어려움을 겪는 상황 (너무 잘 돼서 오히려 문제)",
+            "context": "are truly a victim of their own success"
+          },
+          {
+            "word": "ahead of the curve",
+            "meaning": "앞서나가다, 흐름을 주도하다 (여기서는 뒤처지지 않으려 노력하다)",
+            "context": "struggling to stay ahead of the curve"
+          },
+          {
+            "word": "the shape of things to come",
+            "meaning": "앞으로 다가올 미래의 모습/경향",
+            "context": "is clearly the shape of things to come"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Amid persistent economic uncertainty, Gen Z and millennials are really feeling the pinch, driving them towards innovative tools like WealthWise AI.",
           "These platforms act as a proactive financial co-pilot, helping users get their ducks in a row and navigate the tricky waters of fluctuating interest rates."
         ],
@@ -6050,6 +6082,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "With its B200 AI GPU pre-orders going through the roof, NVIDIA is clearly riding high, solidifying its market lead as demand remains insatiable.",
+          "However, Goldman Sachs analysts caution that this intense concentration in a few players could come back to bite the broader market down the line, presenting systemic risks."
+        ],
+        "sentenceTranslations": [
+          "B200 AI GPU 사전 주문이 폭등하면서, 엔비디아는 수요가 계속해서 폭발적인 가운데 시장 선두 자리를 굳건히 하며 분명 승승장구하고 있습니다.",
+          "하지만 골드만삭스 애널리스트들은 소수의 플레이어에 대한 이러한 집중이 장기적으로 더 넓은 시장에 시스템적 위험을 안겨 결국 부정적인 영향을 미칠 수 있다고 경고합니다."
+        ],
+        "translationHighlights": [
+          "사전 주문이 폭등하면서",
+          "분명 승승장구하고 있습니다",
+          "결국 부정적인 영향을 미칠 수 있다고"
+        ],
+        "newWords": [
+          {
+            "word": "going through the roof",
+            "meaning": "(가격, 판매량 등이) 폭등하다, 치솟다",
+            "context": "pre-orders going through the roof"
+          },
+          {
+            "word": "riding high",
+            "meaning": "승승장구하다, 성공 가도를 달리다",
+            "context": "NVIDIA is clearly riding high"
+          },
+          {
+            "word": "come back to bite",
+            "meaning": "(과거의 행동 등이) 결국 자신에게 해가 되어 돌아오다, 부메랑이 되다",
+            "context": "could come back to bite the broader market"
+          }
+        ]
+      },
       {
         "sentences": [
           "The European Commission's enforcement of the AI Act will undoubtedly tighten the screws on U.S. tech giants, compelling them to overhaul their market entry strategies within the bloc.",
@@ -12154,6 +12218,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With ETIAS now fully operational, many travelers are essentially skating on thin ice by leaving their applications to the eleventh hour, which could easily throw a wrench in their well-laid travel plans.",
+          "Meanwhile, major carriers are starting to put their money where their mouth is regarding sustainable aviation fuel, understanding that eco-conscious travel is quickly becoming the name of the game for popular destinations."
+        ],
+        "sentenceTranslations": [
+          "ETIAS가 전면 시행되면서, 많은 여행객들이 신청을 마지막 순간까지 미루다가 위험한 상황에 처할 수 있으며, 이는 잘 세워둔 여행 계획에 쉽게 차질을 줄 수 있습니다.",
+          "한편, 주요 항공사들은 지속 가능한 항공 연료에 대해 말로만 그치지 않고 실질적인 투자를 시작하면서, 친환경 여행이 인기 여행지들에게 빠르게 가장 중요한 요소가 되고 있음을 이해하고 있습니다."
+        ],
+        "translationHighlights": [
+          "위험한 상황에 처할 수 있으며",
+          "잘 세워둔 여행 계획에 차질을 줄 수 있습니다",
+          "말로만 그치지 않고 실질적인 투자를 시작하면서",
+          "가장 중요한 요소가 되고 있음을"
+        ],
+        "newWords": [
+          {
+            "word": "skating on thin ice",
+            "meaning": "위험한 상황에 처하다, 위태로운 행동을 하다",
+            "context": "skating on thin ice by leaving their applications"
+          },
+          {
+            "word": "throw a wrench in (something)",
+            "meaning": "계획이나 진행에 차질을 주다, 방해하다",
+            "context": "throw a wrench in their well-laid travel plans"
+          },
+          {
+            "word": "put (one's) money where (one's) mouth is",
+            "meaning": "말로만 하지 않고 실제로 돈을 투자하거나 행동으로 보여주다",
+            "context": "starting to put their money where their mouth is"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The GCC's new unified visa is expected to open the floodgates for regional tourism, making multi-country itineraries across the Middle East a breeze.",
           "However, persistent supply chain issues for new aircraft models threaten to throw a wrench in the works, meaning travelers will likely have to dig deep into their pockets for flights well into next year."
         ],
@@ -18141,6 +18238,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With Juan Soto's game-changing homer, the Yankees truly have the wind at their back heading into Game 5, just one win away from the championship.",
+          "Conversely, the Phillies are now unequivocally up against the ropes, needing to win three straight games to avoid elimination."
+        ],
+        "sentenceTranslations": [
+          "후안 소토의 승부를 가르는 홈런으로, 양키스는 챔피언십까지 단 한 경기만을 남겨둔 채 5차전으로 향하며 정말로 순풍을 타고 있습니다.",
+          "반대로 필리스는 이제 명백히 벼랑 끝에 몰렸으며, 탈락을 피하려면 세 경기를 연달아 이겨야 합니다."
+        ],
+        "translationHighlights": [
+          "순풍을 타고 있습니다",
+          "승부를 가르는",
+          "벼랑 끝에 몰렸으며"
+        ],
+        "newWords": [
+          {
+            "word": "have the wind at one's back",
+            "meaning": "순풍을 타다, 유리한 상황에 놓이다",
+            "context": "the Yankees truly have the wind at their back"
+          },
+          {
+            "word": "game-changing",
+            "meaning": "승부를 가르는, 결정적인 변화를 가져오는",
+            "context": "Juan Soto's game-changing homer"
+          },
+          {
+            "word": "up against the ropes",
+            "meaning": "벼랑 끝에 몰리다, 매우 어려운 상황에 처하다",
+            "context": "the Phillies are now unequivocally up against the ropes"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the LoL World Championship Quarterfinals reaching a fever pitch, players like Chovy are facing do-or-die moments in every single match.",
