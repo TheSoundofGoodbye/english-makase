@@ -6084,6 +6084,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Nvidia's unveiling of the 'Blackhole 100' has definitely thrown down the gauntlet, signaling a fierce new phase in the compute arms race.",
+          "With Goldman Sachs projecting an additional $200 billion in AI infrastructure investment, companies are truly playing for keeps, while the EU steps in to level the playing field regarding anti-competitive practices."
+        ],
+        "sentenceTranslations": [
+          "엔비디아가 '블랙홀 100'을 공개한 것은 분명히 경쟁의 도전장을 던진 셈이며, 컴퓨팅 군비 경쟁의 새로운 격렬한 단계를 예고하고 있습니다.",
+          "골드만삭스가 AI 인프라에 2천억 달러 추가 투자를 전망하면서, 기업들은 정말로 진검승부를 벌이고 있으며, 동시에 EU는 반경쟁적 행위에 대해 공정한 경쟁 환경을 조성하기 위해 개입하고 있습니다."
+        ],
+        "translationHighlights": [
+          "도전장을 던진 셈",
+          "진검승부",
+          "공정한 경쟁 환경을 조성"
+        ],
+        "newWords": [
+          {
+            "word": "throw down the gauntlet",
+            "meaning": "경쟁 상대에게 도전하다, 도전장을 던지다",
+            "context": "Nvidia's unveiling of the 'Blackhole 100' has definitely **thrown down the gauntlet**"
+          },
+          {
+            "word": "play for keeps",
+            "meaning": "진지하게 임하다, 진검승부를 벌이다, 모든 것을 걸고 하다",
+            "context": "companies are truly **playing for keeps**"
+          },
+          {
+            "word": "level the playing field",
+            "meaning": "공정한 경쟁 환경을 조성하다, 동등한 기회를 주다",
+            "context": "the EU steps in to **level the playing field**"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With its B200 AI GPU pre-orders going through the roof, NVIDIA is clearly riding high, solidifying its market lead as demand remains insatiable.",
           "However, Goldman Sachs analysts caution that this intense concentration in a few players could come back to bite the broader market down the line, presenting systemic risks."
         ],
@@ -12216,6 +12248,40 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The full implementation of the EU's ETIAS system is proving to be a bit of a **mixed bag**, with some travelers encountering initial delays despite the agency's smooth processing reports.",
+          "However, this shift is also a boon for emerging destinations, as British Airways is **striking while the iron is hot** by adding routes to places like Tirana, aiming to put more culturally rich, **off the beaten path** locations firmly on the tourist map."
+        ],
+        "sentenceTranslations": [
+          "EU ETIAS 시스템의 전면 시행은 다소 **기대와 우려가 섞인 반응**을 얻고 있는데, 기관 측의 순조로운 처리 보고에도 불구하고 일부 여행객들은 초기 지연을 겪고 있습니다.",
+          "하지만 이러한 변화는 신흥 관광지에는 기회가 되고 있는데, 브리티시 에어웨이가 티라나 같은 곳으로 노선을 추가하며 **적절한 때를 놓치지 않고** 움직여, 문화적으로 풍부하고 **잘 알려지지 않은** 장소들을 관광 지도로 확실히 올리려 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "기대와 우려가 섞인 반응",
+          "초기 지연을 겪고 있습니다",
+          "신흥 관광지에는 기회가",
+          "적절한 때를 놓치지 않고",
+          "잘 알려지지 않은"
+        ],
+        "newWords": [
+          {
+            "word": "mixed bag",
+            "meaning": "좋고 나쁜 점이 뒤섞인 것; 기대와 우려가 섞인 반응",
+            "context": "is proving to be a bit of a mixed bag"
+          },
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "적절한 때를 놓치지 않고 행동하다; 기회를 잡다",
+            "context": "British Airways is striking while the iron is hot"
+          },
+          {
+            "word": "off the beaten path",
+            "meaning": "사람들이 잘 가지 않는 길; 잘 알려지지 않은 곳",
+            "context": "more culturally rich, off the beaten path locations"
+          }
+        ]
+      },
       {
         "sentences": [
           "With ETIAS now fully operational, many travelers are essentially skating on thin ice by leaving their applications to the eleventh hour, which could easily throw a wrench in their well-laid travel plans.",
