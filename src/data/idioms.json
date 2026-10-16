@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The explosive growth of AI finance platforms has many users worried that algorithms are subtly *pulling the strings* of their spending habits, not just offering advice.",
+          "Therefore, advocates insist that clearer data governance is crucial to *nip these privacy concerns in the bud* before they become an even bigger headache."
+        ],
+        "sentenceTranslations": [
+          "AI 금융 플랫폼의 폭발적인 성장은 많은 사용자들에게 알고리즘이 단지 조언을 제공하는 것을 넘어 그들의 소비 습관을 미묘하게 조종하고 있다는 우려를 안겨주고 있습니다.",
+          "따라서 옹호자들은 이러한 사생활 우려가 더 큰 골칫거리가 되기 전에 *미리 해결하기 위해* 명확한 데이터 거버넌스가 필수적이라고 주장합니다."
+        ],
+        "translationHighlights": [
+          "소비 습관을 미묘하게 조종하고 있다",
+          "우려를 안겨주고 있습니다",
+          "더 큰 골칫거리가 되기 전에",
+          "미리 해결하기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "pulling the strings",
+            "meaning": "배후에서 조종하다, 실질적으로 지배하다",
+            "context": "algorithms are subtly *pulling the strings* of their spending habits"
+          },
+          {
+            "word": "nip something in the bud",
+            "meaning": "문제를 초기에 해결하다, 싹을 자르다",
+            "context": "crucial to *nip these privacy concerns in the bud*"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Pharmaceutical giants, facing an insatiable demand for GLP-1 weight-loss medications, are truly a victim of their own success, struggling to stay ahead of the curve in production.",
           "This unprecedented demand, coupled with the surge in health-monitoring wearable sales, suggests a future where personalized digital health is clearly the shape of things to come, revolutionizing how we manage our well-being."
         ],
@@ -6082,6 +6110,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Despite ongoing economic uncertainty leaving many investors on tenterhooks, AI-driven tech stocks like Nvidia are consistently proving they're ahead of the curve.",
+          "Meanwhile, as trade tensions compel businesses to rethink their supply chains, Google DeepMind's latest innovation in ethical AI could ultimately move the needle towards truly global, decentralized intelligence."
+        ],
+        "sentenceTranslations": [
+          "지속적인 경제 불확실성으로 많은 투자자들이 노심초사하는 가운데, Nvidia와 같은 AI 기반 기술주들은 꾸준히 시대를 앞서가고 있음을 증명하고 있습니다.",
+          "한편, 무역 긴장이 기업들로 하여금 공급망을 재고하도록 강제함에 따라, 구글 딥마인드의 윤리적 AI 최신 혁신은 궁극적으로 진정한 글로벌 분산형 인텔리전스를 향해 상황을 진전시킬 수 있습니다."
+        ],
+        "translationHighlights": [
+          "노심초사하는",
+          "시대를 앞서가고 있음",
+          "공급망을 재고하도록 강제함에 따라",
+          "상황을 진전시킬"
+        ],
+        "newWords": [
+          {
+            "word": "on tenterhooks",
+            "meaning": "노심초사하며, 불안해하며",
+            "context": "leaving many investors on tenterhooks"
+          },
+          {
+            "word": "ahead of the curve",
+            "meaning": "시대를 앞서가는, 남들보다 앞서가는",
+            "context": "proving they're ahead of the curve"
+          },
+          {
+            "word": "move the needle",
+            "meaning": "상황을 진전시키다, 상당한 변화를 가져오다",
+            "context": "could ultimately move the needle"
+          }
+        ]
+      },
       {
         "sentences": [
           "Nvidia's unveiling of the 'Blackhole 100' has definitely thrown down the gauntlet, signaling a fierce new phase in the compute arms race.",
