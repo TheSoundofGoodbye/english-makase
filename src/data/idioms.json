@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "JPMorgan's AI-Wealth Navigator is quickly **gaining traction**, especially among younger users eager for automated financial guidance and seeing early savings boosts.",
+          "However, industry experts caution that while it offers benefits, relying solely on AI could be **a double-edged sword**, emphasizing human oversight for ethical and unforeseen market scenarios."
+        ],
+        "sentenceTranslations": [
+          "JP모건의 AI-Wealth Navigator는 특히 자동화된 재정 가이드를 원하고 초기부터 저축 증가를 경험한 젊은 사용자들 사이에서 빠르게 **인기를 얻고 있습니다**.",
+          "하지만 업계 전문가들은 이 도구가 이점을 제공하지만, AI에만 의존하는 것은 **양날의 검**이 될 수 있으며, 윤리적이고 예상치 못한 시장 상황에 대비한 인간의 감독이 중요하다고 경고합니다."
+        ],
+        "translationHighlights": [
+          "빠르게 인기를 얻고 있습니다",
+          "자동화된 재정 가이드",
+          "AI에만 의존하는 것은 양날의 검",
+          "인간의 감독이 중요하다고 경고합니다"
+        ],
+        "newWords": [
+          {
+            "word": "gaining traction",
+            "meaning": "인기를 얻다, 지지를 얻다, 추진력을 얻다",
+            "context": "is quickly gaining traction"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 모두 가짐)",
+            "context": "could be a double-edged sword"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The explosive growth of AI finance platforms has many users worried that algorithms are subtly *pulling the strings* of their spending habits, not just offering advice.",
           "Therefore, advocates insist that clearer data governance is crucial to *nip these privacy concerns in the bud* before they become an even bigger headache."
         ],
@@ -6110,6 +6138,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Amid escalating trade tensions, corporations are reading the tea leaves regarding supply chain vulnerabilities, leading Apple to strategically diversify its iPhone production away from China.",
+          "This proactive move is designed to keep multiple irons in the fire, insulating the company from geopolitical headwinds and ensuring long-term operational resilience."
+        ],
+        "sentenceTranslations": [
+          "고조되는 무역 갈등 속에서 기업들은 공급망 취약성에 대한 미래를 예측하고 있으며, 이로 인해 애플은 아이폰 생산을 중국 밖으로 전략적으로 다변화하고 있습니다.",
+          "이러한 선제적인 조치는 여러 가지 대안을 확보하여 지정학적 역풍으로부터 회사를 보호하고 장기적인 운영 탄력성을 확보하기 위한 것입니다."
+        ],
+        "translationHighlights": [
+          "미래를 예측하고 있으며",
+          "전략적으로 다변화하고 있습니다",
+          "여러 가지 대안을 확보하여",
+          "지정학적 역풍으로부터 회사를 보호하고"
+        ],
+        "newWords": [
+          {
+            "word": "reading the tea leaves",
+            "meaning": "미래를 예측하다 / 징후를 읽다",
+            "context": "corporations are **reading the tea leaves** regarding supply chain vulnerabilities"
+          },
+          {
+            "word": "keep multiple irons in the fire",
+            "meaning": "여러 가지 계획이나 활동을 동시에 진행하다 / 여러 대안을 확보하다",
+            "context": "is designed to **keep multiple irons in the fire**, insulating the company"
+          },
+          {
+            "word": "geopolitical headwinds",
+            "meaning": "지정학적 역풍 / 지정학적 난관",
+            "context": "insulating the company from **geopolitical headwinds** and ensuring long-term operational resilience."
+          }
+        ]
+      },
       {
         "sentences": [
           "Despite ongoing economic uncertainty leaving many investors on tenterhooks, AI-driven tech stocks like Nvidia are consistently proving they're ahead of the curve.",
@@ -12311,6 +12372,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Lufthansa's substantial investment in Sustainable Aviation Fuel truly shows they are putting their money where their mouth is when it comes to decarbonizing air travel.",
+          "Similarly, Venice's new entry fee, though perhaps a bitter pill to swallow for some tourists, aims to ensure the city's unique charm pays dividends for future generations."
+        ],
+        "sentenceTranslations": [
+          "루프트한자가 지속 가능한 항공 연료에 대규모 투자를 한 것은, 항공 여행 탈탄소화에 대한 약속을 '행동으로 보여준' 것입니다.",
+          "이와 비슷하게, 베네치아의 새로운 입장료는 일부 관광객에게는 '쓰디쓴 약처럼 느껴질 수 있지만', 도시의 독특한 매력이 미래 세대에게 '이득이 되도록' 보장하는 것을 목표로 합니다."
+        ],
+        "translationHighlights": [
+          "행동으로 보여준",
+          "쓰디쓴 약처럼 느껴질 수 있지만",
+          "이득이 되도록"
+        ],
+        "newWords": [
+          {
+            "word": "put one's money where one's mouth is",
+            "meaning": "말한 대로 실천하다, 약속을 행동으로 보여주다",
+            "context": "they are putting their money where their mouth is when it comes to decarbonizing air travel"
+          },
+          {
+            "word": "a bitter pill to swallow",
+            "meaning": "받아들이기 힘든(괴로운) 일, 쓰디쓴 약",
+            "context": "though perhaps a bitter pill to swallow for some tourists"
+          },
+          {
+            "word": "pay dividends",
+            "meaning": "장기적으로 이득을 가져오다, 보답하다",
+            "context": "aims to ensure the city's unique charm pays dividends for future generations"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The full implementation of the EU's ETIAS system is proving to be a bit of a **mixed bag**, with some travelers encountering initial delays despite the agency's smooth processing reports.",
           "However, this shift is also a boon for emerging destinations, as British Airways is **striking while the iron is hot** by adding routes to places like Tirana, aiming to put more culturally rich, **off the beaten path** locations firmly on the tourist map."
         ],
@@ -18365,6 +18458,33 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With Worlds viewership taking the world by storm, the League of Legends championship solidifies esports' position as a global cultural phenomenon.",
+          "Now, as the knockout phase looms, teams like T1 will have to bring their A-game to continue their strong run towards the Summoner's Cup."
+        ],
+        "sentenceTranslations": [
+          "월즈 시청률이 전 세계를 휩쓸면서, 리그 오브 레전드 챔피언십은 e스포츠가 세계적인 문화 현상임을 확고히 합니다.",
+          "이제 토너먼트 단계가 임박하면서, T1과 같은 팀들은 소환사의 컵을 향한 강세를 이어가기 위해 최고의 기량을 발휘해야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "전 세계를 휩쓸면서",
+          "문화 현상임을 확고히 합니다",
+          "최고의 기량을 발휘해야 할 것입니다"
+        ],
+        "newWords": [
+          {
+            "word": "take the world by storm",
+            "meaning": "전 세계적으로 큰 인기를 얻다, 돌풍을 일으키다",
+            "context": "With Worlds viewership taking the world by storm"
+          },
+          {
+            "word": "bring one's A-game",
+            "meaning": "최고의 기량을 발휘하다, 최선을 다하다",
+            "context": "teams like T1 will have to bring their A-game"
+          }
+        ]
+      },
       {
         "sentences": [
           "With Juan Soto's game-changing homer, the Yankees truly have the wind at their back heading into Game 5, just one win away from the championship.",
