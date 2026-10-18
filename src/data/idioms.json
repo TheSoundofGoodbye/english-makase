@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "As the hybrid work model takes hold, families are pulling up stakes from crowded city centers, eager to find the best of both worlds.",
+          "This allows them to get more bang for their buck on spacious homes and proximity to nature, without fully giving up professional connections."
+        ],
+        "sentenceTranslations": [
+          "하이브리드 근무 모델이 정착되면서, 많은 가족들이 북적이는 도심을 떠나 두 마리 토끼를 다 잡고 싶어 합니다.",
+          "이는 넓은 주택과 자연 친화적인 환경에 대해 더 큰 가치를 얻으면서도, 직업적 연결성을 완전히 포기하지 않을 수 있게 해줍니다."
+        ],
+        "translationHighlights": [
+          "떠나",
+          "두 마리 토끼를 다 잡고",
+          "더 큰 가치"
+        ],
+        "newWords": [
+          {
+            "word": "pull up stakes",
+            "meaning": "정든 곳을 떠나 다른 곳으로 이사 가다",
+            "context": "families are pulling up stakes from crowded city centers"
+          },
+          {
+            "word": "the best of both worlds",
+            "meaning": "두 가지 모두의 장점을 누리다, 두 마리 토끼를 다 잡다",
+            "context": "eager to find the best of both worlds"
+          },
+          {
+            "word": "get more bang for their buck",
+            "meaning": "투자한 돈(노력) 대비 더 큰 가치(효과)를 얻다",
+            "context": "get more bang for their buck on spacious homes"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "JPMorgan's AI-Wealth Navigator is quickly **gaining traction**, especially among younger users eager for automated financial guidance and seeing early savings boosts.",
           "However, industry experts caution that while it offers benefits, relying solely on AI could be **a double-edged sword**, emphasizing human oversight for ethical and unforeseen market scenarios."
         ],
@@ -6138,6 +6170,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "With major tech firms going all in on AI infrastructure, it's clear the writing is on the wall for those not willing to invest heavily.",
+          "This intense competition, coupled with potential tariffs throwing a wrench in the works for supply chains, makes venture capitalists think twice before funding new startups."
+        ],
+        "sentenceTranslations": [
+          "주요 기술 기업들이 AI 인프라에 모든 것을 걸고 투자하면서, 대규모 투자를 망설이는 기업들에게는 미래가 명확히 예견되고 있습니다.",
+          "이러한 치열한 경쟁과 잠재적인 관세가 공급망에 예상치 못한 문제를 일으키면서, 벤처 투자자들은 새로운 AI 스타트업에 투자하기 전에 신중하게 재고하게 됩니다."
+        ],
+        "translationHighlights": [
+          "모든 것을 걸고 투자",
+          "미래가 명확히 예견",
+          "예상치 못한 문제를 일으키면서",
+          "신중하게 재고"
+        ],
+        "newWords": [
+          {
+            "word": "go all in",
+            "meaning": "모든 것을 걸다 / 전력투구하다",
+            "context": "major tech firms *going all in* on AI infrastructure"
+          },
+          {
+            "word": "the writing is on the wall",
+            "meaning": "결과가 명확히 예견되다 / 미래가 확실하다",
+            "context": "it's clear *the writing is on the wall* for those not willing to invest heavily"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다 / 예상치 못한 문제를 일으키다",
+            "context": "potential tariffs *throwing a wrench in the works* for supply chains"
+          }
+        ]
+      },
       {
         "sentences": [
           "Amid escalating trade tensions, corporations are reading the tea leaves regarding supply chain vulnerabilities, leading Apple to strategically diversify its iPhone production away from China.",
@@ -12372,6 +12437,34 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Delta Air Lines, astute in recognizing the burgeoning demand, is striking while the iron is hot by launching new direct routes to capture the North American market for Balkan exploration.",
+          "However, as Dr. Sharma warns, ensuring sustainable growth for these newly accessible regions will require host nations to walk a tightrope between developing infrastructure and preserving their local charm."
+        ],
+        "sentenceTranslations": [
+          "델타항공은 급증하는 수요를 영리하게 파악하고 발칸반도 탐험을 위한 북미 시장을 선점하기 위해 새로운 직항 노선을 개설하며 때를 놓치지 않고 기회를 잡고 있습니다.",
+          "하지만 샤르마 박사가 경고했듯이, 새롭게 접근 가능해진 이 지역들의 지속 가능한 성장을 보장하려면 주최국들은 인프라 개발과 지역의 매력을 보존하는 것 사이에서 균형을 잘 잡아야 할 것입니다."
+        ],
+        "translationHighlights": [
+          "급증하는 수요를 영리하게 파악하고",
+          "때를 놓치지 않고 기회를 잡고 있습니다",
+          "지속 가능한 성장을 보장하려면",
+          "균형을 잘 잡아야 할 것입니다"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회를 놓치지 않고 잡다; 때를 놓치지 않고 행동하다",
+            "context": "is striking while the iron is hot by launching new direct routes"
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "위험한 균형을 유지하다; 아슬아슬한 줄타기를 하다",
+            "context": "will require host nations to walk a tightrope between developing infrastructure and preserving their local charm"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Lufthansa's substantial investment in Sustainable Aviation Fuel truly shows they are putting their money where their mouth is when it comes to decarbonizing air travel.",
           "Similarly, Venice's new entry fee, though perhaps a bitter pill to swallow for some tourists, aims to ensure the city's unique charm pays dividends for future generations."
         ],
@@ -18458,6 +18551,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Underdog G2 Esports punched above their weight against reigning champions T1, an incredible feat that completely threw a wrench in the predictions for the League of Legends World Championship.",
+          "Coming back from a 2-0 deficit, they decisively turned the tables on T1, demonstrating that even the most dominant teams can be caught off guard if they don't stay on their toes."
+        ],
+        "sentenceTranslations": [
+          "열세였던 G2 e스포츠는 디펜딩 챔피언 T1을 상대로 실력 이상의 성과를 보여주며, 롤드컵 예측에 완전히 예상치 못한 변수를 던졌습니다.",
+          "2대 0으로 뒤지던 상황에서 그들은 T1에 대한 판세를 결정적으로 뒤집으며, 아무리 강력한 팀이라도 긴장을 늦추면 허를 찔릴 수 있음을 보여주었습니다."
+        ],
+        "translationHighlights": [
+          "실력 이상의 성과를 보여주며",
+          "예상치 못한 변수를 던졌습니다",
+          "판세를 결정적으로 뒤집으며",
+          "허를 찔릴 수 있음을"
+        ],
+        "newWords": [
+          {
+            "word": "punch above their weight",
+            "meaning": "실력 이상의 성과를 내다, 예상보다 잘하다",
+            "context": "G2 Esports punched above their weight against reigning champions T1"
+          },
+          {
+            "word": "throw a wrench in",
+            "meaning": "(계획, 예측 등에) 예상치 못한 문제를 일으키다, 변수를 던지다",
+            "context": "completely threw a wrench in the predictions"
+          },
+          {
+            "word": "turn the tables",
+            "meaning": "판세를 뒤집다, 역전시키다",
+            "context": "they decisively turned the tables on T1"
+          }
+        ]
+      },
       {
         "sentences": [
           "With Worlds viewership taking the world by storm, the League of Legends championship solidifies esports' position as a global cultural phenomenon.",
