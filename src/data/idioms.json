@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Google's new Gemini Lifestyle AI promises to make life a breeze, but the EFF warns it might be opening a Pandora's box regarding personal data.",
+          "With privacy concerns looming large, it's fascinating to see how many users are still embracing these tools with open arms, highlighting the complex balance we strike with AI."
+        ],
+        "sentenceTranslations": [
+          "구글의 새로운 Gemini Lifestyle AI는 삶을 아주 쉽게 만들어 줄 것을 약속하지만, EFF는 이것이 개인 데이터와 관련하여 판도라의 상자를 여는 격이 될 수 있다고 경고합니다.",
+          "개인 정보 보호에 대한 우려가 크게 다가오고 있음에도 불구하고, 많은 사용자들이 여전히 이러한 도구들을 두 팔 벌려 환영하고 있다는 점은 우리가 AI와 맺는 복잡한 균형을 잘 보여줍니다."
+        ],
+        "translationHighlights": [
+          "삶을 아주 쉽게 만들어 줄 것을 약속하지만",
+          "판도라의 상자를 여는 격이 될 수 있다고",
+          "우려가 크게 다가오고 있음에도 불구하고",
+          "두 팔 벌려 환영하고 있다는 점은"
+        ],
+        "newWords": [
+          {
+            "word": "opening a Pandora's box",
+            "meaning": "판도라의 상자를 열다 (예기치 못한 많은 문제나 재앙을 초래하다)",
+            "context": "it might be opening a Pandora's box"
+          },
+          {
+            "word": "looming large",
+            "meaning": "(문제, 위협 등이) 크게 다가오다, 임박해 보이다",
+            "context": "privacy concerns looming large"
+          },
+          {
+            "word": "embrace with open arms",
+            "meaning": "두 팔 벌려 환영하다, 기꺼이 받아들이다",
+            "context": "embracing these tools with open arms"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As the hybrid work model takes hold, families are pulling up stakes from crowded city centers, eager to find the best of both worlds.",
           "This allows them to get more bang for their buck on spacious homes and proximity to nature, without fully giving up professional connections."
         ],
@@ -6170,6 +6203,33 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Despite broader economic headwinds, the AI sector is undeniably **riding the crest of a wave**, with unprecedented growth projections energizing tech markets.",
+          "However, geopolitical tensions and restrictive interest rates threaten to **throw a wrench in the works**, dampening enthusiasm for high-growth startup investments."
+        ],
+        "sentenceTranslations": [
+          "전반적인 경제 역풍에도 불구하고, AI 부문은 의심할 여지 없이 **최고의 전성기를 누리고 있으며**, 전례 없는 성장 전망이 기술 시장에 활력을 불어넣고 있습니다.",
+          "하지만 지정학적 긴장과 제한적인 금리 정책은 **계획에 차질을 줄 우려가 있어**, 고성장 스타트업 투자에 대한 열기를 식히고 있습니다."
+        ],
+        "translationHighlights": [
+          "최고의 전성기를 누리고 있으며",
+          "계획에 차질을 줄 우려가 있어",
+          "경제 역풍"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "최고의 전성기를 누리다, 절정에 달하다",
+            "context": "the AI sector is undeniably riding the crest of a wave"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획을 망치다, 일이 틀어지게 하다",
+            "context": "threaten to throw a wrench in the works"
+          }
+        ]
+      },
       {
         "sentences": [
           "With major tech firms going all in on AI infrastructure, it's clear the writing is on the wall for those not willing to invest heavily.",
@@ -12437,6 +12497,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The impressive uptick in long-haul bookings at Heathrow, fueled by travelers seeking experiences **off the beaten track**, clearly indicates a broader shift in what holidaymakers prioritize.",
+          "This global momentum, further accelerated by schemes like Saudi Arabia's 'eVisa Plus' which provides **a shot in the arm** to cultural tourism, points to nothing less than **a sea change** in how we explore the world."
+        ],
+        "sentenceTranslations": [
+          "히드로 공항의 장거리 항공편 예약이 인상적으로 증가한 것은, **잘 알려지지 않은 곳**을 탐험하려는 여행자들에 의해 촉진된 것으로, 휴가객들이 우선시하는 것이 광범위하게 변화하고 있음을 분명히 보여줍니다.",
+          "문화 관광에 **활력을 불어넣어 주는 계기**가 된 사우디아라비아의 'eVisa Plus'와 같은 제도로 더욱 가속화된 이러한 전 세계적인 동향은, 우리가 세상을 탐험하는 방식에 **근본적인 변화**가 일어나고 있음을 명확히 시사합니다."
+        ],
+        "translationHighlights": [
+          "잘 알려지지 않은 곳",
+          "활력을 불어넣어 주는 계기",
+          "가속화된 이러한 전 세계적인 동향",
+          "근본적인 변화"
+        ],
+        "newWords": [
+          {
+            "word": "off the beaten track",
+            "meaning": "잘 알려지지 않은, 인적이 드문 곳",
+            "context": "travelers seeking experiences off the beaten track"
+          },
+          {
+            "word": "a shot in the arm",
+            "meaning": "활력소, 새로운 활력",
+            "context": "provides a shot in the arm to cultural tourism"
+          },
+          {
+            "word": "a sea change",
+            "meaning": "상당한 변화, 근본적인 변화",
+            "context": "points to nothing less than a sea change"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Delta Air Lines, astute in recognizing the burgeoning demand, is striking while the iron is hot by launching new direct routes to capture the North American market for Balkan exploration.",
           "However, as Dr. Sharma warns, ensuring sustainable growth for these newly accessible regions will require host nations to walk a tightrope between developing infrastructure and preserving their local charm."
         ],
@@ -18551,6 +18644,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "In the high-stakes League of Legends World Championship and MLB World Series, teams are fighting tooth and nail, knowing that to throw in the towel now would be to give up on their ultimate goal.",
+          "Meanwhile, the *Magic: The Gathering* market is going gangbusters, with the latest set's record-breaking pre-orders proving its immense popularity."
+        ],
+        "sentenceTranslations": [
+          "높은 판돈이 걸린 리그 오브 레전드 월드 챔피언십과 MLB 월드 시리즈에서, 팀들은 지금 포기하는 것이 궁극적인 목표를 저버리는 것임을 알기에 필사적으로 싸우고 있습니다.",
+          "한편, *매직: 더 개더링* 시장은 엄청난 호황을 누리고 있으며, 최신 세트의 기록적인 사전 주문량은 그 엄청난 인기를 증명하고 있습니다."
+        ],
+        "translationHighlights": [
+          "필사적으로 싸우고 있습니다",
+          "포기하는 것",
+          "엄청난 호황을 누리고 있으며"
+        ],
+        "newWords": [
+          {
+            "word": "fight tooth and nail",
+            "meaning": "필사적으로 싸우다, 온 힘을 다해 싸우다",
+            "context": "teams are fighting tooth and nail"
+          },
+          {
+            "word": "throw in the towel",
+            "meaning": "항복하다, 포기하다 (복싱에서 수건을 던져 항복 신호를 보내는 것에서 유래)",
+            "context": "to throw in the towel now"
+          },
+          {
+            "word": "going gangbusters",
+            "meaning": "엄청나게 성공하다, 엄청난 속도로 진행되다, 대박을 터뜨리다",
+            "context": "market is going gangbusters"
+          }
+        ]
+      },
       {
         "sentences": [
           "Underdog G2 Esports punched above their weight against reigning champions T1, an incredible feat that completely threw a wrench in the predictions for the League of Legends World Championship.",
