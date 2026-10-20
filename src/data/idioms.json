@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With inflation continuing to bite, many Gen Z and millennials are learning to tighten their belts, especially when scrutinizing their array of monthly digital subscriptions.",
+          "This means they are increasingly willing to pull the plug on services that no longer offer clear value, shifting their focus to essential needs."
+        ],
+        "sentenceTranslations": [
+          "인플레이션이 계속 영향을 미치면서, 많은 Z세대와 밀레니얼 세대가 매달 내는 다양한 디지털 구독료를 꼼꼼히 살펴보며 허리띠를 졸라매는 방법을 배우고 있습니다.",
+          "이는 곧 명확한 가치를 제공하지 않는 서비스라면 언제든 중단할 준비가 되어 있다는 의미이며, 필수적인 필요에 초점을 맞추고 있습니다."
+        ],
+        "translationHighlights": [
+          "허리띠를 졸라매는",
+          "꼼꼼히 살펴보며",
+          "중단할 준비가 되어 있다는",
+          "필수적인 필요에 초점을"
+        ],
+        "newWords": [
+          {
+            "word": "tighten one's belts",
+            "meaning": "허리띠를 졸라매다 (지출을 줄이고 절약하다)",
+            "context": "learning to tighten their belts"
+          },
+          {
+            "word": "pull the plug on",
+            "meaning": "~을 중단하다, ~을 취소하다",
+            "context": "willing to pull the plug on services"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Google's new Gemini Lifestyle AI promises to make life a breeze, but the EFF warns it might be opening a Pandora's box regarding personal data.",
           "With privacy concerns looming large, it's fascinating to see how many users are still embracing these tools with open arms, highlighting the complex balance we strike with AI."
         ],
@@ -6203,6 +6231,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Project Astra's debut could **eat smaller AI startups' lunch**, potentially dominating the market for hyper-personalized generative agents.",
+          "Consequently, many fledgling companies will struggle to **keep their heads above water** amidst this intense new competition from a tech giant."
+        ],
+        "sentenceTranslations": [
+          "프로젝트 아스트라의 등장은 소규모 AI 스타트업들의 시장 점유율을 잠식하며, 고도로 개인화된 생성형 에이전트 시장을 잠재적으로 지배할 수 있습니다.",
+          "결과적으로, 많은 신생 기업들은 이러한 거대 기술 기업의 치열한 신규 경쟁 속에서 재정적으로 겨우 버티기 위해 고군분투하게 될 것입니다."
+        ],
+        "translationHighlights": [
+          "시장 점유율을 잠식하며",
+          "시장을 잠재적으로 지배할 수 있습니다",
+          "재정적으로 겨우 버티기 위해 고군분투하게 될 것입니다",
+          "치열한 신규 경쟁"
+        ],
+        "newWords": [
+          {
+            "word": "eat someone's lunch",
+            "meaning": "경쟁사의 사업을 빼앗다, 시장을 잠식하다",
+            "context": "Project Astra's debut could **eat smaller AI startups' lunch**"
+          },
+          {
+            "word": "keep one's head above water",
+            "meaning": "(재정적으로) 어렵게 버티다, 파산하지 않도록 노력하다",
+            "context": "struggle to **keep their heads above water**"
+          }
+        ]
+      },
       {
         "sentences": [
           "Despite broader economic headwinds, the AI sector is undeniably **riding the crest of a wave**, with unprecedented growth projections energizing tech markets.",
@@ -12495,6 +12551,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "The expansion of digital nomad visas and the ubiquity of remote work are proving to be a real game changer for international travel, fundamentally reshaping how people explore the world.",
+          "Consequently, 'slow tourism,' with its emphasis on eco-certified accommodations and cultural immersion, is now truly gaining traction as travelers increasingly put their money where their mouth is for greener, more mindful experiences."
+        ],
+        "sentenceTranslations": [
+          "디지털 노마드 비자의 확장과 원격 근무의 보편화는 국제 여행의 판도를 완전히 바꾸고 있으며, 사람들이 세상을 탐험하는 방식을 근본적으로 재편하고 있습니다.",
+          "그 결과, 친환경 인증 숙소와 문화 몰입을 강조하는 '슬로우 투어리즘'은 여행객들이 보다 친환경적이고 사려 깊은 경험에 기꺼이 투자하며 진정한 인기를 얻기 시작했습니다."
+        ],
+        "translationHighlights": [
+          "판도를 완전히 바꾸고 있으며",
+          "근본적으로 재편하고 있습니다",
+          "진정한 인기를 얻기 시작했습니다",
+          "기꺼이 투자하며"
+        ],
+        "newWords": [
+          {
+            "word": "a game changer",
+            "meaning": "판도를 바꾸는 결정적인 요소/사건",
+            "context": "proving to be a real game changer"
+          },
+          {
+            "word": "gain traction",
+            "meaning": "인기를 얻다, 지지를 얻다, 추진력을 얻다",
+            "context": "truly gaining traction"
+          },
+          {
+            "word": "put their money where their mouth is",
+            "meaning": "말만 하는 것이 아니라 직접 행동으로 보여주다/투자하다",
+            "context": "put their money where their mouth is"
+          }
+        ]
+      },
       {
         "sentences": [
           "The impressive uptick in long-haul bookings at Heathrow, fueled by travelers seeking experiences **off the beaten track**, clearly indicates a broader shift in what holidaymakers prioritize.",
