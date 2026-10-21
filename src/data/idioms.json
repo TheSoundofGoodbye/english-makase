@@ -6233,6 +6233,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "Major tech firms, realizing the EU AI Act is a game changer for global compliance standards, are now scrambling to get their ducks in a row.",
+          "Meanwhile, investors are keenly watching the market, trying to read the tea leaves on potential shifts in AI hardware dominance following Nvidia's recent dip."
+        ],
+        "sentenceTranslations": [
+          "주요 기술 기업들은 EU AI 법안이 글로벌 준수 표준의 판도를 바꾸는 중대한 변화임을 깨닫고, 이제 서둘러 모든 준비를 갖추고 있습니다.",
+          "한편, 투자자들은 엔비디아 주가 하락 이후 AI 하드웨어 시장 지배력의 잠재적 변화에 대한 미래를 예측하기 위해 시장을 면밀히 주시하고 있습니다."
+        ],
+        "translationHighlights": [
+          "판도를 바꾸는 중대한 변화",
+          "서둘러 모든 준비를 갖추고 있습니다",
+          "미래를 예측하기 위해",
+          "면밀히 주시하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "game changer",
+            "meaning": "판도를 바꾸는 중대한 변화 (a significant factor that changes a situation)",
+            "context": "the EU AI Act is a game changer"
+          },
+          {
+            "word": "get their ducks in a row",
+            "meaning": "모든 준비를 갖추다 (to organize everything in preparation for something)",
+            "context": "scrambling to get their ducks in a row"
+          },
+          {
+            "word": "read the tea leaves",
+            "meaning": "미래를 예측하다 (to try to predict what will happen in the future by looking at current signs)",
+            "context": "trying to read the tea leaves"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Project Astra's debut could **eat smaller AI startups' lunch**, potentially dominating the market for hyper-personalized generative agents.",
           "Consequently, many fledgling companies will struggle to **keep their heads above water** amidst this intense new competition from a tech giant."
         ],
@@ -12553,6 +12586,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Even with officials assuring smooth operations, the initial rollout of the ETIAS system seems to have hit a snag, causing a slight uptick in processing times at major European gateways.",
+          "Despite this minor adjustment, demand for European travel remains through the roof, with many flights into the continent absolutely bursting at the seams."
+        ],
+        "sentenceTranslations": [
+          "당국자들이 원활한 운영을 보장함에도 불구하고, ETIAS 시스템의 초기 도입은 주요 유럽 관문 공항들의 처리 시간을 약간 지연시키는 난관에 부딪힌 것으로 보입니다.",
+          "이러한 작은 조정에도 불구하고, 유럽 여행 수요는 최고조에 달하고 있으며, 유럽으로 향하는 많은 항공편들이 발 디딜 틈 없이 꽉 차 있습니다."
+        ],
+        "translationHighlights": [
+          "난관에 부딪힌",
+          "최고조에 달하고 있으며",
+          "발 디딜 틈 없이 꽉 차 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "hit a snag",
+            "meaning": "예상치 못한 문제에 부딪히다, 난관에 봉착하다",
+            "context": "seems to have hit a snag"
+          },
+          {
+            "word": "through the roof",
+            "meaning": "최고조에 달한, 엄청나게 높은",
+            "context": "remains through the roof"
+          },
+          {
+            "word": "bursting at the seams",
+            "meaning": "발 디딜 틈 없이 꽉 차다, 매우 혼잡하다",
+            "context": "absolutely bursting at the seams"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The expansion of digital nomad visas and the ubiquity of remote work are proving to be a real game changer for international travel, fundamentally reshaping how people explore the world.",
           "Consequently, 'slow tourism,' with its emphasis on eco-certified accommodations and cultural immersion, is now truly gaining traction as travelers increasingly put their money where their mouth is for greener, more mindful experiences."
         ],
@@ -18733,6 +18798,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "As T1 and Gen.G face off, all eyes are on Faker, who is truly in a league of his own as he seeks an unprecedented fifth Summoner's Cup.",
+          "The tournament's record-breaking viewership shows that esports is going from strength to strength, cementing its place in the global entertainment landscape."
+        ],
+        "sentenceTranslations": [
+          "T1과 Gen.G의 대결이 펼쳐지는 가운데, 전례 없는 다섯 번째 서머너스 컵을 노리는 페이커에게 모든 시선이 쏠리고 있습니다. 그는 정말이지 독보적인 존재입니다.",
+          "토너먼트의 시청률 기록 경신은 이스포츠가 나날이 발전하며 승승장구하고 있음을 보여주며, 글로벌 엔터테인먼트 지형에서 확고한 입지를 다지고 있습니다."
+        ],
+        "translationHighlights": [
+          "독보적인 존재",
+          "전례 없는",
+          "나날이 발전하며 승승장구하고 있음",
+          "확고한 입지를 다지고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "in a league of his own",
+            "meaning": "독보적인, 타의 추종을 불허하는",
+            "context": "truly in a league of his own as he seeks"
+          },
+          {
+            "word": "going from strength to strength",
+            "meaning": "나날이 발전하다, 승승장구하다",
+            "context": "esports is going from strength to strength"
+          },
+          {
+            "word": "cementing its place",
+            "meaning": "확고한 입지를 다지다",
+            "context": "cementing its place in the global entertainment landscape"
+          }
+        ]
+      },
       {
         "sentences": [
           "In the high-stakes League of Legends World Championship and MLB World Series, teams are fighting tooth and nail, knowing that to throw in the towel now would be to give up on their ultimate goal.",
