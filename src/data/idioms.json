@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With digital subscriptions seemingly multiplying by the day, many households are finding it increasingly difficult to keep track of their spending and feel like they're trying to square a circle to manage their budgets.",
+          "Fortunately, AI-powered financial assistants like SynapseFi are stepping into the breach, giving consumers a powerful tool to finally turn the tide against subscription fatigue and regain control."
+        ],
+        "sentenceTranslations": [
+          "디지털 구독 서비스가 날마다 불어나는 것처럼 보이면서, 많은 가구들이 지출을 추적하기 점점 더 어려워하고 예산 관리에 있어서 마치 불가능한 일을 시도하는 것처럼 느끼고 있습니다.",
+          "다행히도, SynapseFi 같은 AI 기반 재정 관리 도우미들이 어려움에 처한 상황을 해결하기 위해 나서면서, 소비자들에게 구독 피로에 맞서 흐름을 바꾸고 통제권을 되찾을 수 있는 강력한 도구를 제공하고 있습니다."
+        ],
+        "translationHighlights": [
+          "불가능한 일을 시도하는 것처럼",
+          "어려움에 처한 상황을 해결하기 위해 나서면서",
+          "구독 피로에 맞서 흐름을 바꾸고"
+        ],
+        "newWords": [
+          {
+            "word": "square a circle",
+            "meaning": "불가능한 일을 시도하다",
+            "context": "feel like they're trying to square a circle to manage their budgets"
+          },
+          {
+            "word": "stepping into the breach",
+            "meaning": "어려움에 처한 상황을 해결하기 위해 나서다",
+            "context": "are stepping into the breach, giving consumers a powerful tool"
+          },
+          {
+            "word": "turn the tide",
+            "meaning": "흐름을 바꾸다; 판도를 뒤집다",
+            "context": "to finally turn the tide against subscription fatigue"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With inflation continuing to bite, many Gen Z and millennials are learning to tighten their belts, especially when scrutinizing their array of monthly digital subscriptions.",
           "This means they are increasingly willing to pull the plug on services that no longer offer clear value, shifting their focus to essential needs."
         ],
@@ -6231,6 +6263,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "With the IMF revising global GDP growth downwards amidst persistent volatility, businesses will need to tighten their belts and strategically weather the storm of upcoming economic headwinds.",
+          "Conversely, Apple's rumored IrisOS, focusing on localized AI and data privacy, is poised to steal a march on rivals like Google, potentially moving the needle significantly in the premium tech market."
+        ],
+        "sentenceTranslations": [
+          "IMF가 지속적인 변동성 속에서 세계 GDP 성장률을 하향 조정함에 따라, 기업들은 다가올 경제적 역풍을 이겨내기 위해 허리띠를 졸라매고 전략적으로 대응해야 할 것입니다.",
+          "반대로, 로컬 AI와 데이터 프라이버시에 중점을 둔 애플의 소문 속 아이리스 OS는 구글 같은 경쟁자들을 앞질러 나갈 준비가 되어 있으며, 프리미엄 기술 시장에 상당한 변화를 가져올 수 있습니다."
+        ],
+        "translationHighlights": [
+          "허리띠를 졸라매고",
+          "경제적 역풍을 이겨내기 위해",
+          "경쟁자들을 앞질러 나갈 준비가 되어 있으며",
+          "상당한 변화를 가져올 수 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "tighten their belts",
+            "meaning": "허리띠를 졸라매다, 지출을 줄이다",
+            "context": "businesses will need to tighten their belts"
+          },
+          {
+            "word": "weather the storm",
+            "meaning": "역경을 이겨내다, 어려운 시기를 견뎌내다",
+            "context": "strategically weather the storm of upcoming economic headwinds"
+          },
+          {
+            "word": "steal a march on",
+            "meaning": "~보다 한발 앞서다, 선수 치다",
+            "context": "is poised to steal a march on rivals like Google"
+          }
+        ]
+      },
       {
         "sentences": [
           "Major tech firms, realizing the EU AI Act is a game changer for global compliance standards, are now scrambling to get their ducks in a row.",
@@ -12586,6 +12651,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Lufthansa Group is truly riding the crest of a wave with its robust Q1 2027 bookings, demonstrating a significant uptick in interest for South American destinations.",
+          "Conversely, Venice finds itself at a crossroads, scrambling to protect its heritage before overtourism causes the city to burst at the seams."
+        ],
+        "sentenceTranslations": [
+          "루프트한자 그룹은 2027년 1분기 예약이 견고하게 들어오면서 남미 여행지에 대한 관심이 크게 증가하는 등 확실히 성공의 물결을 타고 있습니다.",
+          "반대로, 베네치아는 과잉 관광으로 인해 도시가 더 이상 감당할 수 없을 지경에 이르기 전에 유산을 보호하기 위해 분주히 노력하면서 중요한 기로에 서 있습니다."
+        ],
+        "translationHighlights": [
+          "성공의 물결을 타고 있습니다",
+          "중요한 기로에 서 있습니다",
+          "더 이상 감당할 수 없을 지경에 이르기 전에"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "최고의 성공기를 보내다, 성공의 물결을 타다",
+            "context": "Lufthansa Group is truly riding the crest of a wave with its robust Q1 2027 bookings..."
+          },
+          {
+            "word": "at a crossroads",
+            "meaning": "중대한 결정의 기로에 서다, 갈림길에 서다",
+            "context": "Conversely, Venice finds itself at a crossroads, scrambling to protect its heritage..."
+          },
+          {
+            "word": "burst at the seams",
+            "meaning": "너무 꽉 차서 터질 것 같다, 감당하기 힘들다",
+            "context": "...before overtourism causes the city to burst at the seams."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Even with officials assuring smooth operations, the initial rollout of the ETIAS system seems to have hit a snag, causing a slight uptick in processing times at major European gateways.",
           "Despite this minor adjustment, demand for European travel remains through the roof, with many flights into the continent absolutely bursting at the seams."
         ],
@@ -18798,6 +18895,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With only an 8-point lead, Max Verstappen is truly in the hot seat heading into the critical United States Grand Prix, as every move could determine the F1 championship outcome.",
+          "Similarly, while the soaring demand for wilderness experiences is encouraging, it's proving to be a double-edged sword for the National Park Service in their ongoing efforts for sustainable conservation."
+        ],
+        "sentenceTranslations": [
+          "불과 8점 차이로 앞서고 있는 막스 베르스타펜은 중요한 미국 그랑프리를 앞두고 정말 책임이 막중한 상황에 놓여 있으며, 한 번의 움직임이 F1 챔피언십 결과를 결정할 수 있습니다.",
+          "마찬가지로, 야생 경험에 대한 치솟는 수요는 고무적이지만, 국립공원 관리청의 지속 가능한 보존 노력에 있어 양날의 검으로 작용하고 있습니다."
+        ],
+        "translationHighlights": [
+          "책임이 막중한 상황",
+          "한 번의 움직임이...결정할 수 있습니다",
+          "치솟는 수요",
+          "양날의 검"
+        ],
+        "newWords": [
+          {
+            "word": "in the hot seat",
+            "meaning": "책임이 막중한 상황에 처한, 곤란한 입장에 있는",
+            "context": "Max Verstappen is truly in the hot seat heading into the critical United States Grand Prix"
+          },
+          {
+            "word": "double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가진 것)",
+            "context": "it's proving to be a double-edged sword for the National Park Service"
+          }
+        ]
+      },
       {
         "sentences": [
           "As T1 and Gen.G face off, all eyes are on Faker, who is truly in a league of his own as he seeks an unprecedented fifth Summoner's Cup.",
