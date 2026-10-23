@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The latest generation of health wearables is undeniably **pushing the envelope** in personal health management, offering a glimpse into a future where tailored wellness is **at our fingertips**.",
+          "However, as devices like BioSense and Aura Health Tracker collect such granular personal data, regulators find themselves **walking a tightrope** between promoting health benefits and safeguarding individual privacy."
+        ],
+        "sentenceTranslations": [
+          "최신 건강 웨어러블 기기들은 개인 건강 관리 분야에서 분명히 **한계를 뛰어넘고 있으며**, 맞춤형 건강 관리가 우리 **손안에 있는** 미래를 엿보게 해줍니다.",
+          "하지만 바이오센스나 아우라 헬스 트래커 같은 기기들이 이렇게 세분화된 개인 데이터를 수집하면서, 규제 기관들은 건강상의 이점을 증진하는 것과 개인 프라이버시를 보호하는 것 사이에서 **외줄타기를 하고 있습니다**."
+        ],
+        "translationHighlights": [
+          "한계를 뛰어넘고 있으며",
+          "손안에 있는",
+          "외줄타기를 하고 있습니다",
+          "개인 프라이버시를 보호하는 것"
+        ],
+        "newWords": [
+          {
+            "word": "pushing the envelope",
+            "meaning": "한계를 뛰어넘다, 혁신을 추구하다",
+            "context": "undeniably pushing the envelope in personal health management"
+          },
+          {
+            "word": "at our fingertips",
+            "meaning": "손쉽게 이용 가능한, 즉시 활용 가능한",
+            "context": "where tailored wellness is at our fingertips"
+          },
+          {
+            "word": "walking a tightrope",
+            "meaning": "외줄타기를 하다, 아슬아슬한 균형을 유지하다",
+            "context": "regulators find themselves walking a tightrope"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With digital subscriptions seemingly multiplying by the day, many households are finding it increasingly difficult to keep track of their spending and feel like they're trying to square a circle to manage their budgets.",
           "Fortunately, AI-powered financial assistants like SynapseFi are stepping into the breach, giving consumers a powerful tool to finally turn the tide against subscription fatigue and regain control."
         ],
@@ -6263,6 +6296,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "OpenAI's reported acquisition of Synapse Systems is a clear move to stay ahead of the curve, as securing dedicated silicon is crucial to nail down their market dominance in the rapidly evolving AI sector.",
+          "Market analysts, always quick to read the tea leaves, anticipate the ECB will likely dig in its heels on interest rates, resisting calls for cuts given the surprising uptick in core inflation."
+        ],
+        "sentenceTranslations": [
+          "OpenAI의 Synapse Systems 인수는 급변하는 AI 분야에서 시장 지배력을 확고히 하기 위해 전용 반도체 확보가 중요하므로, 시대를 앞서가기 위한 명확한 움직임입니다.",
+          "늘 시장의 징후를 빨리 읽는 시장 분석가들은 예상치 못한 근원 인플레이션 상승을 고려할 때, 유럽중앙은행(ECB)이 금리 인하 요구에 저항하며 금리 인상 기조를 고수할 것으로 예상합니다."
+        ],
+        "translationHighlights": [
+          "시대를 앞서가기 위한 명확한 움직임",
+          "시장 지배력을 확고히 하기 위해",
+          "시장의 징후를 빨리 읽는",
+          "금리 인상 기조를 고수할 것으로"
+        ],
+        "newWords": [
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "경쟁에서 앞서가다, 시대를 앞서가다",
+            "context": "to stay ahead of the curve"
+          },
+          {
+            "word": "read the tea leaves",
+            "meaning": "상황의 징후를 읽어 미래를 예측하다",
+            "context": "quick to read the tea leaves"
+          },
+          {
+            "word": "dig in its heels",
+            "meaning": "입장을 고수하다, 굽히지 않다",
+            "context": "will likely dig in its heels on interest rates"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the IMF revising global GDP growth downwards amidst persistent volatility, businesses will need to tighten their belts and strategically weather the storm of upcoming economic headwinds.",
@@ -12651,6 +12717,34 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Emirates, with its finger on the pulse of the burgeoning interest in culturally rich, off-the-beaten-path destinations, quickly rolled out its new Tashkent service.",
+          "This strategic move is poised to open the floodgates for international travelers eager to explore the historically rich Silk Road, especially after the recent e-visa reforms."
+        ],
+        "sentenceTranslations": [
+          "에미레이트 항공은 문화적으로 풍부하고 잘 알려지지 않은 여행지에 대한 급증하는 관심에 촉각을 곤두세우며, 타슈켄트 직항 노선을 신속하게 개설했습니다.",
+          "이번 전략적인 움직임은 최근 전자 비자 개혁 이후 역사적으로 풍부한 실크로드를 탐험하고 싶어 하는 해외 여행객들에게 봇물처럼 기회를 열어줄 것으로 보입니다."
+        ],
+        "translationHighlights": [
+          "촉각을 곤두세우며",
+          "급증하는 관심",
+          "봇물처럼 기회를 열어줄",
+          "역사적으로 풍부한"
+        ],
+        "newWords": [
+          {
+            "word": "with one's finger on the pulse",
+            "meaning": "최신 동향/흐름을 잘 파악하고 있다",
+            "context": "Emirates, with its finger on the pulse of the burgeoning interest..."
+          },
+          {
+            "word": "open the floodgates",
+            "meaning": "제한되었던 것이 한꺼번에 쏟아져 나오게 하다, 봇물 터지듯 길을 열어주다",
+            "context": "This strategic move is poised to open the floodgates for international travelers..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Lufthansa Group is truly riding the crest of a wave with its robust Q1 2027 bookings, demonstrating a significant uptick in interest for South American destinations.",
           "Conversely, Venice finds itself at a crossroads, scrambling to protect its heritage before overtourism causes the city to burst at the seams."
         ],
@@ -18895,6 +18989,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "LeBron James's historic triple-double has truly helped the new-look Lakers hit the ground running, making a significant splash in the NBA season's early days.",
+          "This early momentum, coupled with the League of Legends World Championship going full throttle towards its semi-finals, is certainly keeping sports enthusiasts on the edge of their seats worldwide."
+        ],
+        "sentenceTranslations": [
+          "르브론 제임스의 역사적인 트리플 더블은 새로운 모습의 레이커스가 시즌 초반부터 순조롭게 시작하도록 도왔고, NBA 시즌에 상당한 센세이션을 일으켰습니다.",
+          "이런 초반의 기세는 리그 오브 레전드 월드 챔피언십이 준결승을 향해 전력을 다해 달려가는 것과 맞물려, 전 세계 스포츠 팬들을 확실히 손에 땀을 쥐게 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "순조롭게 시작하도록",
+          "센세이션을 일으켰습니다",
+          "전력을 다해 달려가는",
+          "손에 땀을 쥐게"
+        ],
+        "newWords": [
+          {
+            "word": "hit the ground running",
+            "meaning": "바로 효과적으로 시작하다, 시작부터 순조롭게 진행하다",
+            "context": "helped the new-look Lakers hit the ground running"
+          },
+          {
+            "word": "make a splash",
+            "meaning": "큰 반향을 일으키다, 주목을 받다, 센세이션을 일으키다",
+            "context": "making a significant splash in the NBA season's early days"
+          },
+          {
+            "word": "go full throttle",
+            "meaning": "전력을 다하다, 최고 속도로 나아가다, 맹렬히 진행하다",
+            "context": "World Championship going full throttle towards its semi-finals"
+          }
+        ]
+      },
       {
         "sentences": [
           "With only an 8-point lead, Max Verstappen is truly in the hot seat heading into the critical United States Grand Prix, as every move could determine the F1 championship outcome.",
