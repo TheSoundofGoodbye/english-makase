@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "AI-driven smart living is truly catching on like wildfire among professionals, fundamentally reshaping how they manage everything from budgets to daily routines.",
+          "Yet, as its integration becomes more deeply ingrained, there's a growing debate that it might prove to be a double-edged sword, potentially enhancing efficiency while subtly eroding our capacity for critical thought and genuine human connection."
+        ],
+        "sentenceTranslations": [
+          "AI 기반의 스마트 리빙이 전문가들 사이에서 정말 빠르게 확산되며, 예산 관리부터 일상 업무까지 모든 것을 처리하는 방식을 근본적으로 바꾸고 있습니다.",
+          "하지만 AI가 더욱 깊이 통합되면서, 효율성을 높이는 동시에 우리의 비판적 사고력과 진정한 인간 관계를 미묘하게 약화시킬 수 있는 '양날의 검'이 될 수 있다는 논쟁이 커지고 있습니다."
+        ],
+        "translationHighlights": [
+          "정말 빠르게 확산되며",
+          "근본적으로 바꾸고 있습니다",
+          "양날의 검",
+          "미묘하게 약화시킬 수 있는"
+        ],
+        "newWords": [
+          {
+            "word": "catching on like wildfire",
+            "meaning": "아주 빠르게 인기를 얻거나 확산되다",
+            "context": "AI-driven smart living is truly **catching on like wildfire** among professionals..."
+          },
+          {
+            "word": "deeply ingrained",
+            "meaning": "깊이 뿌리박힌; 확고하게 자리 잡은",
+            "context": "Yet, as its integration becomes more **deeply ingrained**..."
+          },
+          {
+            "word": "double-edged sword",
+            "meaning": "양날의 검; 이점과 단점을 동시에 지닌 것",
+            "context": "...it might prove to be a **double-edged sword**, potentially enhancing efficiency while subtly eroding our capacity for critical thought and genuine human connection."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The latest generation of health wearables is undeniably **pushing the envelope** in personal health management, offering a glimpse into a future where tailored wellness is **at our fingertips**.",
           "However, as devices like BioSense and Aura Health Tracker collect such granular personal data, regulators find themselves **walking a tightrope** between promoting health benefits and safeguarding individual privacy."
         ],
@@ -6296,6 +6329,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "The IMF's latest downward revision of global growth forecasts suggests many businesses will have to **batten down the hatches** as they begin to **feel the pinch** from persistently high energy prices and economic volatility.",
+          "This climate of uncertainty extends to regulatory challenges, with European authorities clearly demonstrating they're willing to **throw the book at** tech giants like Microsoft for alleged anti-competitive behavior."
+        ],
+        "sentenceTranslations": [
+          "IMF의 최신 세계 성장률 하향 조정은 많은 기업들이 지속적인 고유가와 경제 불안정으로 인해 **긴축 경영을 해야 할 것**이며, **경제적 어려움을 겪기 시작할 것**임을 시사합니다.",
+          "이러한 불확실한 분위기는 규제 문제로까지 이어져, 유럽 당국이 마이크로소프트와 같은 거대 기술 기업의 반경쟁적 행위에 대해 **강력히 처벌할 의지**가 있음을 분명히 보여주고 있습니다."
+        ],
+        "translationHighlights": [
+          "긴축 경영을 해야 할 것",
+          "경제적 어려움을 겪기 시작할 것",
+          "불확실한 분위기는 규제 문제로까지 이어져",
+          "강력히 처벌할 의지"
+        ],
+        "newWords": [
+          {
+            "word": "batten down the hatches",
+            "meaning": "긴축 경영하다; 만반의 준비를 하다 (어려운 시기를 대비해 모든 것을 단단히 준비하다)",
+            "context": "many businesses will have to **batten down the hatches**"
+          },
+          {
+            "word": "feel the pinch",
+            "meaning": "경제적 어려움을 겪다 (재정적인 어려움이나 곤경을 경험하다)",
+            "context": "as they begin to **feel the pinch**"
+          },
+          {
+            "word": "throw the book at",
+            "meaning": "엄하게 처벌하다; 법에 따라 최고형을 내리다 (특히 법에 따라 가능한 한 가장 엄하게 처벌하다)",
+            "context": "they're willing to **throw the book at** tech giants"
+          }
+        ]
+      },
       {
         "sentences": [
           "OpenAI's reported acquisition of Synapse Systems is a clear move to stay ahead of the curve, as securing dedicated silicon is crucial to nail down their market dominance in the rapidly evolving AI sector.",
@@ -12717,6 +12783,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Chilean Patagonia has truly caught fire with adventure seekers, transforming into a must-visit destination where eco-lodges are now booking solid well into next year.",
+          "This travel boom, fueled by expanded air routes and streamlined visas, suggests that getting off the beaten path in South America is currently all the rage."
+        ],
+        "sentenceTranslations": [
+          "칠레 파타고니아가 모험을 추구하는 여행객들 사이에서 정말 큰 인기를 얻어, 친환경 숙소들이 내년까지 빈틈없이 예약될 정도로 꼭 방문해야 할 목적지가 되었습니다.",
+          "확대된 항공 노선과 간소화된 비자가 이러한 여행 붐을 부추기면서, 남아메리카에서 남들이 잘 가지 않는 곳을 탐험하는 것이 현재 대유행이라는 것을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "큰 인기를 얻어",
+          "남들이 잘 가지 않는 곳을 탐험하는 것",
+          "현재 대유행"
+        ],
+        "newWords": [
+          {
+            "word": "catch fire",
+            "meaning": "큰 인기를 얻다, 갑자기 유행하다",
+            "context": "Chilean Patagonia has truly **caught fire** with adventure seekers"
+          },
+          {
+            "word": "off the beaten path",
+            "meaning": "남들이 잘 가지 않는 곳, 색다른 곳",
+            "context": "getting **off the beaten path** in South America"
+          },
+          {
+            "word": "all the rage",
+            "meaning": "크게 유행하는, 대유행인",
+            "context": "is currently **all the rage**"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Emirates, with its finger on the pulse of the burgeoning interest in culturally rich, off-the-beaten-path destinations, quickly rolled out its new Tashkent service.",
           "This strategic move is poised to open the floodgates for international travelers eager to explore the historically rich Silk Road, especially after the recent e-visa reforms."
         ],
@@ -18989,6 +19087,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Against all expectations, Fnatic managed to punch above their weight, stunning perennial favorites T1 and securing their spot in the League of Legends World Championship semifinals.",
+          "This echoes the Eagles' dramatic win, where they threw a significant curveball at the reigning NFL champions with a last-second field goal, showcasing how quickly fortunes can change in high-stakes competition."
+        ],
+        "sentenceTranslations": [
+          "모두의 예상을 깨고, 프나틱은 자신들의 역량을 훨씬 뛰어넘는 실력을 발휘하며 오랜 강팀 T1을 충격에 빠뜨리고 리그 오브 레전드 월드 챔피언십 준결승 진출을 확정했습니다.",
+          "이는 이글스가 종료 직전 필드골로 현 NFL 챔피언에게 예상치 못한 일격을 가하며 극적인 승리를 거둔 것과 일맥상통하며, 중요한 경기에서는 승패가 얼마나 빠르게 뒤바뀔 수 있는지를 보여줍니다."
+        ],
+        "translationHighlights": [
+          "모두의 예상을 깨고",
+          "자신들의 역량을 훨씬 뛰어넘는 실력을 발휘하며",
+          "예상치 못한 일격을 가하며",
+          "승패가 얼마나 빠르게 뒤바뀔 수 있는지"
+        ],
+        "newWords": [
+          {
+            "word": "punch above one's weight",
+            "meaning": "자신의 역량보다 더 강한 상대를 이기거나 더 큰 성과를 내다",
+            "context": "Fnatic managed to punch above their weight"
+          },
+          {
+            "word": "throw a curveball",
+            "meaning": "예상치 못한 상황을 만들거나 돌발적인 질문, 문제를 제시하다",
+            "context": "they threw a significant curveball"
+          }
+        ]
+      },
       {
         "sentences": [
           "LeBron James's historic triple-double has truly helped the new-look Lakers hit the ground running, making a significant splash in the NBA season's early days.",
