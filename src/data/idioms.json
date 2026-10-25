@@ -6331,6 +6331,38 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The U.S. restrictions on AI chip exports have put Beijing in a position where they must walk a tightrope, carefully balancing economic implications with geopolitical stability.",
+          "Meanwhile, despite surging enterprise investment in AI, the EU's concern that this innovation could be a double-edged sword for employment shows that the writing is on the wall for future labor market reforms."
+        ],
+        "sentenceTranslations": [
+          "미국 AI 칩 수출 규제로 인해 베이징은 경제적 파급효과와 지정학적 안정성 사이에서 아슬아슬한 줄타기를 해야 하는 상황에 놓였습니다.",
+          "한편, AI에 대한 기업 투자가 급증하고 있음에도 불구하고, 이러한 혁신이 고용 시장에 양날의 검이 될 수 있다는 EU의 우려는 미래 노동 시장 개혁이 불가피함을 시사합니다."
+        ],
+        "translationHighlights": [
+          "아슬아슬한 줄타기를 해야 하는 상황",
+          "양날의 검",
+          "미래 노동 시장 개혁이 불가피함을 시사합니다"
+        ],
+        "newWords": [
+          {
+            "word": "walk a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다, 매우 어려운 상황에서 균형을 잡다",
+            "context": "they must walk a tightrope"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가짐)",
+            "context": "could be a double-edged sword"
+          },
+          {
+            "word": "the writing is on the wall",
+            "meaning": "불길한 징조가 보이다, 상황이 명확해져서 피할 수 없음을 알리다 (미래가 명백히 예측됨)",
+            "context": "the writing is on the wall"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The IMF's latest downward revision of global growth forecasts suggests many businesses will have to **batten down the hatches** as they begin to **feel the pinch** from persistently high energy prices and economic volatility.",
           "This climate of uncertainty extends to regulatory challenges, with European authorities clearly demonstrating they're willing to **throw the book at** tech giants like Microsoft for alleged anti-competitive behavior."
         ],
