@@ -6331,6 +6331,33 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The intensifying discussions around potential new U.S. export controls on advanced AI chips are truly *throwing a wrench in the works* for semiconductor industry leaders who rely on international collaboration.",
+          "This situation puts many of them *between a rock and a hard place*, as they must navigate strong global AI demand while also contending with increasing supply chain fragmentation."
+        ],
+        "sentenceTranslations": [
+          "미국이 첨단 AI 칩에 대한 새로운 수출 통제 조치를 논의하는 것은 국제 협력에 의존하는 반도체 업계 리더들에게 정말 *큰 걸림돌이 되고 있습니다*.",
+          "이러한 상황은 많은 기업들을 *진퇴양난에 빠뜨리고 있습니다*. 그들은 강력한 글로벌 AI 수요를 충족시키면서도 증가하는 공급망 분열에 대처해야 하기 때문입니다."
+        ],
+        "translationHighlights": [
+          "큰 걸림돌이 되고 있습니다",
+          "진퇴양난에 빠뜨리고 있습니다",
+          "공급망 분열에 대처해야 하기 때문입니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획이나 과정에 큰 방해가 되다, 차질을 빚게 하다",
+            "context": "are truly throwing a wrench in the works for semiconductor industry leaders"
+          },
+          {
+            "word": "between a rock and a hard place",
+            "meaning": "진퇴양난에 처하다, 곤란한 두 가지 선택지 중 하나를 골라야 하는 상황",
+            "context": "puts many of them between a rock and a hard place"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The U.S. restrictions on AI chip exports have put Beijing in a position where they must walk a tightrope, carefully balancing economic implications with geopolitical stability.",
           "Meanwhile, despite surging enterprise investment in AI, the EU's concern that this innovation could be a double-edged sword for employment shows that the writing is on the wall for future labor market reforms."
         ],
