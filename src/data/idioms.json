@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With platforms like Google's Aura, users can really start to get their ducks in a row when it comes to personal finance and overall well-being.",
+          "For many, having an AI that tailors advice and manages daily routines could be a real shot in the arm for long-term stability and peace of mind."
+        ],
+        "sentenceTranslations": [
+          "Google Aura 같은 플랫폼 덕분에 사용자들은 개인 재정과 전반적인 웰빙에 관하여 모든 것을 확실히 정리할 수 있게 되었습니다.",
+          "많은 사람들에게, 맞춤형 조언을 제공하고 일상 업무를 관리해 주는 AI를 갖는 것은 장기적인 안정과 마음의 평화를 위한 정말 큰 활력소가 될 수 있습니다."
+        ],
+        "translationHighlights": [
+          "모든 것을 확실히 정리하다",
+          "큰 활력소",
+          "마음의 평화"
+        ],
+        "newWords": [
+          {
+            "word": "get one's ducks in a row",
+            "meaning": "일을 체계적으로 정리하다, 만반의 준비를 갖추다",
+            "context": "start to get their ducks in a row when it comes to personal finance"
+          },
+          {
+            "word": "a shot in the arm",
+            "meaning": "새로운 활력소, 기운을 북돋아 주는 것",
+            "context": "could be a real shot in the arm for long-term stability"
+          },
+          {
+            "word": "peace of mind",
+            "meaning": "마음의 평화, 심리적 안정",
+            "context": "for long-term stability and peace of mind"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "AI-driven smart living is truly catching on like wildfire among professionals, fundamentally reshaping how they manage everything from budgets to daily routines.",
           "Yet, as its integration becomes more deeply ingrained, there's a growing debate that it might prove to be a double-edged sword, potentially enhancing efficiency while subtly eroding our capacity for critical thought and genuine human connection."
         ],
@@ -6329,6 +6361,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "The EU's landmark AI Act enforcement today, coupled with the U.S. potentially tightening its grip on advanced chip exports, has truly rocked the boat for companies banking on a rapid, unfettered AI commercialization.",
+          "With NVIDIA's shares slipping and Goldman Sachs revising forecasts, the semiconductor industry is now forced to tighten its belt and rethink its strategic investments amidst these escalating regulatory and trade frictions."
+        ],
+        "sentenceTranslations": [
+          "오늘 EU의 획기적인 AI 법안 집행은 미국이 첨단 칩 수출에 대한 통제를 강화할 가능성과 더불어, 신속하고 규제 없는 AI 상업화를 기대하던 기업들의 판도를 완전히 뒤흔들었습니다.",
+          "엔비디아 주가가 하락하고 골드만삭스가 전망치를 하향 조정하면서, 반도체 업계는 이러한 규제 및 무역 마찰 심화 속에서 허리띠를 졸라매고 전략적 투자를 재고할 수밖에 없게 되었습니다."
+        ],
+        "translationHighlights": [
+          "판도를 완전히 뒤흔들었습니다",
+          "통제를 강화할 가능성",
+          "허리띠를 졸라매고",
+          "마찰 심화 속에서"
+        ],
+        "newWords": [
+          {
+            "word": "rocked the boat",
+            "meaning": "문제를 일으키다, 평온을 깨다",
+            "context": "has truly **rocked the boat** for companies banking on..."
+          },
+          {
+            "word": "tightening its grip",
+            "meaning": "통제를 강화하다, 꽉 쥐다",
+            "context": "...the U.S. potentially **tightening its grip** on advanced chip exports..."
+          },
+          {
+            "word": "tighten its belt",
+            "meaning": "허리띠를 졸라매다, 지출을 줄이다",
+            "context": "...is now forced to **tighten its belt** and rethink its strategic investments..."
+          }
+        ]
+      },
       {
         "sentences": [
           "The intensifying discussions around potential new U.S. export controls on advanced AI chips are truly *throwing a wrench in the works* for semiconductor industry leaders who rely on international collaboration.",
@@ -12840,6 +12905,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Lufthansa's colossal SAF investment with Neste suggests they're not just paying lip service to decarbonization but are truly walking the talk.",
+          "With the 'Fit for 55' package now on the horizon, mandating increased SAF, the entire industry is bracing for a sea change in operational standards."
+        ],
+        "sentenceTranslations": [
+          "Lufthansa가 Neste와 체결한 대규모 SAF 투자는 탄소 배출 저감에 대해 말뿐이 아니라 진정으로 행동으로 옮기고 있다는 것을 보여줍니다.",
+          "'Fit for 55' 패키지가 이제 곧 다가와 SAF 사용을 의무화하면서, 전체 항공 산업은 운영 표준의 근본적인 변화에 대비하고 있습니다."
+        ],
+        "translationHighlights": [
+          "행동으로 옮기고 있다",
+          "곧 다가와",
+          "근본적인 변화에 대비하고"
+        ],
+        "newWords": [
+          {
+            "word": "walking the talk",
+            "meaning": "말한 것을 실천하다; 약속을 지키다",
+            "context": "are truly walking the talk"
+          },
+          {
+            "word": "on the horizon",
+            "meaning": "(어떤 일이) 곧 닥쳐올; 임박한",
+            "context": "now on the horizon"
+          },
+          {
+            "word": "sea change",
+            "meaning": "대변화; 근본적인 변화",
+            "context": "bracing for a sea change"
+          }
+        ]
+      },
       {
         "sentences": [
           "Chilean Patagonia has truly caught fire with adventure seekers, transforming into a must-visit destination where eco-lodges are now booking solid well into next year.",
