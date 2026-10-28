@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While AI mindfulness companions like AuraSense are clearly hitting their stride in popularity, their potential to foster digital dependency rather than genuine connection is raising red flags among wellness advocates.",
+          "It’s crucial for regulators like the European Commission to nip these potential issues in the bud by fast-tracking proposals, ensuring user well-being doesn't take a backseat to technological innovation."
+        ],
+        "sentenceTranslations": [
+          "AuraSense와 같은 AI 명상 동반자 앱이 인기를 얻으며 승승장구하고 있지만, 진정한 연결 대신 디지털 의존성을 조장할 수 있다는 점이 웰빙 옹호자들 사이에서 우려를 낳고 있습니다.",
+          "유럽 위원회와 같은 규제 기관이 이러한 잠재적 문제들을 조기에 해결하기 위해 제안들을 신속히 처리하여, 사용자 웰빙이 기술 혁신에 뒤처지지 않도록 하는 것이 중요합니다."
+        ],
+        "translationHighlights": [
+          "승승장구하고 있지만",
+          "우려를 낳고 있습니다",
+          "조기에 해결하기 위해",
+          "뒤처지지 않도록"
+        ],
+        "newWords": [
+          {
+            "word": "hitting their stride",
+            "meaning": "승승장구하다, 자신의 기량을 발휘하기 시작하다",
+            "context": "AI mindfulness companions like AuraSense are clearly hitting their stride in popularity"
+          },
+          {
+            "word": "raising red flags",
+            "meaning": "우려를 불러일으키다, 위험 신호를 보내다",
+            "context": "their potential to foster digital dependency... is raising red flags among wellness advocates"
+          },
+          {
+            "word": "nip in the bud",
+            "meaning": "미연에 방지하다, 싹을 자르다 (문제가 커지기 전에 해결하다)",
+            "context": "regulators... to nip these potential issues in the bud by fast-tracking proposals"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With platforms like Google's Aura, users can really start to get their ducks in a row when it comes to personal finance and overall well-being.",
           "For many, having an AI that tailors advice and manages daily routines could be a real shot in the arm for long-term stability and peace of mind."
         ],
@@ -6361,6 +6394,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Against the backdrop of tightening monetary conditions, sovereign wealth funds are clearly **going all in** on AI, as evidenced by Anthropic's successful Series D funding, hoping to be **in the driver's seat** of the next technological leap.",
+          "Meanwhile, players like Samsung are **putting their money where their mouth is**, allocating billions into AI chip fabrication to secure their competitive edge and ensure they're not **caught flat-footed** by market shifts."
+        ],
+        "sentenceTranslations": [
+          "금융 긴축 기조 속에서도 국부펀드들은 앤트로픽의 성공적인 시리즈 D 투자 유치에서 볼 수 있듯이 AI에 **전력을 다하고** 있으며, 차세대 기술 도약의 **주도권을 잡으려** 합니다.",
+          "한편, 삼성과 같은 주요 기업들은 경쟁 우위를 확보하고 시장 변화에 **속수무책으로 당하지** 않기 위해 AI 칩 제조에 수십억 달러를 투자하며 **말로만 하는 것이 아니라 실제로 행동으로 보여주고** 있습니다."
+        ],
+        "translationHighlights": [
+          "전력을 다하고",
+          "주도권을 잡으려",
+          "말로만 하는 것이 아니라 실제로 행동으로 보여주고",
+          "속수무책으로 당하지"
+        ],
+        "newWords": [
+          {
+            "word": "going all in",
+            "meaning": "모든 것을 걸다, 전력을 다하다",
+            "context": "sovereign wealth funds are clearly **going all in** on AI"
+          },
+          {
+            "word": "in the driver's seat",
+            "meaning": "주도권을 쥐다, 책임 있는 위치에 있다",
+            "context": "hoping to be **in the driver's seat** of the next technological leap"
+          },
+          {
+            "word": "putting their money where their mouth is",
+            "meaning": "말로만 하는 것이 아니라 실제로 행동으로 보여주다, 약속한 대로 투자하다",
+            "context": "players like Samsung are **putting their money where their mouth is**"
+          }
+        ]
+      },
       {
         "sentences": [
           "The EU's landmark AI Act enforcement today, coupled with the U.S. potentially tightening its grip on advanced chip exports, has truly rocked the boat for companies banking on a rapid, unfettered AI commercialization.",
@@ -12907,6 +12973,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Kyoto's initiative to guide tourists off the beaten path into districts like Nishijin seems to be bearing fruit, offering a fresh perspective for visitors and a much-needed boost for local economies.",
+          "This blend of sustainable local immersion and flexible work-travel options, exemplified by the EU's Digital Nomad Visa efforts, is truly a game-changer, setting the stage for more thoughtful global mobility."
+        ],
+        "sentenceTranslations": [
+          "관광객들을 니시진 같은 숨겨진 지역으로 유도하려는 교토의 이니셔티브는 방문객들에게 신선한 관점을 제공하고 지역 경제에 절실히 필요한 활력을 불어넣으며 결실을 맺는 듯합니다.",
+          "EU의 디지털 노마드 비자 노력으로 대표되는 지속 가능한 현지 몰입과 유연한 업무-여행 옵션의 이러한 조합은 진정으로 판도를 바꾸는 것이며, 보다 사려 깊은 글로벌 이동성의 기반을 마련하고 있습니다."
+        ],
+        "translationHighlights": [
+          "결실을 맺는",
+          "절실히 필요한 활력을 불어넣으며",
+          "판도를 바꾸는",
+          "기반을 마련하고"
+        ],
+        "newWords": [
+          {
+            "word": "bearing fruit",
+            "meaning": "결실을 맺다, 성과를 내다",
+            "context": "seems to be bearing fruit"
+          },
+          {
+            "word": "a game-changer",
+            "meaning": "판도를 바꾸는 결정적 요인, 획기적인 변화",
+            "context": "is truly a game-changer"
+          },
+          {
+            "word": "setting the stage for",
+            "meaning": "~의 기반을 마련하다, ~의 발판을 놓다",
+            "context": "setting the stage for more thoughtful global mobility"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Lufthansa's colossal SAF investment with Neste suggests they're not just paying lip service to decarbonization but are truly walking the talk.",
           "With the 'Fit for 55' package now on the horizon, mandating increased SAF, the entire industry is bracing for a sea change in operational standards."
         ],
@@ -19243,6 +19342,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Rookie sensation Elara Vance has truly hit the ground running in the NBA, her impressive early stats quickly putting the Orlando Magic on the map for playoff contention.",
+          "Meanwhile, the League of Legends World Championship quarterfinals promise to be a nail-biter, especially the highly anticipated showdown between T1 and G2 Esports."
+        ],
+        "sentenceTranslations": [
+          "신인 센세이션 엘라라 밴스는 NBA에서 정말 순조로운 출발을 보였고, 그녀의 인상적인 초반 기록은 올랜도 매직을 플레이오프 경쟁팀으로 빠르게 부각시키고 있습니다.",
+          "한편, 리그 오브 레전드 월드 챔피언십 8강전은 특히 T1과 G2 e스포츠 간의 많은 기대를 받는 대결로 손에 땀을 쥐게 할 것입니다."
+        ],
+        "translationHighlights": [
+          "순조로운 출발을 보였고",
+          "경쟁팀으로 빠르게 부각시키고 있습니다",
+          "손에 땀을 쥐게 할 것입니다",
+          "많은 기대를 받는 대결"
+        ],
+        "newWords": [
+          {
+            "word": "hit the ground running",
+            "meaning": "시작부터 순조롭게 진행하다, 빠르게 성과를 내다",
+            "context": "Elara Vance has truly hit the ground running in the NBA"
+          },
+          {
+            "word": "put [something/someone] on the map",
+            "meaning": "[무엇/누구를] 유명하게 만들다, 중요하게 부각시키다",
+            "context": "quickly putting the Orlando Magic on the map for playoff contention"
+          },
+          {
+            "word": "a nail-biter",
+            "meaning": "손에 땀을 쥐게 하는 아슬아슬한 경기/상황",
+            "context": "quarterfinals promise to be a nail-biter"
+          }
+        ]
+      },
       {
         "sentences": [
           "Against all expectations, Fnatic managed to punch above their weight, stunning perennial favorites T1 and securing their spot in the League of Legends World Championship semifinals.",
