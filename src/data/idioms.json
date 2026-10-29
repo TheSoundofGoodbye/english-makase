@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With many professionals feeling run ragged by the demands of hybrid work, VeriCare's new AI mindfulness program aims to offer a much-needed lifeline.",
+          "However, privacy advocates warn that tracking biomarkers could prove to be a slippery slope towards employers gaining undue access to highly sensitive personal data."
+        ],
+        "sentenceTranslations": [
+          "하이브리드 근무의 요구사항에 많은 직장인들이 지쳐 나가떨어지는 상황에서, VeriCare의 새로운 AI 마음 챙김 프로그램은 절실히 필요한 구명줄을 제공하고자 합니다.",
+          "하지만 프라이버시 옹호자들은 생체 지표 추적이 고도로 민감한 개인 데이터에 고용주가 부당하게 접근하는 미끄러운 경사면이 될 수 있다고 경고합니다."
+        ],
+        "translationHighlights": [
+          "지쳐 나가떨어지는",
+          "절실히 필요한 구명줄",
+          "미끄러운 경사면",
+          "부당하게 접근하는"
+        ],
+        "newWords": [
+          {
+            "word": "run ragged",
+            "meaning": "지쳐버린, 기진맥진한 (몹시 지쳐 피곤한 상태)",
+            "context": "feeling run ragged by the demands"
+          },
+          {
+            "word": "a much-needed lifeline",
+            "meaning": "절실히 필요한 구명줄/도움 (어려운 상황에서 절실히 필요한 도움이나 해결책)",
+            "context": "aims to offer a much-needed lifeline"
+          },
+          {
+            "word": "a slippery slope",
+            "meaning": "미끄러운 경사면 (작은 행동이 결국 큰 문제로 이어질 수 있는 위태로운 상황이나 과정)",
+            "context": "prove to be a slippery slope towards employers gaining undue access"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While AI mindfulness companions like AuraSense are clearly hitting their stride in popularity, their potential to foster digital dependency rather than genuine connection is raising red flags among wellness advocates.",
           "It’s crucial for regulators like the European Commission to nip these potential issues in the bud by fast-tracking proposals, ensuring user well-being doesn't take a backseat to technological innovation."
         ],
@@ -6394,6 +6427,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "The escalating trade restrictions by the U.S. against advanced AI chips are likely to throw a wrench in the works for global tech supply chains, as China's sharp rebuke clearly indicates.",
+          "While some AI ventures like Synapse AI are going gangbusters with massive funding rounds, the broader market worries that these trade disputes will ultimately put a damper on the overall industry's growth trajectory."
+        ],
+        "sentenceTranslations": [
+          "미국이 첨단 AI 칩에 대한 무역 규제를 강화하면서, 중국의 강력한 비난이 명확히 보여주듯이, 이는 글로벌 기술 공급망에 큰 차질을 빚을 것으로 예상됩니다.",
+          "시냅스 AI와 같은 일부 AI 스타트업이 대규모 투자 유치로 승승장구하고 있지만, 광범위한 시장은 이러한 무역 분쟁이 궁극적으로 전체 산업의 성장 궤도에 찬물을 끼얹을 것을 우려하고 있습니다."
+        ],
+        "translationHighlights": [
+          "큰 차질을 빚을",
+          "승승장구하고",
+          "찬물을 끼얹을"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "~에 큰 차질을 빚게 하다, 계획을 망치다",
+            "context": "are likely to throw a wrench in the works for global tech supply chains"
+          },
+          {
+            "word": "go gangbusters",
+            "meaning": "맹렬히 성장하다, 대성공하다",
+            "context": "some AI ventures like Synapse AI are going gangbusters with massive funding rounds"
+          },
+          {
+            "word": "put a damper on",
+            "meaning": "~에 찬물을 끼얹다, 김을 빼다, 기세를 꺾다",
+            "context": "will ultimately put a damper on the overall industry's growth trajectory"
+          }
+        ]
+      },
       {
         "sentences": [
           "Against the backdrop of tightening monetary conditions, sovereign wealth funds are clearly **going all in** on AI, as evidenced by Anthropic's successful Series D funding, hoping to be **in the driver's seat** of the next technological leap.",
@@ -12973,6 +13038,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Aviation leaders are finding it an uphill battle to ramp up Sustainable Aviation Fuel production without greater government incentives to truly grease the wheels of innovation and investment.",
+          "Conversely, the impressive 35% surge in bookings to adventure tourism hotspots, alongside eased e-visa restrictions, shows travelers are increasingly ready to explore every nook and cranny of previously less accessible regions."
+        ],
+        "sentenceTranslations": [
+          "항공 업계 리더들은 혁신과 투자에 박차를 가할 더 큰 정부 인센티브 없이는 지속 가능한 항공유 생산량을 늘리는 데 고군분투하고 있습니다.",
+          "반대로, 모험 여행지로의 예약이 35%나 급증하고 전자 비자 제한이 완화된 것은 여행객들이 이전에 접근하기 어려웠던 지역의 구석구석을 탐험할 준비가 되어 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "고군분투하고 있습니다",
+          "박차를 가할",
+          "구석구석을 탐험할"
+        ],
+        "newWords": [
+          {
+            "word": "uphill battle",
+            "meaning": "힘든 싸움, 고군분투",
+            "context": "finding it an uphill battle to ramp up"
+          },
+          {
+            "word": "grease the wheels",
+            "meaning": "일이 순조롭게 진행되도록 돕다, (성과를 위해) 편의를 제공하다",
+            "context": "to truly grease the wheels of innovation"
+          },
+          {
+            "word": "explore every nook and cranny",
+            "meaning": "샅샅이 탐험하다, 구석구석 둘러보다",
+            "context": "to explore every nook and cranny of previously less accessible regions"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Kyoto's initiative to guide tourists off the beaten path into districts like Nishijin seems to be bearing fruit, offering a fresh perspective for visitors and a much-needed boost for local economies.",
           "This blend of sustainable local immersion and flexible work-travel options, exemplified by the EU's Digital Nomad Visa efforts, is truly a game-changer, setting the stage for more thoughtful global mobility."
         ],
@@ -19342,6 +19439,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With Tua Tagovailoa's MVP-caliber play, the Miami Dolphins are truly hitting their stride, leaving other teams struggling to keep pace.",
+          "Their decisive victory over the Bills suggests they're firing on all cylinders, making them a formidable opponent as the season unfolds."
+        ],
+        "sentenceTranslations": [
+          "투아 타고바이올라의 MVP급 활약 덕분에, 마이애미 돌핀스는 진정으로 제 기량을 발휘하기 시작했고, 다른 팀들은 그 속도를 따라잡느라 고군분투하고 있습니다.",
+          "빌스 전의 압도적인 승리는 그들이 모든 면에서 최고조의 컨디션을 보여주고 있음을 시사하며, 시즌이 진행될수록 강력한 적수로 떠오르고 있습니다."
+        ],
+        "translationHighlights": [
+          "제 기량을 발휘하기 시작했고",
+          "고군분투하고 있습니다",
+          "모든 면에서 최고조의 컨디션을 보여주고 있음을 시사하며",
+          "강력한 적수로 떠오르고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "hitting their stride",
+            "meaning": "제 기량을 발휘하기 시작하다; 순조롭게 나아가다",
+            "context": "the Miami Dolphins are truly hitting their stride"
+          },
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고조의 컨디션을 보여주다; 전력을 다하다",
+            "context": "they're firing on all cylinders"
+          },
+          {
+            "word": "formidable opponent",
+            "meaning": "강력한 적수/상대",
+            "context": "making them a formidable opponent"
+          }
+        ]
+      },
       {
         "sentences": [
           "Rookie sensation Elara Vance has truly hit the ground running in the NBA, her impressive early stats quickly putting the Orlando Magic on the map for playoff contention.",
