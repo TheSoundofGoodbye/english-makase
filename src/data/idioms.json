@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The accelerated AI integration into productivity suites, initially hailed as a time-saver, is proving to be a double-edged sword, leaving many workers burning the candle at both ends.",
+          "Without proactive strategies for digital boundaries, this trend could lead us down a slippery slope, ultimately eroding personal time and making work an incessant demand."
+        ],
+        "sentenceTranslations": [
+          "생산성 프로그램에 AI 통합이 가속화되면서, 처음엔 시간을 절약해 줄 것이라 환영받았지만, 결국 양날의 검으로 드러나 많은 직장인이 밤낮없이 일하게 만들고 있습니다.",
+          "명확한 디지털 경계를 위한 선제적인 전략이 없다면, 이러한 경향은 우리를 위험한 상황으로 이끌 수 있으며, 궁극적으로 개인 시간을 잠식하고 업무를 끊임없는 요구로 만들 것입니다."
+        ],
+        "translationHighlights": [
+          "양날의 검으로 드러나",
+          "밤낮없이 일하게 만들고 있습니다",
+          "위험한 상황으로 이끌 수 있으며"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 지닌 것)",
+            "context": "proving to be a double-edged sword"
+          },
+          {
+            "word": "burning the candle at both ends",
+            "meaning": "밤낮없이 일하다, 너무 많은 에너지를 소모하다",
+            "context": "leaving many workers burning the candle at both ends"
+          },
+          {
+            "word": "lead us down a slippery slope",
+            "meaning": "(나쁜 상황으로) 서서히 빠져들게 하다 / 위험한 길로 이끌다",
+            "context": "could lead us down a slippery slope"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With many professionals feeling run ragged by the demands of hybrid work, VeriCare's new AI mindfulness program aims to offer a much-needed lifeline.",
           "However, privacy advocates warn that tracking biomarkers could prove to be a slippery slope towards employers gaining undue access to highly sensitive personal data."
         ],
@@ -6427,6 +6459,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "As Washington escalates pressure on Beijing over critical AI component exports, it's clear they're playing hardball, unwilling to let adversaries gain a strategic edge.",
+          "Meanwhile, despite global markets largely treading water, AI giants like Google DeepMind are keen to get ahead of the curve, unveiling enhanced safety features as AI regulation looms."
+        ],
+        "sentenceTranslations": [
+          "워싱턴이 핵심 AI 부품 수출을 두고 베이징에 대한 압박을 강화하면서, 적대국이 전략적 우위를 점하게 두지 않겠다는 강경한 태도를 취하고 있다는 점이 분명해졌습니다.",
+          "한편, 글로벌 시장이 대체로 현상 유지에 그치고 있음에도 불구하고, 구글 딥마인드와 같은 AI 거물 기업들은 AI 규제가 임박함에 따라 강화된 안전 기능을 공개하며 시대에 앞서나가려 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "압박을 강화하면서",
+          "강경한 태도를 취하고 있다는 점",
+          "현상 유지에 그치고 있음에도 불구하고",
+          "시대에 앞서나가려 하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "playing hardball",
+            "meaning": "강경책을 쓰다, 강경하게 나오다",
+            "context": "they're playing hardball, unwilling to let adversaries"
+          },
+          {
+            "word": "treading water",
+            "meaning": "현상 유지하다, 제자리걸음하다",
+            "context": "global markets largely treading water"
+          },
+          {
+            "word": "get ahead of the curve",
+            "meaning": "선제적으로 대응하다, 시대에 앞서가다",
+            "context": "keen to get ahead of the curve"
+          }
+        ]
+      },
       {
         "sentences": [
           "The escalating trade restrictions by the U.S. against advanced AI chips are likely to throw a wrench in the works for global tech supply chains, as China's sharp rebuke clearly indicates.",
@@ -13038,6 +13103,34 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "While the EU seems **caught flat-footed** by its ETIAS technical woes, others are swiftly capitalizing on the changing travel landscape.",
+          "Meanwhile, ASEAN nations, along with forward-thinking carriers like Qatar Airways, are quickly **stealing a march on** competitors by catering to this surge in long-term, culturally immersive trips."
+        ],
+        "sentenceTranslations": [
+          "EU가 ETIAS 기술 문제로 인해 허를 찔린 듯 허둥대는 동안, 다른 국가들은 변화하는 여행 환경을 빠르게 활용하고 있습니다.",
+          "한편, 아세안 국가들은 카타르항공과 같은 선견지명 있는 항공사들과 함께 장기 체류 및 문화 체험 여행의 급증에 맞춰 경쟁사들보다 빠르게 우위를 점하고 있습니다."
+        ],
+        "translationHighlights": [
+          "허를 찔린 듯 허둥대는",
+          "변화하는 여행 환경",
+          "선견지명 있는 항공사들",
+          "경쟁사들보다 빠르게 우위를 점하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "caught flat-footed",
+            "meaning": "준비가 안 된 상태로 허둥대다, 허를 찔리다",
+            "context": "While the EU seems **caught flat-footed** by its ETIAS technical woes"
+          },
+          {
+            "word": "steal a march on",
+            "meaning": "~보다 한발 앞서다, ~보다 유리한 고지를 점하다",
+            "context": "are quickly **stealing a march on** competitors by catering to this surge"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Aviation leaders are finding it an uphill battle to ramp up Sustainable Aviation Fuel production without greater government incentives to truly grease the wheels of innovation and investment.",
           "Conversely, the impressive 35% surge in bookings to adventure tourism hotspots, alongside eased e-visa restrictions, shows travelers are increasingly ready to explore every nook and cranny of previously less accessible regions."
         ],
@@ -19439,6 +19532,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With Travis Kelce's status for Sunday's game still up in the air due to his lingering ankle issue, Chiefs fans are undoubtedly on tenterhooks, hoping for a positive update.",
+          "Conversely, as the League of Legends World Championship semifinals hit their stride with record viewership, T1 and G2 Esports are expected to pull out all the stops, delivering a strategic spectacle."
+        ],
+        "sentenceTranslations": [
+          "트래비스 켈시 선수의 발목 부상으로 일요일 경기 출전 여부가 여전히 미정인 만큼, 치프스 팬들은 긍정적인 소식을 바라며 애간장을 태우고 있습니다.",
+          "반대로, 리그 오브 레전드 월드 챔피언십 준결승전이 역대급 시청률을 기록하며 본격적인 궤도에 오른 가운데, T1과 G2 e스포츠는 모든 전략을 총동원하여 화려한 전략적 볼거리를 선사할 것으로 기대됩니다."
+        ],
+        "translationHighlights": [
+          "여전히 미정인 만큼",
+          "애간장을 태우고 있습니다",
+          "본격적인 궤도에 오른 가운데",
+          "모든 전략을 총동원하여"
+        ],
+        "newWords": [
+          {
+            "word": "up in the air",
+            "meaning": "미정인, 불확실한",
+            "context": "Travis Kelce's status for Sunday's game still up in the air"
+          },
+          {
+            "word": "on tenterhooks",
+            "meaning": "애가 타서 안절부절 못하는, 불안해하는",
+            "context": "Chiefs fans are undoubtedly on tenterhooks"
+          },
+          {
+            "word": "hit their stride",
+            "meaning": "진가를 발휘하기 시작하다, 순조롭게 진행되다",
+            "context": "as the League of Legends World Championship semifinals hit their stride"
+          }
+        ]
+      },
       {
         "sentences": [
           "With Tua Tagovailoa's MVP-caliber play, the Miami Dolphins are truly hitting their stride, leaving other teams struggling to keep pace.",
