@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While consumer demand for advanced health wearables is soaring, ensuring seamless data integration without robust oversight means we're truly walking a tightrope regarding patient privacy.",
+          "Without strong federal regulations, advocates fear we're opening a Pandora's box of potential exploitation for individuals' most sensitive health information."
+        ],
+        "sentenceTranslations": [
+          "첨단 건강 웨어러블에 대한 소비자 수요가 급증하는 가운데, 강력한 감독 없이 원활한 데이터 통합을 보장하는 것은 환자 프라이버시 문제에 있어 정말 아슬아슬한 줄타기를 하는 것과 같습니다.",
+          "강력한 연방 규제가 없다면, 옹호자들은 우리가 개인의 가장 민감한 건강 정보에 대한 잠재적인 착취의 판도라의 상자를 열게 될까 봐 우려하고 있습니다."
+        ],
+        "translationHighlights": [
+          "아슬아슬한 줄타기",
+          "강력한 감독 없이",
+          "판도라의 상자를 열게 될까 봐",
+          "잠재적인 착취"
+        ],
+        "newWords": [
+          {
+            "word": "walking a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다; 위태로운 상황에 있다",
+            "context": "we're truly walking a tightrope regarding patient privacy"
+          },
+          {
+            "word": "opening a Pandora's box",
+            "meaning": "판도라의 상자를 열다; (예상치 못한) 온갖 재앙이나 문제를 불러일으키다",
+            "context": "we're opening a Pandora's box of potential exploitation"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The accelerated AI integration into productivity suites, initially hailed as a time-saver, is proving to be a double-edged sword, leaving many workers burning the candle at both ends.",
           "Without proactive strategies for digital boundaries, this trend could lead us down a slippery slope, ultimately eroding personal time and making work an incessant demand."
         ],
@@ -6459,6 +6487,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Washington's recent 'de-risking' measures have certainly thrown a wrench in the works for global tech giants, forcing a rapid re-evaluation of their supply chain strategies.",
+          "This climate is compelling many industry leaders to read the tea leaves, with companies like Microsoft looking to diversify investments and build regional AI infrastructure."
+        ],
+        "sentenceTranslations": [
+          "미국의 최근 '디리스킹' 조치들은 전 세계 기술 대기업들의 계획에 확실히 큰 차질을 초래했으며, 이들로 하여금 공급망 전략을 신속하게 재평가하도록 강제하고 있습니다.",
+          "이러한 분위기는 많은 업계 리더들로 하여금 미래의 징후를 읽도록 만들고 있으며, 마이크로소프트와 같은 기업들은 투자를 다각화하고 지역별 AI 인프라를 구축하려 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "큰 차질을 초래했으며",
+          "신속하게 재평가하도록 강제하고 있습니다",
+          "미래의 징후를 읽도록 만들고 있으며",
+          "투자를 다각화하고"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획이나 과정에 큰 차질을 주거나 망쳐 놓다",
+            "context": "thrown a wrench in the works for global tech giants"
+          },
+          {
+            "word": "read the tea leaves",
+            "meaning": "불확실한 징후를 해석하여 미래를 예측하다",
+            "context": "compelling many industry leaders to read the tea leaves"
+          }
+        ]
+      },
       {
         "sentences": [
           "As Washington escalates pressure on Beijing over critical AI component exports, it's clear they're playing hardball, unwilling to let adversaries gain a strategic edge.",
@@ -13101,6 +13157,44 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "While global passenger traffic is on the upswing, showing a robust recovery, airlines are truly stretched thin by ongoing aircraft delivery delays.",
+          "Consequently, many travelers are now looking to go off the beaten path, making places like Uzbekistan's Samarkand a hot ticket for those eager to explore ancient Silk Road culture."
+        ],
+        "sentenceTranslations": [
+          "전 세계 여객 수송량이 강한 회복세를 보이며 상승세에 있지만, 항공사들은 계속되는 항공기 인도 지연으로 인해 실제로 매우 빠듯한 상황입니다.",
+          "그 결과, 많은 여행객들이 이제 사람들이 잘 가지 않는 길을 찾아 나섰고, 우즈베키스탄의 사마르칸트 같은 곳은 고대 실크로드 문화를 탐험하려는 이들에게 인기 있는 목적지가 되고 있습니다."
+        ],
+        "translationHighlights": [
+          "상승세에 있지만",
+          "매우 빠듯한 상황",
+          "사람들이 잘 가지 않는 길",
+          "인기 있는 목적지"
+        ],
+        "newWords": [
+          {
+            "word": "on the upswing",
+            "meaning": "상승세에 있는, 호전되는",
+            "context": "global passenger traffic is on the upswing"
+          },
+          {
+            "word": "stretched thin",
+            "meaning": "자원이나 인력이 부족하여 여유가 없는, 빠듯한",
+            "context": "airlines are truly stretched thin"
+          },
+          {
+            "word": "off the beaten path",
+            "meaning": "사람들이 잘 가지 않는, 잘 알려지지 않은",
+            "context": "looking to go off the beaten path"
+          },
+          {
+            "word": "a hot ticket",
+            "meaning": "인기 있는 것, 선망의 대상",
+            "context": "making places like Uzbekistan's Samarkand a hot ticket"
+          }
+        ]
+      },
       {
         "sentences": [
           "While the EU seems **caught flat-footed** by its ETIAS technical woes, others are swiftly capitalizing on the changing travel landscape.",
