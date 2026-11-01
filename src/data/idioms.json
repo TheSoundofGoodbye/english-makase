@@ -3,6 +3,40 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With AI-generated content increasingly muddying the waters of daily workflows, many professionals are finding it nearly impossible to discern genuine human insight from algorithmic output.",
+          "This critical need to re-emphasize authentic connection is leading firms to put a premium on human verification badges, hoping to cut through the noise and rebuild user trust."
+        ],
+        "sentenceTranslations": [
+          "AI 생성 콘텐츠가 일상 업무의 판도를 점점 더 흐리게 만들면서, 많은 전문가들이 알고리즘 결과물에서 진정한 인간의 통찰력을 분별하는 것을 거의 불가능하다고 느끼고 있습니다.",
+          "진정한 소통을 재강조해야 하는 이러한 중대한 필요성 때문에 기업들은 인간 검증 배지에 가치를 두기 시작했으며, 이를 통해 혼란 속에서 핵심을 꿰뚫고 사용자 신뢰를 재건하기를 바라고 있습니다."
+        ],
+        "translationHighlights": [
+          "판도를 흐리게 만들면서",
+          "진정한 인간의 통찰력을 분별하는 것",
+          "중대한 필요성",
+          "가치를 두기",
+          "혼란 속에서 핵심을 꿰뚫고"
+        ],
+        "newWords": [
+          {
+            "word": "muddying the waters",
+            "meaning": "상황을 불분명하거나 혼란스럽게 만들다",
+            "context": "With AI-generated content increasingly muddying the waters of daily workflows..."
+          },
+          {
+            "word": "put a premium on (something)",
+            "meaning": "~을 매우 중요하게 여기다, ~에 높은 가치를 두다",
+            "context": "...leading firms to put a premium on human verification badges..."
+          },
+          {
+            "word": "cut through the noise",
+            "meaning": "불필요한 정보나 소음 속에서 핵심을 파악하다",
+            "context": "...hoping to cut through the noise and rebuild user trust."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While consumer demand for advanced health wearables is soaring, ensuring seamless data integration without robust oversight means we're truly walking a tightrope regarding patient privacy.",
           "Without strong federal regulations, advocates fear we're opening a Pandora's box of potential exploitation for individuals' most sensitive health information."
         ],
@@ -6487,6 +6521,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "The recent tightening of export controls by the U.S. Commerce Department has certainly thrown a wrench in the works for global tech manufacturers, disrupting established supply chain strategies overnight.",
+          "Consequently, many firms are now reading the writing on the wall and choosing to bite the bullet on increased re-shoring investments to mitigate future geopolitical risks."
+        ],
+        "sentenceTranslations": [
+          "미국 상무부의 최근 수출 통제 강화 조치는 전 세계 기술 제조업체들의 기존 공급망 전략에 확실히 큰 차질을 불러일으켰습니다.",
+          "결과적으로 많은 기업들은 이제 상황의 심각성을 인지하고 있으며, 미래의 지정학적 위험을 완화하기 위해 늘어나는 리쇼어링 투자 비용을 감수하기로 결정하고 있습니다."
+        ],
+        "translationHighlights": [
+          "큰 차질을 불러일으켰습니다",
+          "상황의 심각성을 인지하고",
+          "감수하기로 결정하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획을 망치다, 차질을 빚게 하다",
+            "context": "has certainly thrown a wrench in the works for global tech manufacturers"
+          },
+          {
+            "word": "read the writing on the wall",
+            "meaning": "미래의 불길한 징조를 읽다, 상황의 심각성을 파악하다",
+            "context": "many firms are now reading the writing on the wall"
+          },
+          {
+            "word": "bite the bullet",
+            "meaning": "어려운 상황을 감수하다, 이를 악물고 참다",
+            "context": "choosing to bite the bullet on increased re-shoring investments"
+          }
+        ]
+      },
       {
         "sentences": [
           "Washington's recent 'de-risking' measures have certainly thrown a wrench in the works for global tech giants, forcing a rapid re-evaluation of their supply chain strategies.",
@@ -13159,6 +13225,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With visa restrictions easing and new flight routes opening up, Southeast Asian nations are truly striking while the iron is hot to capitalize on the burgeoning winter travel season.",
+          "This proactive approach is giving the region's tourism sector a shot in the arm, signaling that it's poised to go from strength to strength well into the coming year."
+        ],
+        "sentenceTranslations": [
+          "비자 규제 완화와 새로운 직항 노선 개설로 동남아시아 국가들은 성장하는 겨울 여행 시즌을 활용하기 위해 정말로 기회를 놓치지 않고 있습니다.",
+          "이러한 선제적 접근 방식은 역내 관광 부문에 활력을 불어넣고 있으며, 다가오는 해에도 지속적으로 발전할 준비가 되어 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "기회를 놓치지 않고 있습니다",
+          "활력을 불어넣고 있으며",
+          "지속적으로 발전할 준비가 되어 있음을"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회를 놓치지 않고 바로 행동하다",
+            "context": "striking while the iron is hot to capitalize on the burgeoning winter travel season"
+          },
+          {
+            "word": "a shot in the arm",
+            "meaning": "활력소, 큰 힘이 되는 것",
+            "context": "giving the region's tourism sector a shot in the arm"
+          },
+          {
+            "word": "go from strength to strength",
+            "meaning": "갈수록 더 강해지다, 계속 발전하다",
+            "context": "poised to go from strength to strength well into the coming year"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While global passenger traffic is on the upswing, showing a robust recovery, airlines are truly stretched thin by ongoing aircraft delivery delays.",
           "Consequently, many travelers are now looking to go off the beaten path, making places like Uzbekistan's Samarkand a hot ticket for those eager to explore ancient Silk Road culture."
         ],
@@ -19626,6 +19724,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Regarding Victor Wembanyama's seismic NBA debut, analysts aren't mincing words, openly proclaiming him a generational talent.",
+          "His exceptional averages already prove he's a cut above the rest, making a compelling case for a truly historic rookie season."
+        ],
+        "sentenceTranslations": [
+          "빅터 웸반야마의 엄청난 NBA 데뷔에 대해 분석가들은 말을 아끼지 않으며, 그를 세대를 뛰어넘는 재능이라고 공공연히 선언하고 있습니다.",
+          "그의 뛰어난 평균 기록은 이미 그가 다른 선수들보다 한 수 위임을 증명하며, 진정으로 역사적인 신인 시즌이 될 것이라는 강력한 주장을 뒷받침합니다."
+        ],
+        "translationHighlights": [
+          "말을 아끼지 않으며",
+          "세대를 뛰어넘는 재능",
+          "다른 선수들보다 한 수 위임을",
+          "역사적인 신인 시즌"
+        ],
+        "newWords": [
+          {
+            "word": "seismic",
+            "meaning": "지진처럼 엄청난, 막대한 영향을 미치는",
+            "context": "Wembanyama's seismic NBA debut"
+          },
+          {
+            "word": "aren't mincing words",
+            "meaning": "말을 아끼지 않다, 솔직하게 말하다",
+            "context": "analysts aren't mincing words"
+          },
+          {
+            "word": "a cut above the rest",
+            "meaning": "다른 사람들보다 한 수 위인, 훨씬 뛰어난",
+            "context": "he's a cut above the rest"
+          }
+        ]
+      },
       {
         "sentences": [
           "With Travis Kelce's status for Sunday's game still up in the air due to his lingering ankle issue, Chiefs fans are undoubtedly on tenterhooks, hoping for a positive update.",
