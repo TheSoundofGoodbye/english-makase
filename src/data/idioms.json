@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With platforms like WealthWise AI, younger generations are finally getting their financial ducks in a row, thanks to personalized debt management.",
+          "For anyone still hesitant, it’s increasingly evident that leveraging AI for personal finance is the shape of things to come, and delaying could leave them playing catch-up in a rapidly evolving economic landscape."
+        ],
+        "sentenceTranslations": [
+          "WealthWise AI 같은 플랫폼 덕분에, 젊은 세대들은 개인 맞춤형 채무 관리를 통해 마침내 재정 상태를 깔끔하게 정리하고 있습니다.",
+          "아직 망설이는 분들에게는, 개인 재정 관리에 AI를 활용하는 것이 앞으로 대세가 될 것이 분명하며, 지체하면 급변하는 경제 환경에서 뒤처질 수 있습니다."
+        ],
+        "translationHighlights": [
+          "재정 상태를 깔끔하게 정리하고 있습니다",
+          "앞으로 대세가 될 것이 분명하며",
+          "뒤처질 수 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "get one's financial ducks in a row",
+            "meaning": "재정 상태를 깔끔하게 정리하다, 재정 계획을 체계적으로 세우다",
+            "context": "younger generations are finally getting their financial ducks in a row"
+          },
+          {
+            "word": "the shape of things to come",
+            "meaning": "앞으로 다가올 일의 모습, 미래의 경향, 대세",
+            "context": "leveraging AI for personal finance is the shape of things to come"
+          },
+          {
+            "word": "playing catch-up",
+            "meaning": "(뒤처져서) 따라잡으려고 애쓰다, 뒤늦게 수습하다",
+            "context": "delaying could leave them playing catch-up"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With AI-generated content increasingly muddying the waters of daily workflows, many professionals are finding it nearly impossible to discern genuine human insight from algorithmic output.",
           "This critical need to re-emphasize authentic connection is leading firms to put a premium on human verification badges, hoping to cut through the noise and rebuild user trust."
         ],
@@ -6521,6 +6553,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "The recent surge in Microsoft shares suggests they're riding the crest of a wave driven by OpenAI's 'Titan' model, with the market buzzing about integrated enterprise AI solutions.",
+          "However, the IMF's dire warnings about geopolitical fragmentation and the chilling effect of the impending EU AI Act threaten to throw a wrench in the works for sustained global growth in the tech sector."
+        ],
+        "sentenceTranslations": [
+          "최근 마이크로소프트 주식의 급등은 OpenAI의 'Titan' 모델에 힘입어 그들이 최고의 전성기를 누리고 있음을 시사하며, 시장은 통합 기업 AI 솔루션에 대한 기대감으로 들썩이고 있습니다.",
+          "하지만 IMF의 지정학적 분열에 대한 심각한 경고와 임박한 EU AI 법안의 혁신 위축 효과는 기술 부문의 지속적인 글로벌 성장에 장애물로 작용할 수 있습니다."
+        ],
+        "translationHighlights": [
+          "최고의 전성기를 누리고 있음",
+          "들썩이고 있습니다",
+          "혁신 위축 효과",
+          "장애물로 작용할 수 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "최고의 전성기를 누리다, 엄청난 성공을 경험하다",
+            "context": "they're riding the crest of a wave driven by OpenAI's 'Titan' model"
+          },
+          {
+            "word": "chilling effect",
+            "meaning": "위축 효과 (특히 자유로운 행동이나 혁신에 대한)",
+            "context": "the chilling effect of the impending EU AI Act"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다, 진행을 방해하다",
+            "context": "threaten to throw a wrench in the works for sustained global growth"
+          }
+        ]
+      },
       {
         "sentences": [
           "The recent tightening of export controls by the U.S. Commerce Department has certainly thrown a wrench in the works for global tech manufacturers, disrupting established supply chain strategies overnight.",
@@ -13225,6 +13290,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With its new routes to Bengaluru and Seoul, Lufthansa is clearly making hay while the sun shines, positioning itself to capitalize on Asia's booming travel market.",
+          "This strategic expansion is anticipated to give their Asia-Pacific passenger volume a shot in the arm, effectively helping them rake in the dough as cultural exports and business travel surge."
+        ],
+        "sentenceTranslations": [
+          "루프트한자는 벵갈루루와 서울 신규 노선을 통해 물이 들어올 때 노 젓는 격으로, 아시아의 급성장하는 여행 시장을 적극적으로 공략하고 있습니다.",
+          "이러한 전략적 확장은 아시아-태평양 승객 수에 활력을 불어넣을 것으로 예상되며, 문화 수출과 비즈니스 여행이 급증함에 따라 돈을 쓸어 담는 데 효과적으로 기여할 것입니다."
+        ],
+        "translationHighlights": [
+          "물이 들어올 때 노 젓는 격으로",
+          "활력을 불어넣을 것으로",
+          "돈을 쓸어 담는 데"
+        ],
+        "newWords": [
+          {
+            "word": "making hay while the sun shines",
+            "meaning": "좋은 기회나 유리한 상황이 있을 때 그것을 최대한 활용하다",
+            "context": "Lufthansa is clearly *making hay while the sun shines*, positioning itself..."
+          },
+          {
+            "word": "a shot in the arm",
+            "meaning": "사업이나 사람에게 활력소, 큰 힘, 기운을 북돋아 주는 것",
+            "context": "...anticipated to give their Asia-Pacific passenger volume *a shot in the arm*..."
+          },
+          {
+            "word": "rake in the dough",
+            "meaning": "많은 돈을 벌다, 돈을 갈퀴로 쓸어 담다",
+            "context": "...effectively helping them *rake in the dough* as cultural exports and business travel surge."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With visa restrictions easing and new flight routes opening up, Southeast Asian nations are truly striking while the iron is hot to capitalize on the burgeoning winter travel season.",
           "This proactive approach is giving the region's tourism sector a shot in the arm, signaling that it's poised to go from strength to strength well into the coming year."
         ],
@@ -19724,6 +19821,33 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Lee 'Faker' Sang-hyeok once again proved he was in a league of his own, clinching his record-extending fifth MVP title through truly pivotal performances.",
+          "The final match shattering viewership records and securing T1's unprecedented fifth Cup speaks volumes about the game's enduring global appeal."
+        ],
+        "sentenceTranslations": [
+          "이 '페이커' 이상혁 선수는 결정적인 활약을 통해 기록적인 다섯 번째 MVP 타이틀을 거머쥐며 자신이 타의 추종을 불허하는 선수임을 다시 한번 입증했습니다.",
+          "결승전 시청률 기록 경신과 T1의 전례 없는 다섯 번째 우승은 이 게임의 끊이지 않는 전 세계적인 인기를 웅변적으로 보여줍니다."
+        ],
+        "translationHighlights": [
+          "타의 추종을 불허하는",
+          "결정적인 활약",
+          "웅변적으로 보여줍니다"
+        ],
+        "newWords": [
+          {
+            "word": "in a league of one's own",
+            "meaning": "타의 추종을 불허하는, 독보적인",
+            "context": "proved he was *in a league of his own*"
+          },
+          {
+            "word": "speak volumes",
+            "meaning": "많은 것을 말해 주다, 웅변적으로 보여주다",
+            "context": "fifth Cup *speaks volumes* about the game's"
+          }
+        ]
+      },
       {
         "sentences": [
           "Regarding Victor Wembanyama's seismic NBA debut, analysts aren't mincing words, openly proclaiming him a generational talent.",
