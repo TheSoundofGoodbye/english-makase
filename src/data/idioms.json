@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While the new Health Band X could be a real shot in the arm for preventive healthcare, its potential impact on data privacy makes it a bit of a double-edged sword.",
+          "For these smart wearables to truly gain traction beyond early adopters and clear a high bar for widespread acceptance, tackling digital fatigue will be crucial."
+        ],
+        "sentenceTranslations": [
+          "새로운 헬스 밴드 X가 예방 건강 관리에 상당한 활력소가 될 수 있지만, 데이터 프라이버시에 미칠 잠재적 영향 때문에 양날의 검과도 같습니다.",
+          "이러한 스마트 웨어러블 기기들이 얼리어답터를 넘어 진정으로 인기를 얻고 널리 수용되기 위한 높은 허들을 넘으려면, 디지털 피로를 해결하는 것이 매우 중요할 것입니다."
+        ],
+        "translationHighlights": [
+          "상당한 활력소",
+          "양날의 검",
+          "진정으로 인기를 얻고",
+          "높은 허들을 넘으려면"
+        ],
+        "newWords": [
+          {
+            "word": "a shot in the arm",
+            "meaning": "활력소, 사기 진작책 (특히 침체된 상황에 활기를 불어넣는 것)",
+            "context": "could be a real shot in the arm for preventive healthcare"
+          },
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (장점과 단점, 이점과 위험을 동시에 가진 것)",
+            "context": "makes it a bit of a double-edged sword"
+          },
+          {
+            "word": "gain traction",
+            "meaning": "인기를 얻다, 지지를 얻다, 추진력을 얻다",
+            "context": "to truly gain traction beyond early adopters"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With platforms like WealthWise AI, younger generations are finally getting their financial ducks in a row, thanks to personalized debt management.",
           "For anyone still hesitant, it’s increasingly evident that leveraging AI for personal finance is the shape of things to come, and delaying could leave them playing catch-up in a rapidly evolving economic landscape."
         ],
@@ -6553,6 +6586,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "With regulatory bodies intensifying scrutiny on AI safety, companies leveraging generative AI must realize that its potential benefits are a double-edged sword, demanding careful implementation to avoid societal disruption.",
+          "J.P. Morgan's forecast of up to a 12% reduction in labor costs further emphasizes that businesses ignoring these shifts will quickly fall behind the curve in an increasingly automated landscape."
+        ],
+        "sentenceTranslations": [
+          "규제 기관들이 AI 안전에 대한 감시를 강화함에 따라, 생성형 AI를 활용하는 기업들은 그 잠재적 이점이 양날의 검과 같다는 것을 인지하고 사회적 혼란을 피하기 위해 신중하게 구현해야 합니다.",
+          "J.P. Morgan이 노동 비용이 최대 12% 감소할 것이라고 예측한 것은 이러한 변화를 무시하는 기업들이 점차 자동화되는 환경에서 빠르게 뒤처지게 될 것임을 더욱 강조합니다."
+        ],
+        "translationHighlights": [
+          "양날의 검",
+          "신중하게 구현해야 합니다",
+          "뒤처지게 될 것임을",
+          "자동화되는 환경에서"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가짐)",
+            "context": "its potential benefits are a double-edged sword"
+          },
+          {
+            "word": "fall behind the curve",
+            "meaning": "(새로운 트렌드나 발전에서) 뒤처지다",
+            "context": "will quickly fall behind the curve"
+          }
+        ]
+      },
       {
         "sentences": [
           "The recent surge in Microsoft shares suggests they're riding the crest of a wave driven by OpenAI's 'Titan' model, with the market buzzing about integrated enterprise AI solutions.",
@@ -13290,6 +13351,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Da Nang is certainly riding the crest of a wave with its projected record influx of international tourists, driven by new direct routes and ongoing infrastructure development.",
+          "This phenomenon reflects a broader sea change in traveler preferences, as many are now voting with their feet for more authentic, indigenous-led tours and meaningful cultural experiences."
+        ],
+        "sentenceTranslations": [
+          "다낭은 새로운 직항 노선과 지속적인 인프라 개발에 힘입어 기록적인 외국인 관광객 유입이 예상되면서 확실히 최고의 전성기를 누리고 있습니다.",
+          "이러한 현상은 여행자 선호도에 있어 더 큰 변화를 반영하는데, 많은 이들이 이제 더 진정성 있는 원주민 주도 투어와 의미 있는 문화 체험을 위해 직접 행동으로 나서고 있기 때문입니다."
+        ],
+        "translationHighlights": [
+          "최고의 전성기를 누리고 있습니다",
+          "더 큰 변화",
+          "직접 행동으로 나서고 있기 때문입니다"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "최고의 전성기를 누리다, 승승장구하다",
+            "context": "Da Nang is certainly *riding the crest of a wave* with its projected record influx..."
+          },
+          {
+            "word": "sea change",
+            "meaning": "상황/생각의 근본적인 변화, 대변혁",
+            "context": "This phenomenon reflects a broader *sea change* in traveler preferences..."
+          },
+          {
+            "word": "voting with their feet",
+            "meaning": "불만/선호도를 행동으로 보여주다, (원하는 것을 찾아) 직접 찾아 나서다/외면하다",
+            "context": "many are now *voting with their feet* for more authentic, indigenous-led tours..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With its new routes to Bengaluru and Seoul, Lufthansa is clearly making hay while the sun shines, positioning itself to capitalize on Asia's booming travel market.",
           "This strategic expansion is anticipated to give their Asia-Pacific passenger volume a shot in the arm, effectively helping them rake in the dough as cultural exports and business travel surge."
         ],
@@ -19821,6 +19914,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Sentinels' star player TenZ recently hit a wall, openly admitting he needed a temporary break from *Valorant* to reset his mental and physical health.",
+          "His candid admission serves as a much-needed wake-up call for the entire VCT Americas league to address the intense pressures on competitive players."
+        ],
+        "sentenceTranslations": [
+          "센티넬즈의 스타 플레이어 TenZ는 최근 한계에 부딪혔고, 정신적, 신체적 건강을 재정비하기 위해 발로란트 프로씬에서 잠정적인 휴식을 취하겠다고 공개적으로 인정했습니다.",
+          "그의 솔직한 고백은 VCT 아메리카스 리그 전체가 경쟁적인 선수들이 겪는 극심한 압박을 더욱 적극적으로 다뤄야 한다는 중요한 경각심을 일깨워 줍니다."
+        ],
+        "translationHighlights": [
+          "한계에 부딪혔고",
+          "잠정적인 휴식을 취하겠다고",
+          "솔직한 고백",
+          "중요한 경각심을 일깨워 줍니다"
+        ],
+        "newWords": [
+          {
+            "word": "hit a wall",
+            "meaning": "한계에 부딪히다, 더 이상 진행하기 어렵다",
+            "context": "TenZ recently hit a wall"
+          },
+          {
+            "word": "wake-up call",
+            "meaning": "경각심을 일깨우는 사건/신호",
+            "context": "serves as a much-needed wake-up call"
+          }
+        ]
+      },
       {
         "sentences": [
           "Lee 'Faker' Sang-hyeok once again proved he was in a league of his own, clinching his record-extending fifth MVP title through truly pivotal performances.",
