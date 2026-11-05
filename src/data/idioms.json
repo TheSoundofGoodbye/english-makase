@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Despite Google's promise of smarter financial AI, overcoming deep-seated user skepticism about data security remains a tough nut to crack for tech companies.",
+          "To clear the air and foster global trust, transparency in algorithm design is now rightly seen as the bedrock of ethical AI development, not just a bonus feature."
+        ],
+        "sentenceTranslations": [
+          "구글이 더 스마트한 AI 금융 서비스를 약속했음에도 불구하고, 데이터 보안에 대한 뿌리 깊은 사용자들의 불신을 극복하는 것은 기술 기업들에게 여전히 *어려운 과제*입니다.",
+          "분위기를 명확히 하고 전 세계적인 신뢰를 쌓기 위해, 알고리즘 설계의 투명성은 이제 단순한 부가 기능이 아니라 윤리적인 AI 개발의 *기반*으로 마땅히 여겨지고 있습니다."
+        ],
+        "translationHighlights": [
+          "어려운 과제",
+          "분위기를 명확히 하고",
+          "윤리적인 AI 개발의 기반"
+        ],
+        "newWords": [
+          {
+            "word": "a tough nut to crack",
+            "meaning": "어려운 문제 (다루기 힘든 사람이나 문제)",
+            "context": "remains a tough nut to crack for tech companies"
+          },
+          {
+            "word": "clear the air",
+            "meaning": "오해나 긴장을 해소하다 (분위기를 명확히 하다)",
+            "context": "To clear the air and foster global trust"
+          },
+          {
+            "word": "the bedrock of",
+            "meaning": "~의 근본/기반",
+            "context": "is now rightly seen as the bedrock of ethical AI development"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While the new Health Band X could be a real shot in the arm for preventive healthcare, its potential impact on data privacy makes it a bit of a double-edged sword.",
           "For these smart wearables to truly gain traction beyond early adopters and clear a high bar for widespread acceptance, tackling digital fatigue will be crucial."
         ],
@@ -6586,6 +6618,33 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Alphabet's DeepMind finds itself walking on thin ice as the European Commission scrutinizes its data governance, signaling a new era of strict AI regulation.",
+          "Consequently, major players like Microsoft and NVIDIA are scrambling to dot the i's and cross the t's on their compliance roadmaps to avoid similar regulatory headwinds."
+        ],
+        "sentenceTranslations": [
+          "유럽위원회가 DeepMind의 데이터 거버넌스를 정밀 조사하면서 Alphabet의 DeepMind는 *위태로운 상황에 처했으며*, 이는 엄격한 AI 규제의 새로운 시대를 알리는 신호입니다.",
+          "결과적으로, 마이크로소프트와 엔비디아 같은 주요 기업들은 비슷한 규제 역풍을 피하기 위해 규제 준수 로드맵을 *꼼꼼히 확인하며 준비하기 위해* 서두르고 있습니다."
+        ],
+        "translationHighlights": [
+          "위태로운 상황에 처했으며",
+          "엄격한 AI 규제의 새로운 시대",
+          "꼼꼼히 확인하며 준비하기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "walking on thin ice",
+            "meaning": "위태로운 상황에 처하다, 매우 조심해야 하는 상황이다",
+            "context": "DeepMind finds itself walking on thin ice"
+          },
+          {
+            "word": "dot the i's and cross the t's",
+            "meaning": "모든 세부 사항을 꼼꼼히 확인하다, 철저히 준비하다",
+            "context": "scrambling to dot the i's and cross the t's"
+          }
+        ]
+      },
       {
         "sentences": [
           "With regulatory bodies intensifying scrutiny on AI safety, companies leveraging generative AI must realize that its potential benefits are a double-edged sword, demanding careful implementation to avoid societal disruption.",
@@ -13351,6 +13410,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The airline industry's commitment to sustainable aviation fuel mandates means carriers will have to bite the bullet on substantial investment, inevitably reflecting in ticket prices.",
+          "Likewise, travelers hoping to catch winter holiday flights will need to get their ducks in a row for the ETIAS system, otherwise they could pay through the nose for last-minute processing or rebooking."
+        ],
+        "sentenceTranslations": [
+          "항공업계가 지속 가능한 항공 연료(SAF) 의무 사용에 전념하는 것은 항공사들이 막대한 투자에 쓴맛을 감내해야 함을 의미하며, 이는 필연적으로 항공권 가격에 반영될 것입니다.",
+          "마찬가지로, 겨울 휴가 항공편을 이용하려는 여행객들은 ETIAS 시스템에 대비해 사전 준비를 철저히 해야 할 것이며, 그렇지 않으면 막판 수속이나 재예약으로 인해 엄청난 비용을 지불하게 될 수도 있습니다."
+        ],
+        "translationHighlights": [
+          "쓴맛을 감내해야 함",
+          "필연적으로 반영될 것입니다",
+          "사전 준비를 철저히 해야 할",
+          "엄청난 비용을 지불하게 될"
+        ],
+        "newWords": [
+          {
+            "word": "bite the bullet",
+            "meaning": "어려운 상황을 참고 견디다, 쓴맛을 감내하다",
+            "context": "carriers will have to bite the bullet on substantial investment"
+          },
+          {
+            "word": "get their ducks in a row",
+            "meaning": "만반의 준비를 하다, 미리 정리해 두다",
+            "context": "need to get their ducks in a row for the ETIAS system"
+          },
+          {
+            "word": "pay through the nose",
+            "meaning": "엄청난 비용을 지불하다, 바가지 쓰다",
+            "context": "could pay through the nose for last-minute processing"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Da Nang is certainly riding the crest of a wave with its projected record influx of international tourists, driven by new direct routes and ongoing infrastructure development.",
           "This phenomenon reflects a broader sea change in traveler preferences, as many are now voting with their feet for more authentic, indigenous-led tours and meaningful cultural experiences."
         ],
@@ -19914,6 +20006,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The Oklahoma City Thunder, with their blistering 6-1 start, are truly punching above their weight this nascent season, catching many by surprise.",
+          "Conversely, the struggling Florida Panthers, currently on the ropes, must turn the tide quickly on their challenging road trip to avoid falling further behind."
+        ],
+        "sentenceTranslations": [
+          "오클라호마시티 썬더는 6승 1패라는 불꽃 튀는 출발을 보이며 이번 시즌 초반 진정으로 자신들의 체급 이상의 실력을 보여주면서 많은 사람들을 놀라게 하고 있습니다.",
+          "반대로, 현재 궁지에 몰린 플로리다 팬서스는 더 이상 뒤처지지 않기 위해 힘든 원정 경기에서 빠르게 전세를 역전시켜야 합니다."
+        ],
+        "translationHighlights": [
+          "체급 이상의 실력을 보여주면서",
+          "궁지에 몰린",
+          "전세를 역전시켜야"
+        ],
+        "newWords": [
+          {
+            "word": "punching above their weight",
+            "meaning": "자신의 체급(기대치) 이상의 실력을 발휘하다",
+            "context": "are truly *punching above their weight* this nascent season"
+          },
+          {
+            "word": "on the ropes",
+            "meaning": "궁지에 몰린, 어려운 상황에 처한",
+            "context": "the struggling Florida Panthers, currently *on the ropes*"
+          },
+          {
+            "word": "turn the tide",
+            "meaning": "전세를 역전시키다, 상황을 뒤집다",
+            "context": "must *turn the tide* quickly on their challenging road trip"
+          }
+        ]
+      },
       {
         "sentences": [
           "Sentinels' star player TenZ recently hit a wall, openly admitting he needed a temporary break from *Valorant* to reset his mental and physical health.",
