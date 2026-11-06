@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Many workers are just going through the motions in virtual meetings, which is why localized co-working spaces are proving to be a breath of fresh air.",
+          "Acknowledging that many employees need to cut the cord from constant digital noise, tech giants are now engineering tools to help them truly knuckle down."
+        ],
+        "sentenceTranslations": [
+          "많은 직장인들이 가상 회의에서 그저 시늉만 하고 있으며, 그렇기 때문에 지역별 코워킹 스페이스가 새로운 활력소가 되고 있습니다.",
+          "많은 직원들이 끊임없는 디지털 소음에서 벗어나야 한다는 점을 인식하고, 기술 대기업들은 그들이 진정으로 집중할 수 있도록 돕는 도구들을 개발하고 있습니다."
+        ],
+        "translationHighlights": [
+          "시늉만 하고 있으며",
+          "새로운 활력소",
+          "끊임없는 디지털 소음에서 벗어나야 한다는 점",
+          "진정으로 집중할 수 있도록 돕는"
+        ],
+        "newWords": [
+          {
+            "word": "going through the motions",
+            "meaning": "열정 없이 시늉만 하다, 마지못해 하다",
+            "context": "just going through the motions in virtual meetings"
+          },
+          {
+            "word": "a breath of fresh air",
+            "meaning": "새로운 활력소, 신선한 변화",
+            "context": "proving to be a breath of fresh air"
+          },
+          {
+            "word": "knuckle down",
+            "meaning": "열심히 일하기 시작하다, 집중하다",
+            "context": "help them truly knuckle down"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Despite Google's promise of smarter financial AI, overcoming deep-seated user skepticism about data security remains a tough nut to crack for tech companies.",
           "To clear the air and foster global trust, transparency in algorithm design is now rightly seen as the bedrock of ethical AI development, not just a bonus feature."
         ],
@@ -6618,6 +6651,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Federal Reserve Chair Powell's reiteration to **hold the line** on inflation has certainly **put the brakes on** investor enthusiasm for significant rate cuts in early 2027.",
+          "Meanwhile, the strategic moves by Google DeepMind and TSMC suggest corporate leaders are keenly aware of the need to **stay ahead of the curve**, whether it's in AI innovation or supply chain resilience."
+        ],
+        "sentenceTranslations": [
+          "파월 연준 의장이 인플레이션에 **물러서지 않고 버티겠다**고 재차 밝히면서, 2027년 초 대폭적인 금리 인하에 대한 투자자들의 열정에 확실히 **제동을 걸었습니다**.",
+          "한편, 구글 딥마인드와 TSMC의 전략적인 움직임은 기업 리더들이 인공지능 혁신이든 공급망 복원력이든, **변화에 앞서 나갈** 필요성을 절실히 인지하고 있음을 시사합니다."
+        ],
+        "translationHighlights": [
+          "물러서지 않고 버티겠다",
+          "제동을 걸었습니다",
+          "변화에 앞서 나갈",
+          "공급망 복원력"
+        ],
+        "newWords": [
+          {
+            "word": "hold the line",
+            "meaning": "특정 입장이나 방침을 고수하며 물러서지 않고 버티다",
+            "context": "to **hold the line** on inflation"
+          },
+          {
+            "word": "put the brakes on",
+            "meaning": "무엇인가의 진행을 늦추거나 멈추게 하다, 제동을 걸다",
+            "context": "has certainly **put the brakes on** investor enthusiasm"
+          },
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "다른 사람들보다 앞서 나가다, 새로운 트렌드나 변화에 미리 대비하다",
+            "context": "the need to **stay ahead of the curve**"
+          }
+        ]
+      },
       {
         "sentences": [
           "Alphabet's DeepMind finds itself walking on thin ice as the European Commission scrutinizes its data governance, signaling a new era of strict AI regulation.",
@@ -13410,6 +13476,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Qatar Airways' new daily service to Tashkent is truly a shot in the arm for Central Asian tourism, signaling immense potential.",
+          "This strategic move is expected to pave the way for Uzbekistan to truly open the floodgates to international visitors, cementing its role as a premier Silk Road destination."
+        ],
+        "sentenceTranslations": [
+          "카타르항공의 타슈켄트 신규 매일 운항 서비스는 중앙아시아 관광에 정말 활력소가 되며, 엄청난 잠재력을 보여줍니다.",
+          "이러한 전략적 움직임은 우즈베키스탄이 국제 방문객들에게 진정으로 빗장을 풀어주어, 최고의 실크로드 목적지로서의 역할을 굳히는 발판을 마련할 것으로 기대됩니다."
+        ],
+        "translationHighlights": [
+          "활력소",
+          "엄청난 잠재력",
+          "발판을 마련할 것으로 기대됩니다",
+          "빗장을 풀어주어"
+        ],
+        "newWords": [
+          {
+            "word": "a shot in the arm",
+            "meaning": "활력소, 기폭제 (새로운 힘이나 격려를 주는 것)",
+            "context": "truly a shot in the arm for Central Asian tourism"
+          },
+          {
+            "word": "pave the way for",
+            "meaning": "~의 길을 닦다, ~을 위한 발판을 마련하다 (무언가가 쉽게 일어나도록 만들다)",
+            "context": "expected to pave the way for Uzbekistan to truly open the floodgates"
+          },
+          {
+            "word": "open the floodgates",
+            "meaning": "봇물을 터뜨리다, 빗장을 풀다 (어떤 것이 대량으로 쏟아져 나오도록 허용하다)",
+            "context": "to truly open the floodgates to international visitors"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The airline industry's commitment to sustainable aviation fuel mandates means carriers will have to bite the bullet on substantial investment, inevitably reflecting in ticket prices.",
           "Likewise, travelers hoping to catch winter holiday flights will need to get their ducks in a row for the ETIAS system, otherwise they could pay through the nose for last-minute processing or rebooking."
         ],
@@ -20006,6 +20105,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "A consistent powerhouse, T1 continues to go from strength to strength, extending their record with a fifth Summoner's Cup.",
+          "The nail-biting final, which saw T1 narrowly clinch the Summoner's Cup, came down to the wire, captivating 5.8 million concurrent viewers worldwide."
+        ],
+        "sentenceTranslations": [
+          "꾸준한 강팀인 T1은 다섯 번째 소환사의 컵으로 기록을 경신하며 점점 더 성공 가도를 달리고 있습니다.",
+          "T1이 아슬아슬하게 소환사의 컵을 거머쥔 손에 땀을 쥐게 하는 결승전은 마지막 순간까지 승부를 알 수 없었으며, 전 세계 580만 명의 동시 시청자를 사로잡았습니다."
+        ],
+        "translationHighlights": [
+          "점점 더 성공 가도를 달리고 있습니다",
+          "마지막 순간까지 승부를 알 수 없었으며",
+          "손에 땀을 쥐게 하는"
+        ],
+        "newWords": [
+          {
+            "word": "go from strength to strength",
+            "meaning": "점점 더 성공 가도를 달리다, 갈수록 더 강력해지다",
+            "context": "continues to go from strength to strength"
+          },
+          {
+            "word": "come down to the wire",
+            "meaning": "마지막 순간까지 승부가 결정되지 않다, 막판까지 접전이다",
+            "context": "came down to the wire"
+          },
+          {
+            "word": "nail-biting",
+            "meaning": "손에 땀을 쥐게 하는, 조마조마한",
+            "context": "The nail-biting final"
+          }
+        ]
+      },
       {
         "sentences": [
           "The Oklahoma City Thunder, with their blistering 6-1 start, are truly punching above their weight this nascent season, catching many by surprise.",
