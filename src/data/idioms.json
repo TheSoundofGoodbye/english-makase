@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "MindSpark AI's meteoric rise to 50 million users has certainly opened a can of worms regarding the long-term implications of AI in mental health care.",
+          "While offering unprecedented accessibility, professionals are keenly aware that this technology cuts both ways, emphasizing the need to tread carefully when considering its application for severe diagnoses."
+        ],
+        "sentenceTranslations": [
+          "마인드스파크 AI가 5천만 명의 사용자에게 급성장하면서, AI가 정신 건강 관리에 미칠 장기적인 영향에 대한 복잡한 문제들을 야기했습니다.",
+          "전례 없는 접근성을 제공하는 동시에, 전문가들은 이 기술이 양날의 검이 될 수 있다는 점을 잘 알고 있으며, 심각한 진단에 적용할 때는 매우 신중하게 접근해야 함을 강조합니다."
+        ],
+        "translationHighlights": [
+          "급성장하면서",
+          "복잡한 문제들을 야기했습니다",
+          "양날의 검이 될 수 있다는 점을 잘 알고 있으며",
+          "매우 신중하게 접근해야 함을 강조합니다"
+        ],
+        "newWords": [
+          {
+            "word": "open a can of worms",
+            "meaning": "복잡한 문제들을 야기하다, 판도라의 상자를 열다",
+            "context": "MindSpark AI's meteoric rise to 50 million users has certainly *opened a can of worms*..."
+          },
+          {
+            "word": "cut both ways",
+            "meaning": "양날의 검이다, 장단점이 있다",
+            "context": "professionals are keenly aware that this technology *cuts both ways*..."
+          },
+          {
+            "word": "tread carefully",
+            "meaning": "신중하게 행동하다, 조심해서 나아가다",
+            "context": "emphasizing the need to *tread carefully* when considering its application for severe diagnoses."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Many workers are just going through the motions in virtual meetings, which is why localized co-working spaces are proving to be a breath of fresh air.",
           "Acknowledging that many employees need to cut the cord from constant digital noise, tech giants are now engineering tools to help them truly knuckle down."
         ],
@@ -6651,6 +6684,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "With Microsoft's bold move to fully integrate Copilot Enterprise, they're clearly looking to get a leg up on competitors like Salesforce by demonstrating concrete productivity gains for early adopters.",
+          "This aggressive strategy not only intensifies the tech rivalry but also effectively raises the bar for AI adoption and value proposition across the entire enterprise software market."
+        ],
+        "sentenceTranslations": [
+          "마이크로소프트가 코파일럿 엔터프라이즈를 완전히 통합하려는 과감한 움직임을 보이면서, 초기 사용자들에게 구체적인 생산성 향상을 입증하여 세일즈포스와 같은 경쟁사들보다 우위를 점하려는 의도가 분명해 보입니다.",
+          "이러한 공격적인 전략은 기술 경쟁을 심화시킬 뿐만 아니라, 전체 기업 소프트웨어 시장에서 AI 도입과 가치 제안의 기준을 효과적으로 높이고 있습니다."
+        ],
+        "translationHighlights": [
+          "우위를 점하려는",
+          "과감한 움직임을 보이면서",
+          "기준을 효과적으로 높이고 있습니다",
+          "가치 제안"
+        ],
+        "newWords": [
+          {
+            "word": "get a leg up",
+            "meaning": "우위를 점하다, 유리한 고지를 차지하다",
+            "context": "clearly looking to get a leg up on competitors"
+          },
+          {
+            "word": "raise the bar",
+            "meaning": "기준을 높이다, 기대치를 상향 조정하다",
+            "context": "effectively raises the bar for AI adoption"
+          }
+        ]
+      },
       {
         "sentences": [
           "Federal Reserve Chair Powell's reiteration to **hold the line** on inflation has certainly **put the brakes on** investor enthusiasm for significant rate cuts in early 2027.",
@@ -13476,6 +13537,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The confirmed Airbus A321XLR delivery delays have certainly thrown a wrench in the works for carriers like JetBlue and SAS, potentially putting their ambitious long-haul expansion on hold.",
+          "However, looking east, Hokkaido's off-season tourism surge is proving to be a real shot in the arm for the local economy, much like the ETIAS system is helping to oil the wheels for seamless travel into the EU."
+        ],
+        "sentenceTranslations": [
+          "확정된 에어버스 A321XLR의 인도 지연은 제트블루나 SAS 같은 항공사들에게 큰 난관이 되었으며, 이들의 원대한 장거리 확장 계획을 잠정 중단시킬 수도 있습니다.",
+          "하지만 동쪽을 보면, 홋카이도의 비수기 관광객 급증은 지역 경제에 큰 활력소가 되고 있으며, 이는 마치 ETIAS 시스템이 EU로의 원활한 여행을 돕는 것과 같습니다."
+        ],
+        "translationHighlights": [
+          "큰 난관이 되었으며",
+          "원대한 장거리 확장 계획을 잠정 중단시킬 수도 있습니다",
+          "큰 활력소가 되고 있으며",
+          "원활한 여행을 돕는 것과 같습니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 주다, 난관에 부딪히게 하다",
+            "context": "thrown a wrench in the works for carriers"
+          },
+          {
+            "word": "a shot in the arm",
+            "meaning": "활력소, 새로운 자극",
+            "context": "a real shot in the arm for the local economy"
+          },
+          {
+            "word": "oil the wheels",
+            "meaning": "일을 원활하게 하다, 진행을 돕다",
+            "context": "helping to oil the wheels for seamless travel"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Qatar Airways' new daily service to Tashkent is truly a shot in the arm for Central Asian tourism, signaling immense potential.",
           "This strategic move is expected to pave the way for Uzbekistan to truly open the floodgates to international visitors, cementing its role as a premier Silk Road destination."
         ],
@@ -20105,6 +20199,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Faker's unparalleled mid-lane command allowed T1 to unequivocally blow JD Gaming out of the water with a dominant 3-0 sweep, truly showcasing their legendary prowess.",
+          "Even at 30, his ability to age like fine wine and consistently stay at the top of his game is a testament to an unmatched dedication rarely seen in competitive esports."
+        ],
+        "sentenceTranslations": [
+          "Faker의 타의 추종을 불허하는 미드 라인 장악력 덕분에 T1은 JD Gaming을 3대0으로 압도하며 완벽하게 제압했고, 이는 그들의 전설적인 기량을 유감없이 보여주었습니다.",
+          "심지어 30세의 나이에도 고급 와인처럼 나이가 들수록 더 좋아지며 꾸준히 최고의 기량을 유지하는 그의 능력은 경쟁적인 e스포츠에서 좀처럼 보기 드문, 비할 데 없는 헌신의 증거입니다."
+        ],
+        "translationHighlights": [
+          "완벽하게 제압했고",
+          "고급 와인처럼 나이가 들수록 더 좋아지며",
+          "최고의 기량을 유지하는",
+          "비할 데 없는 헌신의 증거입니다"
+        ],
+        "newWords": [
+          {
+            "word": "blow X out of the water",
+            "meaning": "~을 압도하다, ~을 완벽하게 제압하다",
+            "context": "allowed T1 to unequivocally *blow JD Gaming out of the water*"
+          },
+          {
+            "word": "age like fine wine",
+            "meaning": "고급 와인처럼 나이가 들수록 더 좋아지다 (시간이 지날수록 더 노련해지고 능숙해지다)",
+            "context": "his ability to *age like fine wine*"
+          },
+          {
+            "word": "stay at the top of one's game",
+            "meaning": "최고의 기량을 유지하다, 늘 최상의 컨디션을 보이다",
+            "context": "consistently *stay at the top of his game*"
+          }
+        ]
+      },
       {
         "sentences": [
           "A consistent powerhouse, T1 continues to go from strength to strength, extending their record with a fifth Summoner's Cup.",
