@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "With Apple's 'Reality Pro 2' on the horizon, it's clear augmented reality is poised to weave its way into the fabric of our everyday lives.",
+          "Yet, as biometric data collection becomes standard, privacy organizations warn we might be opening a Pandora's box of unprecedented risks, leaving many concerned that we're essentially walking a tightrope between convenience and security."
+        ],
+        "sentenceTranslations": [
+          "애플의 'Reality Pro 2' 출시가 임박하면서, 증강현실이 우리 일상의 근간에 깊숙이 스며들 준비가 되었다는 것이 분명해졌습니다.",
+          "하지만 생체 데이터 수집이 보편화되면서, 프라이버시 단체들은 우리가 전례 없는 위험으로 가득 찬 판도라의 상자를 열 수도 있다고 경고합니다. 이로 인해 많은 이들이 편리함과 보안 사이에서 아슬아슬한 줄타기를 하고 있다는 우려를 표하고 있습니다."
+        ],
+        "translationHighlights": [
+          "일상의 근간에 깊숙이 스며들다",
+          "판도라의 상자를 열다",
+          "아슬아슬한 줄타기를 하다"
+        ],
+        "newWords": [
+          {
+            "word": "weave its way into the fabric of",
+            "meaning": "~의 근간에 깊숙이 스며들다/자리 잡다",
+            "context": "augmented reality is poised to weave its way into the fabric of our everyday lives"
+          },
+          {
+            "word": "open a Pandora's box",
+            "meaning": "판도라의 상자를 열다 (예상치 못한 온갖 재앙이나 문제를 초래하다)",
+            "context": "we might be opening a Pandora's box of unprecedented risks"
+          },
+          {
+            "word": "walking a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다 (위험한 상황에서 균형을 잡으려 애쓰다)",
+            "context": "we're essentially walking a tightrope between convenience and security"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "MindSpark AI's meteoric rise to 50 million users has certainly opened a can of worms regarding the long-term implications of AI in mental health care.",
           "While offering unprecedented accessibility, professionals are keenly aware that this technology cuts both ways, emphasizing the need to tread carefully when considering its application for severe diagnoses."
         ],
@@ -6684,6 +6716,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "With renewed Red Sea disruptions exacerbating energy price spikes, the ECB finds itself between a rock and a hard place, tasked with hitting inflation targets that are becoming a tough nut to crack.",
+          "Concurrently, as NVIDIA's \"Orion\" chip pushes the envelope for AI performance, regulators are signaling their intent to level the playing field, keen to prevent any single entity from cornering the market on this critical infrastructure."
+        ],
+        "sentenceTranslations": [
+          "새롭게 재개된 홍해 해운 방해로 에너지 가격 급등이 심화되면서, 유럽중앙은행(ECB)은 진퇴양난에 빠졌으며, 인플레이션 목표 달성은 점점 더 어려운 과제가 되고 있습니다.",
+          "동시에, 엔비디아의 \"오리온\" 칩이 AI 성능의 한계를 뛰어넘는 가운데, 규제 당국은 그 어떤 단일 기업도 이 중요한 인프라 시장을 독점하지 못하도록 공정한 경쟁 환경을 조성하려는 의지를 내비치고 있습니다."
+        ],
+        "translationHighlights": [
+          "진퇴양난에 빠졌으며",
+          "한계를 뛰어넘는 가운데",
+          "공정한 경쟁 환경을 조성하려는 의지를 내비치고 있습니다",
+          "시장을 독점하지 못하도록"
+        ],
+        "newWords": [
+          {
+            "word": "between a rock and a hard place",
+            "meaning": "진퇴양난에 빠진, 어려운 상황에 처한",
+            "context": "the ECB finds itself between a rock and a hard place"
+          },
+          {
+            "word": "push the envelope",
+            "meaning": "한계를 뛰어넘다, 혁신하다",
+            "context": "NVIDIA's \"Orion\" chip pushes the envelope"
+          },
+          {
+            "word": "level the playing field",
+            "meaning": "공정한 경쟁 환경을 조성하다, 동등한 기회를 주다",
+            "context": "regulators are signaling their intent to level the playing field"
+          }
+        ]
+      },
       {
         "sentences": [
           "With Microsoft's bold move to fully integrate Copilot Enterprise, they're clearly looking to get a leg up on competitors like Salesforce by demonstrating concrete productivity gains for early adopters.",
@@ -13537,6 +13602,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With their strategic visa liberalizations, Japan and Vietnam's tourism industries are truly **on a roll**, attracting a diverse range of international visitors seeking authentic cultural experiences.",
+          "Major carriers like Cathay Pacific are now **ramping up** wide-body deployments for Q1 2027, clearly keen to **strike while the iron is hot** and capitalize on this burgeoning demand."
+        ],
+        "sentenceTranslations": [
+          "전략적인 비자 자유화 정책 덕분에 일본과 베트남의 관광 산업은 정말 **승승장구하며** 진정한 문화 체험을 찾는 다양한 국적의 해외 방문객을 끌어모으고 있습니다.",
+          "캐세이퍼시픽과 같은 주요 항공사들은 이 급증하는 수요를 맞추기 위해 **쇠뿔도 단김에 빼듯** 빠르게 움직여 2027년 1분기 광동체 항공기 배치를 **늘리고** 있습니다."
+        ],
+        "translationHighlights": [
+          "승승장구하며",
+          "다양한 국적의",
+          "쇠뿔도 단김에 빼듯",
+          "늘리고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "on a roll",
+            "meaning": "승승장구하는, 잘나가는 (특히 성공적인 시기를 보내는)",
+            "context": "tourism industries are truly **on a roll**"
+          },
+          {
+            "word": "ramping up",
+            "meaning": "~을 늘리다, 증강하다 (속도, 생산량 등을)",
+            "context": "are now **ramping up** wide-body deployments"
+          },
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회를 놓치지 않고 바로 행동하다 (쇠뿔도 단김에 빼라)",
+            "context": "keen to **strike while the iron is hot**"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The confirmed Airbus A321XLR delivery delays have certainly thrown a wrench in the works for carriers like JetBlue and SAS, potentially putting their ambitious long-haul expansion on hold.",
           "However, looking east, Hokkaido's off-season tourism surge is proving to be a real shot in the arm for the local economy, much like the ETIAS system is helping to oil the wheels for seamless travel into the EU."
         ],
@@ -20199,6 +20297,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "As top organizations prepare to pull out all the stops for Faker, showering him with lucrative offers, the intense bidding war underscores the high stakes now common in esports player movements.",
+          "Such unprecedented contract negotiations truly raise the bar for talent acquisition across the entire industry, cementing esports' financial maturity on a global stage."
+        ],
+        "sentenceTranslations": [
+          "최고의 팀들이 페이커를 영입하기 위해 모든 수단과 방법을 동원하여 파격적인 제안들을 쏟아내면서, e스포츠 선수 이동 시장의 높은 판돈이 부각되고 있습니다.",
+          "이러한 전례 없는 계약 협상은 업계 전반의 인재 영입 기준을 한층 높여주며, e스포츠가 글로벌 무대에서 재정적으로 성숙했음을 확고히 합니다."
+        ],
+        "translationHighlights": [
+          "모든 수단과 방법을 동원하여",
+          "파격적인 제안들",
+          "높은 판돈",
+          "인재 영입 기준을 한층 높여주며"
+        ],
+        "newWords": [
+          {
+            "word": "pull out all the stops",
+            "meaning": "모든 수단과 방법을 동원하다, 전력을 다하다",
+            "context": "prepare to pull out all the stops for Faker"
+          },
+          {
+            "word": "raise the bar",
+            "meaning": "기준을 높이다, 수준을 향상시키다",
+            "context": "truly raise the bar for talent acquisition"
+          }
+        ]
+      },
       {
         "sentences": [
           "Faker's unparalleled mid-lane command allowed T1 to unequivocally blow JD Gaming out of the water with a dominant 3-0 sweep, truly showcasing their legendary prowess.",
