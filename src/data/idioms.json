@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While Meta's new AI companions aim to combat loneliness, they could prove to be a double-edged sword, potentially eroding genuine human connections.",
+          "Critics warn this move represents a slippery slope towards normalizing a curated digital existence, making it harder for individuals to seek authentic real-world engagement."
+        ],
+        "sentenceTranslations": [
+          "메타의 새로운 AI 동반자들이 외로움을 해결하려는 의도를 가졌지만, 그것은 양날의 검이 되어 진정한 인간관계를 침식할 가능성이 있습니다.",
+          "비판론자들은 이러한 움직임이 꾸며진 디지털 세상을 당연하게 여기는 위험한 비탈길이 될 수 있으며, 개인이 진정한 현실 세계의 교류를 추구하기 더 어렵게 만들 것이라고 경고합니다."
+        ],
+        "translationHighlights": [
+          "양날의 검",
+          "위험한 비탈길",
+          "꾸며진 디지털 세상",
+          "진정한 현실 세계의 교류"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (이점과 단점을 동시에 가짐)",
+            "context": "they could prove to be a double-edged sword"
+          },
+          {
+            "word": "a slippery slope",
+            "meaning": "(부정적인 결과로 이어질 수 있는) 위험한 비탈길/미끄러운 비탈길",
+            "context": "this move represents a slippery slope"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With Apple's 'Reality Pro 2' on the horizon, it's clear augmented reality is poised to weave its way into the fabric of our everyday lives.",
           "Yet, as biometric data collection becomes standard, privacy organizations warn we might be opening a Pandora's box of unprecedented risks, leaving many concerned that we're essentially walking a tightrope between convenience and security."
         ],
@@ -6716,6 +6744,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "As Google DeepMind's 'Gemini Ultra 2.0' raises the bar for AI capabilities, companies are scrambling to get a piece of the pie in the burgeoning enterprise AI sector.",
+          "Amazon's aggressive workforce expansion demonstrates they are truly putting their money where their mouth is, betting big on generative AI to fundamentally rethink their entire business."
+        ],
+        "sentenceTranslations": [
+          "구글 딥마인드의 '제미니 울트라 2.0'이 AI 역량의 기준을 높이면서, 기업들은 급성장하는 기업 AI 분야에서 파이 한 조각을 차지하기 위해 분주하게 움직이고 있습니다.",
+          "아마존의 공격적인 인력 확장은 그들이 말뿐이 아니라 실제로 투자로 증명하며, 생성형 AI에 크게 베팅하여 전체 사업을 근본적으로 재고하려는 의지를 보여줍니다."
+        ],
+        "translationHighlights": [
+          "기준을 높이면서",
+          "파이 한 조각을 차지하기 위해",
+          "말뿐이 아니라 실제로 투자로 증명하며"
+        ],
+        "newWords": [
+          {
+            "word": "raises the bar",
+            "meaning": "기준을 높이다, 수준을 올리다",
+            "context": "As Google DeepMind's 'Gemini Ultra 2.0' raises the bar for AI capabilities..."
+          },
+          {
+            "word": "get a piece of the pie",
+            "meaning": "이득/성공의 한 부분을 차지하다",
+            "context": "...companies are scrambling to get a piece of the pie in the burgeoning enterprise AI sector."
+          },
+          {
+            "word": "putting their money where their mouth is",
+            "meaning": "말로만 하지 않고 행동(특히 투자)으로 증명하다",
+            "context": "Amazon's aggressive workforce expansion demonstrates they are truly putting their money where their mouth is..."
+          }
+        ]
+      },
       {
         "sentences": [
           "With renewed Red Sea disruptions exacerbating energy price spikes, the ECB finds itself between a rock and a hard place, tasked with hitting inflation targets that are becoming a tough nut to crack.",
@@ -13602,6 +13662,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Venice's move to tighten visitor caps further is a clear indicator that destinations are determined to turn the tide against unchecked overtourism.",
+          "With environmental accountability becoming paramount, airlines are feeling the pressure to put their money where their mouth is regarding sustainable aviation fuels, as the writing is on the wall for slow adopters."
+        ],
+        "sentenceTranslations": [
+          "베네치아가 방문객 상한선을 더욱 강화하려는 움직임은 관광지들이 무분별한 과잉 관광에 맞서 흐름을 바꾸려는 단호한 의지를 보여줍니다.",
+          "환경적 책임이 최우선이 되면서, 항공사들은 지속 가능한 항공 연료에 대해 말뿐만이 아니라 실제 행동으로 보여줄 압박을 받고 있으며, 느리게 대응하는 기업들에게는 미래가 불 보듯 뻔합니다."
+        ],
+        "translationHighlights": [
+          "흐름을 바꾸려는",
+          "무분별한 과잉 관광",
+          "말뿐만이 아니라 실제 행동으로 보여줄",
+          "미래가 불 보듯 뻔합니다"
+        ],
+        "newWords": [
+          {
+            "word": "turn the tide",
+            "meaning": "흐름을 바꾸다, 상황을 역전시키다",
+            "context": "determined to turn the tide against unchecked overtourism"
+          },
+          {
+            "word": "put their money where their mouth is",
+            "meaning": "말만 하는 것이 아니라 말한 것을 행동으로(돈으로) 증명하다, 실천하다",
+            "context": "feeling the pressure to put their money where their mouth is"
+          },
+          {
+            "word": "the writing is on the wall",
+            "meaning": "불길한 징조가 보이다, 미래가 불 보듯 뻔하다",
+            "context": "as the writing is on the wall for slow adopters"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With their strategic visa liberalizations, Japan and Vietnam's tourism industries are truly **on a roll**, attracting a diverse range of international visitors seeking authentic cultural experiences.",
           "Major carriers like Cathay Pacific are now **ramping up** wide-body deployments for Q1 2027, clearly keen to **strike while the iron is hot** and capitalize on this burgeoning demand."
         ],
@@ -20297,6 +20390,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "After their dominant win, Arsenal is clearly firing on all cylinders, giving fans hope they are in the driver's seat for a strong title run this season.",
+          "Conversely, T1 finds itself at a crossroads regarding Oner's future, highlighting how sponsorships now make player market value a whole new ball game in esports."
+        ],
+        "sentenceTranslations": [
+          "압도적인 승리 후 아스널은 확실히 최고의 기량을 발휘하며, 이번 시즌 강력한 우승 경쟁에서 주도권을 쥐고 있다는 희망을 팬들에게 주고 있습니다.",
+          "반대로 T1은 오너의 미래와 관련하여 중요한 기로에 서 있으며, 이는 이제 스폰서십이 e스포츠 선수들의 시장 가치를 완전히 새로운 판도로 만들었음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "최고의 기량을 발휘하며",
+          "주도권을 쥐고 있다",
+          "중요한 기로에 서 있으며",
+          "완전히 새로운 판도"
+        ],
+        "newWords": [
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고의 기량을 발휘하다, 전력을 다하다",
+            "context": "Arsenal is clearly firing on all cylinders"
+          },
+          {
+            "word": "at a crossroads",
+            "meaning": "중요한 기로에 서다, 중대 전환점에 있다",
+            "context": "T1 finds itself at a crossroads"
+          },
+          {
+            "word": "a whole new ball game",
+            "meaning": "완전히 새로운 상황/판도",
+            "context": "make player market value a whole new ball game"
+          }
+        ]
+      },
       {
         "sentences": [
           "As top organizations prepare to pull out all the stops for Faker, showering him with lucrative offers, the intense bidding war underscores the high stakes now common in esports player movements.",
