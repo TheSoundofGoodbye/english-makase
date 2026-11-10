@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The relentless stream of AI-driven suggestions has many users feeling like they're **running on fumes** by day's end, struggling to keep their cognitive batteries charged.",
+          "This makes the WHO's new 'AI-free hour' a crucial step to help us **pump the brakes** and prevent a widespread decision fatigue pandemic."
+        ],
+        "sentenceTranslations": [
+          "AI가 쏟아내는 끊임없는 제안들 때문에 많은 사용자들이 하루가 끝날 때쯤이면 **기진맥진하여** 인지적 에너지를 유지하려 애쓰고 있습니다.",
+          "이러한 상황에서 WHO의 새로운 'AI 없는 시간' 권고는 우리가 **잠시 멈춰 서서** 광범위한 결정 피로 팬데믹을 예방하는 데 결정적인 단계가 됩니다."
+        ],
+        "translationHighlights": [
+          "기진맥진하여",
+          "인지적 에너지를 유지하려 애쓰고 있습니다",
+          "잠시 멈춰 서서",
+          "결정 피로 팬데믹"
+        ],
+        "newWords": [
+          {
+            "word": "running on fumes",
+            "meaning": "에너지가 거의 바닥나 간신히 버티는; 기진맥진한",
+            "context": "feeling like they're running on fumes by day's end"
+          },
+          {
+            "word": "pump the brakes",
+            "meaning": "속도를 줄이다; 잠시 멈추다; 제동을 걸다",
+            "context": "help us pump the brakes and prevent a widespread decision fatigue pandemic"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While Meta's new AI companions aim to combat loneliness, they could prove to be a double-edged sword, potentially eroding genuine human connections.",
           "Critics warn this move represents a slippery slope towards normalizing a curated digital existence, making it harder for individuals to seek authentic real-world engagement."
         ],
@@ -6744,6 +6772,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "The European Commissioner's stance highlights a collective effort to nip potential AI ethical issues in the bud, rather than playing catch-up once they proliferate.",
+          "Meanwhile, tech investors, while optimistic about advancements, are walking a tightrope, balancing robust earnings against the mounting pressure of regulatory oversight."
+        ],
+        "sentenceTranslations": [
+          "유럽 위원장의 입장은 잠재적인 AI 윤리 문제를 확산하기 전에 싹부터 잘라내어 나중에 뒤늦게 수습하는 일을 피하려는 공동의 노력을 강조합니다.",
+          "한편, 기술 투자자들은 발전상에 대해 낙관적이지만, 견고한 수익과 점점 커지는 규제 감독의 압력 사이에서 아슬아슬한 줄타기를 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "싹부터 잘라내어",
+          "뒤늦게 수습하는 일",
+          "아슬아슬한 줄타기를 하고 있습니다",
+          "규제 감독의 압력"
+        ],
+        "newWords": [
+          {
+            "word": "nip (something) in the bud",
+            "meaning": "문제 발생 초기에 해결하다; 싹을 자르다 (사전에 예방하다)",
+            "context": "nip potential AI ethical issues in the bud"
+          },
+          {
+            "word": "play catch-up",
+            "meaning": "뒤늦게 따라잡다; 뒤처진 것을 수습하다",
+            "context": "playing catch-up once they proliferate"
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "매우 어렵거나 위험한 상황에서 신중하게 균형을 잡다; 아슬아슬한 줄타기를 하다",
+            "context": "walking a tightrope, balancing robust earnings"
+          }
+        ]
+      },
       {
         "sentences": [
           "As Google DeepMind's 'Gemini Ultra 2.0' raises the bar for AI capabilities, companies are scrambling to get a piece of the pie in the burgeoning enterprise AI sector.",
@@ -13662,6 +13723,33 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Lufthansa's strategic pivot to Ho Chi Minh City and North Africa shows they're striking while the iron's hot, capitalizing on the growing appetite for authentic cultural experiences.",
+          "However, visa complexities continue to throw a wrench in the works for global mobility, highlighting the urgent need for streamlined digital solutions."
+        ],
+        "sentenceTranslations": [
+          "루프트한자가 호치민시와 북아프리카로 전략적 방향을 전환한 것은, 진정한 문화 체험에 대한 늘어나는 수요를 이용해 기회를 놓치지 않고 있다는 것을 보여줍니다.",
+          "하지만 비자 복잡성은 여전히 전 세계적인 이동에 차질을 빚고 있으며, 간소화된 디지털 솔루션의 시급한 필요성을 강조합니다."
+        ],
+        "translationHighlights": [
+          "기회를 놓치지 않고 있다는 것을 보여줍니다",
+          "차질을 빚고 있으며",
+          "시급한 필요성을 강조합니다"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron's hot",
+            "meaning": "기회를 놓치지 않고 잡다, 때를 놓치지 않다",
+            "context": "they're striking while the iron's hot"
+          },
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획에 차질을 빚게 하다, 방해하다",
+            "context": "continue to throw a wrench in the works"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Venice's move to tighten visitor caps further is a clear indicator that destinations are determined to turn the tide against unchecked overtourism.",
           "With environmental accountability becoming paramount, airlines are feeling the pressure to put their money where their mouth is regarding sustainable aviation fuels, as the writing is on the wall for slow adopters."
         ],
@@ -20390,6 +20478,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Travis Kelce's season-halting injury will undoubtedly throw a wrench in the works for the Chiefs' meticulously planned offensive strategy against the Raiders.",
+          "Conversely, the impressive early snowfall has given the winter sports season a significant shot in the arm, allowing resorts like Aspen to hit the ground running for an exceptionally early opening."
+        ],
+        "sentenceTranslations": [
+          "트래비스 켈시의 시즌 중단 부상은 레이더스전에서 치프스의 세심하게 계획된 공격 전략에 의심할 여지 없이 큰 지장을 줄 것입니다.",
+          "반대로, 엄청난 양의 때 이른 눈은 겨울 스포츠 시즌에 상당한 활력을 불어넣었으며, 아스펜과 같은 리조트들이 예외적으로 이른 개장을 위해 순조롭게 출발할 수 있게 했습니다."
+        ],
+        "translationHighlights": [
+          "큰 지장을 줄 것입니다",
+          "활력을 불어넣었으며",
+          "순조롭게 출발할 수 있게 했습니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획이나 과정에 예기치 않은 문제나 방해를 일으키다",
+            "context": "throw a wrench in the works for the Chiefs' meticulously planned offensive strategy"
+          },
+          {
+            "word": "shot in the arm",
+            "meaning": "활력, 기운을 북돋는 것, 고무적인 일",
+            "context": "given the winter sports season a significant shot in the arm"
+          },
+          {
+            "word": "hit the ground running",
+            "meaning": "새로운 일을 즉시 성공적으로 시작하다, 빠르게 적응하여 성과를 내다",
+            "context": "allowing resorts like Aspen to hit the ground running for an exceptionally early opening"
+          }
+        ]
+      },
       {
         "sentences": [
           "After their dominant win, Arsenal is clearly firing on all cylinders, giving fans hope they are in the driver's seat for a strong title run this season.",
