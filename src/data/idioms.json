@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Cigna's 'Proactive Health' program offers reduced premiums, essentially looking to nip chronic illnesses in the bud by incentivizing preventative care.",
+          "While Cigna touts early success data, critics warn the initiative could be a double-edged sword, potentially paving the way for a two-tiered healthcare system."
+        ],
+        "sentenceTranslations": [
+          "Cigna의 'Proactive Health' 프로그램은 보험료 인하를 제공하며, 예방적 관리를 장려함으로써 본질적으로 만성 질환을 미연에 방지하려 합니다.",
+          "Cigna가 초기 성공 데이터를 자랑하는 반면, 비판론자들은 이 계획이 양날의 검이 되어 잠재적으로 이중 건강 관리 시스템으로 가는 길을 열 수 있다고 경고합니다."
+        ],
+        "translationHighlights": [
+          "만성 질환을 미연에 방지",
+          "예방적 관리를 장려함으로써",
+          "양날의 검",
+          "이중 건강 관리 시스템"
+        ],
+        "newWords": [
+          {
+            "word": "nip (something) in the bud",
+            "meaning": "미연에 방지하다, 싹부터 자르다",
+            "context": "nip chronic illnesses in the bud"
+          },
+          {
+            "word": "double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가짐)",
+            "context": "be a double-edged sword"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The relentless stream of AI-driven suggestions has many users feeling like they're **running on fumes** by day's end, struggling to keep their cognitive batteries charged.",
           "This makes the WHO's new 'AI-free hour' a crucial step to help us **pump the brakes** and prevent a widespread decision fatigue pandemic."
         ],
@@ -6772,6 +6800,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "The increasingly divergent data localization policies are truly throwing a wrench in the works for AI startups seeking cross-border investment and scalability.",
+          "Consequently, many venture capitalists are pumping the brakes on new commitments, preferring to wait and see how these regulatory landscapes shake out."
+        ],
+        "sentenceTranslations": [
+          "점점 더 분열되는 데이터 현지화 정책은 국경을 넘어 투자를 유치하고 확장하려는 AI 스타트업에게 정말 큰 방해가 되고 있습니다.",
+          "결과적으로, 많은 벤처 투자가들은 새로운 투자 약속에 제동을 걸고 있으며, 이러한 규제 환경이 어떻게 전개될지 관망하려 합니다."
+        ],
+        "translationHighlights": [
+          "점점 더 분열되는 데이터 현지화 정책",
+          "큰 방해가 되고 있습니다",
+          "제동을 걸고 있으며",
+          "관망하려 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "throw a wrench in the works",
+            "meaning": "계획을 망치다, 일이 진행되는 것을 방해하다",
+            "context": "throwing a wrench in the works for AI startups"
+          },
+          {
+            "word": "pump the brakes",
+            "meaning": "신중하게 행동하다, 속도를 늦추다",
+            "context": "pumping the brakes on new commitments"
+          },
+          {
+            "word": "wait and see",
+            "meaning": "관망하다, 추이를 지켜보다",
+            "context": "preferring to wait and see"
+          }
+        ]
+      },
       {
         "sentences": [
           "The European Commissioner's stance highlights a collective effort to nip potential AI ethical issues in the bud, rather than playing catch-up once they proliferate.",
@@ -13723,6 +13784,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Vietnam's new multi-entry e-visa is undoubtedly poised to open the floodgates for Western tourism, providing a significant shot in the arm for the entire sector.",
+          "This initiative perfectly caters to the booming 'slow travel' trend, as travelers increasingly yearn to get under the skin of local cultures and truly soak it all in."
+        ],
+        "sentenceTranslations": [
+          "베트남의 새로운 복수 입국 전자 비자는 서방 관광객 유입의 물꼬를 터주고, 전체 관광 산업에 커다란 활력을 불어넣을 것으로 확실시됩니다.",
+          "이러한 정책은 급증하는 '슬로우 트래블' 트렌드에 완벽하게 부합하는데, 여행자들이 현지 문화의 속살까지 들여다보고 진정으로 모든 것을 온전히 흡수하기를 점점 더 갈망하기 때문입니다."
+        ],
+        "translationHighlights": [
+          "물꼬를 터주고",
+          "활력을 불어넣을",
+          "문화의 속살까지 들여다보고",
+          "모든 것을 온전히 흡수하기를"
+        ],
+        "newWords": [
+          {
+            "word": "open the floodgates",
+            "meaning": "많은 양이 한꺼번에 쏟아져 나오게 하다, 물꼬를 트다",
+            "context": "poised to open the floodgates for Western tourism"
+          },
+          {
+            "word": "a shot in the arm",
+            "meaning": "활력소, 원기 회복제, 재도약의 계기",
+            "context": "providing a significant shot in the arm for the entire sector"
+          },
+          {
+            "word": "get under the skin of",
+            "meaning": "~의 본질/속마음을 이해하다, ~의 실체를 파악하다, 깊이 이해하다",
+            "context": "increasingly yearn to get under the skin of local cultures"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Lufthansa's strategic pivot to Ho Chi Minh City and North Africa shows they're striking while the iron's hot, capitalizing on the growing appetite for authentic cultural experiences.",
           "However, visa complexities continue to throw a wrench in the works for global mobility, highlighting the urgent need for streamlined digital solutions."
         ],
@@ -20478,6 +20572,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Following Manchester United's latest stumble and TenZ's surprising departure, both football and esports scenes appear *at a crossroads*, with many wondering if the respective teams are truly *firing on all cylinders*.",
+          "Meanwhile, outdoor enthusiasts are truly *making hay while the sun shines*, flocking to national parks as autumn hiking becomes increasingly popular, a bright spot amidst the sports drama."
+        ],
+        "sentenceTranslations": [
+          "맨체스터 유나이티드의 최근 부진과 TenZ의 예상 밖의 팀 이탈 소식으로, 축구와 e스포츠 양쪽 모두 *중대한 전환점에 선* 듯하며, 많은 이들이 각 팀들이 과연 *최고의 기량을 발휘하고 있는*지 의문을 품고 있습니다.",
+          "한편, 야외 활동을 즐기는 이들은 *기회를 놓치지 않고 최대한 활용하고* 있으며, 가을 하이킹이 점점 더 인기를 얻으면서 국립공원으로 몰려들고 있어, 스포츠계의 드라마 속에서 밝은 점이 되고 있습니다."
+        ],
+        "translationHighlights": [
+          "중대한 전환점에 선",
+          "최고의 기량을 발휘하고 있는",
+          "기회를 놓치지 않고 최대한 활용하고"
+        ],
+        "newWords": [
+          {
+            "word": "at a crossroads",
+            "meaning": "중대한 전환점에 서다 / 중요한 결정을 해야 하는 시기",
+            "context": "...both football and esports scenes appear *at a crossroads*..."
+          },
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고의 기량을 발휘하다 / 전력을 다해 움직이다",
+            "context": "...if the respective teams are truly *firing on all cylinders*."
+          },
+          {
+            "word": "making hay while the sun shines",
+            "meaning": "기회를 놓치지 않고 최대한 활용하다",
+            "context": "...outdoor enthusiasts are truly *making hay while the sun shines*..."
+          }
+        ]
+      },
       {
         "sentences": [
           "Travis Kelce's season-halting injury will undoubtedly throw a wrench in the works for the Chiefs' meticulously planned offensive strategy against the Raiders.",
