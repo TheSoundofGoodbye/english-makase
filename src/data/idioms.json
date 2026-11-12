@@ -20574,6 +20574,38 @@
     "스포츠 및 취미 (Sports & Hobbies)": [
       {
         "sentences": [
+          "The Celtics' nail-biting 108-106 victory against the reigning champions truly showed they are playing for all the marbles this season, signaling their serious championship aspirations.",
+          "Elsewhere, while Faker might be bowing out at the top of his game, the successful launch of \"Chronicles of Eldoria\" proves that new talents and games continue to hit the ground running in the competitive entertainment world."
+        ],
+        "sentenceTranslations": [
+          "현 챔피언을 상대로 보스턴 셀틱스가 108대 106으로 손에 땀을 쥐게 하는 승리를 거둔 것은 그들이 이번 시즌 모든 것을 걸고 있다는 것을 확실히 보여주며, 진지한 우승 열망을 드러냈습니다.",
+          "한편, 페이커 선수가 최고의 기량을 보일 때 은퇴할지도 모르는 상황이지만, '크로니클즈 오브 엘도리아'의 성공적인 출시는 경쟁이 치열한 엔터테인먼트 세계에서 새로운 인재와 게임들이 계속해서 순조롭게 시작하고 있다는 것을 증명합니다."
+        ],
+        "translationHighlights": [
+          "모든 것을 걸고 있다는 것을",
+          "최고의 기량을 보일 때 은퇴할지도 모르는 상황",
+          "순조롭게 시작하고 있다는 것을"
+        ],
+        "newWords": [
+          {
+            "word": "playing for all the marbles",
+            "meaning": "모든 것을 걸고 경쟁하다, 사활을 걸다",
+            "context": "they are playing for all the marbles this season"
+          },
+          {
+            "word": "bowing out at the top of his game",
+            "meaning": "최고의 기량을 보일 때 은퇴하다",
+            "context": "Faker might be bowing out at the top of his game"
+          },
+          {
+            "word": "hit the ground running",
+            "meaning": "순조롭게 시작하다, 즉시 효과를 내다",
+            "context": "continue to hit the ground running"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Following Manchester United's latest stumble and TenZ's surprising departure, both football and esports scenes appear *at a crossroads*, with many wondering if the respective teams are truly *firing on all cylinders*.",
           "Meanwhile, outdoor enthusiasts are truly *making hay while the sun shines*, flocking to national parks as autumn hiking becomes increasingly popular, a bright spot amidst the sports drama."
         ],
