@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The widespread adoption of AI tools like Gemini Pro-X helps professionals get their ducks in a row with daily task management, but for many, the always-on digital expectation is proving to be a heavy cross to bear.",
+          "Amidst this digital strain, wellness experts suggest that forming micro-communities and finding a strong local connection can be a port in a storm for those feeling isolated and burnt out."
+        ],
+        "sentenceTranslations": [
+          "Gemini Pro-X 같은 AI 도구의 광범위한 채택은 전문가들이 일상 업무를 체계적으로 처리하는 데 도움을 주지만, 많은 이들에게는 항상 연결되어 있어야 한다는 디지털 기대감이 감당하기 힘든 짐이 되고 있습니다.",
+          "이러한 디지털 피로 속에서, 웰니스 전문가들은 마이크로 커뮤니티를 형성하고 강력한 지역적 유대감을 찾는 것이 고립감과 소진감을 느끼는 사람들에게 힘든 시기를 헤쳐나갈 피난처가 될 수 있다고 제안합니다."
+        ],
+        "translationHighlights": [
+          "체계적으로 처리하는 데 도움을 주지만",
+          "감당하기 힘든 짐이 되고 있습니다",
+          "힘든 시기를 헤쳐나갈 피난처가 될 수 있다고"
+        ],
+        "newWords": [
+          {
+            "word": "get one's ducks in a row",
+            "meaning": "만반의 준비를 하다, 일을 체계적으로 처리하다",
+            "context": "helps professionals get their ducks in a row with daily task management"
+          },
+          {
+            "word": "a heavy cross to bear",
+            "meaning": "감당하기 힘든 짐이나 고통",
+            "context": "the always-on digital expectation is proving to be a heavy cross to bear"
+          },
+          {
+            "word": "a port in a storm",
+            "meaning": "어려운 시기에 피난처나 위안이 되는 존재",
+            "context": "can be a port in a storm for those feeling isolated and burnt out"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Cigna's 'Proactive Health' program offers reduced premiums, essentially looking to nip chronic illnesses in the bud by incentivizing preventative care.",
           "While Cigna touts early success data, critics warn the initiative could be a double-edged sword, potentially paving the way for a two-tiered healthcare system."
         ],
@@ -6800,6 +6832,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Jensen Huang's strategic move to invest in AI infrastructure startups shows Nvidia is clearly doubling down on the foundational technology for future innovation.",
+          "However, with the EU's DSA now fully effective, other tech giants are finding they need to walk a tightrope between fostering innovation and complying with increasingly stringent global regulations."
+        ],
+        "sentenceTranslations": [
+          "젠슨 황의 AI 인프라 스타트업 전략적 투자는 엔비디아가 미래 혁신을 위한 기반 기술에 확고히 집중하고 있음을 보여줍니다.",
+          "하지만 EU의 DSA가 이제 전면 시행됨에 따라, 다른 거대 기술 기업들은 혁신 촉진과 점점 엄격해지는 글로벌 규제 준수 사이에서 아슬아슬한 줄타기를 해야 할 상황에 놓였습니다."
+        ],
+        "translationHighlights": [
+          "확고히 집중하고 있음을",
+          "기반 기술에",
+          "아슬아슬한 줄타기를 해야 할 상황에",
+          "점점 엄격해지는 글로벌 규제"
+        ],
+        "newWords": [
+          {
+            "word": "doubling down on",
+            "meaning": "확고히 집중하다, ~에 대한 노력을 배가하다",
+            "context": "Nvidia is clearly doubling down on the foundational technology"
+          },
+          {
+            "word": "walk a tightrope",
+            "meaning": "아슬아슬한 줄타기를 하다, 매우 어려운 상황에서 균형을 잡다",
+            "context": "they need to walk a tightrope between fostering innovation and complying with regulations"
+          }
+        ]
+      },
       {
         "sentences": [
           "The increasingly divergent data localization policies are truly throwing a wrench in the works for AI startups seeking cross-border investment and scalability.",
@@ -13784,6 +13844,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Achieving 20% SAF usage by 2035 is certainly a tall order, especially when the industry is simultaneously grappling with geopolitical shifts and new pre-travel authorizations.",
+          "However, with minor ETIAS delays becoming a common hiccup, it seems the tide is turning as travelers increasingly opt for off-the-beaten-path cultural experiences in destinations like Vietnam and Morocco."
+        ],
+        "sentenceTranslations": [
+          "2035년까지 SAF 사용량을 20% 달성하는 것은 분명히 매우 어려운 목표인데, 특히 업계가 지정학적 변화와 새로운 여행 사전 승인 시스템에 동시에 고심하고 있는 상황에서는 더욱 그렇습니다.",
+          "하지만 ETIAS의 사소한 지연이 흔한 문제가 되면서, 여행자들이 베트남이나 모로코 같은 목적지에서 점차 색다른 문화 체험을 선택하는 쪽으로 흐름이 바뀌는 것 같습니다."
+        ],
+        "translationHighlights": [
+          "매우 어려운 목표",
+          "동시에 고심하고 있는 상황",
+          "흐름이 바뀌는 것 같습니다",
+          "색다른 문화 체험"
+        ],
+        "newWords": [
+          {
+            "word": "a tall order",
+            "meaning": "매우 어려운 요구/목표",
+            "context": "is certainly a tall order"
+          },
+          {
+            "word": "the tide is turning",
+            "meaning": "상황/추세가 바뀌다",
+            "context": "it seems the tide is turning"
+          },
+          {
+            "word": "off-the-beaten-path",
+            "meaning": "사람들이 잘 가지 않는, 색다른",
+            "context": "opt for off-the-beaten-path cultural experiences"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Vietnam's new multi-entry e-visa is undoubtedly poised to open the floodgates for Western tourism, providing a significant shot in the arm for the entire sector.",
           "This initiative perfectly caters to the booming 'slow travel' trend, as travelers increasingly yearn to get under the skin of local cultures and truly soak it all in."
         ],
@@ -20572,6 +20665,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The Saudi PIF's $3.5 billion acquisition is undoubtedly a game changer, set to turn the esports world on its head with unprecedented financial injections.",
+          "With top-tier players poised to make a killing, this move is a clear sign that the global esports market is about to go through the roof, despite the 'sports washing' debate."
+        ],
+        "sentenceTranslations": [
+          "사우디 PIF의 35억 달러 인수는 의심할 여지 없이 판도를 바꾸는 사건이며, 전례 없는 자금 투입으로 e스포츠 세계를 완전히 뒤집어 놓을 것입니다.",
+          "최고 수준의 선수들이 엄청난 돈을 벌게 될 것으로 예상되면서, 이번 움직임은 '스포츠 워싱' 논란에도 불구하고 글로벌 e스포츠 시장이 폭발적으로 성장할 것이라는 분명한 신호입니다."
+        ],
+        "translationHighlights": [
+          "판도를 바꾸는 사건",
+          "완전히 뒤집어 놓을 것입니다",
+          "엄청난 돈을 벌게 될 것으로 예상되면서",
+          "폭발적으로 성장할 것이라는"
+        ],
+        "newWords": [
+          {
+            "word": "a game changer",
+            "meaning": "판도를 바꾸는 결정적 요인/사건",
+            "context": "is undoubtedly a game changer"
+          },
+          {
+            "word": "turn (something) on its head",
+            "meaning": "무언가를 완전히 뒤집어 놓다, 근본적으로 변화시키다",
+            "context": "set to turn the esports world on its head"
+          },
+          {
+            "word": "make a killing",
+            "meaning": "단시간에 큰돈을 벌다, 떼돈을 벌다",
+            "context": "poised to make a killing"
+          }
+        ]
+      },
       {
         "sentences": [
           "The Celtics' nail-biting 108-106 victory against the reigning champions truly showed they are playing for all the marbles this season, signaling their serious championship aspirations.",
