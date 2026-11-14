@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The latest VisionPro software update, offering 'predictive social recommendations' based on real-time observations, appears to cross the line for many users regarding their personal privacy.",
+          "This constant monitoring, though designed for seamless integration, might actually give users the creeps, highlighting the double-edged sword of advanced ambient intelligence."
+        ],
+        "sentenceTranslations": [
+          "실시간 관찰을 기반으로 '예측적 소셜 추천'을 제공하는 최신 VisionPro 소프트웨어 업데이트는 많은 사용자에게 개인 정보 침해의 선을 넘는 것으로 보입니다.",
+          "이러한 지속적인 모니터링은 원활한 통합을 위해 설계되었지만, 실제로는 사용자들을 섬뜩하게 만들 수 있으며, 이는 고도화된 주변 지능의 양날의 검과 같은 특성을 부각합니다."
+        ],
+        "translationHighlights": [
+          "선을 넘는",
+          "개인 정보 침해의",
+          "섬뜩하게 만들 수 있으며",
+          "양날의 검"
+        ],
+        "newWords": [
+          {
+            "word": "cross the line",
+            "meaning": "선을 넘다, 도를 지나치다",
+            "context": "appears to cross the line for many users"
+          },
+          {
+            "word": "give someone the creeps",
+            "meaning": "소름 끼치게 하다, 섬뜩하게 하다",
+            "context": "might actually give users the creeps"
+          },
+          {
+            "word": "double-edged sword",
+            "meaning": "양날의 검, 양면성을 가진 것",
+            "context": "highlighting the double-edged sword of advanced ambient intelligence"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The widespread adoption of AI tools like Gemini Pro-X helps professionals get their ducks in a row with daily task management, but for many, the always-on digital expectation is proving to be a heavy cross to bear.",
           "Amidst this digital strain, wellness experts suggest that forming micro-communities and finding a strong local connection can be a port in a storm for those feeling isolated and burnt out."
         ],
@@ -6832,6 +6865,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "As U.S. chip export restrictions create significant ripples, TSMC finds itself caught in the crossfire, deeply concerned over market fragmentation and navigating an increasingly complex global trade landscape.",
+          "Concurrently, Eurozone inflation remains a tough nut to crack for the ECB, necessitating prolonged high interest rates that could prompt businesses to batten down the hatches for an extended period of economic uncertainty."
+        ],
+        "sentenceTranslations": [
+          "미국의 반도체 수출 규제가 상당한 파장을 일으키면서, TSMC는 시장 분열에 대한 깊은 우려를 표하며 복잡해지는 글로벌 무역 환경 속에서 '고래 싸움에 새우 등 터지는' 격이 되었습니다.",
+          "동시에, 유로존 인플레이션은 ECB에게 여전히 '해결하기 어려운 문제'로 남아 있으며, 이는 장기간의 고금리를 요구하여 기업들이 장기적인 경제 불확실성에 대비해 '단단히 준비'할 필요가 있음을 시사합니다."
+        ],
+        "translationHighlights": [
+          "고래 싸움에 새우 등 터지는 격",
+          "해결하기 어려운 문제",
+          "단단히 준비",
+          "경제 불확실성"
+        ],
+        "newWords": [
+          {
+            "word": "caught in the crossfire",
+            "meaning": "주변의 갈등이나 싸움에 휘말려 피해를 입다; 고래 싸움에 새우 등 터지다",
+            "context": "TSMC finds itself caught in the crossfire"
+          },
+          {
+            "word": "a tough nut to crack",
+            "meaning": "해결하기 어려운 문제나 다루기 힘든 사람",
+            "context": "inflation remains a tough nut to crack"
+          },
+          {
+            "word": "batten down the hatches",
+            "meaning": "폭풍우에 대비해 단단히 준비하다; 비상사태에 대비하다",
+            "context": "businesses to batten down the hatches"
+          }
+        ]
+      },
       {
         "sentences": [
           "Jensen Huang's strategic move to invest in AI infrastructure startups shows Nvidia is clearly doubling down on the foundational technology for future innovation.",
@@ -13844,6 +13910,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The ETIAS system's initial impact indicates that the writing is on the wall for spontaneous, last-minute European getaways, prompting travelers to plan their trips with more foresight.",
+          "This shift aligns with the \"slow tourism\" trend, where visitors are eager to avoid merely scratching the surface with quick visits, choosing instead to put their money where their mouth is for authentic cultural immersion and sustainable travel."
+        ],
+        "sentenceTranslations": [
+          "ETIAS 시스템의 초기 영향은 즉흥적인 유럽 여행이 더 이상 쉽지 않다는 불길한 징조이며, 여행자들이 미리 계획을 세우도록 유도하고 있습니다.",
+          "이러한 변화는 '느린 여행' 트렌드와 일치하는데, 방문객들은 짧은 방문으로 겉만 훑는 것을 피하고, 진정한 문화 체험과 지속 가능한 여행을 위해 기꺼이 비용을 지불하고 행동으로 보여주고자 합니다."
+        ],
+        "translationHighlights": [
+          "불길한 징조",
+          "겉만 훑는 것",
+          "기꺼이 비용을 지불하고 행동으로 보여주고자"
+        ],
+        "newWords": [
+          {
+            "word": "the writing is on the wall",
+            "meaning": "불길한 징조가 보이다 / (나쁜 일이) 다가오고 있음을 나타내다",
+            "context": "the writing is on the wall for spontaneous, last-minute European getaways"
+          },
+          {
+            "word": "scratching the surface",
+            "meaning": "겉만 훑다 / 피상적으로 다루다",
+            "context": "avoid merely scratching the surface with quick visits"
+          },
+          {
+            "word": "put their money where their mouth is",
+            "meaning": "말뿐만 아니라 행동으로 실천하다 / 약속한 대로 돈을 쓰다",
+            "context": "put their money where their mouth is for authentic cultural immersion"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Achieving 20% SAF usage by 2035 is certainly a tall order, especially when the industry is simultaneously grappling with geopolitical shifts and new pre-travel authorizations.",
           "However, with minor ETIAS delays becoming a common hiccup, it seems the tide is turning as travelers increasingly opt for off-the-beaten-path cultural experiences in destinations like Vietnam and Morocco."
         ],
@@ -20665,6 +20763,33 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With Son Heung-min reportedly a doubt for tomorrow's North London Derby, Tottenham manager Ange Postecoglou finds himself between a rock and a hard place, knowing his star striker is integral but unwilling to risk a long-term setback.",
+          "This potential absence means Arsenal will surely look to strike while the iron is hot and capitalize on their rivals' vulnerability to open up a significant gap at the top of the Premier League."
+        ],
+        "sentenceTranslations": [
+          "내일 북런던 더비에 손흥민 선수가 출전 불투명한 상황이라, 토트넘의 안지 포스테코글루 감독은 핵심 공격수임을 알지만 장기적인 부상 위험을 감수하려 하지 않아 진퇴양난에 빠져 있습니다.",
+          "이러한 잠재적인 전력 이탈은 아스널이 라이벌 팀의 취약점을 이용해 프리미어리그 선두에 상당한 격차를 벌릴 호기를 잡으려 할 것임을 의미합니다."
+        ],
+        "translationHighlights": [
+          "진퇴양난에 빠져 있습니다",
+          "잠재적인 전력 이탈",
+          "호기를 잡으려 할 것임"
+        ],
+        "newWords": [
+          {
+            "word": "between a rock and a hard place",
+            "meaning": "진퇴양난에 빠진, 이러지도 저러지도 못하는 상황",
+            "context": "finds himself between a rock and a hard place"
+          },
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "기회를 놓치지 않고 잡다, 때를 놓치지 않고 행동하다",
+            "context": "look to strike while the iron is hot"
+          }
+        ]
+      },
       {
         "sentences": [
           "The Saudi PIF's $3.5 billion acquisition is undoubtedly a game changer, set to turn the esports world on its head with unprecedented financial injections.",
