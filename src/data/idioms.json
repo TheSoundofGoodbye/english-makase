@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The relentless influx of Google Gemini Pro 3.0's AI prompts is increasingly making users feel like they're treading water in a sea of notifications.",
+          "To get off the hamster wheel of constant digital interaction, many are choosing to fork out extra cash for 'digital minimalism' services, seeing it as a way to finally breathe."
+        ],
+        "sentenceTranslations": [
+          "구글 제미니 프로 3.0 AI 알림의 끊임없는 유입으로 사용자들은 마치 알림의 바다에서 제자리걸음을 하는 듯한 피로감을 점점 더 느끼고 있습니다.",
+          "끊임없는 디지털 상호작용의 다람쥐 쳇바퀴 같은 삶에서 벗어나기 위해, 많은 사람들이 마침내 숨통을 트는 방법으로 '디지털 미니멀리즘' 서비스에 기꺼이 추가 비용을 지불하고 있습니다."
+        ],
+        "translationHighlights": [
+          "제자리걸음을 하는 듯한 피로감",
+          "다람쥐 쳇바퀴 같은 삶",
+          "추가 비용을 지불하고",
+          "숨통을 트는 방법으로"
+        ],
+        "newWords": [
+          {
+            "word": "treading water",
+            "meaning": "제자리걸음하다; (힘들게) 현상 유지만 하다",
+            "context": "feel like they're treading water in a sea of notifications"
+          },
+          {
+            "word": "get off the hamster wheel",
+            "meaning": "반복적이고 지루한 일상에서 벗어나다; 다람쥐 쳇바퀴 같은 삶에서 벗어나다",
+            "context": "To get off the hamster wheel of constant digital interaction"
+          },
+          {
+            "word": "fork out",
+            "meaning": "(많은 돈을) 지불하다; 억지로 돈을 쓰다",
+            "context": "many are choosing to fork out extra cash"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The latest VisionPro software update, offering 'predictive social recommendations' based on real-time observations, appears to cross the line for many users regarding their personal privacy.",
           "This constant monitoring, though designed for seamless integration, might actually give users the creeps, highlighting the double-edged sword of advanced ambient intelligence."
         ],
@@ -6865,6 +6898,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "OpenAI's rumored GPT-6 release has truly raised the stakes in the compute race, compelling tech giants to pour vast resources into R&D to avoid being caught flat-footed.",
+          "While NVIDIA's stock surge signals robust demand, the global community is keen to level the playing field through comprehensive regulations, ensuring AI's transformative power benefits all, not just a select few."
+        ],
+        "sentenceTranslations": [
+          "오픈AI의 GPT-6 출시 루머는 컴퓨팅 경쟁의 판돈을 크게 올렸고, 거대 기술 기업들이 불시에 당하지 않기 위해 연구 개발에 막대한 자원을 쏟아붓도록 만들었습니다.",
+          "엔비디아 주가 급등이 강력한 수요를 시사하는 가운데, 국제 사회는 포괄적인 규제를 통해 경쟁의 장을 평평하게 함으로써 AI의 혁신적인 힘이 소수에게만 돌아가는 것이 아니라 모두에게 혜택을 주도록 열망하고 있습니다."
+        ],
+        "translationHighlights": [
+          "판돈을 크게 올렸고",
+          "불시에 당하지 않기 위해",
+          "경쟁의 장을 평평하게 함으로써",
+          "소수에게만 돌아가는 것이 아니라 모두에게 혜택을 주도록"
+        ],
+        "newWords": [
+          {
+            "word": "raise the stakes",
+            "meaning": "경쟁을 격화시키다; 위험 부담을 높이다",
+            "context": "has truly raised the stakes in the compute race"
+          },
+          {
+            "word": "be caught flat-footed",
+            "meaning": "예상치 못한 상황에 무방비 상태로 당하다",
+            "context": "to avoid being caught flat-footed"
+          },
+          {
+            "word": "level the playing field",
+            "meaning": "공정한 경쟁 환경을 만들다",
+            "context": "keen to level the playing field through comprehensive regulations"
+          }
+        ]
+      },
       {
         "sentences": [
           "As U.S. chip export restrictions create significant ripples, TSMC finds itself caught in the crossfire, deeply concerned over market fragmentation and navigating an increasingly complex global trade landscape.",
@@ -13910,6 +13976,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Venice, for instance, is truly walking a tightrope, navigating the delicate balance between sustainable tourism goals and ensuring its local economy doesn't take a hit from the new day-trip fee.",
+          "Conversely, the fully operational ETIAS system is proving to be a game changer for many, effectively cutting through the red tape for visa-exempt travelers hoping to visit Europe."
+        ],
+        "sentenceTranslations": [
+          "베니스는 예를 들어, 지속 가능한 관광 목표와 새로운 당일치기 입장료로 인해 지역 경제가 타격을 입지 않도록 섬세한 균형을 유지하며 정말로 외줄 타기를 하고 있습니다.",
+          "반대로, 완전히 가동 중인 ETIAS 시스템은 많은 이들에게 판도를 바꾸는 역할을 하고 있으며, 유럽 방문을 희망하는 비자 면제 여행객들에게 불필요한 관료적 절차를 효과적으로 제거해 주고 있습니다."
+        ],
+        "translationHighlights": [
+          "외줄 타기를 하고 있습니다",
+          "타격을 입지 않도록",
+          "판도를 바꾸는 역할을 하고 있으며",
+          "불필요한 관료적 절차를 효과적으로 제거해 주고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "walking a tightrope",
+            "meaning": "매우 어렵고 위험한 상황에서 작은 실수도 용납되지 않는 위태로운 균형을 유지하다",
+            "context": "is truly walking a tightrope"
+          },
+          {
+            "word": "a game changer",
+            "meaning": "판도를 바꾸는 것, 상황을 완전히 뒤바꾸는 중대한 변화나 요소",
+            "context": "proving to be a game changer"
+          },
+          {
+            "word": "cut through the red tape",
+            "meaning": "불필요한 관료적 절차나 서류 작업을 신속하게 처리하거나 제거하다",
+            "context": "effectively cutting through the red tape"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The ETIAS system's initial impact indicates that the writing is on the wall for spontaneous, last-minute European getaways, prompting travelers to plan their trips with more foresight.",
           "This shift aligns with the \"slow tourism\" trend, where visitors are eager to avoid merely scratching the surface with quick visits, choosing instead to put their money where their mouth is for authentic cultural immersion and sustainable travel."
         ],
@@ -20763,6 +20862,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "FaZe Clan's meticulous preparation suggests they're leaving no stone unturned in their quest for the IEM Rio Major title, especially with G2 Esports also gunning for glory.",
+          "The anticipation is palpable; fans are certainly on the edge of their seats, expecting nothing less than a nail-biter as these esports giants clash."
+        ],
+        "sentenceTranslations": [
+          "FaZe Clan의 철저한 준비는 IEM Rio Major 우승을 향해 모든 노력을 기울이고 있음을 시사합니다. 특히 G2 Esports 역시 영광을 향해 총력을 다하고 있기에 더욱 그렇습니다.",
+          "기대감이 고조되고 있습니다. 팬들은 이 e스포츠 거물들의 대결이 손에 땀을 쥐게 할 명승부가 될 것을 예상하며 분명 숨죽이며 지켜볼 것입니다."
+        ],
+        "translationHighlights": [
+          "모든 노력을 기울이고 있음",
+          "영광을 향해 총력을 다하고 있기에",
+          "숨죽이며 지켜볼 것입니다",
+          "손에 땀을 쥐게 할 명승부"
+        ],
+        "newWords": [
+          {
+            "word": "leave no stone unturned",
+            "meaning": "모든 노력을 기울이다, 가능한 모든 수단을 동원하다",
+            "context": "they're leaving no stone unturned in their quest"
+          },
+          {
+            "word": "gunning for glory",
+            "meaning": "영광을 얻기 위해 총력을 기울이다, 최고를 목표로 하다",
+            "context": "G2 Esports also gunning for glory"
+          },
+          {
+            "word": "nail-biter",
+            "meaning": "손에 땀을 쥐게 하는 경기/상황",
+            "context": "nothing less than a nail-biter"
+          }
+        ]
+      },
       {
         "sentences": [
           "With Son Heung-min reportedly a doubt for tomorrow's North London Derby, Tottenham manager Ange Postecoglou finds himself between a rock and a hard place, knowing his star striker is integral but unwilling to risk a long-term setback.",
