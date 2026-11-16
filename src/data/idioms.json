@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "AI companion apps are proving to be a double-edged sword, offering immediate accessibility while raising concerns about over-reliance.",
+          "Critics argue that these chatbots, despite their growing popularity, only scratch the surface when it comes to providing genuine human emotional support."
+        ],
+        "sentenceTranslations": [
+          "AI 동반자 앱은 즉각적인 접근성을 제공하면서도 과도한 의존에 대한 우려를 불러일으키는 양날의 검으로 드러나고 있습니다.",
+          "비평가들은 이러한 챗봇들이 인기를 얻고 있음에도 불구하고, 진정한 인간적인 정서적 지원을 제공하는 데 있어서는 단지 수박 겉핥기식에 불과하다고 주장합니다."
+        ],
+        "translationHighlights": [
+          "양날의 검으로 드러나고 있습니다",
+          "과도한 의존에 대한 우려",
+          "수박 겉핥기식에 불과하다고",
+          "진정한 인간적인 정서적 지원"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "장점과 단점을 동시에 지닌 것, 양면성이 있는 것",
+            "context": "proving to be a double-edged sword"
+          },
+          {
+            "word": "scratch the surface",
+            "meaning": "문제나 주제의 아주 작은 부분만 다루다 (수박 겉핥기식으로 다루다)",
+            "context": "only scratch the surface"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The relentless influx of Google Gemini Pro 3.0's AI prompts is increasingly making users feel like they're treading water in a sea of notifications.",
           "To get off the hamster wheel of constant digital interaction, many are choosing to fork out extra cash for 'digital minimalism' services, seeing it as a way to finally breathe."
         ],
@@ -6898,6 +6926,38 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Despite hailing Claude 4 as a step towards 'trustworthy AI,' the rising ethical concerns are still the elephant in the room that the industry needs to address head-on.",
+          "With global inflation persisting and tariff negotiations going down to the wire, many businesses are finding it challenging to weather the storm."
+        ],
+        "sentenceTranslations": [
+          "클로드 4가 '신뢰할 수 있는 AI 시스템'을 향한 도약이라고 환영받았음에도 불구하고, 증가하는 윤리적 우려는 여전히 업계가 정면으로 다뤄야 할 외면할 수 없는 문제입니다.",
+          "전 세계적인 인플레이션이 지속되고 관세 협상이 막바지에 다다르면서, 많은 기업들이 이 어려운 시기를 헤쳐나가기에 난항을 겪고 있습니다."
+        ],
+        "translationHighlights": [
+          "외면할 수 없는 문제",
+          "막바지에 다다르면서",
+          "어려운 시기를 헤쳐나가기"
+        ],
+        "newWords": [
+          {
+            "word": "the elephant in the room",
+            "meaning": "모두가 알고 있지만 언급하기 꺼리는 문제 또는 불편한 진실",
+            "context": "ethical concerns are still the **elephant in the room**"
+          },
+          {
+            "word": "down to the wire",
+            "meaning": "막바지에 다다라 결과가 예측 불가능한 상황",
+            "context": "tariff negotiations going **down to the wire**"
+          },
+          {
+            "word": "weather the storm",
+            "meaning": "어려운 시기를 극복하다, 난관을 헤쳐나가다",
+            "context": "challenging to **weather the storm**"
+          }
+        ]
+      },
       {
         "sentences": [
           "OpenAI's rumored GPT-6 release has truly raised the stakes in the compute race, compelling tech giants to pour vast resources into R&D to avoid being caught flat-footed.",
@@ -13976,6 +14036,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Singapore Airlines is **blazing a trail** with its new direct route to Baku, strategically **striking while the iron is hot** to capture the burgeoning Eurasian travel market.",
+          "This reflects a broader trend where extended, immersive travel experiences are truly **gaining traction**, signaling a **paradigm shift** from fleeting city visits to deeper cultural engagement in places like Portugal's Porto and Algarve."
+        ],
+        "sentenceTranslations": [
+          "싱가포르 항공은 바쿠 직항 노선을 통해 신흥 유라시아 여행 시장을 공략하며 **새로운 길을 개척하고 있으며**, 전략적으로 **기회를 놓치지 않고 있습니다**.",
+          "이는 단기 도시 방문에서 벗어나 포르투갈의 포르투나 알가르브처럼 더 깊이 있는 문화 체험을 추구하는, 확장되고 몰입감 있는 여행 경험이 진정으로 **인기를 얻고 있으며**, 관광의 **근본적인 변화**를 알리는 더 넓은 추세를 반영합니다."
+        ],
+        "translationHighlights": [
+          "새로운 길을 개척하고 있으며",
+          "기회를 놓치지 않고 있습니다",
+          "인기를 얻고 있으며",
+          "근본적인 변화"
+        ],
+        "newWords": [
+          {
+            "word": "blazing a trail",
+            "meaning": "새로운 길을 개척하다, 선구적인 역할을 하다",
+            "context": "Singapore Airlines is **blazing a trail** with its new direct route to Baku"
+          },
+          {
+            "word": "striking while the iron is hot",
+            "meaning": "기회를 놓치지 않고 바로 행동하다",
+            "context": "strategically **striking while the iron is hot** to capture the burgeoning Eurasian travel market"
+          },
+          {
+            "word": "paradigm shift",
+            "meaning": "패러다임 전환, 근본적인 변화",
+            "context": "signaling a **paradigm shift** from fleeting city visits to deeper cultural engagement"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Venice, for instance, is truly walking a tightrope, navigating the delicate balance between sustainable tourism goals and ensuring its local economy doesn't take a hit from the new day-trip fee.",
           "Conversely, the fully operational ETIAS system is proving to be a game changer for many, effectively cutting through the red tape for visa-exempt travelers hoping to visit Europe."
         ],
@@ -20862,6 +20955,33 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Tyrese Maxey's career-high 48 points against the Celtics clearly showed he was firing on all cylinders that night, playing with exceptional energy and focus.",
+          "Meanwhile, the 'Arctic Expedition' VR game is flying off the shelves, demonstrating its immense popularity and strong appeal in the first week."
+        ],
+        "sentenceTranslations": [
+          "타이리스 맥시 선수의 보스턴 셀틱스전 커리어 최고 48득점은 그가 그날 밤 최고의 기량을 발휘했다는 것을 분명히 보여주며, 엄청난 에너지와 집중력으로 경기에 임했습니다.",
+          "한편, 'Arctic Expedition' VR 게임은 날개 돋친 듯 팔려나가고 있으며, 첫 주 만에 엄청난 인기와 강력한 매력을 입증하고 있습니다."
+        ],
+        "translationHighlights": [
+          "최고의 기량을 발휘했다는",
+          "날개 돋친 듯 팔려나가고",
+          "엄청난 인기와 강력한 매력을 입증하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "firing on all cylinders",
+            "meaning": "최고의 기량을 발휘하다, 온전히 제 기능을 하다 (엔진의 모든 실린더가 정상적으로 작동하며 최대 성능을 내는 것에 비유)",
+            "context": "he was firing on all cylinders that night"
+          },
+          {
+            "word": "flying off the shelves",
+            "meaning": "날개 돋친 듯 팔리다, 불티나게 팔리다",
+            "context": "the 'Arctic Expedition' VR game is flying off the shelves"
+          }
+        ]
+      },
       {
         "sentences": [
           "FaZe Clan's meticulous preparation suggests they're leaving no stone unturned in their quest for the IEM Rio Major title, especially with G2 Esports also gunning for glory.",
