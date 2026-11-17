@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While the seamless integration of devices like Google's Nexus Assistant seems like a dream, the Electronic Frontier Foundation is **sounding the alarm** about the potential for personal data to become **an open book**.",
+          "For many users, it feels like **the genie is out of the bottle** when it comes to pervasive data collection, making it difficult to reverse course after enjoying the convenience."
+        ],
+        "sentenceTranslations": [
+          "구글 넥서스 어시스턴트 같은 기기들의 끊김 없는 연동이 꿈만 같지만, 전자 프론티어 재단(EFF)은 개인 데이터가 **누구에게나 노출될 위험**에 대해 **경고를 울리고 있습니다**.",
+          "많은 사용자들에게 있어서, 만연한 데이터 수집은 이미 **되돌릴 수 없는 상황**이 되어버린 것 같고, 일단 편리함을 누린 후에는 되돌리기가 어렵습니다."
+        ],
+        "translationHighlights": [
+          "경고를 울리고 있습니다",
+          "누구에게나 노출될 위험",
+          "되돌릴 수 없는 상황"
+        ],
+        "newWords": [
+          {
+            "word": "sounding the alarm",
+            "meaning": "경고를 울리다, 위험을 알리다",
+            "context": "Foundation is **sounding the alarm** about the potential for personal data..."
+          },
+          {
+            "word": "an open book",
+            "meaning": "누구나 쉽게 알 수 있는 것; (데이터 관련 맥락에서는) 완전히 노출된 것",
+            "context": "...data to become **an open book**."
+          },
+          {
+            "word": "the genie is out of the bottle",
+            "meaning": "한번 시작되면 되돌릴 수 없는 상황이 되다",
+            "context": "...feels like **the genie is out of the bottle** when it comes to pervasive data collection..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "AI companion apps are proving to be a double-edged sword, offering immediate accessibility while raising concerns about over-reliance.",
           "Critics argue that these chatbots, despite their growing popularity, only scratch the surface when it comes to providing genuine human emotional support."
         ],
@@ -6926,6 +6958,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Jerome Powell's unwavering commitment to keeping interest rates elevated to curb inflation will effectively **pump the brakes** on global economic expansion, compelling many analysts to recalibrate their Q1 2027 growth forecasts downwards.",
+          "Conversely, the AI sector shows no signs of slowing down; with rumors of Meta preparing a significant bid for Anthropic, it's clear that **the gloves are off** in the race for enterprise AI dominance, pushing compute demand and TSMC's stock to new heights."
+        ],
+        "sentenceTranslations": [
+          "제롬 파월 의장이 인플레이션을 억제하기 위해 고금리 기조를 유지하겠다는 확고한 의지는 글로벌 경제 성장에 **제동을 걸어**, 많은 분석가들이 2027년 1분기 성장률 전망치를 하향 조정하게 만들 것입니다.",
+          "반대로, AI 부문은 둔화될 기미를 보이지 않고 있습니다; 메타가 Anthropic에 대한 상당한 인수 제안을 준비하고 있다는 소문은 기업 AI 지배를 위한 경쟁에서 **본격적인 승부가 시작되었음을** 명확히 보여주며, 컴퓨팅 수요와 TSMC 주가를 새로운 최고치로 끌어올리고 있습니다."
+        ],
+        "translationHighlights": [
+          "제동을 걸어",
+          "성장률 전망치를 하향 조정하게 만들 것입니다",
+          "본격적인 승부가 시작되었음을",
+          "새로운 최고치로 끌어올리고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "pump the brakes",
+            "meaning": "제동을 걸다, 속도를 늦추다 (특히 의도적으로)",
+            "context": "will effectively pump the brakes on global economic expansion"
+          },
+          {
+            "word": "the gloves are off",
+            "meaning": "본격적인 승부가 시작되다, 치열한 경쟁이 시작되다",
+            "context": "it's clear that the gloves are off in the race for enterprise AI dominance"
+          }
+        ]
+      },
       {
         "sentences": [
           "Despite hailing Claude 4 as a step towards 'trustworthy AI,' the rising ethical concerns are still the elephant in the room that the industry needs to address head-on.",
@@ -14036,6 +14096,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The ETIAS system's full rollout has created a bit of a learning curve for non-EU travelers, with airlines reporting an initial dip in last-minute bookings for early 2027.",
+          "While tour operators are bracing themselves to weather the storm of potential initial friction, popular destinations anticipate it will ultimately prove to be a blessing in disguise for managing tourist flows and enhancing security."
+        ],
+        "sentenceTranslations": [
+          "ETIAS 시스템이 전면 시행되면서 비EU 여행객들에게는 다소 적응 기간이 필요하게 되었고, 항공사들은 2027년 초 막바지 예약의 초기 감소를 보고하고 있습니다.",
+          "여행사들은 잠재적인 초기 마찰이라는 어려운 시기를 견뎌낼 준비를 하고 있지만, 인기 있는 목적지들은 결국 관광객 흐름 관리와 보안 강화에 전화위복이 될 것으로 기대하고 있습니다."
+        ],
+        "translationHighlights": [
+          "적응 기간",
+          "막바지 예약의 초기 감소",
+          "어려운 시기를 견뎌낼",
+          "전화위복"
+        ],
+        "newWords": [
+          {
+            "word": "learning curve",
+            "meaning": "적응 기간 / 새로운 것을 배우는 데 필요한 시간이나 노력",
+            "context": "created a bit of a learning curve"
+          },
+          {
+            "word": "weather the storm",
+            "meaning": "어려운 시기를 견디다 / 역경을 헤쳐나가다",
+            "context": "bracing themselves to weather the storm"
+          },
+          {
+            "word": "a blessing in disguise",
+            "meaning": "전화위복 / 처음에는 불행 같지만 결국 좋은 결과를 가져오는 것",
+            "context": "prove to be a blessing in disguise"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Singapore Airlines is **blazing a trail** with its new direct route to Baku, strategically **striking while the iron is hot** to capture the burgeoning Eurasian travel market.",
           "This reflects a broader trend where extended, immersive travel experiences are truly **gaining traction**, signaling a **paradigm shift** from fleeting city visits to deeper cultural engagement in places like Portugal's Porto and Algarve."
         ],
@@ -20955,6 +21048,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "With Jayson Tatum on a roll and the Celtics dominating, it seems they are a force to be reckoned with in the NBA this season.",
+          "Similarly, Caps' multi-million dollar transfer to Team Vitality has truly sent shockwaves through the European League of Legends scene, making everyone wonder what's next."
+        ],
+        "sentenceTranslations": [
+          "제이슨 테이텀의 맹활약과 함께 셀틱스가 압도적인 모습을 보이면서, 이번 NBA 시즌에 그들이 정말로 만만치 않은 강팀임을 증명하고 있습니다.",
+          "마찬가지로, 캡스의 수백만 달러에 달하는 팀 바이탈리티 이적은 유럽 리그 오브 레전드 씬에 진정으로 큰 파장을 일으키며, 앞으로 어떤 일이 벌어질지 모두를 궁금하게 만들고 있습니다."
+        ],
+        "translationHighlights": [
+          "맹활약",
+          "만만치 않은 강팀",
+          "큰 파장을 일으키며"
+        ],
+        "newWords": [
+          {
+            "word": "on a roll",
+            "meaning": "연승을 하거나 연속적으로 잘 되어가는 상황; 승승장구하는",
+            "context": "With Jayson Tatum on a roll..."
+          },
+          {
+            "word": "a force to be reckoned with",
+            "meaning": "무시할 수 없는 강적, 강력한 존재; 만만치 않은 실력을 가진 팀/사람",
+            "context": "...they are a force to be reckoned with..."
+          },
+          {
+            "word": "send shockwaves (through something)",
+            "meaning": "큰 충격/파장을 일으키다, 엄청난 영향을 미치다",
+            "context": "...has truly sent shockwaves through the European League of Legends scene..."
+          }
+        ]
+      },
       {
         "sentences": [
           "Tyrese Maxey's career-high 48 points against the Celtics clearly showed he was firing on all cylinders that night, playing with exceptional energy and focus.",
