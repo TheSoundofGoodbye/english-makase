@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Though NeuroSync's new neural interface might seem like a golden ticket to enhanced well-being, privacy advocates caution we could be opening a Pandora's box concerning personal data.",
+          "The EFF's worry that continuous brainwave monitoring could become a slippery slope towards ubiquitous surveillance should certainly give us pause."
+        ],
+        "sentenceTranslations": [
+          "뉴로싱크의 새로운 신경 인터페이스가 향상된 웰빙을 위한 황금 티켓처럼 보일지라도, 사생활 옹호자들은 우리가 개인 데이터와 관련하여 판도라의 상자를 열고 있을 수 있다고 경고합니다.",
+          "뇌파를 지속적으로 모니터링하는 것이 보편적 감시로 이어지는 미끄러운 경사면이 될 수 있다는 EFF의 우려는 분명히 우리에게 신중함을 요구합니다."
+        ],
+        "translationHighlights": [
+          "황금 티켓",
+          "판도라의 상자를 열고 있을 수 있다",
+          "미끄러운 경사면",
+          "신중함을 요구합니다"
+        ],
+        "newWords": [
+          {
+            "word": "golden ticket",
+            "meaning": "매우 좋은 기회, 큰 이점",
+            "context": "might seem like a golden ticket to enhanced well-being"
+          },
+          {
+            "word": "opening a Pandora's box",
+            "meaning": "예상치 못한 많은 문제를 야기하다",
+            "context": "could be opening a Pandora's box concerning personal data"
+          },
+          {
+            "word": "a slippery slope",
+            "meaning": "부정적인 결과로 이어질 수 있는 위험한 과정/상황",
+            "context": "could become a slippery slope towards ubiquitous surveillance"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As the 'deep unplugging' movement gains momentum, many employees are finding it essential to hit the reset button on their digital lives.",
           "Consistently logging off for even a couple of hours daily isn't just a temporary fix; it truly pays dividends for overall well-being in the long run."
         ],
@@ -6986,6 +7019,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Given the impressive efficiency gains reported, Meta's decision to double down on AI infrastructure clearly shows that tech giants are intent on staying ahead of the curve.",
+          "However, with inflation proving to be a tough nut to crack in key sectors, investors are increasingly looking to leaders who can help companies weather the storm amidst global market volatility."
+        ],
+        "sentenceTranslations": [
+          "보고된 인상적인 효율성 증대를 고려할 때, 메타가 AI 인프라에 투자를 강화하기로 한 결정은 기술 대기업들이 시대에 뒤처지지 않고 선두를 유지하려 한다는 것을 분명히 보여줍니다.",
+          "하지만 주요 부문에서 인플레이션이 해결하기 어려운 문제로 드러나면서, 투자자들은 세계 시장의 변동성 속에서 기업들이 어려움을 극복하도록 도울 리더들을 점차 찾고 있습니다."
+        ],
+        "translationHighlights": [
+          "투자를 강화하기로 한 결정",
+          "선두를 유지하려 한다는 것을",
+          "해결하기 어려운 문제로 드러나면서",
+          "어려움을 극복하도록 도울"
+        ],
+        "newWords": [
+          {
+            "word": "double down on",
+            "meaning": "~에 대한 투자를 강화하다, ~에 더 많은 노력을 기울이다",
+            "context": "Meta's decision to double down on AI infrastructure"
+          },
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "시대에 뒤처지지 않다, 선두를 유지하다",
+            "context": "intent on staying ahead of the curve"
+          },
+          {
+            "word": "a tough nut to crack",
+            "meaning": "해결하기 어려운 문제, 다루기 힘든 사람/상황",
+            "context": "inflation proving to be a tough nut to crack"
+          }
+        ]
+      },
       {
         "sentences": [
           "Powell's hawkish remarks about sustained high interest rates certainly gave global markets pause, prompting a cautious dip in the S&P 500.",
@@ -14152,6 +14218,34 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "European carriers are finding that the new ETIAS system is throwing a wrench in the works for last-minute bookings, especially impacting Q1 2027 travel plans.",
+          "While EU officials argue it's a vital security layer, for many potential tourists from key markets, the added hurdle feels like a bitter pill to swallow, making them think twice about spontaneous trips."
+        ],
+        "sentenceTranslations": [
+          "유럽 항공사들은 새로운 ETIAS 시스템이 특히 2027년 1분기 여행 계획의 막판 예약에 큰 차질을 초래하고 있다는 것을 발견했습니다.",
+          "EU 관계자들은 이것이 필수적인 보안 계층이라고 주장하지만, 주요 시장의 많은 잠재적 관광객들에게는 추가된 장벽이 받아들이기 힘든 상황처럼 느껴져 즉흥적인 여행을 다시 생각하게 만듭니다."
+        ],
+        "translationHighlights": [
+          "큰 차질을 초래하고 있다는 것을",
+          "막판 예약",
+          "받아들이기 힘든 상황처럼 느껴져",
+          "즉흥적인 여행"
+        ],
+        "newWords": [
+          {
+            "word": "throwing a wrench in the works",
+            "meaning": "계획이나 과정에 문제를 일으키다, 차질을 초래하다",
+            "context": "throwing a wrench in the works for last-minute bookings"
+          },
+          {
+            "word": "a bitter pill to swallow",
+            "meaning": "받아들이기 힘든 뼈아픈 현실/상황",
+            "context": "the added hurdle feels like a bitter pill to swallow"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With new visa agreements and a craving for authentic experiences, Southeast Asia's tourism sector is certainly riding the crest of a wave.",
           "This robust growth across ASEAN nations is proving that a rising tide lifts all boats, as local economies are significantly benefiting from the influx of visitors."
         ],
@@ -21132,6 +21226,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Fnatic's unexpected 3-2 victory over Gen.G truly took the esports world by storm, proving that the European region is now a force to be reckoned with.",
+          "The championship's record-breaking viewership raised the bar for global esports, leaving fans eager to read the tea leaves on upcoming roster shifts and future tournaments."
+        ],
+        "sentenceTranslations": [
+          "Fnatic의 Gen.G를 상대로 한 예상치 못한 3대 2 승리는 진정으로 이스포츠계를 강타하며, 유럽 지역이 이제 만만찮은 세력임을 증명했습니다.",
+          "이번 챔피언십의 기록적인 시청률은 글로벌 이스포츠의 기준을 높였고, 팬들은 다가올 로스터 변화와 미래 토너먼트에 대한 미래를 점치느라 여념이 없습니다."
+        ],
+        "translationHighlights": [
+          "이스포츠계를 강타하며",
+          "만만찮은 세력",
+          "기준을 높였고",
+          "미래를 점치느라 여념이 없습니다"
+        ],
+        "newWords": [
+          {
+            "word": "take by storm",
+            "meaning": "대단한 성공을 거두다, 열광적인 인기를 얻다, 강타하다",
+            "context": "truly took the esports world by storm"
+          },
+          {
+            "word": "raise the bar",
+            "meaning": "기준을 높이다, 수준을 향상시키다",
+            "context": "raised the bar for global esports"
+          },
+          {
+            "word": "read the tea leaves",
+            "meaning": "미래를 예측하다, 정세를 살피다",
+            "context": "eager to read the tea leaves"
+          }
+        ]
+      },
       {
         "sentences": [
           "Kylian Mbappé is truly *ahead of the curve* with his strategic move into sport-tainment, aiming to redefine fan engagement beyond the stadium.",
