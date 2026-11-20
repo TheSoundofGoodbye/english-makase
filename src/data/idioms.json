@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "AI assistants like Google's 'Gemini Life' are truly hitting their stride, promising to simplify daily routines and potentially take a load off users' minds.",
+          "Yet, despite such technological advances, many young professionals are still feeling the pinch from economic strains, making it difficult for them to truly thrive."
+        ],
+        "sentenceTranslations": [
+          "구글의 '제미니 라이프'와 같은 AI 비서들은 정말로 한창 잘나가고 있으며, 일상 업무를 간소화하고 사용자들의 마음의 짐을 덜어줄 것으로 기대됩니다.",
+          "하지만, 이러한 기술 발전에도 불구하고, 많은 젊은 직장인들은 여전히 경제적 압박에 시달리고 있어 진정으로 번성하기 어렵습니다."
+        ],
+        "translationHighlights": [
+          "한창 잘나가고 있으며",
+          "마음의 짐을 덜어줄 것으로 기대됩니다",
+          "경제적 압박에 시달리고 있어",
+          "진정으로 번성하기 어렵습니다"
+        ],
+        "newWords": [
+          {
+            "word": "hitting their stride",
+            "meaning": "한창 잘나가다, 전성기를 맞다",
+            "context": "are truly hitting their stride"
+          },
+          {
+            "word": "take a load off one's mind",
+            "meaning": "마음의 짐을 덜다, 걱정을 덜어주다",
+            "context": "take a load off users' minds"
+          },
+          {
+            "word": "feeling the pinch",
+            "meaning": "경제적 어려움을 겪다, 압박감을 느끼다",
+            "context": "are still feeling the pinch"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Though NeuroSync's new neural interface might seem like a golden ticket to enhanced well-being, privacy advocates caution we could be opening a Pandora's box concerning personal data.",
           "The EFF's worry that continuous brainwave monitoring could become a slippery slope towards ubiquitous surveillance should certainly give us pause."
         ],
@@ -7019,6 +7052,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "NVIDIA's Blackwell Ultra has undeniably raised the bar for AI efficiency, putting hyperscalers in a position where they must adapt quickly or risk falling behind.",
+          "With the financial viability of pervasive integration being the bottom line, businesses are now scrambling to run a tight ship as they scale up their AI infrastructure."
+        ],
+        "sentenceTranslations": [
+          "엔비디아의 블랙웰 울트라는 AI 효율성의 기준을 확실히 높였으며, 하이퍼스케일러 기업들은 빠르게 적응하지 않으면 뒤처질 위험에 처하게 되었습니다.",
+          "광범위한 통합의 재정적 타당성이 핵심 고려 사항이 되면서, 기업들은 AI 인프라를 확장하면서 효율적으로 운영하기 위해 고군분투하고 있습니다."
+        ],
+        "translationHighlights": [
+          "AI 효율성의 기준을 확실히 높였으며",
+          "뒤처질 위험에 처하게 되었습니다",
+          "핵심 고려 사항이 되면서",
+          "효율적으로 운영하기 위해 고군분투하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "raise the bar",
+            "meaning": "기준을 높이다, 수준을 향상시키다",
+            "context": "raised the bar for AI efficiency"
+          },
+          {
+            "word": "the bottom line",
+            "meaning": "가장 중요한 핵심, 본질적인 결과",
+            "context": "being the bottom line"
+          },
+          {
+            "word": "run a tight ship",
+            "meaning": "조직/사업체를 효율적으로 운영하다",
+            "context": "scrambling to run a tight ship"
+          }
+        ]
+      },
       {
         "sentences": [
           "Given the impressive efficiency gains reported, Meta's decision to double down on AI infrastructure clearly shows that tech giants are intent on staying ahead of the curve.",
@@ -14218,6 +14284,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With the ETIAS system adding a layer of complexity, many travelers are **nipping potential delays in the bud** by booking their holidays far in advance.",
+          "Meanwhile, airlines are **catching the zeitgeist**, pivoting to offer routes to destinations like Georgia and Kazakhstan, which are truly **off the beaten path** for those seeking unique cultural immersion."
+        ],
+        "sentenceTranslations": [
+          "ETIAS 시스템이 절차를 복잡하게 만들면서, 많은 여행객들이 발생 가능한 지연을 **미리 차단하기 위해** 휴가 예약을 훨씬 일찍 하고 있습니다.",
+          "한편, 항공사들은 **시대의 흐름을 읽고**, 독특한 문화 체험을 추구하는 이들에게 진정으로 **남들이 잘 가지 않는** 조지아나 카자흐스탄 같은 목적지로 향하는 노선을 제공하며 전략을 바꾸고 있습니다."
+        ],
+        "translationHighlights": [
+          "미리 차단하기 위해",
+          "시대의 흐름을 읽고",
+          "남들이 잘 가지 않는",
+          "문화 체험"
+        ],
+        "newWords": [
+          {
+            "word": "nip something in the bud",
+            "meaning": "문제의 싹을 자르다, 미리 차단하다",
+            "context": "nipping potential delays in the bud"
+          },
+          {
+            "word": "catch the zeitgeist",
+            "meaning": "시대정신을 포착하다, 시대의 흐름을 읽다",
+            "context": "airlines are catching the zeitgeist"
+          },
+          {
+            "word": "off the beaten path",
+            "meaning": "사람들의 발길이 뜸한 곳, 잘 알려지지 않은 곳",
+            "context": "truly off the beaten path"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "European carriers are finding that the new ETIAS system is throwing a wrench in the works for last-minute bookings, especially impacting Q1 2027 travel plans.",
           "While EU officials argue it's a vital security layer, for many potential tourists from key markets, the added hurdle feels like a bitter pill to swallow, making them think twice about spontaneous trips."
         ],
@@ -21226,6 +21325,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The Eagles, with Jalen Hurts' \"playoff game\" mindset, are clearly preparing to **leave it all on the field** in their critical matchup against the Commanders.",
+          "This intense focus isn't just limited to the NFL, as Nikola Jokic's early dominance has him truly **on a roll**, putting the NBA MVP conversation into a real **dog-eat-dog world**."
+        ],
+        "sentenceTranslations": [
+          "제일런 허츠가 모든 경기를 플레이오프처럼 생각해야 한다고 강조하는 가운데, 이글스는 커맨더스전에서 모든 것을 **쏟아부을 준비**가 되어 있습니다.",
+          "이러한 강렬한 집중은 NFL에만 국한되지 않습니다. 니콜라 요키치의 초반 압도적인 활약으로 그는 완전히 **승승장구**하고 있으며, NBA MVP 논쟁은 진정한 **약육강식의 세계**로 돌입했습니다."
+        ],
+        "translationHighlights": [
+          "쏟아부을 준비",
+          "승승장구",
+          "약육강식의 세계"
+        ],
+        "newWords": [
+          {
+            "word": "leave it all on the field",
+            "meaning": "모든 것을 쏟아붓다, 후회 없이 최선을 다하다 (특히 스포츠에서)",
+            "context": "preparing to **leave it all on the field** in their critical matchup"
+          },
+          {
+            "word": "on a roll",
+            "meaning": "승승장구하는, 연달아 성공하는",
+            "context": "Nikola Jokic's early dominance has him truly **on a roll**"
+          },
+          {
+            "word": "dog-eat-dog world",
+            "meaning": "약육강식의 세계, 치열한 경쟁 사회/상황",
+            "context": "putting the NBA MVP conversation into a real **dog-eat-dog world**"
+          }
+        ]
+      },
       {
         "sentences": [
           "Fnatic's unexpected 3-2 victory over Gen.G truly took the esports world by storm, proving that the European region is now a force to be reckoned with.",
