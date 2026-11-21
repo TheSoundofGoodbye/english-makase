@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The increasing global concerns about the \"Silver Tsunami\" mean national health systems are starting to strain at the seams, with the writing clearly on the wall for future healthcare challenges.",
+          "In response, many are proactively putting their ducks in a row by embracing digital health platforms and beefing up health savings to get ahead of the curve."
+        ],
+        "sentenceTranslations": [
+          "전 세계적으로 '실버 쓰나미'에 대한 우려가 커지면서 국가 보건 시스템이 한계에 다다르고 있으며, 다가올 의료 문제에 대한 경고음이 분명히 들리고 있습니다.",
+          "이에 대한 대응으로, 많은 사람들이 디지털 건강 플랫폼을 수용하고 건강 저축을 늘려 미리 준비하며 미래에 대비하고 있습니다."
+        ],
+        "translationHighlights": [
+          "한계에 다다르고 있으며",
+          "경고음이 분명히 들리고 있습니다",
+          "미리 준비하며",
+          "미래에 대비하고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "strain at the seams",
+            "meaning": "한계에 다다르다, 붕괴 직전이다",
+            "context": "national health systems are starting to strain at the seams"
+          },
+          {
+            "word": "the writing's on the wall",
+            "meaning": "미래의 불행/문제에 대한 분명한 경고 (경고음이 들리다)",
+            "context": "the writing clearly on the wall for future healthcare challenges"
+          },
+          {
+            "word": "put one's ducks in a row",
+            "meaning": "만반의 준비를 하다, 일을 정리하다",
+            "context": "many are proactively putting their ducks in a row"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "AI assistants like Google's 'Gemini Life' are truly hitting their stride, promising to simplify daily routines and potentially take a load off users' minds.",
           "Yet, despite such technological advances, many young professionals are still feeling the pinch from economic strains, making it difficult for them to truly thrive."
         ],
@@ -7052,6 +7085,33 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "OpenAI's \"Atlas\" model has transformed generative AI into the **golden goose** of the tech sector, sparking intense investor enthusiasm and M&A activity.",
+          "This fierce competition means companies like Microsoft are scrambling to **stay ahead of the curve** by acquiring promising startups such as Synergy AI."
+        ],
+        "sentenceTranslations": [
+          "OpenAI의 'Atlas' 모델 덕분에 생성형 AI는 IT 업계의 **황금알을 낳는 거위**가 되었고, 투자자들의 엄청난 열기와 M&A 활동을 촉발하고 있습니다.",
+          "이런 치열한 경쟁 속에서 마이크로소프트와 같은 기업들은 시너지 AI와 같은 유망 스타트업을 인수하며 **시대의 흐름에 앞서 나가기 위해** 필사적으로 노력하고 있습니다."
+        ],
+        "translationHighlights": [
+          "황금알을 낳는 거위",
+          "엄청난 열기와 M&A 활동을 촉발하고 있습니다",
+          "시대의 흐름에 앞서 나가기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "golden goose",
+            "meaning": "황금알을 낳는 거위 (매우 귀중하고 수익성 높은 자산이나 수입원)",
+            "context": "generative AI into the **golden goose** of the tech sector"
+          },
+          {
+            "word": "stay ahead of the curve",
+            "meaning": "시대의 흐름에 앞서 나가다, 최신 동향을 파악하고 선두를 유지하다",
+            "context": "scrambling to **stay ahead of the curve** by acquiring promising startups"
+          }
+        ]
+      },
       {
         "sentences": [
           "NVIDIA's Blackwell Ultra has undeniably raised the bar for AI efficiency, putting hyperscalers in a position where they must adapt quickly or risk falling behind.",
@@ -14282,6 +14342,39 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "As peak travel season looms, Singapore Airlines is riding high on the waves of demand, especially with its Seattle routes becoming the belle of the ball for Business Class travelers.",
+          "Simultaneously, Georgia is rapidly gaining traction as a prime winter destination, proving that destinations offering both cultural immersion and efficient entry are truly hitting their stride."
+        ],
+        "sentenceTranslations": [
+          "성수기 여행 시즌이 다가오면서, 싱가포르 항공은 수요 급증으로 승승장구하고 있으며, 특히 시애틀 노선은 비즈니스 클래스 여행객들 사이에서 최고의 인기를 누리고 있습니다.",
+          "이와 동시에, 조지아는 주요 겨울 여행지로 빠르게 인기를 얻고 있으며, 문화 체험과 편리한 입국 절차를 모두 제공하는 목적지들이 진정으로 본 궤도에 오르고 있음을 입증하고 있습니다."
+        ],
+        "translationHighlights": [
+          "승승장구하고 있으며",
+          "최고의 인기",
+          "인기를 얻고 있으며",
+          "본 궤도에 오르고 있음"
+        ],
+        "newWords": [
+          {
+            "word": "riding high",
+            "meaning": "승승장구하다, 잘나가다",
+            "context": "Singapore Airlines is riding high on the waves of demand"
+          },
+          {
+            "word": "belle of the ball",
+            "meaning": "최고의 인기, 주목받는 존재",
+            "context": "Seattle routes becoming the belle of the ball"
+          },
+          {
+            "word": "gaining traction",
+            "meaning": "인기를 얻다, 지지를 얻다",
+            "context": "Georgia is rapidly gaining traction as a prime winter destination"
+          }
+        ]
+      },
       {
         "sentences": [
           "With the ETIAS system adding a layer of complexity, many travelers are **nipping potential delays in the bud** by booking their holidays far in advance.",
