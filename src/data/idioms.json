@@ -7087,6 +7087,39 @@
     "비즈니스 (Business)": [
       {
         "sentences": [
+          "The rapid expansion of generative AI, while promising a significant boost to global GDP, is proving to be a double-edged sword as concerns about its energy footprint and regulatory oversight come to the forefront.",
+          "Consequently, major tech firms are walking a tightrope, balancing ambitious infrastructure investments with the intricate geopolitical landscape and impending EU data sovereignty rules."
+        ],
+        "sentenceTranslations": [
+          "생성형 AI의 급속한 확장은 글로벌 GDP에 상당한 성장을 약속하면서도, 에너지 발자국과 규제 감독에 대한 우려가 전면에 부상하면서 양날의 검으로 판명되고 있습니다.",
+          "결과적으로, 주요 기술 기업들은 야심찬 인프라 투자와 복잡한 지정학적 환경, 그리고 임박한 EU 데이터 주권 규정 사이에서 외줄타기를 하고 있습니다."
+        ],
+        "translationHighlights": [
+          "양날의 검",
+          "전면에 부상하면서",
+          "외줄타기",
+          "임박한"
+        ],
+        "newWords": [
+          {
+            "word": "double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가진 상황)",
+            "context": "is proving to be a double-edged sword"
+          },
+          {
+            "word": "come to the forefront",
+            "meaning": "전면에 부상하다, 중요하게 떠오르다",
+            "context": "regulatory oversight come to the forefront"
+          },
+          {
+            "word": "walking a tightrope",
+            "meaning": "외줄타기를 하다, 매우 어려운 상황에서 균형을 잡다",
+            "context": "major tech firms are walking a tightrope"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "OpenAI's \"Atlas\" model has transformed generative AI into the **golden goose** of the tech sector, sparking intense investor enthusiasm and M&A activity.",
           "This fierce competition means companies like Microsoft are scrambling to **stay ahead of the curve** by acquiring promising startups such as Synergy AI."
         ],
@@ -14344,6 +14377,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The post-Paris 2024 Olympics tourism boom, while undoubtedly bringing an economic boost, is proving to be a double-edged sword for Europe's cherished heritage sites, as UNESCO raises the alarm about their potential degradation.",
+          "This leaves authorities at a crossroads, needing to strike a delicate balance to avoid killing the goose that lays the golden eggs while also adapting management strategies."
+        ],
+        "sentenceTranslations": [
+          "2024년 파리 올림픽 이후의 관광 특수는 분명 경제적 활력을 불어넣었지만, 유네스코가 유적지 훼손 가능성에 대해 경고하면서 유럽의 소중한 문화유산에는 양날의 검이 되고 있습니다.",
+          "이로 인해 당국은 황금알을 낳는 거위를 죽이지 않으면서도 관리 전략을 조정해야 하는 중요한 기로에 서게 되었습니다."
+        ],
+        "translationHighlights": [
+          "양날의 검이 되고 있습니다",
+          "중요한 기로에 서게 되었습니다",
+          "황금알을 낳는 거위를 죽이지 않으면서도"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (좋은 점과 나쁜 점을 동시에 가지고 있는 상황)",
+            "context": "is proving to be a double-edged sword for Europe's cherished heritage sites"
+          },
+          {
+            "word": "at a crossroads",
+            "meaning": "중요한 기로에 서다 (중요한 결정을 내려야 하는 시점이나 상황에 처하다)",
+            "context": "This leaves authorities at a crossroads"
+          },
+          {
+            "word": "kill the goose that lays the golden eggs",
+            "meaning": "황금알을 낳는 거위를 죽이다 (단기적인 이익이나 욕심 때문에 장기적으로 귀중한 자원이나 이익의 원천을 파괴하다)",
+            "context": "to avoid killing the goose that lays the golden eggs"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "As peak travel season looms, Singapore Airlines is riding high on the waves of demand, especially with its Seattle routes becoming the belle of the ball for Business Class travelers.",
           "Simultaneously, Georgia is rapidly gaining traction as a prime winter destination, proving that destinations offering both cultural immersion and efficient entry are truly hitting their stride."
         ],
@@ -21418,6 +21483,40 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The opening of the VCT transfer window has certainly set tongues wagging across the esports community, especially concerning TenZ's rumored move abroad.",
+          "With a potentially plum offer on the table and his stated desire to turn over a new leaf, the ball is now squarely in TenZ's court to make his next big play."
+        ],
+        "sentenceTranslations": [
+          "VCT 이적 시장 개시와 함께 e스포츠 커뮤니티 전반이 시끌벅적해졌는데, 특히 TenZ의 해외 이적설에 대한 소문이 파다합니다.",
+          "잠재적으로 매우 좋은 제안이 나와 있고 그가 새로운 시작을 원하는 만큼, 이제 다음 큰 행보를 결정할 차례는 전적으로 TenZ에게 달려 있습니다."
+        ],
+        "translationHighlights": [
+          "시끌벅적해졌는데",
+          "소문이 파다합니다",
+          "매우 좋은 제안",
+          "새로운 시작을 원하는",
+          "결정할 차례는 전적으로"
+        ],
+        "newWords": [
+          {
+            "word": "set tongues wagging",
+            "meaning": "사람들 입에 오르내리다, 소문을 퍼뜨리다 (화제가 되어 사람들이 많이 이야기하게 만들다)",
+            "context": "set tongues wagging across the esports community"
+          },
+          {
+            "word": "plum offer",
+            "meaning": "매우 매력적인/탐나는 제안 (특히 높은 보수나 좋은 조건이 따르는)",
+            "context": "a potentially plum offer"
+          },
+          {
+            "word": "the ball is in someone's court",
+            "meaning": "결정권/다음 행동의 주도권이 ~에게 있다 (이제 ~가 결정하거나 행동할 차례이다)",
+            "context": "the ball is now squarely in TenZ's court"
+          }
+        ]
+      },
       {
         "sentences": [
           "The Eagles, with Jalen Hurts' \"playoff game\" mindset, are clearly preparing to **leave it all on the field** in their critical matchup against the Commanders.",
