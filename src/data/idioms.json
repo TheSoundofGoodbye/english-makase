@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Many Gen Z investors are quick to take the plunge into AI-powered finance, but addressing algorithmic bias and data privacy protocols is clearly the elephant in the room for major fintech platforms.",
+          "Unless companies like FinSenseAI shed more light on their decision frameworks, maintaining consumer trust in this evolving market will continue to feel like walking a tightrope."
+        ],
+        "sentenceTranslations": [
+          "많은 Z세대 투자자들이 AI 기반 금융에 빠르게 뛰어들고 있지만, 알고리즘 편향과 데이터 프라이버시 프로토콜 문제를 해결하는 것은 주요 핀테크 플랫폼에 있어 명백히 간과할 수 없는 문제입니다.",
+          "FinSenseAI와 같은 기업들이 AI 의사결정 방식에 대해 더 명확히 밝히지 않는 한, 이 변화하는 시장에서 소비자의 신뢰를 유지하는 것은 계속해서 살얼음판을 걷는 것과 같을 것입니다."
+        ],
+        "translationHighlights": [
+          "빠르게 뛰어들고 있지만",
+          "명백히 간과할 수 없는 문제입니다",
+          "더 명확히 밝히지 않는 한",
+          "살얼음판을 걷는 것과 같을 것입니다"
+        ],
+        "newWords": [
+          {
+            "word": "take the plunge",
+            "meaning": "신중하게 고려한 후 어려운 일이나 중요한 일을 최종적으로 결정하고 시작하다, 과감히 뛰어들다",
+            "context": "quick to take the plunge into AI-powered finance"
+          },
+          {
+            "word": "the elephant in the room",
+            "meaning": "모두가 알고 있지만 불편하거나 민감해서 아무도 언급하려 하지 않는 명백한 문제",
+            "context": "clearly the elephant in the room for major fintech platforms"
+          },
+          {
+            "word": "walking a tightrope",
+            "meaning": "아주 조심하지 않으면 실수하거나 나쁜 결과를 초래할 수 있는 위험하고 섬세한 상황에 처하다, 살얼음판을 걷다",
+            "context": "will continue to feel like walking a tightrope"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The increasing global concerns about the \"Silver Tsunami\" mean national health systems are starting to strain at the seams, with the writing clearly on the wall for future healthcare challenges.",
           "In response, many are proactively putting their ducks in a row by embracing digital health platforms and beefing up health savings to get ahead of the curve."
         ],
@@ -7085,6 +7118,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "OpenAI's 'Chameleon' is set to raise the bar for enterprise software, compelling competitors to rethink their entire strategy.",
+          "Against a backdrop of mounting growth concerns and looming trade talks, businesses need to keep their ear to the ground for shifting market dynamics."
+        ],
+        "sentenceTranslations": [
+          "오픈AI의 '카멜레온'은 기업용 소프트웨어의 기준을 한층 높일 것이며, 경쟁사들이 전체 전략을 재고하도록 강제하고 있습니다.",
+          "성장 우려가 커지고 무역 협상이 임박한 상황에서, 기업들은 변화하는 시장 역학을 예의주시해야 합니다."
+        ],
+        "translationHighlights": [
+          "기준을 한층 높일 것",
+          "전략을 재고하도록 강제하고 있습니다",
+          "성장 우려가 커지고",
+          "예의주시해야 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "raise the bar",
+            "meaning": "기준을 높이다, 수준을 향상시키다",
+            "context": "set to raise the bar for enterprise software"
+          },
+          {
+            "word": "keep one's ear to the ground",
+            "meaning": "동향을 살피다, 정보를 수집하다, 예의주시하다",
+            "context": "need to keep their ear to the ground for shifting market dynamics"
+          }
+        ]
+      },
       {
         "sentences": [
           "The rapid expansion of generative AI, while promising a significant boost to global GDP, is proving to be a double-edged sword as concerns about its energy footprint and regulatory oversight come to the forefront.",
@@ -14377,6 +14438,34 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "Qatar Airways is certainly striking while the iron is hot by launching new direct routes to AlUla, capitalizing on Saudi Arabia's expanded e-visa program and the region's rising popularity.",
+          "As AlUla's profile continues to be on the up and up, these flights offer a golden opportunity for travelers seeking unique cultural immersion to discover its ancient heritage."
+        ],
+        "sentenceTranslations": [
+          "카타르항공은 사우디아라비아의 확대된 전자 비자 프로그램과 알울라 지역의 높아지는 인기를 기회 삼아, 새로운 직항 노선을 출시하며 확실히 때를 놓치지 않고 기회를 잡고 있습니다.",
+          "알울라의 위상이 계속해서 상승세에 있는 만큼, 이 항공편들은 특별한 문화 체험을 원하는 여행객들에게 그곳의 고대 유산을 발견할 절호의 기회를 제공합니다."
+        ],
+        "translationHighlights": [
+          "때를 놓치지 않고 기회를 잡고 있습니다",
+          "높아지는 인기를 기회 삼아",
+          "상승세에 있는",
+          "절호의 기회"
+        ],
+        "newWords": [
+          {
+            "word": "strike while the iron is hot",
+            "meaning": "때를 놓치지 않고 기회를 잡다, 호기를 놓치지 않다",
+            "context": "Qatar Airways is certainly **striking while the iron is hot**..."
+          },
+          {
+            "word": "on the up and up",
+            "meaning": "점점 더 좋아지는, 상승세인, 발전하는",
+            "context": "As AlUla's profile continues to be **on the up and up**..."
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The post-Paris 2024 Olympics tourism boom, while undoubtedly bringing an economic boost, is proving to be a double-edged sword for Europe's cherished heritage sites, as UNESCO raises the alarm about their potential degradation.",
           "This leaves authorities at a crossroads, needing to strike a delicate balance to avoid killing the goose that lays the golden eggs while also adapting management strategies."
         ],
@@ -21483,6 +21572,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "The surprise announcement that \"Ascendant Echoes\" would drop exclusively on Xbox Game Pass really dropped a bombshell, immediately leveling the playing field for countless aspiring esports talents.",
+          "This dramatically lowered barrier to entry has esports organizations hoping to strike gold among the unprecedented pool of new players."
+        ],
+        "sentenceTranslations": [
+          "\"Ascendant Echoes\"가 Xbox Game Pass 독점으로 출시된다는 깜짝 발표는 정말 엄청난 충격(폭탄 선언)이었고, 수많은 e스포츠 유망주들에게 즉시 공정한 기회를 제공했습니다.",
+          "이렇게 진입 장벽이 극적으로 낮아지자, e스포츠 단체들은 전례 없는 새로운 선수층 속에서 대박을 터뜨리기를 바라고 있습니다."
+        ],
+        "translationHighlights": [
+          "엄청난 충격(폭탄 선언)",
+          "공정한 기회를 제공했습니다",
+          "대박을 터뜨리기를 바라고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "drop a bombshell",
+            "meaning": "엄청난 충격을 주다, 폭탄 선언을 하다",
+            "context": "really dropped a bombshell"
+          },
+          {
+            "word": "level the playing field",
+            "meaning": "모두에게 동등한 기회를 제공하다, 공정한 경쟁 환경을 조성하다",
+            "context": "leveling the playing field"
+          },
+          {
+            "word": "strike gold",
+            "meaning": "대박을 터뜨리다, 귀한 것을 발견하다",
+            "context": "hoping to strike gold"
+          }
+        ]
+      },
       {
         "sentences": [
           "The opening of the VCT transfer window has certainly set tongues wagging across the esports community, especially concerning TenZ's rumored move abroad.",
