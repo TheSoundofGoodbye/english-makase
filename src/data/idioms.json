@@ -3,6 +3,34 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "While generative AI promises unprecedented efficiency, it's proving to be a double-edged sword, blurring work-life boundaries and subtly coercing us into an always-on culture.",
+          "To combat this constant pressure and truly thrive, individuals must learn to draw a line in the sand, establishing dedicated AI-free zones to reclaim their mental space."
+        ],
+        "sentenceTranslations": [
+          "생성형 AI는 전례 없는 효율성을 약속하지만, 일과 삶의 경계를 모호하게 하고 우리를 항상 연결된 문화로 은근히 몰아넣으면서 양날의 검으로 작용하고 있습니다.",
+          "이러한 끊임없는 압박에 맞서 진정으로 번성하기 위해서는, 개개인이 명확한 선을 그어 AI 없는 공간을 마련하고 자신만의 정신적 여유를 되찾아야 합니다."
+        ],
+        "translationHighlights": [
+          "양날의 검",
+          "경계를 모호하게 하고",
+          "명확한 선을 그어",
+          "정신적 여유를 되찾아야"
+        ],
+        "newWords": [
+          {
+            "word": "a double-edged sword",
+            "meaning": "양날의 검 (이점과 단점을 동시에 지닌 것)",
+            "context": "it's proving to be a double-edged sword"
+          },
+          {
+            "word": "draw a line in the sand",
+            "meaning": "더 이상 물러서지 않을 선을 긋다, 단호한 태도를 취하다",
+            "context": "learn to draw a line in the sand"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Many Gen Z investors are quick to take the plunge into AI-powered finance, but addressing algorithmic bias and data privacy protocols is clearly the elephant in the room for major fintech platforms.",
           "Unless companies like FinSenseAI shed more light on their decision frameworks, maintaining consumer trust in this evolving market will continue to feel like walking a tightrope."
         ],
@@ -7118,6 +7146,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "The S&P 500's dip and Goldman Sachs' grim forecast suggest companies will have to *batten down the hatches* as high energy costs threaten to *eat into* their profit margins next year.",
+          "Against this backdrop of economic headwinds, Meta Platforms is *going for broke* with its new Horizon AI Assistant, aiming to *level the playing field* in the corporate productivity market currently dominated by Microsoft."
+        ],
+        "sentenceTranslations": [
+          "S&P 500 지수의 하락과 골드만삭스의 암울한 전망은, 고유가로 인해 내년 기업 이윤이 잠식될 위험이 있는 만큼 기업들이 만반의 대비를 해야 할 것임을 시사합니다.",
+          "이러한 경제적 역풍 속에서도 메타 플랫폼스는 새로운 'Horizon AI Assistant'를 통해 모든 것을 걸고 도전하며, 현재 마이크로소프트가 장악한 기업 생산성 시장에서 공정한 경쟁 환경을 만들고자 합니다."
+        ],
+        "translationHighlights": [
+          "만반의 대비를 해야 할 것임을 시사합니다",
+          "이윤이 잠식될 위험이 있는 만큼",
+          "모든 것을 걸고 도전하며",
+          "공정한 경쟁 환경을 만들고자 합니다"
+        ],
+        "newWords": [
+          {
+            "word": "batten down the hatches",
+            "meaning": "만반의 대비를 하다, 폭풍우에 대비하다",
+            "context": "companies will have to *batten down the hatches*"
+          },
+          {
+            "word": "eat into",
+            "meaning": "~을 깎아 먹다, 잠식하다",
+            "context": "threaten to *eat into* their profit margins"
+          },
+          {
+            "word": "level the playing field",
+            "meaning": "공정한 경쟁 환경을 만들다, 경쟁의 장을 평등하게 하다",
+            "context": "aiming to *level the playing field*"
+          }
+        ]
+      },
       {
         "sentences": [
           "OpenAI's 'Chameleon' is set to raise the bar for enterprise software, compelling competitors to rethink their entire strategy.",
@@ -14438,6 +14499,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "The EU's new ETIAS requirement is proving to be a bit of a curveball for those who typically play it by ear when planning last-minute European vacations.",
+          "This shift, however, also puts emerging destinations like Saudi Arabia on the cusp of becoming major players in the luxury travel market, offering a refreshing alternative to traditional hotspots."
+        ],
+        "sentenceTranslations": [
+          "EU의 새로운 ETIAS 요건은 막판에 유럽 휴가를 즉흥적으로 계획하곤 하던 사람들에게 예상치 못한 변수로 작용하고 있습니다.",
+          "하지만 이러한 변화는 또한 사우디아라비아와 같은 신흥 여행지들을 럭셔리 여행 시장의 주요 주자로 부상시킬 기회로 만들고 있으며, 기존의 인기 있는 곳들에 대한 신선한 대안을 제공합니다."
+        ],
+        "translationHighlights": [
+          "예상치 못한 변수",
+          "즉흥적으로 계획하곤 하던",
+          "~의 주요 주자로 부상시킬 기회로 만들고 있으며",
+          "신선한 대안을 제공합니다"
+        ],
+        "newWords": [
+          {
+            "word": "a bit of a curveball",
+            "meaning": "예상치 못한 변수/어려움",
+            "context": "to be a bit of a curveball for those"
+          },
+          {
+            "word": "play it by ear",
+            "meaning": "상황에 따라 즉흥적으로 처리하다",
+            "context": "play it by ear when planning"
+          },
+          {
+            "word": "on the cusp of",
+            "meaning": "막 ~하려는 시점에 있는",
+            "context": "on the cusp of becoming major players"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Qatar Airways is certainly striking while the iron is hot by launching new direct routes to AlUla, capitalizing on Saudi Arabia's expanded e-visa program and the region's rising popularity.",
           "As AlUla's profile continues to be on the up and up, these flights offer a golden opportunity for travelers seeking unique cultural immersion to discover its ancient heritage."
         ],
@@ -21572,6 +21666,39 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "After months of the 2026 Commonwealth Games host city hanging in the balance, the Commonwealth Games Federation is clearly eager to get the show on the road with Kuala Lumpur as the frontrunner.",
+          "Meanwhile, athletes like Katarina Johnson-Thompson are undoubtedly champing at the bit to solidify their training plans once a definitive location is finally declared."
+        ],
+        "sentenceTranslations": [
+          "2026년 커먼웰스 게임 개최지가 수개월간 불확실한 상태에 있었던 끝에, 이제 쿠알라룸푸르가 유력한 후보로 떠오르면서 커먼웰스 게임 연맹은 마침내 이 계획을 시작하기를 분명히 바라고 있습니다.",
+          "한편, 카타리나 존슨-톰슨 같은 선수들은 최종 개최지가 확정되면 훈련 계획을 구체화하기 위해 몹시 안달하고 있습니다."
+        ],
+        "translationHighlights": [
+          "불확실한 상태에 있었던 끝에",
+          "이 계획을 시작하기를",
+          "몹시 안달하고 있습니다",
+          "훈련 계획을 구체화하기 위해"
+        ],
+        "newWords": [
+          {
+            "word": "hanging in the balance",
+            "meaning": "불확실한 상태에 있다, 결정되지 않은",
+            "context": "host city hanging in the balance"
+          },
+          {
+            "word": "get the show on the road",
+            "meaning": "계획/일을 시작하다, 실행에 옮기다",
+            "context": "eager to get the show on the road"
+          },
+          {
+            "word": "champing at the bit",
+            "meaning": "몹시 안달하다, ~하고 싶어 근질거리다",
+            "context": "champing at the bit to solidify their training plans"
+          }
+        ]
+      },
       {
         "sentences": [
           "The surprise announcement that \"Ascendant Echoes\" would drop exclusively on Xbox Game Pass really dropped a bombshell, immediately leveling the playing field for countless aspiring esports talents.",
