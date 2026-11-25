@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "Given the urgent need for AI fluency, many professionals are realizing the writing is on the wall and are eager to get ahead of the curve by enrolling in specialized courses.",
+          "For those aiming to thrive rather than just survive in the evolving job market, it's crucial to get up to speed with these generative AI tools, or they'll quickly find themselves playing catch-up."
+        ],
+        "sentenceTranslations": [
+          "AI 활용 능력의 시급성을 감안할 때, 많은 전문가들이 변화의 흐름을 깨닫고 전문 과정에 등록하여 한발 앞서 나가려고 합니다.",
+          "진화하는 고용 시장에서 단순히 살아남는 것을 넘어 성공하려는 사람들에게는 이러한 생성형 AI 도구에 빠르게 익숙해지는 것이 중요하며, 그렇지 않으면 곧 뒤처져 따라잡으려고 애쓰게 될 것입니다."
+        ],
+        "translationHighlights": [
+          "AI 활용 능력의 시급성",
+          "한발 앞서 나가려고 합니다",
+          "빠르게 익숙해지는 것이 중요하며",
+          "뒤처져 따라잡으려고 애쓰게 될 것입니다"
+        ],
+        "newWords": [
+          {
+            "word": "get ahead of the curve",
+            "meaning": "미리 대비하다, 선두를 달리다",
+            "context": "eager to get ahead of the curve"
+          },
+          {
+            "word": "get up to speed",
+            "meaning": "최신 정보를 파악하다, 능숙해지다",
+            "context": "crucial to get up to speed"
+          },
+          {
+            "word": "playing catch-up",
+            "meaning": "뒤처진 것을 따라잡으려 애쓰다",
+            "context": "find themselves playing catch-up"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "While generative AI promises unprecedented efficiency, it's proving to be a double-edged sword, blurring work-life boundaries and subtly coercing us into an always-on culture.",
           "To combat this constant pressure and truly thrive, individuals must learn to draw a line in the sand, establishing dedicated AI-free zones to reclaim their mental space."
         ],
@@ -7146,6 +7179,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "With Google DeepMind throwing its hat into the ring with 'Gemini Ultra 2.0,' the AI industry is clearly seeing an intensified scramble for market leadership.",
+          "Companies, however, are now navigating choppy waters as they try to capitalize on these advancements while simultaneously bracing for the complex regulatory frameworks ahead."
+        ],
+        "sentenceTranslations": [
+          "구글 딥마인드가 '제미니 울트라 2.0'을 내놓으며 경쟁에 본격적으로 뛰어들면서, AI 산업은 시장 주도권을 향한 치열한 각축전을 벌이고 있습니다.",
+          "하지만 기업들은 이러한 발전을 활용하려 하면서도 동시에 다가오는 복잡한 규제 체계에 대비해야 하므로, 지금은 험난한 시기를 헤쳐나가고 있습니다."
+        ],
+        "translationHighlights": [
+          "경쟁에 본격적으로 뛰어들면서",
+          "치열한 각축전",
+          "험난한 시기를 헤쳐나가고 있습니다",
+          "복잡한 규제 체계에 대비해야 하므로"
+        ],
+        "newWords": [
+          {
+            "word": "throwing its hat into the ring",
+            "meaning": "경쟁에 참여를 선언하다; 본격적으로 뛰어들다",
+            "context": "Google DeepMind throwing its hat into the ring with 'Gemini Ultra 2.0'"
+          },
+          {
+            "word": "navigating choppy waters",
+            "meaning": "험난한 상황을 헤쳐나가다; 어려운 시기를 통과하다",
+            "context": "companies are now navigating choppy waters"
+          },
+          {
+            "word": "bracing for",
+            "meaning": "~에 대비하다; ~에 단단히 준비하다",
+            "context": "simultaneously bracing for the complex regulatory frameworks"
+          }
+        ]
+      },
       {
         "sentences": [
           "The S&P 500's dip and Goldman Sachs' grim forecast suggest companies will have to *batten down the hatches* as high energy costs threaten to *eat into* their profit margins next year.",
@@ -14499,6 +14565,38 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "With global tourism truly hitting its stride again, airlines like Delta are navigating record passenger volumes, particularly on international routes, signaling a robust rebound.",
+          "Yet, this strong comeback also presents growing pains like labor shortages, pushing destinations like Japan to stem the tide of over-tourism by expanding e-visa eligibility and diversifying visitor bases."
+        ],
+        "sentenceTranslations": [
+          "전 세계 관광 산업이 다시금 본 궤도에 오르면서, 델타항공과 같은 항공사들은 특히 국제선에서 기록적인 승객 수를 처리하며 강력한 회복세를 보이고 있습니다.",
+          "하지만, 이러한 강력한 회복은 인력 부족과 같은 성장통 또한 야기하고 있으며, 일본과 같은 여행지들은 전자 비자 자격 확대를 통해 방문객 기반을 다각화함으로써 과잉 관광의 흐름을 막으려 노력하고 있습니다."
+        ],
+        "translationHighlights": [
+          "본 궤도에 오르면서",
+          "성장통",
+          "흐름을 막으려"
+        ],
+        "newWords": [
+          {
+            "word": "hitting its stride",
+            "meaning": "본 궤도에 오르다, 순조롭게 진행되다",
+            "context": "global tourism truly hitting its stride again"
+          },
+          {
+            "word": "growing pains",
+            "meaning": "성장통, 발전 과정에서 겪는 어려움",
+            "context": "presents growing pains like labor shortages"
+          },
+          {
+            "word": "stem the tide",
+            "meaning": "(나쁜 것의 증가나 확산을) 막다, 저지하다",
+            "context": "destinations like Japan to stem the tide of over-tourism"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "The EU's new ETIAS requirement is proving to be a bit of a curveball for those who typically play it by ear when planning last-minute European vacations.",
           "This shift, however, also puts emerging destinations like Saudi Arabia on the cusp of becoming major players in the luxury travel market, offering a refreshing alternative to traditional hotspots."
         ],
@@ -21666,6 +21764,38 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Riot Games is truly raising the stakes by significantly expanding Valorant's competitive circuit, aiming to consolidate its position in the rapidly evolving esports landscape.",
+          "Concurrently, the outdoor recreation industry is cashing in on the winter adventure craze, as cold-weather camping sales show the trend has truly taken off with the public."
+        ],
+        "sentenceTranslations": [
+          "라이엇 게임즈는 발로란트 경쟁 서킷을 대폭 확장하며 판돈을 올리고 있으며, 급변하는 e스포츠 지형에서 자사의 입지를 공고히 하려 합니다.",
+          "동시에, 아웃도어 레크리에이션 업계는 겨울 모험 열풍으로 큰 이득을 보고 있으며, 방한 캠핑 장비 판매량은 이 트렌드가 대중적으로 큰 인기를 얻기 시작했음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "판돈을 올리고",
+          "큰 이득을 보고",
+          "큰 인기를 얻기 시작했음을"
+        ],
+        "newWords": [
+          {
+            "word": "raising the stakes",
+            "meaning": "위험을 높이다; 중요성, 난이도, 혹은 보상을 증가시키다",
+            "context": "Riot Games is truly raising the stakes by significantly expanding Valorant's competitive circuit..."
+          },
+          {
+            "word": "cashing in",
+            "meaning": "기회를 이용하여 돈을 벌다; 특정 상황에서 이득을 취하다",
+            "context": "the outdoor recreation industry is cashing in on the winter adventure craze..."
+          },
+          {
+            "word": "taken off",
+            "meaning": "갑자기 성공하다; 인기를 얻다; 급성장하다",
+            "context": "the trend has truly taken off with the public."
+          }
+        ]
+      },
       {
         "sentences": [
           "After months of the 2026 Commonwealth Games host city hanging in the balance, the Commonwealth Games Federation is clearly eager to get the show on the road with Kuala Lumpur as the frontrunner.",
