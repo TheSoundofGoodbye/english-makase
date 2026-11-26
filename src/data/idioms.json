@@ -3,6 +3,38 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The personalized mental health companions offered by companies like MindFlow AI are truly catching on like wildfire, especially among young adults seeking accessible support.",
+          "This shift is a game changer, as these digital tools effectively level the playing field for individuals who might otherwise struggle to access crucial emotional support."
+        ],
+        "sentenceTranslations": [
+          "MindFlow AI 같은 회사들이 제공하는 맞춤형 정신 건강 동반자들이, 특히 접근 가능한 지원을 찾는 젊은 성인들 사이에서 정말 빠르게 인기를 얻고 있습니다.",
+          "이러한 변화는 판도를 바꾸는 혁신입니다. 왜냐하면 이러한 디지털 도구들이 중요한 정서적 지원에 접근하기 어려웠던 사람들에게 효과적으로 공평한 기회를 제공하기 때문입니다."
+        ],
+        "translationHighlights": [
+          "빠르게 인기를 얻고 있습니다",
+          "판도를 바꾸는 혁신",
+          "공평한 기회를 제공하기 때문입니다"
+        ],
+        "newWords": [
+          {
+            "word": "catching on like wildfire",
+            "meaning": "들불처럼 빠르게 퍼지다, 급속히 유행하다",
+            "context": "are truly catching on like wildfire"
+          },
+          {
+            "word": "a game changer",
+            "meaning": "판도를 바꾸는 것, 혁신적인 것",
+            "context": "This shift is a game changer"
+          },
+          {
+            "word": "level the playing field",
+            "meaning": "모두에게 공평한 기회를 제공하다",
+            "context": "effectively level the playing field"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "Given the urgent need for AI fluency, many professionals are realizing the writing is on the wall and are eager to get ahead of the curve by enrolling in specialized courses.",
           "For those aiming to thrive rather than just survive in the evolving job market, it's crucial to get up to speed with these generative AI tools, or they'll quickly find themselves playing catch-up."
         ],
@@ -7179,6 +7211,39 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "TSMC's 2nm breakthrough truly allows them to steal a march on rivals, setting a new benchmark crucial for next-generation AI accelerators.",
+          "This dog-eat-dog semiconductor race is prompting the EU to stake a claim for self-sufficiency with substantial domestic fab expansion plans."
+        ],
+        "sentenceTranslations": [
+          "TSMC의 2nm 공정 기술 돌파는 경쟁사들보다 한발 앞서 나가게 하여, 차세대 AI 가속기 개발에 필수적인 새로운 기준을 제시하고 있습니다.",
+          "이러한 치열한 반도체 경쟁 속에서 유럽연합은 대규모 국내 생산 시설 확장을 통해 자급자족을 위한 입지를 확고히 다지고 있습니다."
+        ],
+        "translationHighlights": [
+          "한발 앞서 나가게 하여",
+          "새로운 기준을 제시하고 있습니다",
+          "치열한 반도체 경쟁",
+          "입지를 확고히 다지고 있습니다"
+        ],
+        "newWords": [
+          {
+            "word": "steal a march on someone",
+            "meaning": "~보다 한발 앞서 나가다, ~보다 먼저 유리한 위치를 차지하다",
+            "context": "truly allows them to steal a march on rivals"
+          },
+          {
+            "word": "dog-eat-dog",
+            "meaning": "경쟁이 매우 치열한, 약육강식의",
+            "context": "This dog-eat-dog semiconductor race"
+          },
+          {
+            "word": "stake a claim",
+            "meaning": "권리/소유권을 주장하다, 입지를 확고히 하다",
+            "context": "to stake a claim for self-sufficiency"
+          }
+        ]
+      },
       {
         "sentences": [
           "With Google DeepMind throwing its hat into the ring with 'Gemini Ultra 2.0,' the AI industry is clearly seeing an intensified scramble for market leadership.",
@@ -14563,6 +14628,38 @@
       }
     ],
     "여행 (Travel)": [
+      {
+        "sentences": [
+          "Qatar Airways is clearly striking while the iron is hot, leveraging the projected surge in global luxury travel with its ambitious 'Doha Gateway 2030' expansion plan.",
+          "This strategic initiative is designed not only to put Doha firmly on the map as a global aviation hub but also to steal a march on rival carriers by targeting underserved markets."
+        ],
+        "sentenceTranslations": [
+          "카타르 항공은 야심찬 '도하 게이트웨이 2030' 확장 계획으로 전 세계 럭셔리 여행의 예상 급증을 활용하며, 분명히 기회를 놓치지 않고 있습니다.",
+          "이러한 전략적 이니셔티브는 도하를 글로벌 항공 허브로서 확고히 자리매김하게 할 뿐만 아니라, 미개척 시장을 공략하여 경쟁 항공사들을 앞질러 나아가기 위함입니다."
+        ],
+        "translationHighlights": [
+          "기회를 놓치지 않고 있습니다",
+          "확고히 자리매김하게 할 뿐만 아니라",
+          "앞질러 나아가기 위함"
+        ],
+        "newWords": [
+          {
+            "word": "striking while the iron is hot",
+            "meaning": "기회를 놓치지 않고 바로 행동하다",
+            "context": "Qatar Airways is clearly striking while the iron is hot..."
+          },
+          {
+            "word": "put something on the map",
+            "meaning": "~을 유명하게 만들다, 중요한 위치에 올려놓다",
+            "context": "to put Doha firmly on the map as a global aviation hub"
+          },
+          {
+            "word": "steal a march on someone",
+            "meaning": "남보다 한 발 앞서다, ~보다 유리한 고지를 점하다",
+            "context": "to steal a march on rival carriers"
+          }
+        ]
+      },
       {
         "sentences": [
           "With global tourism truly hitting its stride again, airlines like Delta are navigating record passenger volumes, particularly on international routes, signaling a robust rebound.",
