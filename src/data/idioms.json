@@ -3,6 +3,39 @@
     "일상 (Daily Life)": [
       {
         "sentences": [
+          "The Oxford Internet Institute's study clearly shows that constantly sifting through increasingly AI-generated content on social media is beginning to take its toll on Gen Z, leaving many feeling like they're running on fumes.",
+          "To combat this, the Digital Wellbeing Collective believes clearer AI disclosure labels are crucial to help users separate the wheat from the chaff and prevent their self-perception from being completely thrown for a loop."
+        ],
+        "sentenceTranslations": [
+          "옥스퍼드 인터넷 연구소의 연구는 소셜 미디어에서 점점 더 많아지는 AI 생성 콘텐츠를 끊임없이 걸러내는 것이 Z세대에게 정말 부담을 주기 시작하여, 많은 이들이 마치 연료가 바닥난 것처럼 지쳐있음을 명확히 보여줍니다.",
+          "이를 해결하기 위해, 디지털 웰빙 연합은 더 명확한 AI 공개 라벨이 사용자들이 옥석을 가리고 자아 인식이 완전히 혼란스러워지는 것을 막는 데 결정적이라고 믿습니다."
+        ],
+        "translationHighlights": [
+          "부담을 주기 시작하여",
+          "연료가 바닥난 것처럼",
+          "옥석을 가리고",
+          "완전히 혼란스러워지는"
+        ],
+        "newWords": [
+          {
+            "word": "take its toll",
+            "meaning": "(점차적으로) 부담을 주다, 해를 끼치다",
+            "context": "beginning to take its toll on Gen Z"
+          },
+          {
+            "word": "running on fumes",
+            "meaning": "(에너지가 바닥나) 간신히 버티는, 기진맥진한",
+            "context": "feeling like they're running on fumes"
+          },
+          {
+            "word": "separate the wheat from the chaff",
+            "meaning": "(좋은 것과 나쁜 것을) 가려내다, 옥석을 가리다",
+            "context": "help users separate the wheat from the chaff"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "This Black Friday, AI wellness apps are helping hybrid workers not just manage, but actually nip holiday stress in the bud before it takes hold, transforming reactive self-care into a proactive strategy.",
           "By leveraging data-driven insights for mood tracking and productivity, these tools empower users to stay ahead of the curve in their well-being, rather than constantly playing catch-up."
         ],
@@ -7244,6 +7277,34 @@
       }
     ],
     "비즈니스 (Business)": [
+      {
+        "sentences": [
+          "Amidst renewed inflation fears and mixed data, investors are rightly trying to **read the tea leaves** to predict the Fed's next move, leading to a cautious market.",
+          "Meanwhile, TSMC's imperative to diversify its manufacturing footprint shows how geopolitical tensions can force companies to **batten down the hatches** and secure their supply chains against future shocks."
+        ],
+        "sentenceTranslations": [
+          "다시 불거진 인플레이션 우려와 엇갈린 데이터 속에서, 투자자들은 연준의 다음 행보를 예측하기 위해 **징후들을 면밀히 주시하고 있으며**, 이는 시장의 신중한 분위기로 이어지고 있습니다.",
+          "한편, TSMC가 제조 거점을 다변화해야 한다는 절박함은 지정학적 긴장이 기업들로 하여금 **만일의 사태에 대비하고** 미래의 충격에 맞서 공급망을 확보하도록 어떻게 강제하는지 보여줍니다."
+        ],
+        "translationHighlights": [
+          "징후들을 면밀히 주시하고",
+          "만일의 사태에 대비하고",
+          "절박함",
+          "지정학적 긴장"
+        ],
+        "newWords": [
+          {
+            "word": "read the tea leaves",
+            "meaning": "미래를 예측하기 위해 현재의 징후나 단서를 해석하다",
+            "context": "investors are rightly trying to **read the tea leaves**"
+          },
+          {
+            "word": "batten down the hatches",
+            "meaning": "위험이나 어려움에 대비하여 단단히 준비하다",
+            "context": "force companies to **batten down the hatches**"
+          }
+        ]
+      },
       {
         "sentences": [
           "Google DeepMind’s Gemini Ultra 2.5, with its claimed efficiency improvements, is expected to move the needle for large-scale enterprise AI deployments, putting NVIDIA and Microsoft firmly in the spotlight.",
@@ -14696,6 +14757,39 @@
     "여행 (Travel)": [
       {
         "sentences": [
+          "As destinations like Costa Rica are truly riding the crest of a wave in sustainable tourism, Lufthansa Group's accelerated commitment to SAF demonstrates they are serious about putting their money where their mouth is.",
+          "Meanwhile, while ETIAS aims for smooth sailing in streamlining entry, the uptick in first-time user inquiries shows there are still some kinks to iron out for global travelers."
+        ],
+        "sentenceTranslations": [
+          "코스타리카와 같은 목적지들이 지속 가능한 관광 분야에서 진정으로 절정기를 맞고 있는 가운데, 루프트한자 그룹의 SAF 가속화된 추진은 그들이 말뿐이 아닌 실천을 통해 진정성을 보여주고 있음을 입증합니다.",
+          "한편, ETIAS가 입국 절차를 순조롭게 진행하려 함에도 불구하고, 첫 사용자 문의 증가세는 전 세계 여행객들을 위해 아직 해결해야 할 문제점들이 남아 있음을 보여줍니다."
+        ],
+        "translationHighlights": [
+          "절정기를 맞고 있는",
+          "말뿐이 아닌 실천을 통해",
+          "순조롭게 진행하려 함에도 불구하고",
+          "해결해야 할 문제점들"
+        ],
+        "newWords": [
+          {
+            "word": "riding the crest of a wave",
+            "meaning": "절정기를 맞다, 최고의 성공을 경험하다",
+            "context": "destinations like Costa Rica are truly riding the crest of a wave in sustainable tourism"
+          },
+          {
+            "word": "putting their money where their mouth is",
+            "meaning": "말뿐이 아닌 실천으로 보여주다, 약속을 지키기 위해 실제 행동을 취하다",
+            "context": "demonstrates they are serious about putting their money where their mouth is"
+          },
+          {
+            "word": "kinks to iron out",
+            "meaning": "해결해야 할 문제점들, (작은) 장애물들을 제거하다",
+            "context": "there are still some kinks to iron out for global travelers"
+          }
+        ]
+      },
+      {
+        "sentences": [
           "With the interest in immersive cultural experiences **going off the beaten path**, particularly in destinations like Vietnam's Phong Nha-Ke Bang National Park, it's clear the eco-tourism sector is truly **hitting its stride**.",
           "While major airlines are **grappling with** the complexities of increased flight frequencies and rising SAF costs, the **unified e-visa platform on the horizon** is expected to further fuel multi-country itineraries."
         ],
@@ -21960,6 +22054,34 @@
       }
     ],
     "스포츠 및 취미 (Sports & Hobbies)": [
+      {
+        "sentences": [
+          "Following their dominant Thanksgiving Day victory, the Buffalo Bills are truly *riding high*, showcasing their unwavering focus and skill.",
+          "Meanwhile, independent board game publishers are also *hitting their stride*, with new release pre-orders surging by 25% this Black Friday weekend."
+        ],
+        "sentenceTranslations": [
+          "추수감사절 압도적인 승리 이후, 버팔로 빌스는 흔들림 없는 집중력과 기술을 보여주며 정말 *승승장구하고* 있습니다.",
+          "한편, 독립 보드게임 출판사들 역시 *최고의 기량을 발휘하고* 있는데, 이번 블랙 프라이데이 주말 신작 사전 주문이 25% 급증했습니다."
+        ],
+        "translationHighlights": [
+          "승승장구하고",
+          "최고의 기량을 발휘하고",
+          "압도적인 승리",
+          "사전 주문이 급증했습니다"
+        ],
+        "newWords": [
+          {
+            "word": "riding high",
+            "meaning": "승승장구하다, 성공가도를 달리다",
+            "context": "the Buffalo Bills are truly riding high"
+          },
+          {
+            "word": "hitting their stride",
+            "meaning": "순조롭게 진행되다, 최고의 기량을 발휘하다",
+            "context": "board game publishers are also hitting their stride"
+          }
+        ]
+      },
       {
         "sentences": [
           "The rookie quarterback's sensational performance, leading the Commanders to a dramatic upset, truly threw a wrench in the works for the NFC East title race.",
